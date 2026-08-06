@@ -159,14 +159,16 @@ function updateData() {
             if (matchedFood) {
               const id = matchedFood.id;
               if (!diseaseInfoMap[id] && obj.healthBenefits && obj.scientificEvidence) {
-                diseaseInfoMap[id] = [
-                  {
-                    "disease": "Lợi ích sức khỏe tổng hợp",
-                    "effect": obj.healthBenefits.join("; "),
-                    "evidence_level": "Nghiên cứu khoa học",
-                    "explanation": obj.scientificEvidence
-                  }
-                ];
+                const legacyEntry = {
+                  "disease": "Lợi ích sức khỏe tổng hợp",
+                  "effect": obj.healthBenefits.join("; "),
+                  "evidence_level": "Nghiên cứu khoa học",
+                  "explanation": obj.scientificEvidence
+                };
+                if (obj.references && obj.references.length > 0) {
+                  legacyEntry.references = obj.references;
+                }
+                diseaseInfoMap[id] = [legacyEntry];
               }
             }
           } catch(e) {}

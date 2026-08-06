@@ -185,6 +185,16 @@ function FoodDetailScreen({ route, navigation }) {
               <Text style={styles.comboReason}><Text style={{ fontWeight: 'bold' }}>Tác dụng:</Text> {dp.effect}</Text>
               <Text style={styles.comboReason}><Text style={{ fontWeight: 'bold' }}>Bằng chứng:</Text> {dp.evidence_level}</Text>
               <Text style={[styles.comboReason, { fontStyle: 'italic', marginTop: 4 }]}>"{dp.explanation}"</Text>
+              {dp.references && dp.references.length > 0 && (
+                <View style={{ marginTop: 4 }}>
+                  <Text style={{ fontWeight: 'bold', fontSize: 13, color: '#555' }}>Nguồn tham khảo:</Text>
+                  {dp.references.map((ref, rIdx) => (
+                    <TouchableOpacity key={rIdx} onPress={() => Linking.openURL(ref)}>
+                      <Text style={{ color: '#2980b9', textDecorationLine: 'underline', fontSize: 13, marginTop: 2 }}>{ref}</Text>
+                    </TouchableOpacity>
+                  ))}
+                </View>
+              )}
             </View>
           ))}
         </SectionCard>
