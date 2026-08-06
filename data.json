@@ -62,9 +62,9 @@
         }
       ],
       "super_tags": [
-        "🍊 Siêu Vitamin C",
         "🩸 Siêu Sắt",
-        "🦴 Siêu Canxi"
+        "🦴 Siêu Canxi",
+        "🍊 Vua Vitamin C & Tăng cường miễn dịch"
       ]
     },
     {
@@ -146,7 +146,10 @@
         }
       ],
       "super_tags": [
-        "🛡️ Đa dụng Phòng bệnh"
+        "🛡️ Đa dụng Phòng bệnh",
+        "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh",
+        "🍊 Vua Vitamin C & Tăng cường miễn dịch",
+        "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất"
       ]
     },
     {
@@ -294,7 +297,8 @@
         }
       ],
       "super_tags": [
-        "🛡️ Đa dụng Phòng bệnh"
+        "🛡️ Đa dụng Phòng bệnh",
+        "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất"
       ]
     },
     {
@@ -804,7 +808,8 @@
         }
       ],
       "super_tags": [
-        "🛡️ Đa dụng Phòng bệnh"
+        "🛡️ Đa dụng Phòng bệnh",
+        "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)"
       ]
     },
     {
@@ -1005,7 +1010,9 @@
           "explanation": "Mướp đắng là thực phẩm ít năng lượng, có chất xơ và các hợp chất thực vật; có thể góp phần vào chế độ ăn kiểm soát cân nặng. Không dùng mướp đắng thay thuốc điều trị bệnh."
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh"
+      ]
     },
     {
       "id": "ca_chua",
@@ -1307,7 +1314,9 @@
         }
       ],
       "super_tags": [
-        "🛡️ Đa dụng Phòng bệnh"
+        "🛡️ Đa dụng Phòng bệnh",
+        "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)",
+        "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
       ]
     },
     {
@@ -1426,7 +1435,9 @@
           ]
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "💪 Nguồn Protein chất lượng cao nhất"
+      ]
     },
     {
       "id": "dau_den_xanh_long",
@@ -1733,7 +1744,9 @@
           ]
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh"
+      ]
     },
     {
       "id": "hat_sen",
@@ -1855,7 +1868,10 @@
           ]
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất",
+        "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh"
+      ]
     },
     {
       "id": "hat_oc_cho",
@@ -1918,7 +1934,7 @@
         }
       ],
       "super_tags": [
-        "🐟 Siêu Omega-3"
+        "🐟 Giàu Omega-3 & Chất béo tốt nhất"
       ]
     },
     {
@@ -2223,7 +2239,9 @@
           ]
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "🐟 Giàu Omega-3 & Chất béo tốt nhất"
+      ]
     },
     {
       "id": "qua_luu",
@@ -2283,7 +2301,9 @@
           ]
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)"
+      ]
     },
     {
       "id": "cam_tuoi",
@@ -2466,7 +2486,9 @@
           ]
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "🍊 Vua Vitamin C & Tăng cường miễn dịch"
+      ]
     },
     {
       "id": "tao",
@@ -2528,7 +2550,10 @@
           ]
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất",
+        "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
+      ]
     },
     {
       "id": "dau_tam",
@@ -2590,7 +2615,9 @@
           "explanation": "Chất xơ trong dâu tằm có thể hỗ trợ nhu động ruột khi ăn quả tươi và uống đủ nước. Dâu tằm sấy, siro hoặc nước ép thêm đường có thể làm tăng lượng đường và năng lượng."
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)"
+      ]
     },
     {
       "id": "toi",
@@ -2807,7 +2834,9 @@
           ]
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
+      ]
     },
     {
       "id": "mat_ong_nguyen_chat",
@@ -2915,7 +2944,9 @@
           ]
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)"
+      ]
     },
     {
       "id": "dong_trung_ha_thao",
@@ -2967,7 +2998,9 @@
           ]
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
+      ]
     },
     {
       "id": "chanh_tuoi",
@@ -3082,7 +3115,10 @@
           ]
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)",
+        "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
+      ]
     },
     {
       "id": "tao_do_tao_tau",
@@ -3137,7 +3173,9 @@
           ]
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
+      ]
     },
     {
       "id": "nam_huong",
@@ -3682,7 +3720,9 @@
           ]
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
+      ]
     },
     {
       "id": "ca_hoi",
@@ -3739,7 +3779,8 @@
         }
       ],
       "super_tags": [
-        "🐟 Siêu Omega-3"
+        "🐟 Giàu Omega-3 & Chất béo tốt nhất",
+        "💪 Nguồn Protein chất lượng cao nhất"
       ]
     },
     {
@@ -3798,7 +3839,8 @@
         }
       ],
       "super_tags": [
-        "🐟 Siêu Omega-3"
+        "💪 Nguồn Protein chất lượng cao nhất",
+        "🐟 Giàu Omega-3 & Chất béo tốt nhất"
       ]
     },
     {
@@ -3906,7 +3948,7 @@
         }
       ],
       "super_tags": [
-        "🐟 Siêu Omega-3"
+        "🐟 Giàu Omega-3 & Chất béo tốt nhất"
       ]
     },
     {
@@ -4079,7 +4121,8 @@
         }
       ],
       "super_tags": [
-        "🐟 Siêu Omega-3"
+        "🐟 Siêu Omega-3",
+        "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất"
       ]
     },
     {
@@ -4204,7 +4247,9 @@
           ]
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất"
+      ]
     },
     {
       "id": "cua_dong",
@@ -4311,7 +4356,9 @@
           "explanation": "Trứng cung cấp protein, phospho và một lượng vitamin D cùng các vi chất liên quan đến chuyển hóa xương; hiệu quả phụ thuộc tổng thể chế độ ăn, vận động và tình trạng vitamin D. [13]"
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "💪 Nguồn Protein chất lượng cao nhất"
+      ]
     },
     {
       "id": "uc_ga",
@@ -4364,7 +4411,9 @@
           "explanation": "Ức gà cung cấp vitamin B12, sắt và kẽm, nhưng lượng sắt không cao như thịt đỏ; cần đánh giá nguyên nhân thiếu máu trước khi bổ sung. [4]"
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "💪 Nguồn Protein chất lượng cao nhất"
+      ]
     },
     {
       "id": "thit_bo_than",
@@ -4420,7 +4469,9 @@
           "explanation": "Thịt bò thăn cung cấp protein chất lượng cao, vitamin B12, kẽm và sắt; nên ưu tiên phần nạc, khẩu phần phù hợp và hạn chế chế biến cháy khét. [37]"
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "💪 Nguồn Protein chất lượng cao nhất"
+      ]
     },
     {
       "id": "thit_lon_nac",
@@ -4644,7 +4695,8 @@
         }
       ],
       "super_tags": [
-        "🛡️ Đa dụng Phòng bệnh"
+        "🛡️ Đa dụng Phòng bệnh",
+        "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột"
       ]
     },
     {
@@ -4754,7 +4806,10 @@
           "explanation": "Gan gà chứa nhiều sắt, folat và vitamin nhóm B, có thể hỗ trợ khẩu phần của người thiếu vi chất; không được tự dùng gan để điều trị thiếu máu khi chưa xác định nguyên nhân. [48][53]"
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "💪 Nguồn Protein chất lượng cao nhất",
+        "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất"
+      ]
     },
     {
       "id": "yen_sao",
@@ -4808,7 +4863,9 @@
           "explanation": "Yến sào thường được dùng để bồi bổ ở người mới ốm dậy, nhưng các tuyên bố như chống lão hóa, tăng miễn dịch mạnh hoặc chữa bệnh hô hấp chưa đủ bằng chứng để xem là tác dụng điều trị. Theo y học cổ truyền, yến có vị ngọt, tính bình, quy vào Phế, Vị và Thận; đây là mô tả lý luận truyền thống, không thay thế bằng chứng lâm sàng hiện đại. [36][39]"
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
+      ]
     },
     {
       "id": "dua_cai_chua",
@@ -4869,7 +4926,9 @@
           "explanation": "Dưa cải chua thường chứa nhiều muối, ăn nhiều có thể làm tăng lượng natri và bất lợi cho kiểm soát huyết áp. Nên ăn lượng nhỏ, rửa hoặc vắt bớt nước muối và không thay thế rau tươi."
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột"
+      ]
     },
     {
       "id": "kim_chi",
@@ -4931,7 +4990,9 @@
           "explanation": "Kim chi thường ít năng lượng và có rau, chất xơ, nhưng thường nhiều natri; không có bằng chứng để khẳng định kim chi phòng hoặc chữa ung thư, bệnh tim hay đái tháo đường. Chất chống oxy hóa chỉ nên diễn đạt là hỗ trợ bảo vệ tế bào, không phải điều trị bệnh. [62][68]"
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột"
+      ]
     },
     {
       "id": "tuong_hot",
@@ -4990,7 +5051,9 @@
           "explanation": "Đậu nành là nguồn protein thực vật có giá trị, nhưng tương chỉ là gia vị và không nên dùng thay thế các nguồn đạm chính. Lợi ích dinh dưỡng phụ thuộc thành phần thực tế của từng sản phẩm."
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột"
+      ]
     },
     {
       "id": "ruou_nep_cam",
@@ -5579,7 +5642,8 @@
         }
       ],
       "super_tags": [
-        "🐟 Siêu Omega-3"
+        "🐟 Giàu Omega-3 & Chất béo tốt nhất",
+        "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh"
       ]
     },
     {
@@ -5749,7 +5813,9 @@
           "explanation": "Chanh dây có vitamin C và các hợp chất thực vật, có thể hỗ trợ bảo vệ tế bào khỏi stress oxy hóa; không nên diễn giải thành tác dụng phòng hoặc chữa ung thư."
         }
       ],
-      "super_tags": []
+      "super_tags": [
+        "🍊 Vua Vitamin C & Tăng cường miễn dịch"
+      ]
     },
     {
       "id": "hong_gion",

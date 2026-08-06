@@ -114,13 +114,21 @@ function FoodsScreen({ navigation }) {
 
     if (searchText) {
       const searchNormalized = removeDiacritics(searchText);
+      const searchWords = searchNormalized.split(' ').filter(Boolean);
+      
       filteredFoods = filteredFoods.filter(food => {
-        const nameMatch = removeDiacritics(food.name).includes(searchNormalized);
+        const nameNormalized = removeDiacritics(food.name);
+        const nameMatch = nameNormalized.includes(searchNormalized) || searchNormalized.includes(nameNormalized);
         const catMatch = removeDiacritics(food.category || "").includes(searchNormalized);
         const nutMatch = removeDiacritics(food.nutrition || "").includes(searchNormalized);
         const benMatch = removeDiacritics(food.benefits?.join(" ") || "").includes(searchNormalized);
         const prevMatch = food.disease_prevention ? removeDiacritics(JSON.stringify(food.disease_prevention)).includes(searchNormalized) : false;
-        return nameMatch || catMatch || nutMatch || benMatch || prevMatch;
+        
+        // Fallback: Check if all search words are found ANYWHERE in the combined text
+        const combinedText = [nameNormalized, removeDiacritics(food.category), removeDiacritics(food.nutrition)].join(' ');
+        const allWordsMatch = searchWords.every(word => combinedText.includes(word));
+
+        return nameMatch || catMatch || nutMatch || benMatch || prevMatch || allWordsMatch;
       });
     }
 
