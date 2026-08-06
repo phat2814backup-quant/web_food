@@ -1633,6 +1633,20 @@
         "longevity",
         "dash"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Bệnh tim mạch chuyển hóa",
+          "effect": "Có thể hỗ trợ sức khỏe tim mạch khi thay thế một phần thực phẩm giàu chất béo động vật",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Tương đậu nành cung cấp protein thực vật và các hợp chất từ đậu nành; tuy nhiên sản phẩm thường nhiều muối nên cần dùng lượng nhỏ, đặc biệt ở người tăng huyết áp hoặc bệnh thận."
+        },
+        {
+          "disease": "Suy dinh dưỡng do thiếu protein",
+          "effect": "Hỗ trợ bổ sung protein thực vật",
+          "evidence_level": "Trung bình",
+          "explanation": "Đậu nành là nguồn protein thực vật có giá trị, nhưng tương chỉ là gia vị và không nên dùng thay thế các nguồn đạm chính. Lợi ích dinh dưỡng phụ thuộc thành phần thực tế của từng sản phẩm."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -5521,6 +5535,20 @@
         "blue_zones",
         "longevity",
         "dash"
+      ],
+      "disease_prevention": [
+        {
+          "disease": "Thiếu vitamin C",
+          "effect": "Hỗ trợ bổ sung vitamin C và hợp chất thực vật",
+          "evidence_level": "Trung bình",
+          "explanation": "Vải tươi cung cấp vitamin C, nước và một số chất chống oxy hóa; có thể hỗ trợ sức khỏe tổng thể nhưng không chữa cảm cúm, ung thư hoặc bệnh mạn tính."
+        },
+        {
+          "disease": "Táo bón do thiếu chất xơ",
+          "effect": "Hỗ trợ bổ sung một phần chất xơ",
+          "evidence_level": "Hạn chế",
+          "explanation": "Vải có chất xơ nhưng chứa đường tự nhiên tương đối cao; nên ăn khẩu phần vừa phải, ưu tiên quả tươi và không xem vải sấy hoặc nước vải thêm đường là thực phẩm phòng bệnh."
+        }
       ],
       "super_tags": [],
       "super_tags_order": {}

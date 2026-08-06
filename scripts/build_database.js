@@ -153,12 +153,19 @@ function updateData() {
       foods.push(bf);
     });
 
-    console.log("2. Đang quét Dữ liệu Y khoa (Source_medical.md)...");
+    console.log("2. Đang quét Dữ liệu Y khoa...");
     let medicalContent = '';
     try {
-      medicalContent = fs.readFileSync(sourceMedicalPath, 'utf8');
-    } catch(e) {
+      medicalContent += fs.readFileSync(sourceMedicalPath, 'utf8') + '\n';
+    } catch (e) {
       console.error('Không tìm thấy Source_medical.md', e.message);
+    }
+    
+    try {
+      const ferPath = path.join(dataSourcePath, 'Source_fer_food_benh.md');
+      medicalContent += fs.readFileSync(ferPath, 'utf8') + '\n';
+    } catch (e) {
+      console.error('Không tìm thấy Source_fer_food_benh.md', e.message);
     }
 
     const acronymMap = {
