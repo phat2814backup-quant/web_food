@@ -1,0 +1,46 @@
+import { StyleSheet } from 'react-native';
+
+export const getTheme = (isDark) => ({
+  bg: isDark ? '#1e272e' : '#f5f6fa',
+  cardBg: isDark ? '#2f3542' : '#fff',
+  text: isDark ? '#f1f2f6' : '#2f3640',
+  textMuted: isDark ? '#a4b0be' : '#7f8fa6',
+  border: isDark ? '#57606f' : '#dcdde1',
+  primary: '#2ecc71'
+});
+
+export const commonStyles = StyleSheet.create({
+  container: { flex: 1, backgroundColor: '#f5f6fa' },
+  searchContainer: { padding: 16, borderBottomWidth: 1 },
+  searchInput: { padding: 12, borderRadius: 8, fontSize: 16 },
+  listContainer: { padding: 16, paddingTop: 16 },
+  sectionListHeader: { backgroundColor: '#e8f8f5', padding: 10, borderRadius: 8, marginBottom: 8 },
+  sectionListHeaderText: { fontSize: 16, fontWeight: 'bold', color: '#1abc9c' },
+  foodRow: { flexDirection: 'row', alignItems: 'center', padding: 16, marginBottom: 8, borderRadius: 12, elevation: 2, borderWidth: 1 },
+  cardRow: { flexDirection: 'row', alignItems: 'center', padding: 16, marginBottom: 12, borderRadius: 12, elevation: 3, borderWidth: 1 },
+  foodIcon: { fontSize: 32, marginRight: 16 },
+  cardIcon: { fontSize: 40, marginRight: 16 },
+  foodInfo: { flex: 1 },
+  foodName: { fontSize: 18, fontWeight: 'bold', marginBottom: 4 },
+  foodSummary: { fontSize: 14, lineHeight: 20 },
+  detailContent: { padding: 16, paddingBottom: 40 },
+  detailTitle: { fontSize: 28, fontWeight: 'bold', marginBottom: 8, textAlign: 'center' },
+  sectionCard: { padding: 16, borderRadius: 12, marginBottom: 16, elevation: 2 },
+  sectionHeader: { flexDirection: 'row', alignItems: 'center', marginBottom: 12 },
+  sectionIcon: { fontSize: 20, marginRight: 8 },
+  sectionTitle: { fontSize: 18, fontWeight: 'bold' },
+  boldText: { fontSize: 16, fontWeight: 'bold' },
+  normalText: { lineHeight: 24 },
+  bulletPoint: { fontSize: 16, lineHeight: 24, marginLeft: 8, marginBottom: 4 },
+  comboItem: { marginBottom: 12 },
+  comboFoodGood: { fontSize: 16, fontWeight: 'bold', color: '#27ae60', marginBottom: 4 },
+  comboFoodBad: { fontSize: 16, fontWeight: 'bold', color: '#d35400', marginBottom: 4 },
+  comboReason: { fontSize: 15, lineHeight: 22 },
+  tagContainer: { flexDirection: 'row', flexWrap: 'wrap', gap: 8 },
+  tagGood: { backgroundColor: '#e1f5fe', color: '#0277bd', padding: 8, borderRadius: 8, fontWeight: 'bold', overflow: 'hidden' },
+  tagBad: { backgroundColor: '#fbe9e7', color: '#d84315', padding: 8, borderRadius: 8, fontWeight: 'bold', overflow: 'hidden' },
+  tagDiet: { backgroundColor: '#e8f5e9', color: '#2e7d32', padding: 8, borderRadius: 8, fontWeight: 'bold', overflow: 'hidden' },
+  headerHero: { backgroundColor: '#3498db', padding: 24, alignItems: 'center' },
+  heroTitle: { fontSize: 24, fontWeight: 'bold', color: '#fff', marginBottom: 8 },
+  heroDesc: { fontSize: 16, color: '#fff', textAlign: 'center', lineHeight: 24 },
+});
