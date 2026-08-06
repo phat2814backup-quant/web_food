@@ -94,13 +94,98 @@ function updateData() {
     }
 
     if (foods.length > 0) {
-      const db = {
-        foods,
+      const masterData = {
+        foods: foods,
         diseases: diseasesDB,
         diets: dietsDB
       };
-      fs.writeFileSync(jsonOutputPath, JSON.stringify(db, null, 2), 'utf8');
-      console.log(`✅ Cập nhật thành công! Trích xuất ${foods.length} món ăn và tạo cấu trúc Cơ sở dữ liệu chéo.`);
+
+      console.log("Analyzing disease prevention data from Markdown files...");
+      try {
+        const benhContent = fs.readFileSync(path.join(__dirname, '../Source_fer_food_benh.md'), 'utf8') + '\n' + fs.readFileSync(path.join(__dirname, '../benh.md'), 'utf8');
+        
+        const acronymMap = {
+          "TGG": "trung_ga_ta", "UGG": "uc_ga", "TBT": "thit_bo_than", "TLN": "thit_lon_nac", "CBG": "chim_bo_cau", "TVT": "thit_vit",
+          "SC": "sua_chua", "SBT": "sua_bo_tuoi_nguyen_chat", "GG": "gan_ga", "YS": "yen_sao", "DCC": "dua_cai_chua", "KC": "kim_chi",
+          "TĐN": "tuong_hot", "RNCC": "ruou_nep_cam", "GT": "giam_tao", "THC": "tra_hoa_cuc", "TMB": "tra_muop_dang", "NDT": "nuoc_dua_tuoi",
+          "MTR": "mu_trom", "TY": "tuyet_yen", "HD": "hat_dieu", "HMC": "hat_macca", "HB": "hat_bi_ngo", "HC": "hat_chia",
+          "HHM": "hat_huong_duong", "MGC": "mang_cut", "CD": "chanh_day", "HG": "hong_gion", "NL": "nhan", "VL": "vai",
+          "RNG": "rau_ngot", "RM": "rau_muong", "BD": "bi_do", "MB": "muop_dang", "DT": "dau_tam", "TOI": "toi"
+        };
+        
+        const diseaseInfoMap = {};
+        
+        // 1. Lấy dữ liệu chuẩn mới (Hội đồng y khoa)
+        // Match both ```json ... ``` and raw JSON arrays starting with [ and ending with ]
+        const extractJsonArrays = (text) => {
+          const results = [];
+          
+          // Pattern for backtick blocks
+          const matches = [...text.matchAll(/```json\s+([\s\S]*?)\s+```/g)];
+          matches.forEach(m => results.push(m[1]));
+          
+          // Pattern for raw [ ... ] arrays
+          // Try to find large blocks starting with [\n and ending with \n]
+          const rawMatches = [...text.matchAll(/\[\s*\{\s*"id"[\s\S]*?\n\]/g)];
+          rawMatches.forEach(m => results.push(m[0]));
+          
+          return results;
+        };
+
+        const jsonBlocks = extractJsonArrays(benhContent);
+        
+        for (const block of jsonBlocks) {
+          try {
+            const arr = JSON.parse(block);
+            arr.forEach(item => {
+              if (item.id) {
+                const id = acronymMap[item.id] || item.id;
+                if (!diseaseInfoMap[id] || (item.disease_prevention && item.disease_prevention.length > 0)) {
+                  if (item.disease_prevention && item.disease_prevention.length > 0) {
+                     diseaseInfoMap[id] = item.disease_prevention;
+                  }
+                }
+              }
+            });
+          } catch(e) {}
+        }
+
+        // 2. Lấy dữ liệu chuẩn cũ (Fallback)
+        const oldMatches = [...benhContent.matchAll(/\{\s*"name":\s*"([^"]+)",[\s\S]*?\}/g)];
+        oldMatches.forEach(match => {
+          try {
+            const obj = JSON.parse(match[0]);
+            const matchedFood = masterData.foods.find(f => f.name.toLowerCase() === obj.name.toLowerCase() || (obj.aliases && obj.aliases.some(a => f.name.toLowerCase().includes(a.toLowerCase()))));
+            if (matchedFood) {
+              const id = matchedFood.id;
+              if (!diseaseInfoMap[id] && obj.healthBenefits && obj.scientificEvidence) {
+                diseaseInfoMap[id] = [
+                  {
+                    "disease": "Lợi ích sức khỏe tổng hợp",
+                    "effect": obj.healthBenefits.join("; "),
+                    "evidence_level": "Nghiên cứu khoa học",
+                    "explanation": obj.scientificEvidence
+                  }
+                ];
+              }
+            }
+          } catch(e) {}
+        });
+        
+        let mergedCount = 0;
+        masterData.foods.forEach(food => {
+          if (diseaseInfoMap[food.id]) {
+            food.disease_prevention = diseaseInfoMap[food.id];
+            mergedCount++;
+          }
+        });
+        console.log(`Merged scientific disease prevention data for ${mergedCount} foods.`);
+      } catch (e) {
+        console.log("Could not load markdown files or no data found.", e.message);
+      }
+
+      fs.writeFileSync(jsonOutputPath, JSON.stringify(masterData, null, 2), 'utf8');
+      console.log(`\nSuccess! Updated data.json with ${masterData.foods.length} foods, ${masterData.diseases.length} diseases, and ${masterData.diets.length} diets.`);
     } else {
       console.warn("⚠️ Không tìm thấy dữ liệu JSON nào hợp lệ trong file Markdown.");
     }

@@ -68,7 +68,12 @@ function FoodsScreen({ navigation }) {
     if (searchText) {
       const searchNormalized = removeDiacritics(searchText);
       filteredFoods = foodData.filter(food => {
-        return removeDiacritics(food.name).includes(searchNormalized);
+        const nameMatch = removeDiacritics(food.name).includes(searchNormalized);
+        const catMatch = removeDiacritics(food.category || "").includes(searchNormalized);
+        const nutMatch = removeDiacritics(food.nutrition || "").includes(searchNormalized);
+        const benMatch = removeDiacritics(food.benefits?.join(" ") || "").includes(searchNormalized);
+        const prevMatch = food.disease_prevention ? removeDiacritics(JSON.stringify(food.disease_prevention)).includes(searchNormalized) : false;
+        return nameMatch || catMatch || nutMatch || benMatch || prevMatch;
       });
     }
 
@@ -90,7 +95,7 @@ function FoodsScreen({ navigation }) {
       <View style={styles.searchContainer}>
         <TextInput
           style={styles.searchInput}
-          placeholder="Tìm thực phẩm..."
+          placeholder="Tìm kiếm thông minh (tên, dinh dưỡng, bệnh lý)..."
           value={searchText}
           onChangeText={setSearchText}
         />
@@ -169,6 +174,19 @@ function FoodDetailScreen({ route, navigation }) {
         <SectionCard title="Dinh dưỡng & Lợi ích" icon="❤️" color="#e74c3c">
           <Text style={styles.boldText}>Thành phần: <Text style={styles.normalText}>{food.nutrition}</Text></Text>
           {food.benefits && food.benefits.map((b, i) => <Text key={i} style={styles.bulletPoint}>• {b}</Text>)}
+        </SectionCard>
+      )}
+
+      {food.disease_prevention && food.disease_prevention.length > 0 && (
+        <SectionCard title="Nghiên cứu & Bệnh lý" icon="🔬" color="#8e44ad">
+          {food.disease_prevention.map((dp, i) => (
+            <View key={i} style={{ marginBottom: 12 }}>
+              <Text style={[styles.boldText, { color: '#8e44ad', fontSize: 16 }]}>{dp.disease}</Text>
+              <Text style={styles.comboReason}><Text style={{ fontWeight: 'bold' }}>Tác dụng:</Text> {dp.effect}</Text>
+              <Text style={styles.comboReason}><Text style={{ fontWeight: 'bold' }}>Bằng chứng:</Text> {dp.evidence_level}</Text>
+              <Text style={[styles.comboReason, { fontStyle: 'italic', marginTop: 4 }]}>"{dp.explanation}"</Text>
+            </View>
+          ))}
         </SectionCard>
       )}
 
