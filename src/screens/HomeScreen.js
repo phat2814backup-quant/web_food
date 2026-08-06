@@ -23,21 +23,24 @@ export default function HomeScreen({ navigation }) {
 
     if (searchText) {
       const searchNormalized = removeDiacritics(searchText);
+      const searchRaw = searchText.toLowerCase().trim();
       const searchWords = searchNormalized.split(' ').filter(Boolean);
+      const searchRawWords = searchRaw.split(' ').filter(Boolean);
+      const hasDiacritics = searchRaw !== searchNormalized;
       
       // Calculate scores
       const scoredFoods = filteredFoods.map(food => {
         const nameNormalized = removeDiacritics(food.name);
+        const nameRaw = (food.name || "").toLowerCase();
         let score = 0;
 
         // Exact match or start match
-        if (nameNormalized === searchNormalized) {
-          score += 100;
-        } else if (nameNormalized.startsWith(searchNormalized)) {
-          score += 80;
-        } else if (nameNormalized.includes(searchNormalized)) {
-          score += 50;
-        }
+        if (nameRaw === searchRaw) score += 200;
+        else if (nameNormalized === searchNormalized) score += 100;
+        else if (nameRaw.startsWith(searchRaw)) score += 90;
+        else if (nameNormalized.startsWith(searchNormalized)) score += 80;
+        else if (nameRaw.includes(searchRaw)) score += 60;
+        else if (nameNormalized.includes(searchNormalized)) score += 50;
 
         // Match categories/tags
         const catNormalized = removeDiacritics(food.category || "");
@@ -46,19 +49,26 @@ export default function HomeScreen({ navigation }) {
         }
         
         // Match descriptions
-        const combinedDesc = [
-          removeDiacritics(food.nutrition || ""),
-          removeDiacritics(food.benefits?.join(" ") || ""),
-          food.disease_prevention ? removeDiacritics(JSON.stringify(food.disease_prevention)) : ""
-        ].join(' ');
+        const combinedDescRaw = [
+          (food.nutrition || ""),
+          (food.benefits?.join(" ") || ""),
+          food.disease_prevention ? JSON.stringify(food.disease_prevention) : ""
+        ].join(' ').toLowerCase();
+        const combinedDescNorm = removeDiacritics(combinedDescRaw);
         
-        if (combinedDesc.includes(searchNormalized)) {
-          score += 10;
+        if (hasDiacritics) {
+           if (combinedDescRaw.includes(searchRaw)) score += 10;
+        } else {
+           if (combinedDescNorm.includes(searchNormalized)) score += 10;
         }
         
         // Fallback word by word
-        if (score === 0 && searchWords.every(word => nameNormalized.includes(word) || combinedDesc.includes(word))) {
-          score += 5;
+        if (score === 0) {
+           if (hasDiacritics) {
+             if (searchRawWords.every(word => nameRaw.includes(word) || combinedDescRaw.includes(word))) score += 5;
+           } else {
+             if (searchWords.every(word => nameNormalized.includes(word) || combinedDescNorm.includes(word))) score += 5;
+           }
         }
 
         return { food, score };
