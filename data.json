@@ -60,6 +60,11 @@
           "evidence_level": "Hạn chế đến trung bình",
           "explanation": "Chất xơ và nước trong rau ngót có thể hỗ trợ nhu động ruột khi ăn chín trong chế độ ăn cân đối. Các tuyên bố dân gian như chữa dứt điểm sốt, ho hoặc bệnh gan chưa đủ bằng chứng lâm sàng."
         }
+      ],
+      "super_tags": [
+        "🍊 Siêu Vitamin C",
+        "🩸 Siêu Sắt",
+        "🦴 Siêu Canxi"
       ]
     },
     {
@@ -139,6 +144,9 @@
           "evidence_level": "Khoa học hiện đại",
           "explanation": "Bằng chứng tổng quan cho thấy lá chùm ngây có đặc tính chống viêm, chống oxy hóa và bảo vệ gan, nên có thể hỗ trợ giảm tổn thương chuyển hóa mạn tính."
         }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
       ]
     },
     {
@@ -207,6 +215,9 @@
           "evidence_level": "Khoa học hiện đại",
           "explanation": "Một số tổng quan mô tả tác dụng chống lo âu và chống trầm cảm tiềm năng của rau má, nhưng chưa đủ mạnh để coi là điều trị chuẩn."
         }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
       ]
     },
     {
@@ -281,6 +292,9 @@
           "evidence_level": "Khoa học hiện đại",
           "explanation": "Một số tổng quan về amaranth ghi nhận hoạt tính hạ cholesterol và chống viêm, nhưng mức độ bằng chứng chủ yếu vẫn là tiền lâm sàng hoặc quan sát."
         }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
       ]
     },
     {
@@ -360,6 +374,9 @@
           "evidence_level": "Khoa học hiện đại",
           "explanation": "Lá khoai lang giàu polyphenol, flavonoid và acid chlorogenic; một số dữ liệu cho thấy chúng có thể điều hòa miễn dịch và giảm viêm, nhưng cần thêm nghiên cứu ở người."
         }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
       ]
     },
     {
@@ -421,7 +438,8 @@
           "evidence_level": "Trung bình",
           "explanation": "Rau muống chứa vitamin A, B, C, canxi, phospho và sắt; các vi chất này hỗ trợ thị lực, miễn dịch, tạo máu và chức năng cơ. Sắt từ rau không thay thế sắt thuốc khi thiếu máu đã được chẩn đoán. [123][125]"
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "rau_chan_vit",
@@ -488,6 +506,9 @@
           "evidence_level": "Khoa học hiện đại",
           "explanation": "Nhóm rau lá xanh có hàm lượng chất chống oxy hóa, vitamin và khoáng chất cao, góp phần bảo vệ tế bào và giảm nguy cơ bệnh mạn tính liên quan tim mạch."
         }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
       ]
     },
     {
@@ -550,7 +571,8 @@
           "evidence_level": "Khoa học hiện đại",
           "explanation": "Các rau lá xanh chứa phenolic và carotenoid có liên quan tới hoạt tính chống oxy hóa và giảm nguy cơ bệnh mạn tính."
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "la_tia_to",
@@ -623,6 +645,9 @@
           "evidence_level": "Khoa học hiện đại",
           "explanation": "Một số hợp chất trong tía tô có hoạt tính ức chế xanthine oxidase, từ đó có tiềm năng hỗ trợ phòng tăng acid uric máu; tuy nhiên bằng chứng lâm sàng trực tiếp còn hạn chế ."
         }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
       ]
     },
     {
@@ -703,6 +728,9 @@
           "evidence_level": "Khoa học hiện đại",
           "explanation": "Chiết xuất lá cần tây bảo vệ tế bào thần kinh trước độc tính amyloid-beta và ức chế AChE, BChE, GSK3β, COX-1, COX-2 trong nghiên cứu in vitro; dữ liệu này gợi ý tiềm năng hỗ trợ bảo vệ thần kinh, chưa đủ để xem là điều trị ."
         }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
       ]
     },
     {
@@ -774,6 +802,9 @@
           "evidence_level": "Khoa học hiện đại",
           "explanation": "Các tổng quan về khoai lang ghi nhận tác dụng chống đái tháo đường, chống béo phì và chống viêm của các phần khác nhau của cây, nhưng mức độ hiệu quả phụ thuộc giống, bộ phận sử dụng và phần lớn vẫn là dữ liệu tiền lâm sàng ."
         }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
       ]
     },
     {
@@ -846,6 +877,9 @@
           "evidence_level": "Khoa học hiện đại",
           "explanation": "Tổng quan ô dù cho thấy carotene có liên quan với nguy cơ thấp hơn đối với đục thủy tinh thể tuổi già và một số kết cục sức khỏe bất lợi khác, dù đây là bằng chứng mức liên quan chứ không chứng minh điều trị ."
         }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
       ]
     },
     {
@@ -905,6 +939,9 @@
           "evidence_level": "Hạn chế đến trung bình",
           "explanation": "Carotenoid có hoạt tính chống oxy hóa, chỉ nên mô tả là hỗ trợ bảo vệ tế bào và góp phần vào chế độ ăn tốt cho tim; bí đỏ không điều trị tăng huyết áp, rối loạn mỡ máu hoặc ung thư."
         }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
       ]
     },
     {
@@ -967,7 +1004,8 @@
           "evidence_level": "Hạn chế",
           "explanation": "Mướp đắng là thực phẩm ít năng lượng, có chất xơ và các hợp chất thực vật; có thể góp phần vào chế độ ăn kiểm soát cân nặng. Không dùng mướp đắng thay thuốc điều trị bệnh."
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "ca_chua",
@@ -1041,6 +1079,9 @@
           "evidence_level": "Khoa học hiện đại",
           "explanation": "Phức hợp vi chất trong cà chua can thiệp nhiều đường viêm và chuyển hóa tế bào, hỗ trợ giảm viêm cấp độ thấp và phòng ngừa bệnh không lây nhiễm ."
         }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
       ]
     },
     {
@@ -1098,7 +1139,8 @@
           "evidence_level": "Khoa học hiện đại & Đông Y",
           "explanation": "Củ cải được y học cổ truyền La Mã sử dụng để tăng cường miễn dịch, giảm viêm và chữa các bệnh tai mũi họng; hiện đại ghi nhận polyphenol và isothiocyanate có đặc tính kháng khuẩn và chống viêm ."
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "cu_den",
@@ -1151,7 +1193,8 @@
           "evidence_level": "Khoa học hiện đại",
           "explanation": "Củ dền giàu phytonutrient và chất chống oxy hóa, giúp trung hòa gốc tự do và hỗ trợ phòng ngừa các bệnh mạn tính liên quan stress oxy hóa ."
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "cu_sen",
@@ -1203,7 +1246,8 @@
           "evidence_level": "Khoa học hiện đại & Đông Y",
           "explanation": "Củ sen được dùng truyền thống để quản lý rối loạn lipid, huyết áp và béo phì; bằng chứng hiện đại ghi nhận hoạt tính hạ glucose và bảo vệ tim mạch ."
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "cu_nghe",
@@ -1261,6 +1305,9 @@
           "evidence_level": "Khoa học hiện đại",
           "explanation": "Curcumin cùng các phytonutrient khác giúp phòng ngừa đái tháo đường, béo phì, tăng huyết áp và bệnh thần kinh thông qua điều hòa chuyển hóa và chống oxy hóa ."
         }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
       ]
     },
     {
@@ -1316,7 +1363,8 @@
           "evidence_level": "Khoa học hiện đại",
           "explanation": "Bắp ngô là nguồn thực phẩm giàu chất xơ và phytonutrient, góp phần trong chế độ ăn thực vật giúp hỗ trợ phòng ngừa các bệnh mạn tính ."
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "dau_phu",
@@ -1377,7 +1425,8 @@
             "https://vov.vn/suc-khoe/kham-pha-thanh-phan-dinh-duong-cua-dau-phu-post1236838.vov"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "dau_den_xanh_long",
@@ -1435,7 +1484,8 @@
             "https://youmed.vn/tin-tuc/dau-den-xanh-long/"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "dau_xanh",
@@ -1497,7 +1547,8 @@
             "https://www.nhathuocankhang.com/ban-tin-suc-khoe/dau-xanh-co-tac-dung-gi-12-cong-dung-cua-dau-xanh-1569298"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "dau_do",
@@ -1558,7 +1609,8 @@
             "https://ultv.edu.vn/kham-pha-cong-dung-cua-dau-do-trong-y-hoc-co-truyen-d9318.html"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "sua_dau_nanh",
@@ -1619,7 +1671,8 @@
             "https://dantri.com.vn/suc-khoe/nhung-loi-ich-khong-phai-ai-cung-biet-cua-sua-dau-nanh-20240715074954437.htm"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "gao_lut",
@@ -1679,7 +1732,8 @@
             "https://suckhoedoisong.vn/7-loi-ich-suc-khoe-tuyet-voi-khi-an-gao-lut-169231004151428951.htm"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "hat_sen",
@@ -1739,7 +1793,8 @@
             "https://yte.nghean.gov.vn/tin-chuyen-nganh/gia-tri-cua-hat-sen-voi-suc-khoe-va-nhung-luu-y-khi-su-dung-664782"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "me_den",
@@ -1799,7 +1854,8 @@
             "https://vov.vn/suc-khoe/khong-chi-thom-bui-me-den-mang-lai-nhung-loi-ich-bat-ngo-post1256978.vov"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "hat_oc_cho",
@@ -1860,6 +1916,9 @@
             "https://suckhoedoisong.vn/10-ly-do-khien-ban-nen-an-hat-oc-cho-moi-ngay-16923062014583832.htm"
           ]
         }
+      ],
+      "super_tags": [
+        "🐟 Siêu Omega-3"
       ]
     },
     {
@@ -1921,7 +1980,8 @@
             "https://vov.vn/suc-khoe/hanh-nhan-sieu-hat-voi-9-cong-dung-tot-cho-suc-khoe-post1237992.vov"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "chuoi_chin",
@@ -1980,7 +2040,8 @@
             "https://www.vietnamplus.vn/dinh-duong-cua-chuoi-thay-doi-nhu-the-nao-khi-do-chin-cua-no-thay-doi-post1080324.vnp"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "buoi",
@@ -2040,7 +2101,8 @@
             "https://tuoitre.vn/buoi-loai-trai-ngon-nhieu-loi-ich-cho-suc-khoe-20251130090127578.htm"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "du_du_chin",
@@ -2100,7 +2162,8 @@
             "https://www.vinmec.com/vie/bai-viet/cac-tac-dung-cua-du-du-chin-voi-suc-khoe-vi"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "qua_bo",
@@ -2159,7 +2222,8 @@
             "https://dantri.com.vn/suc-khoe/loi-ich-an-tuong-khi-an-13-qua-bo-moi-ngay-20240229130343580.htm"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "qua_luu",
@@ -2218,7 +2282,8 @@
             "https://ngoisao.vnexpress.net/9-ly-do-nen-an-qua-luu-thuong-xuyen-4765945.html"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "cam_tuoi",
@@ -2278,7 +2343,8 @@
             "https://thanhnien.vn/bao-quan-cam-the-nao-de-khong-mat-vitamin-c-185251125234435197.htm"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "thanh_long_ruot_do",
@@ -2337,7 +2403,8 @@
             "https://www.vinmec.com/vie/bai-viet/loi-ich-suc-khoe-cua-qua-thanh-long-vi"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "qua_oi",
@@ -2398,7 +2465,8 @@
             "https://hanoidep.vn/an-oi-co-tac-dung-gi/"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "tao",
@@ -2459,7 +2527,8 @@
             "https://vnexpress.net/suc-khoe-dinh-duong-tao-4953997.html"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "dau_tam",
@@ -2520,7 +2589,8 @@
           "evidence_level": "Hạn chế",
           "explanation": "Chất xơ trong dâu tằm có thể hỗ trợ nhu động ruột khi ăn quả tươi và uống đủ nước. Dâu tằm sấy, siro hoặc nước ép thêm đường có thể làm tăng lượng đường và năng lượng."
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "toi",
@@ -2578,6 +2648,9 @@
           "evidence_level": "Không đủ bằng chứng lâm sàng",
           "explanation": "Các hợp chất chống oxy hóa trong tỏi có thể hỗ trợ bảo vệ tế bào, nhưng không được gọi là thuốc chống ung thư hoặc chữa ung thư. Người đang dùng thuốc chống đông cần hỏi bác sĩ nếu dùng tỏi liều cao hoặc chế phẩm cô đặc vì có thể ảnh hưởng nguy cơ chảy máu. [136][139]"
         }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
       ]
     },
     {
@@ -2630,7 +2703,8 @@
             "https://dongyhc.vn/nukeviet/vi/tin-tong-hop/cay-thuoc-vi-thuoc/loi-ich-suc-khoe-cua-gung-295.html"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "hanh_tay",
@@ -2681,7 +2755,8 @@
             "https://vnexpress.net/vi-sao-nen-an-toi-thuong-xuyen-5009595.html"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "sa",
@@ -2731,7 +2806,8 @@
             "https://www.nhathuocankhang.com/ban-tin-suc-khoe/sa-va-cac-cong-dung-tuyet-voi-tu-sa-1393652"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "mat_ong_nguyen_chat",
@@ -2784,7 +2860,8 @@
             "https://matongthaotrinh.com/mat-ong-nguyen-chat-co-tac-dung-gi-loi-ich-da-duoc-nhieu-nguoi-cong-nhan"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "tra_xanh_la_tuoi",
@@ -2837,7 +2914,8 @@
             "https://kinhtedouong.vn/epigallocatechin-gallate-egcg-trong-tra-xanh-va-kha-nang-phong-ngua-ung-thu-102588.html"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "dong_trung_ha_thao",
@@ -2888,7 +2966,8 @@
             "https://www.medigoapp.com/bai-viet/tong-quan-dong-trung-ha-thao-cong-dung-luu-y.html"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "chanh_tuoi",
@@ -2948,7 +3027,8 @@
             "https://suckhoedoisong.vn/an-cam-ca-qua-hay-uong-nuoc-cam-ep-co-nhieu-vitamin-c-hon-1692601281553599.htm"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "ky_tu",
@@ -3001,7 +3081,8 @@
             "https://suckhoeviet.org.vn/ky-tu-thao-duoc-tot-cho-mat-va-cach-dung-trong-mon-an-17539.html"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "tao_do_tao_tau",
@@ -3055,7 +3136,8 @@
             "https://ecopharma.com.vn/tao-do-tri-mat-ngu/"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "nam_huong",
@@ -3110,7 +3192,8 @@
             "https://hellobacsi.com/an-uong-lanh-manh/thong-tin-dinh-duong/loi-ich-nam-huong/"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "nam_rom",
@@ -3165,7 +3248,8 @@
             "https://youmed.vn/tin-tuc/nam-rom/"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "nam_kim_cham",
@@ -3217,7 +3301,8 @@
             "https://www.vinmec.com/vie/bai-viet/nam-kim-cham-bao-nhieu-calo-vi"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "nam dui ga",
@@ -3269,7 +3354,8 @@
             "https://www.bachhoaxanh.com/kinh-nghiem-hay/nam-dui-ga-bao-nhieu-calo-an-nam-dui-ga-co-beo-khong-1430395"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "nam_bao_ngu",
@@ -3322,7 +3408,8 @@
             "https://www.scribd.com/document/430001482/HO%E1%BA%A0T-CH%E1%BA%A4T-CO-HO%E1%BA%A0T-TINH-SINH-H%E1%BB%8CC-VA-D%C6%AF%E1%BB%A2C-TINH-C%E1%BB%A6A-N%E1%BA%A4M-BAO-NG%C6%AF"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "nam_tuyet",
@@ -3376,7 +3463,8 @@
             "https://kenh14.vn/loai-nam-giong-nhu-to-yen-co-tac-dung-duong-nhan-va-phong-chong-duoc-nhieu-benh-20231102164509227.chn"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "nam_moc_nhi",
@@ -3429,7 +3517,8 @@
             "https://suckhoedoisong.vn/nam-huong-co-tac-dung-gi-doi-voi-suc-khoe-169260708211735051.htm"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "nam_ngoc_cham",
@@ -3482,7 +3571,8 @@
             "https://trongnam.com/san-pham/nam-ngoc-cham-tuoi/"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "nam_moi",
@@ -3536,7 +3626,8 @@
             "https://ecomushrooms.vn/cam-nang/tim-hieu-ve-nam-moi/"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "nam_linh_chi",
@@ -3590,7 +3681,8 @@
             "https://www.vienydhdt.gov.vn/tin-tuc/thong-tin-vien/cong-dung-cua-nam-linh-chi.html"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "ca_hoi",
@@ -3645,6 +3737,9 @@
             "https://bshuyen.vn/suc-khoe-tim-mach-5-ly-do-ca-hoi-la-sieu-thuc-pham/"
           ]
         }
+      ],
+      "super_tags": [
+        "🐟 Siêu Omega-3"
       ]
     },
     {
@@ -3701,6 +3796,9 @@
             "https://www.pharmacity.vn/gia-tri-dinh-duong-va-loi-ich-suc-khoe-tu-thit-ca-thu.htm"
           ]
         }
+      ],
+      "super_tags": [
+        "🐟 Siêu Omega-3"
       ]
     },
     {
@@ -3750,7 +3848,8 @@
             "https://cafef.vn/loai-ca-dan-da-o-viet-nam-giau-protein-hon-ca-hoi-bo-than-nguoi-dan-nuoi-nhieu-thu-vai-ty-nam-188250606064809619.chn"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "ca_moi",
@@ -3805,6 +3904,9 @@
             "https://znews.vn/loi-ich-cua-ca-moi-voi-suc-khoe-post1653559.html"
           ]
         }
+      ],
+      "super_tags": [
+        "🐟 Siêu Omega-3"
       ]
     },
     {
@@ -3860,6 +3962,9 @@
             "https://kenh14.vn/loai-ca-gia-re-duoc-vi-nhu-thuoc-cuong-phoi-tiet-troi-am-thap-nen-an-nhieu-se-rat-tot-215250310154845284.chn"
           ]
         }
+      ],
+      "super_tags": [
+        "🐟 Siêu Omega-3"
       ]
     },
     {
@@ -3915,7 +4020,8 @@
             "https://www.thehinhonline.com.vn/food/nutrition/shrimp-nutrition-fact"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "hau_bien",
@@ -3971,6 +4077,9 @@
             "https://tepbac.com/tin-tuc/full/gia-tri-dinh-duong-cua-ha-bien-va-cac-tac-dong-len-suc-khoe-con-nguoi-38251.html"
           ]
         }
+      ],
+      "super_tags": [
+        "🐟 Siêu Omega-3"
       ]
     },
     {
@@ -4030,7 +4139,8 @@
             "https://www.vinmec.com/vie/bai-viet/luon-co-tac-dung-gi-vi"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "rong_bien",
@@ -4093,7 +4203,8 @@
             "https://www.gufoods.com/rong-bien-101-giai-ma-cong-dung-an-kieng-va-giam-can"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "cua_dong",
@@ -4146,7 +4257,8 @@
             "https://memart.vn/tin-tuc/blog2/dinh-duong-trong-cua-dong-vi-cb.html"
           ]
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "trung_ga_ta",
@@ -4198,7 +4310,8 @@
           "evidence_level": "Trung bình",
           "explanation": "Trứng cung cấp protein, phospho và một lượng vitamin D cùng các vi chất liên quan đến chuyển hóa xương; hiệu quả phụ thuộc tổng thể chế độ ăn, vận động và tình trạng vitamin D. [13]"
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "uc_ga",
@@ -4250,7 +4363,8 @@
           "evidence_level": "Hạn chế đến trung bình",
           "explanation": "Ức gà cung cấp vitamin B12, sắt và kẽm, nhưng lượng sắt không cao như thịt đỏ; cần đánh giá nguyên nhân thiếu máu trước khi bổ sung. [4]"
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "thit_bo_than",
@@ -4305,7 +4419,8 @@
           "evidence_level": "Trung bình",
           "explanation": "Thịt bò thăn cung cấp protein chất lượng cao, vitamin B12, kẽm và sắt; nên ưu tiên phần nạc, khẩu phần phù hợp và hạn chế chế biến cháy khét. [37]"
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "thit_lon_nac",
@@ -4360,7 +4475,8 @@
           "evidence_level": "Trung bình",
           "explanation": "Protein trong thịt lợn nạc hỗ trợ duy trì cơ bắp và phục hồi mô; nên chọn phần nạc, chế biến chín kỹ và hạn chế thịt chế biến sẵn. [47][59]"
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "chim_bo_cau",
@@ -4411,7 +4527,8 @@
           "evidence_level": "Hạn chế",
           "explanation": "Thịt bồ câu cung cấp vitamin A, B1, B2, E và các khoáng chất; lợi ích chỉ có ý nghĩa trong tổng thể chế độ ăn cân đối, không nên diễn giải là thuốc bổ chữa bách bệnh. [46]"
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "thit_vit",
@@ -4463,7 +4580,8 @@
           "evidence_level": "Trung bình",
           "explanation": "Protein trong thịt vịt góp phần duy trì cơ và phục hồi mô; đây là hỗ trợ dinh dưỡng, không phải phương pháp điều trị bệnh cơ hoặc bệnh mạn tính. [32][35]"
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "sua_chua",
@@ -4524,6 +4642,9 @@
           "evidence_level": "Hạn chế đến trung bình",
           "explanation": "Một số bằng chứng quan sát liên hệ việc dùng sữa chua với nguy cơ thấp hơn của bệnh tim mạch chuyển hóa, nhưng không chứng minh sữa chua điều trị tăng huyết áp, đái tháo đường hoặc bệnh tim. [16][18]"
         }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
       ]
     },
     {
@@ -4579,7 +4700,8 @@
           "evidence_level": "Trung bình",
           "explanation": "Sữa cung cấp protein, canxi và các vitamin, khoáng chất; không có bằng chứng cho thấy sữa tươi nguyên chất chữa được bệnh mạn tính. Sữa chưa tiệt trùng có nguy cơ nhiễm khuẩn và không nên dùng thay cho sữa đã xử lý an toàn. [20][27]"
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "gan_ga",
@@ -4631,7 +4753,8 @@
           "evidence_level": "Trung bình",
           "explanation": "Gan gà chứa nhiều sắt, folat và vitamin nhóm B, có thể hỗ trợ khẩu phần của người thiếu vi chất; không được tự dùng gan để điều trị thiếu máu khi chưa xác định nguyên nhân. [48][53]"
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "yen_sao",
@@ -4684,7 +4807,8 @@
           "evidence_level": "Hạn chế",
           "explanation": "Yến sào thường được dùng để bồi bổ ở người mới ốm dậy, nhưng các tuyên bố như chống lão hóa, tăng miễn dịch mạnh hoặc chữa bệnh hô hấp chưa đủ bằng chứng để xem là tác dụng điều trị. Theo y học cổ truyền, yến có vị ngọt, tính bình, quy vào Phế, Vị và Thận; đây là mô tả lý luận truyền thống, không thay thế bằng chứng lâm sàng hiện đại. [36][39]"
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "dua_cai_chua",
@@ -4744,7 +4868,8 @@
           "evidence_level": "Trung bình",
           "explanation": "Dưa cải chua thường chứa nhiều muối, ăn nhiều có thể làm tăng lượng natri và bất lợi cho kiểm soát huyết áp. Nên ăn lượng nhỏ, rửa hoặc vắt bớt nước muối và không thay thế rau tươi."
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "kim_chi",
@@ -4805,7 +4930,8 @@
           "evidence_level": "Hạn chế",
           "explanation": "Kim chi thường ít năng lượng và có rau, chất xơ, nhưng thường nhiều natri; không có bằng chứng để khẳng định kim chi phòng hoặc chữa ung thư, bệnh tim hay đái tháo đường. Chất chống oxy hóa chỉ nên diễn đạt là hỗ trợ bảo vệ tế bào, không phải điều trị bệnh. [62][68]"
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "tuong_hot",
@@ -4863,7 +4989,8 @@
           "evidence_level": "Trung bình",
           "explanation": "Đậu nành là nguồn protein thực vật có giá trị, nhưng tương chỉ là gia vị và không nên dùng thay thế các nguồn đạm chính. Lợi ích dinh dưỡng phụ thuộc thành phần thực tế của từng sản phẩm."
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "ruou_nep_cam",
@@ -4912,7 +5039,8 @@
           "evidence_level": "Mạnh",
           "explanation": "Rượu có thể làm tăng nguy cơ tổn thương gan và nhiều bệnh mạn tính; các sắc tố chống oxy hóa trong gạo nếp cẩm không loại bỏ được tác hại của ethanol. Không dùng rượu nếp cẩm để điều trị hoặc bồi bổ cho trẻ em, phụ nữ mang thai hay người bệnh gan."
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "giam_tao",
@@ -4961,7 +5089,8 @@
           "evidence_level": "Trung bình",
           "explanation": "Giấm táo có tính acid, có thể gây mòn men răng, kích ứng thực quản hoặc dạ dày khi uống nguyên chất. Nếu sử dụng, cần pha loãng; không nên uống trực tiếp hoặc dùng thay thuốc. [76][81]"
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "tra_hoa_cuc",
@@ -5010,7 +5139,8 @@
           "evidence_level": "Hạn chế",
           "explanation": "Một số hướng dẫn thực hành dân gian sử dụng hoa cúc trong đồ uống thảo mộc cho khó tiêu, nhưng chưa đủ bằng chứng để xem trà hoa cúc là phương pháp điều trị viêm loét, trào ngược hoặc bệnh tiêu hóa. [81][89]"
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "tra_muop_dang",
@@ -5062,7 +5192,8 @@
           "evidence_level": "Hạn chế",
           "explanation": "Mướp đắng là thực phẩm có chất xơ và các hợp chất thực vật; trà lọc từ quả có thể không cung cấp lượng chất xơ tương đương ăn cả quả. Không dùng hạt, lá hoặc dây leo với mục đích tự điều trị vì mức độ an toàn khác nhau. [87]"
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "nuoc_dua_tuoi",
@@ -5111,7 +5242,8 @@
           "evidence_level": "Hạn chế đến trung bình",
           "explanation": "Kali trong chế độ ăn có vai trò đối với huyết áp, nhưng nước dừa không phải thuốc hạ áp. Người bệnh thận, tăng kali máu hoặc đang dùng thuốc ảnh hưởng kali cần hỏi bác sĩ trước khi uống thường xuyên."
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "mu_trom",
@@ -5162,7 +5294,8 @@
           "evidence_level": "Không đủ bằng chứng",
           "explanation": "Mủ trôm chủ yếu là chất xơ hòa tan và bản thân không phải thuốc hạ đường huyết hay giảm cân. Các món mủ trôm pha đường, nước cốt dừa hoặc siro có thể làm tăng năng lượng và đường hấp thu."
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "tuyet_yen",
@@ -5213,7 +5346,8 @@
           "evidence_level": "Không đủ bằng chứng",
           "explanation": "Tuyết yến không phải thực phẩm chữa bệnh, thải độc gan hay điều chỉnh đường huyết đã được chứng minh lâm sàng. Những lợi ích quảng cáo về chống lão hóa, tăng miễn dịch và phòng tăng huyết áp cần được xem là chưa xác lập; đặc biệt phải phân biệt tuyết yến với mủ trôm và sản phẩm không rõ nguồn gốc. [82]"
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "hat_dieu",
@@ -5268,7 +5402,8 @@
           "evidence_level": "Trung bình",
           "explanation": "Magie và đồng tham gia vào chức năng thần kinh, cơ và chuyển hóa xương; hạt điều không phải thuốc điều trị loãng xương hoặc bệnh thần kinh. [97]"
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "hat_macca",
@@ -5324,7 +5459,8 @@
           "evidence_level": "Hạn chế",
           "explanation": "Hạt macca có chất xơ và một số khoáng chất, nhưng ăn quá nhiều dễ làm tăng năng lượng khẩu phần. Người dị ứng các loại hạt cần tránh sử dụng."
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "hat_bi_ngo",
@@ -5379,7 +5515,8 @@
           "evidence_level": "Trung bình",
           "explanation": "Hạt bí ngô cung cấp kẽm, magie, protein và chất béo; các chất này hỗ trợ chức năng miễn dịch, thần kinh và cơ bắp, nhưng không thay thế thuốc hoặc viên bổ sung khi có thiếu chất được chẩn đoán."
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "hat_chia",
@@ -5440,6 +5577,9 @@
           "evidence_level": "Hạn chế đến trung bình",
           "explanation": "Hạt chia cung cấp chất xơ, acid alpha-linolenic, protein và khoáng chất; có thể hỗ trợ các yếu tố nguy cơ khi kết hợp chế độ ăn và vận động phù hợp, nhưng không điều trị tăng huyết áp, rối loạn mỡ máu hoặc đái tháo đường. [107][108]"
         }
+      ],
+      "super_tags": [
+        "🐟 Siêu Omega-3"
       ]
     },
     {
@@ -5495,7 +5635,8 @@
           "evidence_level": "Hạn chế",
           "explanation": "Hạt hướng dương cung cấp chất xơ và một số khoáng chất, nhưng không nên ăn quá nhiều vì giàu năng lượng; loại rang muối có thể làm tăng lượng natri."
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "mang_cut",
@@ -5551,7 +5692,8 @@
           "evidence_level": "Hạn chế",
           "explanation": "Chất xơ trong trái cây có thể hỗ trợ nhu động ruột; vỏ măng cụt hoặc chế phẩm cô đặc không nên tự dùng để điều trị bệnh vì liều lượng và độ an toàn chưa được xác lập rõ."
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "chanh_day",
@@ -5606,7 +5748,8 @@
           "evidence_level": "Trung bình",
           "explanation": "Chanh dây có vitamin C và các hợp chất thực vật, có thể hỗ trợ bảo vệ tế bào khỏi stress oxy hóa; không nên diễn giải thành tác dụng phòng hoặc chữa ung thư."
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "hong_gion",
@@ -5666,7 +5809,8 @@
           "evidence_level": "Hạn chế",
           "explanation": "Hồng cung cấp một số vitamin, khoáng chất và polyphenol; các chất chống oxy hóa chỉ được xem là hỗ trợ bảo vệ tế bào, không phải thuốc phòng hoặc điều trị ung thư."
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "nhan",
@@ -5722,7 +5866,8 @@
           "evidence_level": "Hạn chế",
           "explanation": "Nhãn có một lượng chất xơ nhưng cũng chứa đường tự nhiên; người đái tháo đường hoặc đang kiểm soát cân nặng cần tính vào tổng lượng carbohydrate và ưu tiên ăn quả tươi thay vì nhãn sấy hoặc sản phẩm thêm đường."
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "vai",
@@ -5779,7 +5924,8 @@
           "evidence_level": "Hạn chế",
           "explanation": "Vải có chất xơ nhưng chứa đường tự nhiên tương đối cao; nên ăn khẩu phần vừa phải, ưu tiên quả tươi và không xem vải sấy hoặc nước vải thêm đường là thực phẩm phòng bệnh."
         }
-      ]
+      ],
+      "super_tags": []
     },
     {
       "id": "tra_sua_tran_chau",
@@ -5813,7 +5959,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "nuoc_ngot_co_gas",
@@ -5848,7 +5995,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "nuoc_tang_luc",
@@ -5887,7 +6035,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "tra_chanh_dong_chai",
@@ -5921,7 +6070,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "sua_dac_co_duong",
@@ -5964,7 +6114,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "nuoc_ep_trai_cay_dong_hop",
@@ -5998,7 +6149,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "nuoc_khoang_vi_trai_cay_co_duong",
@@ -6032,7 +6184,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "ga_ran_cong_nghiep",
@@ -6076,7 +6229,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "khoai_tay_chien",
@@ -6120,7 +6274,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "hamburger",
@@ -6164,7 +6319,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "pizza_cong_nghiep",
@@ -6204,7 +6360,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "xien_ban",
@@ -6248,7 +6405,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "pho_mai_que_chien",
@@ -6288,7 +6446,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "nem_chua_ran",
@@ -6332,7 +6491,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "xuc_xich_cong_nghiep",
@@ -6377,7 +6537,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "thit_xong_khoi",
@@ -6421,7 +6582,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "dam_bong",
@@ -6464,7 +6626,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "lap_xuong",
@@ -6508,7 +6671,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "pate_dong_hop",
@@ -6556,7 +6720,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "thit_hop_spam",
@@ -6605,7 +6770,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "mi_an_lien",
@@ -6648,7 +6814,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "bim_bim",
@@ -6690,7 +6857,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "kem_cong_nghiep",
@@ -6733,7 +6901,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "banh_ngot_dong_goi",
@@ -6776,7 +6945,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "keo_mut_keo_deo_mau",
@@ -6810,7 +6980,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "socola_sua_cong_nghiep",
@@ -6857,7 +7028,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "trai_cay_say_tam_duong",
@@ -6900,7 +7072,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "bo_thuc_vat",
@@ -6943,7 +7116,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "ngu_coc_an_sang_tam_mau",
@@ -6987,7 +7161,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     },
     {
       "id": "tran_chau_den",
@@ -7030,7 +7205,8 @@
         "tieu_duong",
         "tieu_hoa"
       ],
-      "diets": []
+      "diets": [],
+      "super_tags": []
     }
   ],
   "diseases": [

@@ -102,7 +102,7 @@ function updateData() {
 
       console.log("Analyzing disease prevention data from Markdown files...");
       try {
-        const benhContent = fs.readFileSync(path.join(__dirname, '../Source_fer_food_benh.md'), 'utf8') + '\n' + fs.readFileSync(path.join(__dirname, '../benh.md'), 'utf8');
+        const benhContent = fs.readFileSync(path.join(__dirname, '../Source_medical.md'), 'utf8');
         
         const acronymMap = {
           "TGG": "trung_ga_ta", "UGG": "uc_ga", "TBT": "thit_bo_than", "TLN": "thit_lon_nac", "CBG": "chim_bo_cau", "TVT": "thit_vit",
@@ -197,3 +197,4 @@ function updateData() {
 }
 
 updateData();
+require('./enrich_data.js');
