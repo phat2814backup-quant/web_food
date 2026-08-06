@@ -46,6 +46,20 @@
         "blue_zones",
         "longevity",
         "dash"
+      ],
+      "disease_prevention": [
+        {
+          "disease": "Thi?u vitamin C, folat v� m?t s? kho�ng ch?t",
+          "effect": "H? tr? b? sung vitamin, folat, canxi, s?t v� ch?t xo",
+          "evidence_level": "Trung b�nh",
+          "explanation": "Rau ng�t l� lo?i rau gi�u dinh du?ng, c� th? g�p ph?n c?i thi?n ch?t lu?ng kh?u ph?n v� h? tr? s?c kh?e m�u, xuong, mi?n d?ch. Kh�ng n�n xem rau ng�t l� thu?c di?u tr? thi?u m�u ho?c b?nh m?n t�nh."
+        },
+        {
+          "disease": "T�o b�n ch?c nang",
+          "effect": "H? tr? nhu d?ng ru?t v� ti�u h�a",
+          "evidence_level": "H?n ch? d?n trung b�nh",
+          "explanation": "Ch?t xo v� nu?c trong rau ng�t c� th? h? tr? nhu d?ng ru?t khi an ch�n trong ch? d? an c�n d?i. C�c tuy�n b? d�n gian nhu ch?a d?t di?m s?t, ho ho?c b?nh gan chua d? b?ng ch?ng l�m s�ng."
+        }
       ]
     },
     {
@@ -393,6 +407,20 @@
         "blue_zones",
         "longevity",
         "dash"
+      ],
+      "disease_prevention": [
+        {
+          "disease": "T�o b�n ch?c nang",
+          "effect": "H? tr? b? sung ch?t xo v� c?i thi?n ti�u h�a",
+          "evidence_level": "Trung b�nh",
+          "explanation": "Rau mu?ng cung c?p ch?t xo, nu?c v� �t nang lu?ng, c� th? h? tr? nhu d?ng ru?t khi d�ng thu?ng xuy�n trong b?a an. [123][125]"
+        },
+        {
+          "disease": "Thi?u vitamin A, vitamin C v� m?t s? kho�ng ch?t",
+          "effect": "H? tr? b? sung beta-caroten, vitamin C, s?t, canxi v� kali",
+          "evidence_level": "Trung b�nh",
+          "explanation": "Rau mu?ng ch?a vitamin A, B, C, canxi, phospho v� s?t; c�c vi ch?t n�y h? tr? th? l?c, mi?n d?ch, t?o m�u v� ch?c nang co. S?t t? rau kh�ng thay th? s?t thu?c khi thi?u m�u d� du?c ch?n do�n. [123][125]"
+        }
       ]
     },
     {
@@ -857,7 +885,27 @@
       "main_category": "🟠 Đợt 2: Các loại củ & Rễ giàu chất chống oxy hóa",
       "cures": [],
       "avoids": [],
-      "diets": []
+      "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Thi?u vitamin A",
+          "effect": "H? tr? b? sung beta-caroten, ti?n ch?t c?a vitamin A",
+          "evidence_level": "Trung b�nh",
+          "explanation": "B� d? gi�u carotenoid, c� th? g�p ph?n duy tr� th? l?c v� ch?c nang mi?n d?ch; co th? chuy?n d?i beta-caroten th�nh vitamin A theo nhu c?u. Kh�ng n�n di?n gi?i carotenoid l� ch?t ch?a ung thu."
+        },
+        {
+          "disease": "T�o b�n ch?c nang",
+          "effect": "H? tr? b? sung ch?t xo v� nu?c",
+          "evidence_level": "Trung b�nh",
+          "explanation": "B� d? c� ch?t xo v� nu?c, gi�p tang ch?t lu?ng kh?u ph?n v� h? tr? nhu d?ng ru?t. L?i �ch ph�ng b?nh m?n t�nh ch? c� � nghia trong t?ng th? ch? d? an gi�u rau qu?, v?n d?ng v� ki?m so�t c�n n?ng."
+        },
+        {
+          "disease": "B?nh tim m?ch chuy?n h�a",
+          "effect": "C� th? h? tr? ch? d? an l�nh m?nh nh? �t ch?t b�o v� ch?a carotenoid",
+          "evidence_level": "H?n ch? d?n trung b�nh",
+          "explanation": "Carotenoid c� ho?t t�nh ch?ng oxy h�a, ch? n�n m� t? l� h? tr? b?o v? t? b�o v� g�p ph?n v�o ch? d? an t?t cho tim; b� d? kh�ng di?u tr? tang huy?t �p, r?i lo?n m? m�u ho?c ung thu."
+        }
+      ]
     },
     {
       "id": "muop_dang",
@@ -905,6 +953,20 @@
         "blue_zones",
         "longevity",
         "dash"
+      ],
+      "disease_prevention": [
+        {
+          "disease": "Tang du?ng huy?t v� d�i th�o du?ng type 2",
+          "effect": "C� th? h? tr? ki?m so�t du?ng huy?t, kh�ng thay th? thu?c",
+          "evidence_level": "H?n ch?",
+          "explanation": "Mu?p d?ng ch?a c�c h?p ch?t c� th? ?nh hu?ng d?n chuy?n h�a glucose, nhung b?ng ch?ng l�m s�ng chua d? d? kh?ng d?nh kh? nang ph�ng ho?c ch?a d�i th�o du?ng. Ngu?i dang d�ng thu?c h? du?ng huy?t c?n th?n tr?ng v� c� th? tang nguy co h? du?ng huy?t. [87]"
+        },
+        {
+          "disease": "T�o b�n do thi?u ch?t xo",
+          "effect": "H? tr? b? sung ch?t xo v� nu?c",
+          "evidence_level": "H?n ch?",
+          "explanation": "Mu?p d?ng l� th?c ph?m �t nang lu?ng, c� ch?t xo v� c�c h?p ch?t th?c v?t; c� th? g�p ph?n v�o ch? d? an ki?m so�t c�n n?ng. Kh�ng d�ng mu?p d?ng thay thu?c di?u tr? b?nh."
+        }
       ]
     },
     {
@@ -2350,6 +2412,20 @@
         "blue_zones",
         "longevity",
         "dash"
+      ],
+      "disease_prevention": [
+        {
+          "disease": "Thi?u vitamin C v� ch?t xo",
+          "effect": "H? tr? b? sung vitamin C, ch?t xo v� polyphenol",
+          "evidence_level": "H?n ch? d?n trung b�nh",
+          "explanation": "D�u t?m l� tr�i c�y c� nu?c, ch?t xo, vitamin C v� c�c h?p ch?t m�u th?c v?t; c� th? h? tr? s?c kh?e t?ng th? v� b?o v? t? b�o kh?i stress oxy h�a, nhung kh�ng ch?a ung thu ho?c b?nh m?n t�nh."
+        },
+        {
+          "disease": "T�o b�n ch?c nang",
+          "effect": "H? tr? c?i thi?n lu?ng ch?t xo trong kh?u ph?n",
+          "evidence_level": "H?n ch?",
+          "explanation": "Ch?t xo trong d�u t?m c� th? h? tr? nhu d?ng ru?t khi an qu? tuoi v� u?ng d? nu?c. D�u t?m s?y, siro ho?c nu?c �p th�m du?ng c� th? l�m tang lu?ng du?ng v� nang lu?ng."
+        }
       ]
     },
     {
@@ -2388,7 +2464,27 @@
       "main_category": "🟤 Đợt 5: Thảo mộc, Gia vị & Dược liệu hàng ngày",
       "cures": [],
       "avoids": [],
-      "diets": []
+      "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "B?nh tim m?ch",
+          "effect": "C� th? h? tr? c?i thi?n m?t s? y?u t? nguy co nhu huy?t �p v� cholesterol",
+          "evidence_level": "H?n ch? d?n trung b�nh",
+          "explanation": "C�c h?p ch?t luu hu?nh trong t?i c� th? g�p ph?n l�m gi?m nh? huy?t �p ho?c cholesterol ? m?t s? ngu?i, nhung t?i kh�ng thay th? thu?c h? �p, thu?c h? lipid ho?c thu?c ch?ng d�ng. [137][141]"
+        },
+        {
+          "disease": "C?m l?nh th�ng thu?ng",
+          "effect": "C� th? h? tr? s?c kh?e mi?n d?ch v� gi?m m?c d? tri?u ch?ng ? m?t s? tru?ng h?p",
+          "evidence_level": "H?n ch?",
+          "explanation": "T?i ch?a allicin v� c�c h?p ch?t luu hu?nh; b?ng ch?ng v? ph�ng c?m l?nh c�n kh�ng d?ng nh?t. T?i kh�ng di?t du?c m?i virus, kh�ng thay th? vaccine ho?c thu?c di?u tr? nhi?m tr�ng. [138][142]"
+        },
+        {
+          "disease": "Ung thu",
+          "effect": "Ch? c� th? h? tr? m?t ch? d? an l�nh m?nh; kh�ng ch?ng minh kh? nang di?u tr? ho?c ph�ng ng?a d?c l?p",
+          "evidence_level": "Kh�ng d? b?ng ch?ng l�m s�ng",
+          "explanation": "C�c h?p ch?t ch?ng oxy h�a trong t?i c� th? h? tr? b?o v? t? b�o, nhung kh�ng du?c g?i l� thu?c ch?ng ung thu ho?c ch?a ung thu. Ngu?i dang d�ng thu?c ch?ng d�ng c?n h?i b�c si n?u d�ng t?i li?u cao ho?c ch? ph?m c� d?c v� c� th? ?nh hu?ng nguy co ch?y m�u. [136][139]"
+        }
+      ]
     },
     {
       "id": "gung",
@@ -3837,7 +3933,21 @@
       "main_category": "🟣 Đợt 8: Đạm lành mạnh & Thực phẩm bổ dưỡng",
       "cures": [],
       "avoids": [],
-      "diets": []
+      "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Thiếu máu thiếu sắt và thiếu vitamin B12",
+          "effect": "Hỗ trợ phòng ngừa khi được sử dụng trong khẩu phần cân đối",
+          "evidence_level": "Trung bình",
+          "explanation": "Trứng cung cấp protein, vitamin B12, sắt và một số vi chất cần cho quá trình tạo máu; không thay thế thuốc hoặc phác đồ điều trị thiếu máu. Lòng đỏ cũng chứa vitamin A, nhưng không nên xem trứng là thực phẩm chữa bệnh. [49][57]"
+        },
+        {
+          "disease": "Loãng xương",
+          "effect": "Hỗ trợ duy trì sức khỏe xương",
+          "evidence_level": "Trung bình",
+          "explanation": "Trứng cung cấp protein, phospho và một lượng vitamin D cùng các vi chất liên quan đến chuyển hóa xương; hiệu quả phụ thuộc tổng thể chế độ ăn, vận động và tình trạng vitamin D. [13]"
+        }
+      ]
     },
     {
       "id": "uc_ga",
@@ -3875,7 +3985,21 @@
       "main_category": "🟣 Đợt 8: Đạm lành mạnh & Thực phẩm bổ dưỡng",
       "cures": [],
       "avoids": [],
-      "diets": []
+      "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Suy giảm khối lượng cơ và suy dinh dưỡng do thiếu protein",
+          "effect": "Hỗ trợ duy trì và phát triển cơ bắp",
+          "evidence_level": "Trung bình",
+          "explanation": "Ức gà là nguồn protein chất lượng cao, thường ít chất béo nếu bỏ da; có thể phù hợp trong khẩu phần kiểm soát năng lượng nhưng không trực tiếp phòng hoặc chữa bệnh. [4]"
+        },
+        {
+          "disease": "Thiếu máu do thiếu vitamin B12 hoặc sắt",
+          "effect": "Hỗ trợ cung cấp vi chất tạo máu",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Ức gà cung cấp vitamin B12, sắt và kẽm, nhưng lượng sắt không cao như thịt đỏ; cần đánh giá nguyên nhân thiếu máu trước khi bổ sung. [4]"
+        }
+      ]
     },
     {
       "id": "thit_bo_than",
@@ -3916,7 +4040,21 @@
         "tim_mach",
         "xuong_khop"
       ],
-      "diets": []
+      "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Thiếu máu thiếu sắt",
+          "effect": "Hỗ trợ phòng ngừa ở người có nguy cơ",
+          "evidence_level": "Trung bình",
+          "explanation": "Thịt bò cung cấp sắt heme, dạng sắt được hấp thu hiệu quả, cùng vitamin B12 và protein; ăn vừa phải có thể góp phần giảm nguy cơ thiếu máu do thiếu sắt nhưng không thay thế điều trị y khoa. [41][42]"
+        },
+        {
+          "disease": "Suy giảm khối lượng cơ",
+          "effect": "Hỗ trợ duy trì cơ bắp và chức năng thể chất",
+          "evidence_level": "Trung bình",
+          "explanation": "Thịt bò thăn cung cấp protein chất lượng cao, vitamin B12, kẽm và sắt; nên ưu tiên phần nạc, khẩu phần phù hợp và hạn chế chế biến cháy khét. [37]"
+        }
+      ]
     },
     {
       "id": "thit_lon_nac",
@@ -3957,7 +4095,21 @@
         "tim_mach",
         "xuong_khop"
       ],
-      "diets": []
+      "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Thiếu máu thiếu sắt",
+          "effect": "Hỗ trợ cung cấp sắt và protein",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Thịt lợn nạc cung cấp protein, sắt, kẽm và vitamin nhóm B; có thể góp phần phòng thiếu chất trong khẩu phần đa dạng nhưng không có tác dụng điều trị độc lập. [47]"
+        },
+        {
+          "disease": "Suy dinh dưỡng do thiếu protein",
+          "effect": "Hỗ trợ đáp ứng nhu cầu đạm",
+          "evidence_level": "Trung bình",
+          "explanation": "Protein trong thịt lợn nạc hỗ trợ duy trì cơ bắp và phục hồi mô; nên chọn phần nạc, chế biến chín kỹ và hạn chế thịt chế biến sẵn. [47][59]"
+        }
+      ]
     },
     {
       "id": "chim_bo_cau",
@@ -3994,7 +4146,21 @@
       "main_category": "🟣 Đợt 8: Đạm lành mạnh & Thực phẩm bổ dưỡng",
       "cures": [],
       "avoids": [],
-      "diets": []
+      "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Suy dinh dưỡng do thiếu protein",
+          "effect": "Hỗ trợ bổ sung protein và acid amin thiết yếu",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Thịt chim bồ câu có protein tương đối cao, ít chất béo theo một số dữ liệu dinh dưỡng; có thể dùng như một nguồn đạm, nhưng chưa có bằng chứng đủ mạnh cho công dụng phòng hoặc chữa một bệnh cụ thể. [46][56]"
+        },
+        {
+          "disease": "Thiếu vi chất dinh dưỡng",
+          "effect": "Hỗ trợ bổ sung một số vitamin và khoáng chất",
+          "evidence_level": "Hạn chế",
+          "explanation": "Thịt bồ câu cung cấp vitamin A, B1, B2, E và các khoáng chất; lợi ích chỉ có ý nghĩa trong tổng thể chế độ ăn cân đối, không nên diễn giải là thuốc bổ chữa bách bệnh. [46]"
+        }
+      ]
     },
     {
       "id": "thit_vit",
@@ -4032,7 +4198,21 @@
       "main_category": "🟣 Đợt 8: Đạm lành mạnh & Thực phẩm bổ dưỡng",
       "cures": [],
       "avoids": [],
-      "diets": []
+      "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Thiếu máu do thiếu vitamin B12 và sắt",
+          "effect": "Hỗ trợ cung cấp protein, sắt và vitamin nhóm B",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Thịt vịt cung cấp protein, sắt, phospho và một số vitamin; phần có da chứa nhiều năng lượng và chất béo hơn, vì vậy nên ưu tiên phần nạc hoặc bỏ da nếu cần kiểm soát mỡ máu và năng lượng. [31][34]"
+        },
+        {
+          "disease": "Suy giảm khối lượng cơ",
+          "effect": "Hỗ trợ duy trì cơ bắp",
+          "evidence_level": "Trung bình",
+          "explanation": "Protein trong thịt vịt góp phần duy trì cơ và phục hồi mô; đây là hỗ trợ dinh dưỡng, không phải phương pháp điều trị bệnh cơ hoặc bệnh mạn tính. [32][35]"
+        }
+      ]
     },
     {
       "id": "sua_chua",
@@ -4073,7 +4253,27 @@
         "xuong_khop"
       ],
       "avoids": [],
-      "diets": []
+      "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Rối loạn tiêu hóa liên quan đến hệ vi sinh đường ruột",
+          "effect": "Hỗ trợ cân bằng hệ vi sinh và chức năng tiêu hóa",
+          "evidence_level": "Trung bình",
+          "explanation": "Sữa chua lên men chứa các chủng vi khuẩn có lợi; một số sản phẩm có thể hỗ trợ tiêu hóa và giảm một số triệu chứng đường ruột, nhưng hiệu quả phụ thuộc chủng lợi khuẩn, liều lượng và từng người. [18][21][25]"
+        },
+        {
+          "disease": "Loãng xương",
+          "effect": "Hỗ trợ duy trì mật độ xương",
+          "evidence_level": "Trung bình",
+          "explanation": "Sữa chua cung cấp canxi, protein và một số vitamin cần cho xương; nên ưu tiên loại ít đường hoặc không đường để hạn chế năng lượng dư thừa. [17][18][22]"
+        },
+        {
+          "disease": "Bệnh tim mạch chuyển hóa",
+          "effect": "Có thể hỗ trợ giảm nguy cơ khi dùng trong chế độ ăn lành mạnh",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Một số bằng chứng quan sát liên hệ việc dùng sữa chua với nguy cơ thấp hơn của bệnh tim mạch chuyển hóa, nhưng không chứng minh sữa chua điều trị tăng huyết áp, đái tháo đường hoặc bệnh tim. [16][18]"
+        }
+      ]
     },
     {
       "id": "sua_bo_tuoi_nguyen_chat",
@@ -4114,7 +4314,21 @@
         "xuong_khop"
       ],
       "avoids": [],
-      "diets": []
+      "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Loãng xương và thiếu canxi",
+          "effect": "Hỗ trợ cung cấp canxi và protein cho xương",
+          "evidence_level": "Trung bình",
+          "explanation": "Sữa bò là nguồn canxi và protein quan trọng giúp xây dựng, duy trì khối lượng xương; lựa chọn loại sữa cần phù hợp với nhu cầu năng lượng, mỡ máu và khả năng dung nạp lactose. [16][27]"
+        },
+        {
+          "disease": "Thiếu vitamin B12 và một số vi chất",
+          "effect": "Hỗ trợ bổ sung protein, vitamin B12 và khoáng chất",
+          "evidence_level": "Trung bình",
+          "explanation": "Sữa cung cấp protein, canxi và các vitamin, khoáng chất; không có bằng chứng cho thấy sữa tươi nguyên chất chữa được bệnh mạn tính. Sữa chưa tiệt trùng có nguy cơ nhiễm khuẩn và không nên dùng thay cho sữa đã xử lý an toàn. [20][27]"
+        }
+      ]
     },
     {
       "id": "gan_ga",
@@ -4152,7 +4366,21 @@
       "main_category": "🟣 Đợt 8: Đạm lành mạnh & Thực phẩm bổ dưỡng",
       "cures": [],
       "avoids": [],
-      "diets": []
+      "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Thiếu vitamin A",
+          "effect": "Hỗ trợ phòng ngừa thiếu vitamin A khi dùng lượng phù hợp",
+          "evidence_level": "Trung bình",
+          "explanation": "Gan gà rất giàu retinol, cần cho thị lực và chức năng miễn dịch; tuy nhiên hàm lượng cao làm tăng nguy cơ thừa vitamin A nếu ăn nhiều hoặc dùng cùng thực phẩm bổ sung vitamin A. [48][49][53]"
+        },
+        {
+          "disease": "Thiếu máu thiếu sắt và folat",
+          "effect": "Hỗ trợ cung cấp sắt, folat, vitamin B12 và protein",
+          "evidence_level": "Trung bình",
+          "explanation": "Gan gà chứa nhiều sắt, folat và vitamin nhóm B, có thể hỗ trợ khẩu phần của người thiếu vi chất; không được tự dùng gan để điều trị thiếu máu khi chưa xác định nguyên nhân. [48][53]"
+        }
+      ]
     },
     {
       "id": "yen_sao",
@@ -4191,7 +4419,21 @@
       "main_category": "🟣 Đợt 8: Đạm lành mạnh & Thực phẩm bổ dưỡng",
       "cures": [],
       "avoids": [],
-      "diets": []
+      "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Suy dinh dưỡng do thiếu năng lượng và protein",
+          "effect": "Hỗ trợ bổ sung protein trong khẩu phần",
+          "evidence_level": "Hạn chế",
+          "explanation": "Yến sào chứa protein và acid amin, có thể dùng như một thực phẩm bổ sung cho người ăn kém hoặc cần tăng đạm; chưa có bằng chứng lâm sàng chắc chắn rằng yến sào phòng hoặc điều trị một bệnh cụ thể. [39][44]"
+        },
+        {
+          "disease": "Suy giảm thể trạng sau bệnh",
+          "effect": "Có thể hỗ trợ phục hồi dinh dưỡng khi phối hợp với chế độ ăn đầy đủ",
+          "evidence_level": "Hạn chế",
+          "explanation": "Yến sào thường được dùng để bồi bổ ở người mới ốm dậy, nhưng các tuyên bố như chống lão hóa, tăng miễn dịch mạnh hoặc chữa bệnh hô hấp chưa đủ bằng chứng để xem là tác dụng điều trị. Theo y học cổ truyền, yến có vị ngọt, tính bình, quy vào Phế, Vị và Thận; đây là mô tả lý luận truyền thống, không thay thế bằng chứng lâm sàng hiện đại. [36][39]"
+        }
+      ]
     },
     {
       "id": "dua_cai_chua",
@@ -4237,6 +4479,20 @@
         "blue_zones",
         "longevity",
         "dash"
+      ],
+      "disease_prevention": [
+        {
+          "disease": "Rối loạn tiêu hóa liên quan đến hệ vi sinh đường ruột",
+          "effect": "Có thể hỗ trợ đa dạng hóa hệ vi sinh khi dùng sản phẩm lên men đúng cách",
+          "evidence_level": "Hạn chế",
+          "explanation": "Dưa cải chua lên men có thể chứa vi khuẩn lactic và một số chất xơ; tuy nhiên lượng lợi khuẩn thay đổi theo cách muối, thời gian lên men và bảo quản. Không dùng dưa bị mốc, nhớt hoặc có mùi bất thường."
+        },
+        {
+          "disease": "Tăng huyết áp và bệnh tim mạch",
+          "effect": "Không nên xem là thực phẩm phòng bệnh; cần hạn chế ở người có nguy cơ",
+          "evidence_level": "Trung bình",
+          "explanation": "Dưa cải chua thường chứa nhiều muối, ăn nhiều có thể làm tăng lượng natri và bất lợi cho kiểm soát huyết áp. Nên ăn lượng nhỏ, rửa hoặc vắt bớt nước muối và không thay thế rau tươi."
+        }
       ]
     },
     {
@@ -4284,6 +4540,20 @@
         "blue_zones",
         "longevity",
         "dash"
+      ],
+      "disease_prevention": [
+        {
+          "disease": "Rối loạn tiêu hóa",
+          "effect": "Hỗ trợ tiêu hóa và sức khỏe hệ vi sinh đường ruột",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Kim chi là thực phẩm rau củ lên men, có thể cung cấp chất xơ và một số vi khuẩn lactic; lợi ích phụ thuộc sản phẩm, quá trình lên men và khả năng dung nạp của từng người. [62][68]"
+        },
+        {
+          "disease": "Bệnh tim mạch chuyển hóa",
+          "effect": "Có thể hỗ trợ chế độ ăn kiểm soát cân nặng khi dùng khẩu phần phù hợp",
+          "evidence_level": "Hạn chế",
+          "explanation": "Kim chi thường ít năng lượng và có rau, chất xơ, nhưng thường nhiều natri; không có bằng chứng để khẳng định kim chi phòng hoặc chữa ung thư, bệnh tim hay đái tháo đường. Chất chống oxy hóa chỉ nên diễn đạt là hỗ trợ bảo vệ tế bào, không phải điều trị bệnh. [62][68]"
+        }
       ]
     },
     {
@@ -4328,6 +4598,20 @@
         "blue_zones",
         "longevity",
         "dash"
+      ],
+      "disease_prevention": [
+        {
+          "disease": "Bệnh tim mạch chuyển hóa",
+          "effect": "Có thể hỗ trợ sức khỏe tim mạch khi thay thế một phần thực phẩm giàu chất béo động vật",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Tương đậu nành cung cấp protein thực vật và các hợp chất từ đậu nành; tuy nhiên sản phẩm thường nhiều muối nên cần dùng lượng nhỏ, đặc biệt ở người tăng huyết áp hoặc bệnh thận."
+        },
+        {
+          "disease": "Suy dinh dưỡng do thiếu protein",
+          "effect": "Hỗ trợ bổ sung protein thực vật",
+          "evidence_level": "Trung bình",
+          "explanation": "Đậu nành là nguồn protein thực vật có giá trị, nhưng tương chỉ là gia vị và không nên dùng thay thế các nguồn đạm chính. Lợi ích dinh dưỡng phụ thuộc thành phần thực tế của từng sản phẩm."
+        }
       ]
     },
     {
@@ -4363,7 +4647,21 @@
       "main_category": "🟢 Đợt 9: Thực phẩm lên men & Đồ uống dưỡng sinh",
       "cures": [],
       "avoids": [],
-      "diets": []
+      "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Thiếu năng lượng và suy dinh dưỡng",
+          "effect": "Không được khuyến nghị như biện pháp phòng bệnh",
+          "evidence_level": "Không đủ bằng chứng",
+          "explanation": "Rượu nếp cẩm có thể cung cấp năng lượng và một số hợp chất màu từ gạo nếp cẩm, nhưng ethanol không phải chất dinh dưỡng thiết yếu. Không có cơ sở để dùng rượu nếp cẩm phòng thiếu máu, tim mạch, ung thư hoặc bệnh mạn tính."
+        },
+        {
+          "disease": "Bệnh gan, tăng huyết áp và ung thư liên quan đến rượu",
+          "effect": "Không hỗ trợ phòng bệnh; nên hạn chế hoặc tránh sử dụng",
+          "evidence_level": "Mạnh",
+          "explanation": "Rượu có thể làm tăng nguy cơ tổn thương gan và nhiều bệnh mạn tính; các sắc tố chống oxy hóa trong gạo nếp cẩm không loại bỏ được tác hại của ethanol. Không dùng rượu nếp cẩm để điều trị hoặc bồi bổ cho trẻ em, phụ nữ mang thai hay người bệnh gan."
+        }
+      ]
     },
     {
       "id": "giam_tao",
@@ -4398,7 +4696,21 @@
       "main_category": "🟢 Đợt 9: Thực phẩm lên men & Đồ uống dưỡng sinh",
       "cures": [],
       "avoids": [],
-      "diets": []
+      "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Tăng đường huyết sau ăn",
+          "effect": "Có thể hỗ trợ kiểm soát đường huyết ở mức hạn chế khi pha loãng và dùng trong khẩu phần phù hợp",
+          "evidence_level": "Hạn chế",
+          "explanation": "Acid acetic trong giấm có thể ảnh hưởng đến tốc độ tiêu hóa và đáp ứng đường huyết sau bữa ăn, nhưng giấm táo không điều trị hoặc phòng ngừa đái tháo đường. Cần thận trọng nếu đang dùng thuốc hạ đường huyết. [88]"
+        },
+        {
+          "disease": "Sâu răng và kích ứng đường tiêu hóa",
+          "effect": "Không hỗ trợ phòng bệnh; dùng không đúng cách có thể làm tăng nguy cơ",
+          "evidence_level": "Trung bình",
+          "explanation": "Giấm táo có tính acid, có thể gây mòn men răng, kích ứng thực quản hoặc dạ dày khi uống nguyên chất. Nếu sử dụng, cần pha loãng; không nên uống trực tiếp hoặc dùng thay thuốc. [76][81]"
+        }
+      ]
     },
     {
       "id": "tra_hoa_cuc",
@@ -4433,7 +4745,21 @@
       "main_category": "🟢 Đợt 9: Thực phẩm lên men & Đồ uống dưỡng sinh",
       "cures": [],
       "avoids": [],
-      "diets": []
+      "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất ngủ nhẹ và căng thẳng",
+          "effect": "Có thể hỗ trợ thư giãn và cải thiện chất lượng giấc ngủ",
+          "evidence_level": "Hạn chế",
+          "explanation": "Trà hoa cúc không chứa caffeine tự nhiên và thường được dùng như đồ uống thư giãn; bằng chứng về điều trị mất ngủ còn hạn chế, không thay thế đánh giá nguyên nhân hoặc thuốc được kê."
+        },
+        {
+          "disease": "Khó tiêu nhẹ",
+          "effect": "Có thể hỗ trợ giảm cảm giác khó chịu ở đường tiêu hóa",
+          "evidence_level": "Hạn chế",
+          "explanation": "Một số hướng dẫn thực hành dân gian sử dụng hoa cúc trong đồ uống thảo mộc cho khó tiêu, nhưng chưa đủ bằng chứng để xem trà hoa cúc là phương pháp điều trị viêm loét, trào ngược hoặc bệnh tiêu hóa. [81][89]"
+        }
+      ]
     },
     {
       "id": "tra_muop_dang",
@@ -4471,7 +4797,21 @@
       "main_category": "🟢 Đợt 9: Thực phẩm lên men & Đồ uống dưỡng sinh",
       "cures": [],
       "avoids": [],
-      "diets": []
+      "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Tăng đường huyết và đái tháo đường type 2",
+          "effect": "Có thể hỗ trợ kiểm soát đường huyết, không thay thế thuốc",
+          "evidence_level": "Hạn chế",
+          "explanation": "Mướp đắng được nghiên cứu về khả năng ảnh hưởng đến chuyển hóa glucose, nhưng bằng chứng lâm sàng chưa đủ để khẳng định trà mướp đắng phòng hoặc chữa đái tháo đường. Có thể làm hạ đường huyết khi dùng cùng thuốc, cần thận trọng. [87]"
+        },
+        {
+          "disease": "Thiếu chất xơ trong khẩu phần",
+          "effect": "Hỗ trợ bổ sung hợp chất thực vật nếu dùng từ quả mướp đắng phù hợp",
+          "evidence_level": "Hạn chế",
+          "explanation": "Mướp đắng là thực phẩm có chất xơ và các hợp chất thực vật; trà lọc từ quả có thể không cung cấp lượng chất xơ tương đương ăn cả quả. Không dùng hạt, lá hoặc dây leo với mục đích tự điều trị vì mức độ an toàn khác nhau. [87]"
+        }
+      ]
     },
     {
       "id": "nuoc_dua_tuoi",
@@ -4506,7 +4846,21 @@
       "main_category": "🟢 Đợt 9: Thực phẩm lên men & Đồ uống dưỡng sinh",
       "cures": [],
       "avoids": [],
-      "diets": []
+      "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất nước nhẹ",
+          "effect": "Hỗ trợ bổ sung nước và một số chất điện giải",
+          "evidence_level": "Trung bình",
+          "explanation": "Nước dừa tươi cung cấp nước, kali và một số khoáng chất, có thể dùng như một loại đồ uống trong điều kiện thông thường; không thay thế dung dịch bù nước điện giải chuẩn khi tiêu chảy hoặc mất nước nặng."
+        },
+        {
+          "disease": "Tăng huyết áp do thiếu kali trong khẩu phần",
+          "effect": "Có thể hỗ trợ bổ sung kali ở người phù hợp",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Kali trong chế độ ăn có vai trò đối với huyết áp, nhưng nước dừa không phải thuốc hạ áp. Người bệnh thận, tăng kali máu hoặc đang dùng thuốc ảnh hưởng kali cần hỏi bác sĩ trước khi uống thường xuyên."
+        }
+      ]
     },
     {
       "id": "mu_trom",
@@ -4543,7 +4897,21 @@
       "main_category": "🟢 Đợt 9: Thực phẩm lên men & Đồ uống dưỡng sinh",
       "cures": [],
       "avoids": [],
-      "diets": []
+      "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Táo bón chức năng",
+          "effect": "Có thể hỗ trợ tăng lượng chất xơ hòa tan và nước trong khẩu phần",
+          "evidence_level": "Hạn chế",
+          "explanation": "Mủ trôm tạo chất nhầy và có thể làm tăng khối lượng dịch trong đường ruột; cần ngâm nở hoàn toàn và uống đủ nước. Không dùng để điều trị táo bón kéo dài, đau bụng, nôn hoặc tắc ruột."
+        },
+        {
+          "disease": "Tăng đường huyết và tăng cân",
+          "effect": "Có thể hỗ trợ cảm giác no nếu dùng không kèm đường, nhưng không có tác dụng điều trị",
+          "evidence_level": "Không đủ bằng chứng",
+          "explanation": "Mủ trôm chủ yếu là chất xơ hòa tan và bản thân không phải thuốc hạ đường huyết hay giảm cân. Các món mủ trôm pha đường, nước cốt dừa hoặc siro có thể làm tăng năng lượng và đường hấp thu."
+        }
+      ]
     },
     {
       "id": "tuyet_yen",
@@ -4580,7 +4948,21 @@
       "main_category": "🟢 Đợt 9: Thực phẩm lên men & Đồ uống dưỡng sinh",
       "cures": [],
       "avoids": [],
-      "diets": []
+      "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Táo bón chức năng",
+          "effect": "Có thể hỗ trợ bổ sung chất xơ hòa tan và nước",
+          "evidence_level": "Hạn chế",
+          "explanation": "Tuyết yến là nhựa thực vật có tính chất tạo gel, có thể góp phần tăng chất xơ trong món ăn; dữ liệu lâm sàng về phòng hoặc điều trị táo bón còn rất hạn chế. Cần ngâm nở đúng cách và không dùng quá nhiều."
+        },
+        {
+          "disease": "Béo phì và rối loạn chuyển hóa",
+          "effect": "Không đủ bằng chứng để khẳng định phòng bệnh; chỉ có thể hỗ trợ thay thế món tráng miệng nhiều năng lượng nếu không thêm đường",
+          "evidence_level": "Không đủ bằng chứng",
+          "explanation": "Tuyết yến không phải thực phẩm chữa bệnh, thải độc gan hay điều chỉnh đường huyết đã được chứng minh lâm sàng. Những lợi ích quảng cáo về chống lão hóa, tăng miễn dịch và phòng tăng huyết áp cần được xem là chưa xác lập; đặc biệt phải phân biệt tuyết yến với mủ trôm và sản phẩm không rõ nguồn gốc. [82]"
+        }
+      ]
     },
     {
       "id": "hat_dieu",
