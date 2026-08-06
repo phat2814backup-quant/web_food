@@ -21,16 +21,19 @@ const removeDiacritics = (str) => {
 };
 
 const iconForCategory = (category) => {
-  const c = category?.toLowerCase() || "";
-  if (c.includes("thịt")) return "🥩";
-  if (c.includes("cá") || c.includes("thủy") || c.includes("hải")) return "🐟";
-  if (c.includes("trái") || c.includes("quả")) return "🍎";
-  if (c.includes("rau") || c.includes("cải")) return "🥬";
-  if (c.includes("tinh bột") || c.includes("củ")) return "🍠";
-  if (c.includes("trứng") || c.includes("sữa")) return "🥛";
-  if (c.includes("đậu") || c.includes("hạt") || c.includes("ngũ cốc")) return "🥜";
-  if (c.includes("gia vị") || c.includes("thảo mộc")) return "🧄";
-  if (c.includes("nấm")) return "🍄";
+  const c = " " + (category?.toLowerCase().replace(/[,\-\.\(\)]/g, " ").replace(/\s+/g, " ") || "") + " ";
+  
+  if (c.includes(" thịt ") || c.includes(" bò ") || c.includes(" heo ") || c.includes(" gà ") || c.includes(" xúc xích ") || c.includes(" dăm bông ") || c.includes(" lạp xưởng ") || c.includes(" pate ")) return "🥩";
+  if (c.includes(" cá ") || c.includes(" thủy sản ") || c.includes(" hải sản ") || c.includes(" tôm ") || c.includes(" mực ")) return "🐟";
+  if (c.includes(" trái ") || c.includes(" quả ") || c.includes(" trái cây ") || c.includes(" măng cụt ") || c.includes(" chanh dây ") || c.includes(" nhãn ") || c.includes(" vải ")) return "🍎";
+  if (c.includes(" rau ") || c.includes(" cải ") || c.includes(" xà lách ")) return "🥬";
+  if (c.includes(" củ ") || c.includes(" khoai ") || c.includes(" tinh bột ")) return "🍠";
+  if (c.includes(" trứng ") || c.includes(" sữa ") || c.includes(" phô mai ") || c.includes(" bơ ")) return "🥛";
+  if (c.includes(" đậu ") || c.includes(" hạt ") || c.includes(" ngũ cốc ")) return "🥜";
+  if (c.includes(" gia vị ") || c.includes(" thảo mộc ") || c.includes(" hành ") || c.includes(" tỏi ") || c.includes(" nghệ ")) return "🧄";
+  if (c.includes(" nấm ")) return "🍄";
+  if (c.includes(" đồ uống ") || c.includes(" trà ") || c.includes(" nước ngọt ") || c.includes(" boba ") || c.includes(" nước ")) return "🥤";
+  if (c.includes(" fast food ") || c.includes(" chiên ") || c.includes(" snack ") || c.includes(" kẹo ") || c.includes(" bim bim ") || c.includes(" pizza ") || c.includes(" hamburger ") || c.includes(" rán ") || c.includes(" xiên ")) return "🍔";
   return "🍲";
 };
 
