@@ -62,10 +62,15 @@
         }
       ],
       "super_tags": [
+        "🍊 Vua Vitamin C & Tăng cường miễn dịch",
+        "💪 Siêu Protein",
         "🩸 Siêu Sắt",
-        "🦴 Siêu Canxi",
-        "🍊 Vua Vitamin C & Tăng cường miễn dịch"
-      ]
+        "🦴 Siêu Canxi"
+      ],
+      "numProtein": 5.3,
+      "numVitC": 185,
+      "numIron": 2.7,
+      "numCalcium": 169
     },
     {
       "id": "RAUCHUMNGAY",
@@ -151,7 +156,11 @@
         "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh",
         "🍊 Vua Vitamin C & Tăng cường miễn dịch",
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "RAUMA",
@@ -223,7 +232,11 @@
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": 0,
+      "numCalcium": null
     },
     {
       "id": "RAUDEN",
@@ -301,7 +314,11 @@
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh",
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": 0
     },
     {
       "id": "RAUKHOAILANG",
@@ -384,7 +401,11 @@
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "RAUMUONG",
@@ -447,7 +468,11 @@
           "explanation": "Rau muống chứa vitamin A, B, C, canxi, phospho và sắt; các vi chất này hỗ trợ thị lực, miễn dịch, tạo máu và chức năng cơ. Sắt từ rau không thay thế sắt thuốc khi thiếu máu đã được chẩn đoán. [123][125]"
         }
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "RAUCHANVITCAIBOXOI",
@@ -518,7 +543,11 @@
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "CAIBEXANH",
@@ -582,7 +611,11 @@
           "explanation": "Các rau lá xanh chứa phenolic và carotenoid có liên quan tới hoạt tính chống oxy hóa và giảm nguy cơ bệnh mạn tính."
         }
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "LATIATO",
@@ -659,7 +692,11 @@
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "CANTAY",
@@ -743,7 +780,11 @@
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "KHOAILANGTIM",
@@ -800,7 +841,11 @@
       ],
       "super_tags": [
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)"
-      ]
+      ],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "CAROT",
@@ -876,7 +921,11 @@
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "BIO",
@@ -939,7 +988,11 @@
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "MUOPANGKHOQUA",
@@ -991,7 +1044,11 @@
       ],
       "super_tags": [
         "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh"
-      ]
+      ],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": null
     },
     {
       "id": "CACHUA",
@@ -1069,7 +1126,11 @@
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "CUCAITRANG",
@@ -1129,7 +1190,11 @@
           "explanation": "Củ cải được y học cổ truyền La Mã sử dụng để tăng cường miễn dịch, giảm viêm và chữa các bệnh tai mũi họng; hiện đại ghi nhận polyphenol và isothiocyanate có đặc tính kháng khuẩn và chống viêm ."
         }
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "CUDEN",
@@ -1184,7 +1249,11 @@
           "explanation": "Củ dền giàu phytonutrient và chất chống oxy hóa, giúp trung hòa gốc tự do và hỗ trợ phòng ngừa các bệnh mạn tính liên quan stress oxy hóa ."
         }
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": null,
+      "numCalcium": 0
     },
     {
       "id": "CUSEN",
@@ -1238,7 +1307,11 @@
           "explanation": "Củ sen được dùng truyền thống để quản lý rối loạn lipid, huyết áp và béo phì; bằng chứng hiện đại ghi nhận hoạt tính hạ glucose và bảo vệ tim mạch ."
         }
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "CUNGHE",
@@ -1302,7 +1375,11 @@
         "🛡️ Đa dụng Phòng bệnh",
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)",
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "BAPNGO",
@@ -1357,7 +1434,11 @@
           "explanation": "Bắp ngô là nguồn thực phẩm giàu chất xơ và phytonutrient, góp phần trong chế độ ăn thực vật giúp hỗ trợ phòng ngừa các bệnh mạn tính ."
         }
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "AUPHU",
@@ -1409,7 +1490,11 @@
       ],
       "super_tags": [
         "💪 Nguồn Protein chất lượng cao nhất"
-      ]
+      ],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": null
     },
     {
       "id": "AUENXANHLONG",
@@ -1455,7 +1540,11 @@
         "longevity",
         "dash"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": 0
     },
     {
       "id": "AUXANH",
@@ -1505,7 +1594,11 @@
         "longevity",
         "dash"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": null
     },
     {
       "id": "AUO",
@@ -1555,7 +1648,11 @@
         "longevity",
         "dash"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": 0
     },
     {
       "id": "SUAAUNANH",
@@ -1605,7 +1702,11 @@
         "longevity",
         "dash"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": null
     },
     {
       "id": "GAOLUT",
@@ -1654,7 +1755,11 @@
       ],
       "super_tags": [
         "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "HATSEN",
@@ -1701,7 +1806,11 @@
         "blue_zones",
         "longevity"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": null
     },
     {
       "id": "HATMEVUNGEN",
@@ -1751,7 +1860,11 @@
       "super_tags": [
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất",
         "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": null
     },
     {
       "id": "HATOCCHO",
@@ -1801,7 +1914,11 @@
       ],
       "super_tags": [
         "🐟 Giàu Omega-3 & Chất béo tốt nhất"
-      ]
+      ],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "HATHANHNHAN",
@@ -1849,7 +1966,11 @@
         "blue_zones",
         "longevity"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": null
     },
     {
       "id": "CHUOICHIN",
@@ -1897,7 +2018,11 @@
         "longevity",
         "dash"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "BUOI",
@@ -1946,7 +2071,11 @@
         "longevity",
         "dash"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "UUCHIN",
@@ -1995,7 +2124,11 @@
         "longevity",
         "dash"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "TRAIBO",
@@ -2045,7 +2178,11 @@
       ],
       "super_tags": [
         "🐟 Giàu Omega-3 & Chất béo tốt nhất"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "TRAILUU",
@@ -2095,7 +2232,11 @@
       ],
       "super_tags": [
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "CAMTUOI",
@@ -2144,7 +2285,11 @@
         "longevity",
         "dash"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "THANHLONGRUOTO",
@@ -2192,7 +2337,11 @@
         "longevity",
         "dash"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "TRAIOI",
@@ -2244,7 +2393,11 @@
       ],
       "super_tags": [
         "🍊 Vua Vitamin C & Tăng cường miễn dịch"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": null,
+      "numCalcium": 0
     },
     {
       "id": "TAO",
@@ -2297,7 +2450,11 @@
       "super_tags": [
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất",
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "TRAIDAUTAM",
@@ -2348,7 +2505,11 @@
       ],
       "super_tags": [
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": null,
+      "numCalcium": 0
     },
     {
       "id": "TOI",
@@ -2410,7 +2571,11 @@
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh"
-      ]
+      ],
+      "numProtein": null,
+      "numVitC": null,
+      "numIron": 0,
+      "numCalcium": null
     },
     {
       "id": "GUNG",
@@ -2451,7 +2616,11 @@
       "cures": [],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "HANHTAY",
@@ -2491,7 +2660,11 @@
       "cures": [],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "SA",
@@ -2532,7 +2705,11 @@
       "diets": [],
       "super_tags": [
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "MATONGNGUYENCHAT",
@@ -2573,7 +2750,11 @@
       "cures": [],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "TRAXANHLATUOI",
@@ -2616,7 +2797,11 @@
       "diets": [],
       "super_tags": [
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "ONGTRUNGHATHAO",
@@ -2657,7 +2842,11 @@
       "diets": [],
       "super_tags": [
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
-      ]
+      ],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "CHANHTUOI",
@@ -2706,7 +2895,11 @@
         "longevity",
         "dash"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "KYTU",
@@ -2750,7 +2943,11 @@
       "super_tags": [
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)",
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
-      ]
+      ],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "TAOOTAOTAU",
@@ -2793,7 +2990,11 @@
       "diets": [],
       "super_tags": [
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "NAMHUONGNAMONGCO",
@@ -2836,7 +3037,11 @@
       ],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "NAMROM",
@@ -2879,7 +3084,11 @@
       ],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": null
     },
     {
       "id": "NAMKIMCHAM",
@@ -2921,7 +3130,11 @@
       ],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "NAMUIGA",
@@ -2962,7 +3175,11 @@
       ],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "NAMBAONGUNAMSO",
@@ -3018,7 +3235,11 @@
           "explanation": "Mướp đắng là thực phẩm ít năng lượng, có chất xơ và các hợp chất thực vật; có thể góp phần vào chế độ ăn kiểm soát cân nặng. Không dùng mướp đắng thay thuốc điều trị bệnh."
         }
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": 0
     },
     {
       "id": "NAMTUYETNGANNHI",
@@ -3074,7 +3295,11 @@
           "explanation": "Đậu nành là nguồn protein thực vật có giá trị, nhưng tương chỉ là gia vị và không nên dùng thay thế các nguồn đạm chính. Lợi ích dinh dưỡng phụ thuộc thành phần thực tế của từng sản phẩm."
         }
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "NAMMOCNHINAMMEO",
@@ -3117,7 +3342,11 @@
       ],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": null
     },
     {
       "id": "NAMNGOCCHAM",
@@ -3159,7 +3388,11 @@
       ],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "NAMMOI",
@@ -3201,7 +3434,11 @@
       ],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "NAMLINHCHI",
@@ -3259,7 +3496,11 @@
       ],
       "super_tags": [
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "CAHOI",
@@ -3302,7 +3543,11 @@
       "super_tags": [
         "🐟 Giàu Omega-3 & Chất béo tốt nhất",
         "💪 Nguồn Protein chất lượng cao nhất"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "CATHU",
@@ -3346,7 +3591,11 @@
       "super_tags": [
         "💪 Nguồn Protein chất lượng cao nhất",
         "🐟 Giàu Omega-3 & Chất béo tốt nhất"
-      ]
+      ],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "CALOCCAQUA",
@@ -3383,7 +3632,11 @@
       "cures": [],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "CAMOI",
@@ -3425,7 +3678,11 @@
       "diets": [],
       "super_tags": [
         "🐟 Giàu Omega-3 & Chất béo tốt nhất"
-      ]
+      ],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "CACHEP",
@@ -3467,7 +3724,11 @@
       "diets": [],
       "super_tags": [
         "🐟 Siêu Omega-3"
-      ]
+      ],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "TOMTUOI",
@@ -3516,7 +3777,11 @@
         "blue_zones",
         "longevity"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "HAUBIEN",
@@ -3567,7 +3832,11 @@
       "super_tags": [
         "🐟 Siêu Omega-3",
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất"
-      ]
+      ],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": 0
     },
     {
       "id": "LUON",
@@ -3612,7 +3881,11 @@
       "cures": [],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": 0
     },
     {
       "id": "RONGBIENTAOBIEN",
@@ -3665,7 +3938,11 @@
       ],
       "super_tags": [
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất"
-      ]
+      ],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": null
     },
     {
       "id": "CUAONG",
@@ -3706,7 +3983,11 @@
       "cures": [],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": null
     },
     {
       "id": "TRUNGGATA",
@@ -3762,7 +4043,11 @@
       ],
       "super_tags": [
         "💪 Nguồn Protein chất lượng cao nhất"
-      ]
+      ],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": 0
     },
     {
       "id": "UCGA",
@@ -3804,7 +4089,11 @@
       "diets": [],
       "super_tags": [
         "💪 Nguồn Protein chất lượng cao nhất"
-      ]
+      ],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": null
     },
     {
       "id": "THITBOTHAN",
@@ -3848,7 +4137,11 @@
       "diets": [],
       "super_tags": [
         "💪 Nguồn Protein chất lượng cao nhất"
-      ]
+      ],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": 0
     },
     {
       "id": "THITLONNAC",
@@ -3888,7 +4181,11 @@
       "cures": [],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": 0
     },
     {
       "id": "CHIMBOCAU",
@@ -3927,7 +4224,11 @@
       "cures": [],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": 0
     },
     {
       "id": "THITVIT",
@@ -3967,7 +4268,11 @@
       "cures": [],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": 0
     },
     {
       "id": "SUACHUA",
@@ -4013,7 +4318,11 @@
       "diets": [],
       "super_tags": [
         "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột"
-      ]
+      ],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "SUABOTUOINGUYENCHAT",
@@ -4056,7 +4365,11 @@
       ],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "GANGA",
@@ -4099,7 +4412,11 @@
       "super_tags": [
         "💪 Nguồn Protein chất lượng cao nhất",
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất"
-      ]
+      ],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": 0
     },
     {
       "id": "YENSAO",
@@ -4142,7 +4459,11 @@
       "diets": [],
       "super_tags": [
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
-      ]
+      ],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "DUACAICHUA",
@@ -4192,7 +4513,11 @@
       ],
       "super_tags": [
         "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "KIMCHI",
@@ -4243,7 +4568,11 @@
       ],
       "super_tags": [
         "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột"
-      ]
+      ],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": 0
     },
     {
       "id": "TUONGHOTTUONGAUNANH",
@@ -4292,7 +4621,11 @@
       ],
       "super_tags": [
         "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "RUOUNEPCAM",
@@ -4331,7 +4664,11 @@
       ],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "GIAMTAO",
@@ -4370,7 +4707,11 @@
       ],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "TRAHOACUC",
@@ -4407,7 +4748,11 @@
       "cures": [],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "TRAMUOPANG",
@@ -4447,7 +4792,11 @@
       "cures": [],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "NUOCDUATUOI",
@@ -4498,7 +4847,11 @@
           "explanation": "Chanh dây có vitamin C và các hợp chất thực vật, có thể hỗ trợ bảo vệ tế bào khỏi stress oxy hóa; không nên diễn giải thành tác dụng phòng hoặc chữa ung thư."
         }
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "MUTROM",
@@ -4537,7 +4890,11 @@
       "cures": [],
       "avoids": [],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "TUYETYEN",
@@ -4590,7 +4947,11 @@
           "explanation": "Tuyết yến không phải thực phẩm chữa bệnh, thải độc gan hay điều chỉnh đường huyết đã được chứng minh lâm sàng. Những lợi ích quảng cáo về chống lão hóa, tăng miễn dịch và phòng tăng huyết áp cần được xem là chưa xác lập; đặc biệt phải phân biệt tuyết yến với mủ trôm và sản phẩm không rõ nguồn gốc. [82]"
         }
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "HATIEU",
@@ -4630,7 +4991,11 @@
         "blue_zones",
         "longevity"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": 0
     },
     {
       "id": "HATMACCA",
@@ -4671,7 +5036,11 @@
         "blue_zones",
         "longevity"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "HATBINGO",
@@ -4711,7 +5080,11 @@
         "blue_zones",
         "longevity"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": null,
+      "numCalcium": null
     },
     {
       "id": "HATCHIA",
@@ -4761,7 +5134,11 @@
       "super_tags": [
         "🐟 Giàu Omega-3 & Chất béo tốt nhất",
         "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh"
-      ]
+      ],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": null
     },
     {
       "id": "HATHUONGDUONG",
@@ -4801,7 +5178,11 @@
         "blue_zones",
         "longevity"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "TRAIMANGCUT",
@@ -4844,7 +5225,11 @@
         "longevity",
         "dash"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "TRAICHANHDAYCHANHDAY",
@@ -4902,7 +5287,11 @@
       ],
       "super_tags": [
         "🍊 Vua Vitamin C & Tăng cường miễn dịch"
-      ]
+      ],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": null,
+      "numCalcium": 0
     },
     {
       "id": "TRAIHONGGION",
@@ -4950,7 +5339,11 @@
         "longevity",
         "dash"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "TRAINHAN",
@@ -4993,7 +5386,11 @@
         "longevity",
         "dash"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "TRAIVAI",
@@ -5037,7 +5434,11 @@
         "longevity",
         "dash"
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": null,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "TRASUATRANCHAU",
@@ -5073,7 +5474,11 @@
         "tieu_hoa"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "NUOCNGOTCOGAS",
@@ -5110,7 +5515,11 @@
         "tieu_hoa"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "NUOCTANGLUC",
@@ -5152,7 +5561,11 @@
         "tieu_hoa"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "TRACHANHONGCHAI",
@@ -5188,7 +5601,11 @@
         "tieu_hoa"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "SUAACCOUONG",
@@ -5232,7 +5649,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "NUOCEPTRAICAYONGHOPONGCHAI",
@@ -5268,7 +5689,11 @@
         "tieu_hoa"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "NUOCKHOANGVITRAICAYCOUONG",
@@ -5304,7 +5729,11 @@
         "tieu_hoa"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "GARANCONGNGHIEP",
@@ -5349,7 +5778,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "KHOAITAYCHIEN",
@@ -5394,7 +5827,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "HAMBURGER",
@@ -5439,7 +5876,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "PIZZACONGNGHIEP",
@@ -5480,7 +5921,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "XIENBANCAVIENBOVIENCHIEN",
@@ -5526,7 +5971,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "PHOMAIQUECHIENXU",
@@ -5567,7 +6016,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "NEMCHUARAN",
@@ -5613,7 +6066,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "XUCXICHCONGNGHIEP",
@@ -5659,7 +6116,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "THITXONGKHOIBACON",
@@ -5704,7 +6165,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "DAMBONGJAMBON",
@@ -5748,7 +6213,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "LAPXUONG",
@@ -5793,7 +6262,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "PATEONGHOP",
@@ -5843,7 +6316,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "THITHOPSPAM",
@@ -5894,7 +6371,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "MIANLIENMITOM",
@@ -5952,7 +6433,11 @@
           "explanation": "Nhãn có một lượng chất xơ nhưng cũng chứa đường tự nhiên; người đái tháo đường hoặc đang kiểm soát cân nặng cần tính vào tổng lượng carbohydrate và ưu tiên ăn quả tươi thay vì nhãn sấy hoặc sản phẩm thêm đường."
         }
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "BIMBIMSNACK",
@@ -5995,7 +6480,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "KEMCONGNGHIEP",
@@ -6039,7 +6528,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "BANHNGOTONGGOI",
@@ -6083,7 +6576,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "KEOMUTKEODEOMAU",
@@ -6118,7 +6615,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "SOCOLASUACONGNGHIEP",
@@ -6167,7 +6668,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": null
     },
     {
       "id": "TRAICAYSAYTAMUONG",
@@ -6225,7 +6730,11 @@
           "explanation": "Yến sào thường được dùng để bồi bổ ở người mới ốm dậy, nhưng các tuyên bố như chống lão hóa, tăng miễn dịch mạnh hoặc chữa bệnh hô hấp chưa đủ bằng chứng để xem là tác dụng điều trị. Theo y học cổ truyền, yến có vị ngọt, tính bình, quy vào Phế, Vị và Thận; đây là mô tả lý luận truyền thống, không thay thế bằng chứng lâm sàng hiện đại. [36][39]"
         }
       ],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "BOTHUCVATMARGARINE",
@@ -6269,7 +6778,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "NGUCOCANSANGTAMMAU",
@@ -6314,7 +6827,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "TRANCHAUENBOBA",
@@ -6358,7 +6875,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": null,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "TRA_SUA",
@@ -6379,7 +6900,11 @@
         "tieu_hoa"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "NUOC_NGOT",
@@ -6400,7 +6925,11 @@
         "tieu_hoa"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "NUOC_TANG_LUC",
@@ -6421,7 +6950,11 @@
         "tieu_hoa"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "GA_RAN",
@@ -6441,7 +6974,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "KHOAI_TAY_CHIEN",
@@ -6461,7 +6998,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "HAMBURGER",
@@ -6481,7 +7022,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "PIZZA",
@@ -6501,7 +7046,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "MI_GOI",
@@ -6521,7 +7070,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     },
     {
       "id": "XUC_XICH",
@@ -6541,7 +7094,11 @@
         "tieu_duong"
       ],
       "diets": [],
-      "super_tags": []
+      "super_tags": [],
+      "numProtein": 0,
+      "numVitC": 0,
+      "numIron": 0,
+      "numCalcium": 0
     }
   ],
   "diseases": [

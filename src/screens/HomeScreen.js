@@ -15,10 +15,21 @@ export default function HomeScreen({ navigation }) {
   const [activeFilter, setActiveFilter] = useState('Tất cả');
 
   const sectionsData = useMemo(() => {
-    let filteredFoods = foodData;
+    let filteredFoods = [...foodData];
     
     if (activeFilter !== 'Tất cả') {
       filteredFoods = filteredFoods.filter(f => f.super_tags?.includes(activeFilter));
+      
+      // Sort specific tags from highest to lowest if numeric data is available
+      if (activeFilter.includes('Siêu Sắt')) {
+        filteredFoods.sort((a, b) => (b.numIron || 0) - (a.numIron || 0));
+      } else if (activeFilter.includes('Siêu Canxi')) {
+        filteredFoods.sort((a, b) => (b.numCalcium || 0) - (a.numCalcium || 0));
+      } else if (activeFilter.includes('Siêu Protein')) {
+        filteredFoods.sort((a, b) => (b.numProtein || 0) - (a.numProtein || 0));
+      } else if (activeFilter.includes('Siêu Vitamin C')) {
+        filteredFoods.sort((a, b) => (b.numVitC || 0) - (a.numVitC || 0));
+      }
     }
 
     if (searchText) {
@@ -78,10 +89,11 @@ export default function HomeScreen({ navigation }) {
       filteredFoods = scoredFoods.filter(item => item.score > 0).sort((a, b) => b.score - a.score).map(item => item.food);
     }
 
-    // Since we are returning a section list, we only group if NOT searching.
-    // If searching, we display it as a single flat list (by giving it one section) to respect the score sort order!
-    if (searchText) {
-      return [{ title: 'Kết quả tìm kiếm', data: filteredFoods }];
+    // Since we are returning a section list, we only group if NOT searching and NO filter is active.
+    // If searching or filtering, we display it as a single flat list to respect the sort order!
+    if (searchText || activeFilter !== 'Tất cả') {
+      const title = searchText ? 'Kết quả tìm kiếm' : `Top thực phẩm: ${activeFilter}`;
+      return [{ title, data: filteredFoods }];
     }
 
     const grouped = filteredFoods.reduce((acc, food) => {
