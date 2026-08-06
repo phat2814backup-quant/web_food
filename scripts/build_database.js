@@ -166,13 +166,46 @@ function updateData() {
       "rm": "rau muống",
       "bd": "bí đỏ",
       "md": "mướp đắng",
+      "mb": "mướp đắng",
+      "tmb": "mướp đắng",
       "dtau": "trái dâu tằm",
+      "dt": "dâu tằm",
       "toi": "tỏi",
       "gung": "gừng",
       "nghe": "nghệ",
       "rcn": "rau chùm ngây",
       "ct": "cần tây",
-      "toi_den": "tỏi đen"
+      "toi_den": "tỏi đen",
+      "tgg": "trứng gà",
+      "ugg": "ức gà",
+      "tbt": "thịt bò",
+      "tln": "thịt lợn nạc",
+      "cbg": "chim bồ câu",
+      "tvt": "thịt vịt",
+      "sc": "sữa chua",
+      "sbt": "sữa bò tươi",
+      "gg": "gan gà",
+      "ys": "yến sào",
+      "dcc": "dưa cải chua",
+      "kc": "kim chi",
+      "tdn": "tương đậu nành",
+      "tđn": "tương đậu nành",
+      "rncc": "rượu nếp cẩm",
+      "gt": "giấm",
+      "thc": "trà hoa cúc",
+      "ndt": "nước dừa tươi",
+      "mtr": "mủ trôm",
+      "ty": "tuyết yến",
+      "hd": "hạt điều",
+      "hmc": "hạt macca",
+      "hb": "hạt bí ngô",
+      "hc": "hạt chia",
+      "hhm": "hạt hướng dương",
+      "mgc": "măng cụt",
+      "cd": "chanh dây",
+      "hg": "hồng giòn",
+      "nl": "nhãn",
+      "vl": "vải tươi"
     };
 
     const medicalJsonMatches = [...medicalContent.matchAll(/```json\s+([\s\S]*?)\s+```/g)];
@@ -181,7 +214,10 @@ function updateData() {
 
     for (const block of allBlocks) {
       try {
-        const cleanedBlock = block.replace(/\n/g, ' ').replace(/\r/g, ''); // Clean literal newlines
+        let cleanedBlock = block.replace(/\n/g, ' ').replace(/\r/g, ''); // Clean literal newlines
+        // Fix common AI formatting errors like trailing commas
+        cleanedBlock = cleanedBlock.replace(/,\s*([}\]])/g, '$1');
+        
         const medicalData = JSON.parse(cleanedBlock);
         const arr = Array.isArray(medicalData) ? medicalData : [medicalData];
         

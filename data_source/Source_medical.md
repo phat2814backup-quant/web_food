@@ -181,7 +181,7 @@
 ]
 ```
  
-_These search results were found and analyzed using Consensus, an AI-powered search engine for research. Try it at https://consensus.app. © 2026 Consensus NLP, Inc. Personal, non-commercial use only; redistribution requires copyright holders’ consent._
+
  
 ## References
 ```json
@@ -331,7 +331,7 @@ _These search results were found and analyzed using Consensus, an AI-powered sea
 ]
 ```
  
-_These search results were found and analyzed using Consensus, an AI-powered search engine for research. Try it at https://consensus.app. © 2026 Consensus NLP, Inc. Personal, non-commercial use only; redistribution requires copyright holders’ consent._
+
  
 ## References
 ```json
@@ -609,10 +609,12 @@ _These search results were found and analyzed using Consensus, an AI-powered sea
         "disease": "Bệnh chuyển hóa và tim mạch",
         "effect": "Hỗ trợ phòng ngừa",
         "evidence_level": "Khoa học hiện đại",
-        "explanation": "Các phytonutrient trong thực vật có thể điều hòa chuyển hóa, cholesterol và stress oxy hóa, từ đó hỗ trợ giảm nguy cơ bệnh chuyển hóa và tim m
- 
-_These search results were found and analyzed using Consensus, an AI-powered search engine for research. Try it at https://consensus.app. © 2026 Consensus NLP, Inc. Personal, non-commercial use only; redistribution requires copyright holders’ consent._
- 
+        "explanation": "Các phytonutrient trong thực vật có thể điều hòa chuyển hóa, cholesterol và stress oxy hóa, từ đó hỗ trợ giảm nguy cơ bệnh chuyển hóa và tim mạch"
+      }
+    ]
+  }
+]
+```
 ## References
 ```json
 [
@@ -759,7 +761,7 @@ _These search results were found and analyzed using Consensus, an AI-powered sea
 ]
 ```
  
-_These search results were found and analyzed using Consensus, an AI-powered search engine for research. Try it at https://consensus.app. © 2026 Consensus NLP, Inc. Personal, non-commercial use only; redistribution requires copyright holders’ consent._
+
  
 ## References
  
@@ -882,7 +884,7 @@ _These search results were found and analyzed using Consensus, an AI-powered sea
 ]
 ```
  
-_These search results were found and analyzed using Consensus, an AI-powered search engine for research. Try it at https://consensus.app. © 2026 Consensus NLP, Inc. Personal, non-commercial use only; redistribution requires copyright holders’ consent._
+
  
 ## References
  

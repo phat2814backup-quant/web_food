@@ -117,34 +117,34 @@
       ],
       "disease_prevention": [
         {
-          "disease": "Suy dinh dưỡng vi chất",
+          "disease": "Đái tháo đường type 2",
           "effect": "Hỗ trợ phòng ngừa và cải thiện",
           "evidence_level": "Khoa học hiện đại",
-          "explanation": "Lá chùm ngây giàu protein, folate, sắt, canxi và các khoáng chất có sinh khả dụng tốt, nên phù hợp để bổ sung khẩu phần và hỗ trợ thiếu hụt vi chất."
+          "explanation": "Lá chùm ngây giàu polyphenol, carotenoid và glucosinolate; bằng chứng tiền lâm sàng và lâm sàng hạn chế cho thấy có thể hỗ trợ kiểm soát đường huyết, tăng nhạy cảm insulin và giảm stress oxy hóa - viêm liên quan đái tháo đường ."
         },
         {
           "disease": "Tăng huyết áp",
           "effect": "Hỗ trợ phòng ngừa",
           "evidence_level": "Khoa học hiện đại",
-          "explanation": "Một số tổng quan ghi nhận hoạt tính ức chế men chuyển ACE và tác dụng hạ huyết áp tiềm năng, nhưng bằng chứng ở người còn hạn chế nên chỉ nên xem là hỗ trợ."
+          "explanation": "Một số tổng quan ghi nhận lá chùm ngây có hoạt tính hỗ trợ hạ huyết áp, liên quan đến cơ chế ức chế men chuyển ACE và tác dụng chống viêm - chống oxy hóa; tuy vậy bằng chứng ở người còn chưa mạnh ."
         },
         {
-          "disease": "Đái tháo đường type 2",
-          "effect": "Hỗ trợ cải thiện",
-          "evidence_level": "Khoa học hiện đại",
-          "explanation": "Polyphenol trong lá chùm ngây được ghi nhận giúp tăng tiết insulin, tăng thu nhận glucose và cải thiện chuyển hóa lipid trong nghiên cứu tiền lâm sàng."
-        },
-        {
-          "disease": "Rối loạn mỡ máu",
+          "disease": "Rối loạn mỡ máu và nguy cơ tim mạch",
           "effect": "Hỗ trợ phòng ngừa và cải thiện",
           "evidence_level": "Khoa học hiện đại",
-          "explanation": "Các tổng quan mô tả lá chùm ngây có liên quan tới giảm cholesterol máu và giảm nguy cơ tim mạch, chủ yếu nhờ polyphenol và hoạt tính chống oxy hóa."
+          "explanation": "Lá chùm ngây có thể cải thiện lipid máu và giảm nguy cơ tim mạch thông qua hoạt tính chống oxy hóa, chống viêm và điều hòa chuyển hóa lipid trong các nghiên cứu tổng quan ."
         },
         {
-          "disease": "Gan nhiễm mỡ và viêm mạn tính",
+          "disease": "Gan nhiễm mỡ không do rượu và viêm mạn tính",
           "effect": "Hỗ trợ bảo vệ",
           "evidence_level": "Khoa học hiện đại",
-          "explanation": "Bằng chứng tổng quan cho thấy lá chùm ngây có đặc tính chống viêm, chống oxy hóa và bảo vệ gan, nên có thể hỗ trợ giảm tổn thương chuyển hóa mạn tính."
+          "explanation": "Các hợp chất như quercetin, kaempferol và isothiocyanate trong chùm ngây ức chế COX, LOX, NF-kB và giảm TNF-α, IL-1β, qua đó có tiềm năng hỗ trợ bảo vệ gan và giảm viêm mạn ."
+        },
+        {
+          "disease": "Suy dinh dưỡng vi chất và thiếu máu dinh dưỡng",
+          "effect": "Hỗ trợ phòng ngừa",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Lá chùm ngây rất giàu khoáng chất và vitamin; bổ sung vào thực phẩm làm tăng mạnh hàm lượng sắt, canxi và chất xơ, nên phù hợp để hỗ trợ phòng thiếu vi chất trong khẩu phần ."
         }
       ],
       "super_tags": [
@@ -210,22 +210,28 @@
       ],
       "disease_prevention": [
         {
-          "disease": "Suy giảm nhận thức liên quan lão hóa",
+          "disease": "Suy giảm nhận thức và bệnh thoái hóa thần kinh",
           "effect": "Hỗ trợ phòng ngừa",
           "evidence_level": "Khoa học hiện đại & Đông Y",
-          "explanation": "Rau má chứa triterpenoid và chất chống oxy hóa; các tổng quan ghi nhận tác dụng bảo vệ thần kinh, hỗ trợ trí nhớ và giảm stress oxy hóa, nhưng dữ liệu lâm sàng còn hạn chế."
+          "explanation": "Rau má được dùng dân gian như vị thuốc hỗ trợ trí nhớ; các tổng quan hiện đại ghi nhận tác dụng chống oxy hóa, chống viêm, ức chế AChE, giảm amyloid và hỗ trợ tái tạo neuron, nhưng bằng chứng chủ yếu vẫn ở mức tiền lâm sàng hoặc lâm sàng nhỏ ."
         },
         {
-          "disease": "Viêm da, vết thương chậm lành",
-          "effect": "Hỗ trợ cải thiện",
-          "evidence_level": "Khoa học hiện đại & Đông Y",
-          "explanation": "Centella asiatica có bằng chứng khá nhất ở lĩnh vực da liễu và liền vết thương; theo y học cổ truyền thường được dùng theo hướng thanh nhiệt, giải độc và hỗ trợ phục hồi mô."
-        },
-        {
-          "disease": "Rối loạn lo âu nhẹ",
+          "disease": "Lo âu nhẹ và stress",
           "effect": "Hỗ trợ cải thiện",
           "evidence_level": "Khoa học hiện đại",
-          "explanation": "Một số tổng quan mô tả tác dụng chống lo âu và chống trầm cảm tiềm năng của rau má, nhưng chưa đủ mạnh để coi là điều trị chuẩn."
+          "explanation": "Một số tổng quan mô tả rau má có đặc tính chống lo âu và chống trầm cảm, có thể liên quan đến giảm stress oxy hóa và viêm thần kinh; chưa đủ bằng chứng để coi là điều trị chuẩn ."
+        },
+        {
+          "disease": "Vết thương chậm lành và bệnh da liễu",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Khoa học hiện đại & Đông Y",
+          "explanation": "Centella asiatica có bằng chứng tương đối tốt hơn ở lĩnh vực da và lành vết thương; triterpenoid của rau má được ghi nhận có lợi trên bệnh da và phục hồi mô, phù hợp với hướng dùng thanh nhiệt, giải độc trong dân gian ."
+        },
+        {
+          "disease": "Viêm mạn và tổn thương tế bào do oxy hóa",
+          "effect": "Hỗ trợ bảo vệ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Các thành phần hoạt tính của rau má thể hiện tác dụng chống viêm, chống oxy hóa, chống apoptosis và cải thiện chức năng ty thể, nên có thể hỗ trợ bảo vệ tế bào trong các tình trạng viêm mạn ."
         }
       ],
       "super_tags": [
@@ -284,28 +290,28 @@
       ],
       "disease_prevention": [
         {
-          "disease": "Thiếu máu thiếu sắt",
-          "effect": "Hỗ trợ phòng ngừa và cải thiện",
+          "disease": "Thiếu máu dinh dưỡng",
+          "effect": "Hỗ trợ phòng ngừa",
           "evidence_level": "Khoa học hiện đại",
-          "explanation": "Rau dền là nhóm rau lá giàu sắt, vitamin C, carotenoid và khoáng chất, nên có thể hỗ trợ khẩu phần phòng thiếu máu do thiếu vi chất."
-        },
-        {
-          "disease": "Táo bón",
-          "effect": "Hỗ trợ cải thiện",
-          "evidence_level": "Khoa học hiện đại & Đông Y",
-          "explanation": "Lá rau dền có hàm lượng chất xơ cao; các tài liệu tổng quan về amaranth cũng ghi nhận vai trò hỗ trợ tiêu hóa và cải thiện táo bón."
+          "explanation": "Rau dền thuộc nhóm rau lá xanh giàu sắt, canxi, kẽm, beta-carotene và vitamin C, nên phù hợp trong chế độ ăn hỗ trợ phòng thiếu máu do thiếu vi chất ."
         },
         {
           "disease": "Bệnh tim mạch do stress oxy hóa",
           "effect": "Hỗ trợ phòng ngừa",
           "evidence_level": "Khoa học hiện đại",
-          "explanation": "Amaranth chứa nhiều phenolic, flavonoid, carotenoid và sắc tố chống oxy hóa, có liên quan tới bảo vệ tế bào và giảm nguy cơ bệnh tim mạch mạn tính."
+          "explanation": "Rau dền có hàm lượng phenolic và flavonoid cao, liên quan đến năng lực chống oxy hóa và chống viêm; các hợp chất phenolic trong nhóm rau này được cho là hỗ trợ giảm nguy cơ bệnh tim mạch ."
         },
         {
-          "disease": "Rối loạn chuyển hóa lipid",
+          "disease": "Viêm mạn tính",
           "effect": "Hỗ trợ phòng ngừa",
           "evidence_level": "Khoa học hiện đại",
-          "explanation": "Một số tổng quan về amaranth ghi nhận hoạt tính hạ cholesterol và chống viêm, nhưng mức độ bằng chứng chủ yếu vẫn là tiền lâm sàng hoặc quan sát."
+          "explanation": "Các tổng quan ghi nhận Amaranthus có tiềm năng chống viêm nhờ phong phú phân tử phenolic sinh học, nhưng dữ liệu trực tiếp ở người còn hạn chế ."
+        },
+        {
+          "disease": "Táo bón và sức khỏe tiêu hóa",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Giống nhiều rau lá xanh khác, rau dền cung cấp chất xơ và vi chất với mật độ năng lượng thấp, góp phần hỗ trợ nhu động ruột và chất lượng khẩu phần ."
         }
       ],
       "super_tags": [
@@ -369,31 +375,31 @@
           "disease": "Tăng huyết áp",
           "effect": "Hỗ trợ phòng ngừa",
           "evidence_level": "Khoa học hiện đại",
-          "explanation": "Lá khoai lang có tỷ lệ kali/natri cao hơn rau chân vịt trong một số phân tích và chứa caffeoylquinic acid có hoạt tính ức chế ACE, nên phù hợp trong chế độ ăn hỗ trợ huyết áp."
+          "explanation": "Lá khoai lang giàu caffeoylquinic acid và chlorogenic acid; các tổng quan ghi nhận các hợp chất này có hoạt tính ức chế ACE, từ đó hỗ trợ kiểm soát huyết áp ."
         },
         {
-          "disease": "Xơ vữa động mạch",
+          "disease": "Bệnh tim mạch",
           "effect": "Hỗ trợ phòng ngừa",
           "evidence_level": "Khoa học hiện đại",
-          "explanation": "Các dẫn xuất caffeoylquinic acid trong lá khoai lang có hoạt tính chống oxy hóa LDL, từ đó hỗ trợ hạn chế quá trình oxy hóa liên quan xơ vữa."
+          "explanation": "Lá khoai lang cung cấp chất xơ, carbohydrate phức, chất chống oxy hóa và polyphenol, có liên quan đến giảm oxy hóa LDL, giảm stress oxy hóa và giảm nguy cơ bệnh tim mạch ."
         },
         {
           "disease": "Đái tháo đường type 2",
-          "effect": "Hỗ trợ cải thiện",
+          "effect": "Hỗ trợ phòng ngừa và cải thiện",
           "evidence_level": "Khoa học hiện đại",
-          "explanation": "Polyphenol từ lá khoai lang đã cho thấy khả năng cải thiện đường huyết, tăng insulin, cải thiện dự trữ glycogen và giảm kháng insulin trong mô hình chuột."
+          "explanation": "Tổng quan cho thấy lá và củ khoai lang chứa các hợp chất có hoạt tính chống đái tháo đường; riêng lá khoai lang giàu chlorogenic acid và polyphenol, được ghi nhận có lợi với chuyển hóa glucose trong nghiên cứu tiền lâm sàng ."
         },
         {
-          "disease": "Rối loạn mỡ máu",
-          "effect": "Hỗ trợ cải thiện",
-          "evidence_level": "Khoa học hiện đại",
-          "explanation": "Trong nghiên cứu tiền lâm sàng, polyphenol lá khoai lang làm giảm cholesterol toàn phần, triglycerid và LDL-C, đồng thời tăng HDL-C."
-        },
-        {
-          "disease": "Suy giảm miễn dịch và viêm mạn",
+          "disease": "Viêm mạn và suy giảm miễn dịch",
           "effect": "Hỗ trợ bảo vệ",
           "evidence_level": "Khoa học hiện đại",
-          "explanation": "Lá khoai lang giàu polyphenol, flavonoid và acid chlorogenic; một số dữ liệu cho thấy chúng có thể điều hòa miễn dịch và giảm viêm, nhưng cần thêm nghiên cứu ở người."
+          "explanation": "Ăn lá khoai lang tím trong ngắn hạn có thể làm tăng tình trạng chống oxy hóa, giảm IL-6 và điều biến một số chức năng miễn dịch, cho thấy vai trò hỗ trợ bảo vệ trước viêm mạn và stress oxy hóa ."
+        },
+        {
+          "disease": "Thiếu vitamin A",
+          "effect": "Hỗ trợ phòng ngừa",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Khoai lang là nguồn thực phẩm được ghi nhận có vai trò trong phòng thiếu vitamin A; điều này mạnh hơn ở giống thịt củ màu cam, nhưng lá cũng cung cấp nhiều vi chất và carotenoid ."
         }
       ],
       "super_tags": [
@@ -516,22 +522,28 @@
       ],
       "disease_prevention": [
         {
-          "disease": "Thiếu máu thiếu sắt",
+          "disease": "Béo phì",
           "effect": "Hỗ trợ phòng ngừa",
           "evidence_level": "Khoa học hiện đại",
-          "explanation": "Rau chân vịt thuộc nhóm rau lá xanh giàu sắt, folate, vitamin C và carotenoid, có thể góp phần cải thiện khẩu phần phòng thiếu máu dinh dưỡng."
+          "explanation": "Rau chân vịt được xem là thực phẩm chức năng với các phytochemical có thể tăng tiết hormone no và hỗ trợ kiểm soát cảm giác thèm ăn, từ đó góp phần hỗ trợ phòng béo phì ."
         },
         {
-          "disease": "Thiếu vitamin A",
-          "effect": "Hỗ trợ phòng ngừa",
+          "disease": "Tăng đường huyết và rối loạn lipid máu",
+          "effect": "Hỗ trợ cải thiện",
           "evidence_level": "Khoa học hiện đại",
-          "explanation": "Các rau lá xanh nói chung giàu beta-carotene và carotenoid, giúp hỗ trợ cung cấp tiền vitamin A."
+          "explanation": "Các hợp chất hoạt tính trong rau chân vịt có liên quan với tác dụng hạ đường huyết và hạ lipid trong tổng quan cơ chế và dữ liệu người - động vật, nhưng không thay thế điều trị chuẩn ."
         },
         {
-          "disease": "Bệnh tim mạch mạn tính",
+          "disease": "Bệnh tim mạch và tổn thương oxy hóa",
           "effect": "Hỗ trợ phòng ngừa",
           "evidence_level": "Khoa học hiện đại",
-          "explanation": "Nhóm rau lá xanh có hàm lượng chất chống oxy hóa, vitamin và khoáng chất cao, góp phần bảo vệ tế bào và giảm nguy cơ bệnh mạn tính liên quan tim mạch."
+          "explanation": "Rau chân vịt giàu vitamin, khoáng chất và phytochemical có khả năng quét ROS, giảm tổn thương oxy hóa đại phân tử và điều hòa gen liên quan viêm - chuyển hóa, nên phù hợp trong chế độ ăn hỗ trợ phòng bệnh tim mạch mạn tính ."
+        },
+        {
+          "disease": "Ung thư",
+          "effect": "Hỗ trợ bảo vệ tế bào và phòng ngừa nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Dữ liệu tổng quan mô tả rau chân vịt có đặc tính chống ung thư thông qua chống oxy hóa và điều hòa tín hiệu tế bào; cách diễn đạt phù hợp là hỗ trợ bảo vệ tế bào và giảm nguy cơ, không phải chữa ung thư ."
         }
       ],
       "super_tags": [
@@ -591,16 +603,16 @@
       ],
       "disease_prevention": [
         {
-          "disease": "Thiếu vitamin A và vi chất",
+          "disease": "Thiếu vitamin A và thiếu vi chất",
           "effect": "Hỗ trợ phòng ngừa",
           "evidence_level": "Khoa học hiện đại",
-          "explanation": "Cải bẹ xanh thuộc nhóm rau lá xanh giàu carotenoid, vitamin C và khoáng chất, phù hợp cho khẩu phần hỗ trợ phòng thiếu vi chất."
+          "explanation": "Cải bẹ xanh thuộc nhóm rau lá xanh giàu beta-carotene, vitamin C, E, K và khoáng chất như sắt, canxi, kẽm, nên giúp hỗ trợ phòng thiếu vi chất trong khẩu phần ."
         },
         {
-          "disease": "Bệnh tim mạch mạn tính",
+          "disease": "Bệnh tim mạch và bệnh mạn tính liên quan chế độ ăn",
           "effect": "Hỗ trợ phòng ngừa",
           "evidence_level": "Khoa học hiện đại",
-          "explanation": "Các rau lá xanh chứa phenolic và carotenoid có liên quan tới hoạt tính chống oxy hóa và giảm nguy cơ bệnh mạn tính."
+          "explanation": "Ăn nhiều rau lá xanh nói chung liên quan với giảm nguy cơ bệnh mạn, một phần nhờ phytochemical chống oxy hóa và tác dụng hiệp đồng của toàn thực phẩm thay vì một hoạt chất đơn lẻ ."
         }
       ],
       "super_tags": [],
@@ -653,38 +665,9 @@
         "longevity",
         "dash"
       ],
-      "disease_prevention": [
-        {
-          "disease": "Viêm đường hô hấp",
-          "effect": "Hỗ trợ phòng ngừa và cải thiện",
-          "evidence_level": "Khoa học hiện đại & Đông Y",
-          "explanation": "Lá tía tô có polyphenol và flavonoid giúp giảm ROS, ức chế NF-κB, giảm các cytokine viêm như TNF-α, IL-1β, IL-6 và giảm tiết nhầy MUC5AC; dân gian còn dùng khi cảm lạnh, ho, hen và tức ngực ."
-        },
-        {
-          "disease": "Rối loạn mỡ máu",
-          "effect": "Hỗ trợ phòng ngừa",
-          "evidence_level": "Khoa học hiện đại",
-          "explanation": "Chiết xuất lá tía tô làm giảm cholesterol bằng cách giảm biểu hiện HMG-CoA reductase, nên có thể hỗ trợ phòng tăng cholesterol máu và nguy cơ tim mạch liên quan ."
-        },
-        {
-          "disease": "Tổn thương tế bào do stress oxy hóa",
-          "effect": "Hỗ trợ bảo vệ",
-          "evidence_level": "Khoa học hiện đại",
-          "explanation": "Rosmarinic acid, luteolin và các hợp chất phenolic trong tía tô có hoạt tính chống oxy hóa mạnh, hoạt hóa Nrf2-Keap1 hoặc Nrf2-ARE và giúp bảo vệ tế bào thần kinh trước tổn thương oxy hóa; vì vậy chỉ nên mô tả là hỗ trợ bảo vệ tế bào, không phải chữa ung thư hay chữa bệnh dứt điểm ."
-        },
-        {
-          "disease": "Tăng acid uric và gout",
-          "effect": "Hỗ trợ phòng ngừa",
-          "evidence_level": "Khoa học hiện đại",
-          "explanation": "Một số hợp chất trong tía tô có hoạt tính ức chế xanthine oxidase, từ đó có tiềm năng hỗ trợ phòng tăng acid uric máu; tuy nhiên bằng chứng lâm sàng trực tiếp còn hạn chế ."
-        }
-      ],
-      "super_tags": [
-        "🛡️ Đa dụng Phòng bệnh"
-      ],
-      "super_tags_order": {
-        "🛡️ Đa dụng Phòng bệnh": 0
-      }
+      "disease_prevention": [],
+      "super_tags": [],
+      "super_tags_order": {}
     },
     {
       "id": "CANTAY",
@@ -734,44 +717,9 @@
         "longevity",
         "dash"
       ],
-      "disease_prevention": [
-        {
-          "disease": "Tăng huyết áp",
-          "effect": "Hỗ trợ phòng ngừa và cải thiện",
-          "evidence_level": "Khoa học hiện đại",
-          "explanation": "Phân tích gộp các thử nghiệm ngẫu nhiên cho thấy chế phẩm cần tây làm giảm huyết áp tâm thu và tâm trương; cơ chế được mô tả gồm giãn cơ trơn mạch máu, chẹn kênh canxi và tác dụng lợi tiểu ."
-        },
-        {
-          "disease": "Tăng đường huyết và đái tháo đường type 2",
-          "effect": "Hỗ trợ cải thiện",
-          "evidence_level": "Khoa học hiện đại",
-          "explanation": "Bằng chứng tổng quan và phân tích gộp cho thấy cần tây có thể giúp giảm glucose máu lúc đói; một số hoạt chất như 3-butylphthalide còn cho thấy cải thiện dung nạp insulin trong nghiên cứu cơ chế ."
-        },
-        {
-          "disease": "Rối loạn triglycerid và hội chứng chuyển hóa",
-          "effect": "Hỗ trợ phòng ngừa và cải thiện",
-          "evidence_level": "Khoa học hiện đại",
-          "explanation": "Meta-analysis ghi nhận cần tây giúp giảm triglycerid, và các tổng quan cũng mô tả tác dụng hạ lipid, chống viêm, chống oxy hóa trong hội chứng chuyển hóa và xơ vữa động mạch ."
-        },
-        {
-          "disease": "Béo phì và rối loạn hệ vi sinh ruột",
-          "effect": "Hỗ trợ phòng ngừa",
-          "evidence_level": "Khoa học hiện đại",
-          "explanation": "Trong mô hình chuột ăn nhiều chất béo, nước cần tây lên men làm giảm tăng cân, giảm mỡ nội tạng, ngừa rối loạn lipid và đường huyết, đồng thời điều biến hệ vi sinh ruột theo hướng có lợi ."
-        },
-        {
-          "disease": "Suy giảm nhận thức liên quan Alzheimer",
-          "effect": "Hỗ trợ bảo vệ",
-          "evidence_level": "Khoa học hiện đại",
-          "explanation": "Chiết xuất lá cần tây bảo vệ tế bào thần kinh trước độc tính amyloid-beta và ức chế AChE, BChE, GSK3β, COX-1, COX-2 trong nghiên cứu in vitro; dữ liệu này gợi ý tiềm năng hỗ trợ bảo vệ thần kinh, chưa đủ để xem là điều trị ."
-        }
-      ],
-      "super_tags": [
-        "🛡️ Đa dụng Phòng bệnh"
-      ],
-      "super_tags_order": {
-        "🛡️ Đa dụng Phòng bệnh": 0
-      }
+      "disease_prevention": [],
+      "super_tags": [],
+      "super_tags_order": {}
     },
     {
       "id": "KHOAILANGTIM",
@@ -814,22 +762,42 @@
       "diets": [],
       "disease_prevention": [
         {
-          "disease": "Tăng đường huyết sau ăn",
-          "effect": "Có thể hỗ trợ kiểm soát đường huyết ở mức hạn chế khi pha loãng và dùng trong khẩu phần phù hợp",
-          "evidence_level": "Hạn chế",
-          "explanation": "Acid acetic trong giấm có thể ảnh hưởng đến tốc độ tiêu hóa và đáp ứng đường huyết sau bữa ăn, nhưng giấm táo không điều trị hoặc phòng ngừa đái tháo đường. Cần thận trọng nếu đang dùng thuốc hạ đường huyết. [88]"
+          "disease": "Khô mắt",
+          "effect": "Hỗ trợ phòng ngừa và cải thiện",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Bột khoai lang tím giàu anthocyanin giúp giảm stress oxy hóa và viêm, bảo vệ cấu trúc tuyến lệ và chức năng tiết nước mắt trong mô hình động vật ."
         },
         {
-          "disease": "Sâu răng và kích ứng đường tiêu hóa",
-          "effect": "Không hỗ trợ phòng bệnh; dùng không đúng cách có thể làm tăng nguy cơ",
-          "evidence_level": "Trung bình",
-          "explanation": "Giấm táo có tính acid, có thể gây mòn men răng, kích ứng thực quản hoặc dạ dày khi uống nguyên chất. Nếu sử dụng, cần pha loãng; không nên uống trực tiếp hoặc dùng thay thuốc. [76][81]"
+          "disease": "Viêm loét đại tràng",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Tinh bột kháng từ khoai lang tím cải thiện viêm đại tràng nhờ điều hòa hệ vi sinh, tăng vi khuẩn có lợi và giảm cytokine tiền viêm ."
+        },
+        {
+          "disease": "Tổn thương gan do rượu",
+          "effect": "Hỗ trợ phòng ngừa",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Anthocyanin khoai lang tím cải thiện các thông số sinh hóa và mô học gan, hỗ trợ bảo vệ gan trước tổn thương do rượu cấp và bán cấp ."
+        },
+        {
+          "disease": "Ung thư vú",
+          "effect": "Hỗ trợ bảo vệ tế bào và phòng ngừa nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chiết xuất vỏ khoai lang tím giàu anthocyanin kéo dài thời gian xuất hiện u và giảm thể tích u trong mô hình ung thư vú ở chuột; đây là bằng chứng tiền lâm sàng nên chỉ diễn đạt là hỗ trợ bảo vệ tế bào ."
+        },
+        {
+          "disease": "Hen suyễn mạn tính",
+          "effect": "Hỗ trợ phòng ngừa tái phát",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Phân đoạn ethyl acetate của khoai lang tím giảm IL-33, periostin, IgE và TGF-β, cải thiện tái cấu trúc đường thở trong mô hình hen mạn tính ."
         }
       ],
       "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh",
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)"
       ],
       "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0,
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)": 2
       }
     },
@@ -875,34 +843,22 @@
       "diets": [],
       "disease_prevention": [
         {
-          "disease": "Thiếu vitamin A và bệnh mắt liên quan thiếu vi chất",
+          "disease": "Hội chứng chuyển hóa và bệnh tim mạch",
           "effect": "Hỗ trợ phòng ngừa",
           "evidence_level": "Khoa học hiện đại",
-          "explanation": "Cà rốt giàu carotenoid, đặc biệt alpha- và beta-carotene ở giống màu cam, và lutein ở giống màu vàng; các thành phần này hỗ trợ sức khỏe mắt và phòng thiếu vitamin A ."
+          "explanation": "Polyphenol, anthocyanin và acid phenolic trong cà rốt giúp giảm viêm, chống oxy hóa và cải thiện huyết áp cũng như kháng insulin ."
         },
         {
-          "disease": "Ung thư phổi và một số ung thư khác",
-          "effect": "Hỗ trợ phòng ngừa",
+          "disease": "Ung thư",
+          "effect": "Hỗ trợ bảo vệ tế bào và phòng ngừa nguy cơ",
           "evidence_level": "Khoa học hiện đại",
-          "explanation": "Nghiên cứu đoàn hệ tiền cứu dài hạn cho thấy ăn cà rốt sống thường xuyên liên quan với giảm nguy cơ ung thư phổi, trong khi dữ liệu về tụy yếu hơn và không thấy hiệu quả với cà rốt đã chế biến; vì vậy nên xem cà rốt là thực phẩm hỗ trợ phòng ngừa, không phải thực phẩm chữa ung thư ."
+          "explanation": "Polyacetylene và anthocyanin trong cà rốt điều hòa apoptosis, viêm và tăng sinh mạch trong hệ thống thực nghiệm; hiện chỉ là dữ liệu in vitro và động vật nên chỉ nên diễn đạt là hỗ trợ bảo vệ tế bào ."
         },
         {
           "disease": "Bệnh tim mạch",
           "effect": "Hỗ trợ phòng ngừa",
           "evidence_level": "Khoa học hiện đại",
-          "explanation": "Các tổng quan ghi nhận phytochemical trong cà rốt có đặc tính chống oxy hóa, chống viêm và điều biến lipid huyết tương, qua đó hỗ trợ giảm nguy cơ bệnh tim mạch ."
-        },
-        {
-          "disease": "Đái tháo đường và tăng huyết áp",
-          "effect": "Hỗ trợ phòng ngừa",
-          "evidence_level": "Khoa học hiện đại",
-          "explanation": "Một số tổng quan mô tả cà rốt có tác dụng chống đái tháo đường và chống tăng huyết áp, nhưng các bằng chứng chủ yếu đến từ nghiên cứu tiền lâm sàng và tổng hợp rộng, nên chỉ nên diễn đạt là hỗ trợ trong chế độ ăn lành mạnh ."
-        },
-        {
-          "disease": "Đục thủy tinh thể tuổi già và suy giảm sức khỏe liên quan carotene",
-          "effect": "Hỗ trợ phòng ngừa",
-          "evidence_level": "Khoa học hiện đại",
-          "explanation": "Tổng quan ô dù cho thấy carotene có liên quan với nguy cơ thấp hơn đối với đục thủy tinh thể tuổi già và một số kết cục sức khỏe bất lợi khác, dù đây là bằng chứng mức liên quan chứ không chứng minh điều trị ."
+          "explanation": "Các phytochemical như acid chlorogenic và caffeic trong cà rốt cho thấy điểm số dock cao và tiềm năng bảo vệ tim mạch trong nghiên cứu in silico ."
         }
       ],
       "super_tags": [
@@ -1025,6 +981,20 @@
         "blue_zones",
         "longevity",
         "dash"
+      ],
+      "disease_prevention": [
+        {
+          "disease": "Tăng đường huyết và đái tháo đường type 2",
+          "effect": "Có thể hỗ trợ kiểm soát đường huyết, không thay thế thuốc",
+          "evidence_level": "Hạn chế",
+          "explanation": "Mướp đắng chứa các hợp chất có thể ảnh hưởng đến chuyển hóa glucose, nhưng bằng chứng lâm sàng chưa đủ để khẳng định khả năng phòng hoặc chữa đái tháo đường. Người đang dùng thuốc hạ đường huyết cần thận trọng vì có thể tăng nguy cơ hạ đường huyết. [87]"
+        },
+        {
+          "disease": "Táo bón do thiếu chất xơ",
+          "effect": "Hỗ trợ bổ sung chất xơ và nước",
+          "evidence_level": "Hạn chế",
+          "explanation": "Mướp đắng là thực phẩm ít năng lượng, có chất xơ và các hợp chất thực vật; có thể góp phần vào chế độ ăn kiểm soát cân nặng. Không dùng mướp đắng thay thuốc điều trị bệnh."
+        }
       ],
       "super_tags": [
         "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh"
@@ -1919,6 +1889,20 @@
         "blue_zones",
         "longevity"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Thiếu vitamin C và một số vi chất",
+          "effect": "Hỗ trợ bổ sung vitamin C, đồng và chất chống oxy hóa",
+          "evidence_level": "Trung bình",
+          "explanation": "Nhãn là trái cây cung cấp vitamin C, nước và carbohydrate; có thể góp phần vào khẩu phần đa dạng, nhưng không có tác dụng chữa mất ngủ, thiếu máu hoặc bệnh mạn tính như các quảng cáo dân gian thường khẳng định."
+        },
+        {
+          "disease": "Táo bón do thiếu chất xơ",
+          "effect": "Hỗ trợ bổ sung chất xơ ở mức vừa phải",
+          "evidence_level": "Hạn chế",
+          "explanation": "Nhãn có một lượng chất xơ nhưng cũng chứa đường tự nhiên; người đái tháo đường hoặc đang kiểm soát cân nặng cần tính vào tổng lượng carbohydrate và ưu tiên ăn quả tươi thay vì nhãn sấy hoặc sản phẩm thêm đường."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -2435,6 +2419,20 @@
         "longevity",
         "dash"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Thiếu vitamin C và chất xơ",
+          "effect": "Hỗ trợ bổ sung vitamin C, chất xơ và polyphenol",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Dâu tằm là trái cây có nước, chất xơ, vitamin C và các hợp chất màu thực vật; có thể hỗ trợ sức khỏe tổng thể và bảo vệ tế bào khỏi stress oxy hóa, nhưng không chữa ung thư hoặc bệnh mạn tính."
+        },
+        {
+          "disease": "Táo bón chức năng",
+          "effect": "Hỗ trợ cải thiện lượng chất xơ trong khẩu phần",
+          "evidence_level": "Hạn chế",
+          "explanation": "Chất xơ trong dâu tằm có thể hỗ trợ nhu động ruột khi ăn quả tươi và uống đủ nước. Dâu tằm sấy, siro hoặc nước ép thêm đường có thể làm tăng lượng đường và năng lượng."
+        }
+      ],
       "super_tags": [
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)"
       ],
@@ -2627,6 +2625,20 @@
       "cures": [],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Suy dinh dưỡng do thiếu năng lượng và protein",
+          "effect": "Hỗ trợ bổ sung protein trong khẩu phần",
+          "evidence_level": "Hạn chế",
+          "explanation": "Yến sào chứa protein và acid amin, có thể dùng như một thực phẩm bổ sung cho người ăn kém hoặc cần tăng đạm; chưa có bằng chứng lâm sàng chắc chắn rằng yến sào phòng hoặc điều trị một bệnh cụ thể. [39][44]"
+        },
+        {
+          "disease": "Suy giảm thể trạng sau bệnh",
+          "effect": "Có thể hỗ trợ phục hồi dinh dưỡng khi phối hợp với chế độ ăn đầy đủ",
+          "evidence_level": "Hạn chế",
+          "explanation": "Yến sào thường được dùng để bồi bổ ở người mới ốm dậy, nhưng các tuyên bố như chống lão hóa, tăng miễn dịch mạnh hoặc chữa bệnh hô hấp chưa đủ bằng chứng để xem là tác dụng điều trị. Theo y học cổ truyền, yến có vị ngọt, tính bình, quy vào Phế, Vị và Thận; đây là mô tả lý luận truyền thống, không thay thế bằng chứng lâm sàng hiện đại. [36][39]"
+        }
+      ],
       "super_tags": [
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
       ],
@@ -3123,20 +3135,6 @@
       ],
       "avoids": [],
       "diets": [],
-      "disease_prevention": [
-        {
-          "disease": "Tăng đường huyết và đái tháo đường type 2",
-          "effect": "Có thể hỗ trợ kiểm soát đường huyết, không thay thế thuốc",
-          "evidence_level": "Hạn chế",
-          "explanation": "Mướp đắng chứa các hợp chất có thể ảnh hưởng đến chuyển hóa glucose, nhưng bằng chứng lâm sàng chưa đủ để khẳng định khả năng phòng hoặc chữa đái tháo đường. Người đang dùng thuốc hạ đường huyết cần thận trọng vì có thể tăng nguy cơ hạ đường huyết. [87]"
-        },
-        {
-          "disease": "Táo bón do thiếu chất xơ",
-          "effect": "Hỗ trợ bổ sung chất xơ và nước",
-          "evidence_level": "Hạn chế",
-          "explanation": "Mướp đắng là thực phẩm ít năng lượng, có chất xơ và các hợp chất thực vật; có thể góp phần vào chế độ ăn kiểm soát cân nặng. Không dùng mướp đắng thay thuốc điều trị bệnh."
-        }
-      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -3180,20 +3178,6 @@
       ],
       "avoids": [],
       "diets": [],
-      "disease_prevention": [
-        {
-          "disease": "Bệnh tim mạch chuyển hóa",
-          "effect": "Có thể hỗ trợ sức khỏe tim mạch khi thay thế một phần thực phẩm giàu chất béo động vật",
-          "evidence_level": "Hạn chế đến trung bình",
-          "explanation": "Tương đậu nành cung cấp protein thực vật và các hợp chất từ đậu nành; tuy nhiên sản phẩm thường nhiều muối nên cần dùng lượng nhỏ, đặc biệt ở người tăng huyết áp hoặc bệnh thận."
-        },
-        {
-          "disease": "Suy dinh dưỡng do thiếu protein",
-          "effect": "Hỗ trợ bổ sung protein thực vật",
-          "evidence_level": "Trung bình",
-          "explanation": "Đậu nành là nguồn protein thực vật có giá trị, nhưng tương chỉ là gia vị và không nên dùng thay thế các nguồn đạm chính. Lợi ích dinh dưỡng phụ thuộc thành phần thực tế của từng sản phẩm."
-        }
-      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -3367,20 +3351,6 @@
       ],
       "avoids": [],
       "diets": [],
-      "disease_prevention": [
-        {
-          "disease": "Táo bón chức năng",
-          "effect": "Hỗ trợ tăng lượng chất xơ và cải thiện nhu động ruột",
-          "evidence_level": "Trung bình",
-          "explanation": "Hạt chia giàu chất xơ hòa tan và không hòa tan; nên ngâm trong nước hoặc chất lỏng trước khi dùng, tăng lượng từ từ và uống đủ nước để giảm nguy cơ đầy bụng hoặc nghẹn. [106][115][117]"
-        },
-        {
-          "disease": "Bệnh tim mạch và hội chứng chuyển hóa",
-          "effect": "Có thể hỗ trợ cải thiện chất lượng khẩu phần",
-          "evidence_level": "Hạn chế đến trung bình",
-          "explanation": "Hạt chia cung cấp chất xơ, acid alpha-linolenic, protein và khoáng chất; có thể hỗ trợ các yếu tố nguy cơ khi kết hợp chế độ ăn và vận động phù hợp, nhưng không điều trị tăng huyết áp, rối loạn mỡ máu hoặc đái tháo đường. [107][108]"
-        }
-      ],
       "super_tags": [
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
       ],
@@ -3894,16 +3864,16 @@
       "diets": [],
       "disease_prevention": [
         {
-          "disease": "Thiếu vitamin A",
-          "effect": "Hỗ trợ phòng ngừa thiếu vitamin A khi dùng lượng phù hợp",
+          "disease": "Thiếu máu thiếu sắt và thiếu vitamin B12",
+          "effect": "Hỗ trợ phòng ngừa khi được sử dụng trong khẩu phần cân đối",
           "evidence_level": "Trung bình",
-          "explanation": "Gan gà rất giàu retinol, cần cho thị lực và chức năng miễn dịch; tuy nhiên hàm lượng cao làm tăng nguy cơ thừa vitamin A nếu ăn nhiều hoặc dùng cùng thực phẩm bổ sung vitamin A. [48][49][53]"
+          "explanation": "Trứng cung cấp protein, vitamin B12, sắt và một số vi chất cần cho quá trình tạo máu; không thay thế thuốc hoặc phác đồ điều trị thiếu máu. Lòng đỏ cũng chứa vitamin A, nhưng không nên xem trứng là thực phẩm chữa bệnh. [49][57]"
         },
         {
-          "disease": "Thiếu máu thiếu sắt và folat",
-          "effect": "Hỗ trợ cung cấp sắt, folat, vitamin B12 và protein",
+          "disease": "Loãng xương",
+          "effect": "Hỗ trợ duy trì sức khỏe xương",
           "evidence_level": "Trung bình",
-          "explanation": "Gan gà chứa nhiều sắt, folat và vitamin nhóm B, có thể hỗ trợ khẩu phần của người thiếu vi chất; không được tự dùng gan để điều trị thiếu máu khi chưa xác định nguyên nhân. [48][53]"
+          "explanation": "Trứng cung cấp protein, phospho và một lượng vitamin D cùng các vi chất liên quan đến chuyển hóa xương; hiệu quả phụ thuộc tổng thể chế độ ăn, vận động và tình trạng vitamin D. [13]"
         }
       ],
       "super_tags": [
@@ -3951,6 +3921,20 @@
       "cures": [],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Suy giảm khối lượng cơ và suy dinh dưỡng do thiếu protein",
+          "effect": "Hỗ trợ duy trì và phát triển cơ bắp",
+          "evidence_level": "Trung bình",
+          "explanation": "Ức gà là nguồn protein chất lượng cao, thường ít chất béo nếu bỏ da; có thể phù hợp trong khẩu phần kiểm soát năng lượng nhưng không trực tiếp phòng hoặc chữa bệnh. [4]"
+        },
+        {
+          "disease": "Thiếu máu do thiếu vitamin B12 hoặc sắt",
+          "effect": "Hỗ trợ cung cấp vi chất tạo máu",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Ức gà cung cấp vitamin B12, sắt và kẽm, nhưng lượng sắt không cao như thịt đỏ; cần đánh giá nguyên nhân thiếu máu trước khi bổ sung. [4]"
+        }
+      ],
       "super_tags": [
         "💪 Nguồn Protein chất lượng cao nhất"
       ],
@@ -3998,6 +3982,20 @@
         "xuong_khop"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Thiếu máu thiếu sắt",
+          "effect": "Hỗ trợ phòng ngừa ở người có nguy cơ",
+          "evidence_level": "Trung bình",
+          "explanation": "Thịt bò cung cấp sắt heme, dạng sắt được hấp thu hiệu quả, cùng vitamin B12 và protein; ăn vừa phải có thể góp phần giảm nguy cơ thiếu máu do thiếu sắt nhưng không thay thế điều trị y khoa. [41][42]"
+        },
+        {
+          "disease": "Suy giảm khối lượng cơ",
+          "effect": "Hỗ trợ duy trì cơ bắp và chức năng thể chất",
+          "evidence_level": "Trung bình",
+          "explanation": "Thịt bò thăn cung cấp protein chất lượng cao, vitamin B12, kẽm và sắt; nên ưu tiên phần nạc, khẩu phần phù hợp và hạn chế chế biến cháy khét. [37]"
+        }
+      ],
       "super_tags": [
         "💪 Nguồn Protein chất lượng cao nhất"
       ],
@@ -4043,6 +4041,20 @@
       "cures": [],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Thiếu máu thiếu sắt",
+          "effect": "Hỗ trợ cung cấp sắt và protein",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Thịt lợn nạc cung cấp protein, sắt, kẽm và vitamin nhóm B; có thể góp phần phòng thiếu chất trong khẩu phần đa dạng nhưng không có tác dụng điều trị độc lập. [47]"
+        },
+        {
+          "disease": "Suy dinh dưỡng do thiếu protein",
+          "effect": "Hỗ trợ đáp ứng nhu cầu đạm",
+          "evidence_level": "Trung bình",
+          "explanation": "Protein trong thịt lợn nạc hỗ trợ duy trì cơ bắp và phục hồi mô; nên chọn phần nạc, chế biến chín kỹ và hạn chế thịt chế biến sẵn. [47][59]"
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -4083,6 +4095,20 @@
       "cures": [],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Suy dinh dưỡng do thiếu protein",
+          "effect": "Hỗ trợ bổ sung protein và acid amin thiết yếu",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Thịt chim bồ câu có protein tương đối cao, ít chất béo theo một số dữ liệu dinh dưỡng; có thể dùng như một nguồn đạm, nhưng chưa có bằng chứng đủ mạnh cho công dụng phòng hoặc chữa một bệnh cụ thể. [46][56]"
+        },
+        {
+          "disease": "Thiếu vi chất dinh dưỡng",
+          "effect": "Hỗ trợ bổ sung một số vitamin và khoáng chất",
+          "evidence_level": "Hạn chế",
+          "explanation": "Thịt bồ câu cung cấp vitamin A, B1, B2, E và các khoáng chất; lợi ích chỉ có ý nghĩa trong tổng thể chế độ ăn cân đối, không nên diễn giải là thuốc bổ chữa bách bệnh. [46]"
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -4124,6 +4150,20 @@
       "cures": [],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Thiếu máu do thiếu vitamin B12 và sắt",
+          "effect": "Hỗ trợ cung cấp protein, sắt và vitamin nhóm B",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Thịt vịt cung cấp protein, sắt, phospho và một số vitamin; phần có da chứa nhiều năng lượng và chất béo hơn, vì vậy nên ưu tiên phần nạc hoặc bỏ da nếu cần kiểm soát mỡ máu và năng lượng. [31][34]"
+        },
+        {
+          "disease": "Suy giảm khối lượng cơ",
+          "effect": "Hỗ trợ duy trì cơ bắp",
+          "evidence_level": "Trung bình",
+          "explanation": "Protein trong thịt vịt góp phần duy trì cơ và phục hồi mô; đây là hỗ trợ dinh dưỡng, không phải phương pháp điều trị bệnh cơ hoặc bệnh mạn tính. [32][35]"
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -4169,10 +4209,32 @@
       ],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Rối loạn tiêu hóa liên quan đến hệ vi sinh đường ruột",
+          "effect": "Hỗ trợ cân bằng hệ vi sinh và chức năng tiêu hóa",
+          "evidence_level": "Trung bình",
+          "explanation": "Sữa chua lên men chứa các chủng vi khuẩn có lợi; một số sản phẩm có thể hỗ trợ tiêu hóa và giảm một số triệu chứng đường ruột, nhưng hiệu quả phụ thuộc chủng lợi khuẩn, liều lượng và từng người. [18][21][25]"
+        },
+        {
+          "disease": "Loãng xương",
+          "effect": "Hỗ trợ duy trì mật độ xương",
+          "evidence_level": "Trung bình",
+          "explanation": "Sữa chua cung cấp canxi, protein và một số vitamin cần cho xương; nên ưu tiên loại ít đường hoặc không đường để hạn chế năng lượng dư thừa. [17][18][22]"
+        },
+        {
+          "disease": "Bệnh tim mạch chuyển hóa",
+          "effect": "Có thể hỗ trợ giảm nguy cơ khi dùng trong chế độ ăn lành mạnh",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Một số bằng chứng quan sát liên hệ việc dùng sữa chua với nguy cơ thấp hơn của bệnh tim mạch chuyển hóa, nhưng không chứng minh sữa chua điều trị tăng huyết áp, đái tháo đường hoặc bệnh tim. [16][18]"
+        }
+      ],
       "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh",
         "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột"
       ],
       "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0,
         "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột": 0
       }
     },
@@ -4217,6 +4279,20 @@
       ],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Loãng xương và thiếu canxi",
+          "effect": "Hỗ trợ cung cấp canxi và protein cho xương",
+          "evidence_level": "Trung bình",
+          "explanation": "Sữa bò là nguồn canxi và protein quan trọng giúp xây dựng, duy trì khối lượng xương; lựa chọn loại sữa cần phù hợp với nhu cầu năng lượng, mỡ máu và khả năng dung nạp lactose. [16][27]"
+        },
+        {
+          "disease": "Thiếu vitamin B12 và một số vi chất",
+          "effect": "Hỗ trợ bổ sung protein, vitamin B12 và khoáng chất",
+          "evidence_level": "Trung bình",
+          "explanation": "Sữa cung cấp protein, canxi và các vitamin, khoáng chất; không có bằng chứng cho thấy sữa tươi nguyên chất chữa được bệnh mạn tính. Sữa chưa tiệt trùng có nguy cơ nhiễm khuẩn và không nên dùng thay cho sữa đã xử lý an toàn. [20][27]"
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -4258,6 +4334,20 @@
       "cures": [],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Thiếu vitamin A",
+          "effect": "Hỗ trợ phòng ngừa thiếu vitamin A khi dùng lượng phù hợp",
+          "evidence_level": "Trung bình",
+          "explanation": "Gan gà rất giàu retinol, cần cho thị lực và chức năng miễn dịch; tuy nhiên hàm lượng cao làm tăng nguy cơ thừa vitamin A nếu ăn nhiều hoặc dùng cùng thực phẩm bổ sung vitamin A. [48][49][53]"
+        },
+        {
+          "disease": "Thiếu máu thiếu sắt và folat",
+          "effect": "Hỗ trợ cung cấp sắt, folat, vitamin B12 và protein",
+          "evidence_level": "Trung bình",
+          "explanation": "Gan gà chứa nhiều sắt, folat và vitamin nhóm B, có thể hỗ trợ khẩu phần của người thiếu vi chất; không được tự dùng gan để điều trị thiếu máu khi chưa xác định nguyên nhân. [48][53]"
+        }
+      ],
       "super_tags": [
         "💪 Nguồn Protein chất lượng cao nhất",
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất"
@@ -4359,6 +4449,20 @@
         "longevity",
         "dash"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Rối loạn tiêu hóa liên quan đến hệ vi sinh đường ruột",
+          "effect": "Có thể hỗ trợ đa dạng hóa hệ vi sinh khi dùng sản phẩm lên men đúng cách",
+          "evidence_level": "Hạn chế",
+          "explanation": "Dưa cải chua lên men có thể chứa vi khuẩn lactic và một số chất xơ; tuy nhiên lượng lợi khuẩn thay đổi theo cách muối, thời gian lên men và bảo quản. Không dùng dưa bị mốc, nhớt hoặc có mùi bất thường."
+        },
+        {
+          "disease": "Tăng huyết áp và bệnh tim mạch",
+          "effect": "Không nên xem là thực phẩm phòng bệnh; cần hạn chế ở người có nguy cơ",
+          "evidence_level": "Trung bình",
+          "explanation": "Dưa cải chua thường chứa nhiều muối, ăn nhiều có thể làm tăng lượng natri và bất lợi cho kiểm soát huyết áp. Nên ăn lượng nhỏ, rửa hoặc vắt bớt nước muối và không thay thế rau tươi."
+        }
+      ],
       "super_tags": [
         "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột"
       ],
@@ -4413,6 +4517,20 @@
         "longevity",
         "dash"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Rối loạn tiêu hóa",
+          "effect": "Hỗ trợ tiêu hóa và sức khỏe hệ vi sinh đường ruột",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Kim chi là thực phẩm rau củ lên men, có thể cung cấp chất xơ và một số vi khuẩn lactic; lợi ích phụ thuộc sản phẩm, quá trình lên men và khả năng dung nạp của từng người. [62][68]"
+        },
+        {
+          "disease": "Bệnh tim mạch chuyển hóa",
+          "effect": "Có thể hỗ trợ chế độ ăn kiểm soát cân nặng khi dùng khẩu phần phù hợp",
+          "evidence_level": "Hạn chế",
+          "explanation": "Kim chi thường ít năng lượng và có rau, chất xơ, nhưng thường nhiều natri; không có bằng chứng để khẳng định kim chi phòng hoặc chữa ung thư, bệnh tim hay đái tháo đường. Chất chống oxy hóa chỉ nên diễn đạt là hỗ trợ bảo vệ tế bào, không phải điều trị bệnh. [62][68]"
+        }
+      ],
       "super_tags": [
         "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột"
       ],
@@ -4465,6 +4583,20 @@
         "longevity",
         "dash"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Bệnh tim mạch chuyển hóa",
+          "effect": "Có thể hỗ trợ sức khỏe tim mạch khi thay thế một phần thực phẩm giàu chất béo động vật",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Tương đậu nành cung cấp protein thực vật và các hợp chất từ đậu nành; tuy nhiên sản phẩm thường nhiều muối nên cần dùng lượng nhỏ, đặc biệt ở người tăng huyết áp hoặc bệnh thận."
+        },
+        {
+          "disease": "Suy dinh dưỡng do thiếu protein",
+          "effect": "Hỗ trợ bổ sung protein thực vật",
+          "evidence_level": "Trung bình",
+          "explanation": "Đậu nành là nguồn protein thực vật có giá trị, nhưng tương chỉ là gia vị và không nên dùng thay thế các nguồn đạm chính. Lợi ích dinh dưỡng phụ thuộc thành phần thực tế của từng sản phẩm."
+        }
+      ],
       "super_tags": [
         "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột"
       ],
@@ -4509,6 +4641,20 @@
       ],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Thiếu năng lượng và suy dinh dưỡng",
+          "effect": "Không được khuyến nghị như biện pháp phòng bệnh",
+          "evidence_level": "Không đủ bằng chứng",
+          "explanation": "Rượu nếp cẩm có thể cung cấp năng lượng và một số hợp chất màu từ gạo nếp cẩm, nhưng ethanol không phải chất dinh dưỡng thiết yếu. Không có cơ sở để dùng rượu nếp cẩm phòng thiếu máu, tim mạch, ung thư hoặc bệnh mạn tính."
+        },
+        {
+          "disease": "Bệnh gan, tăng huyết áp và ung thư liên quan đến rượu",
+          "effect": "Không hỗ trợ phòng bệnh; nên hạn chế hoặc tránh sử dụng",
+          "evidence_level": "Mạnh",
+          "explanation": "Rượu có thể làm tăng nguy cơ tổn thương gan và nhiều bệnh mạn tính; các sắc tố chống oxy hóa trong gạo nếp cẩm không loại bỏ được tác hại của ethanol. Không dùng rượu nếp cẩm để điều trị hoặc bồi bổ cho trẻ em, phụ nữ mang thai hay người bệnh gan."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -4549,6 +4695,20 @@
       ],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Tăng đường huyết sau ăn",
+          "effect": "Có thể hỗ trợ kiểm soát đường huyết ở mức hạn chế khi pha loãng và dùng trong khẩu phần phù hợp",
+          "evidence_level": "Hạn chế",
+          "explanation": "Acid acetic trong giấm có thể ảnh hưởng đến tốc độ tiêu hóa và đáp ứng đường huyết sau bữa ăn, nhưng giấm táo không điều trị hoặc phòng ngừa đái tháo đường. Cần thận trọng nếu đang dùng thuốc hạ đường huyết. [88]"
+        },
+        {
+          "disease": "Sâu răng và kích ứng đường tiêu hóa",
+          "effect": "Không hỗ trợ phòng bệnh; dùng không đúng cách có thể làm tăng nguy cơ",
+          "evidence_level": "Trung bình",
+          "explanation": "Giấm táo có tính acid, có thể gây mòn men răng, kích ứng thực quản hoặc dạ dày khi uống nguyên chất. Nếu sử dụng, cần pha loãng; không nên uống trực tiếp hoặc dùng thay thuốc. [76][81]"
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -4587,6 +4747,20 @@
       "cures": [],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất ngủ nhẹ và căng thẳng",
+          "effect": "Có thể hỗ trợ thư giãn và cải thiện chất lượng giấc ngủ",
+          "evidence_level": "Hạn chế",
+          "explanation": "Trà hoa cúc không chứa caffeine tự nhiên và thường được dùng như đồ uống thư giãn; bằng chứng về điều trị mất ngủ còn hạn chế, không thay thế đánh giá nguyên nhân hoặc thuốc được kê."
+        },
+        {
+          "disease": "Khó tiêu nhẹ",
+          "effect": "Có thể hỗ trợ giảm cảm giác khó chịu ở đường tiêu hóa",
+          "evidence_level": "Hạn chế",
+          "explanation": "Một số hướng dẫn thực hành dân gian sử dụng hoa cúc trong đồ uống thảo mộc cho khó tiêu, nhưng chưa đủ bằng chứng để xem trà hoa cúc là phương pháp điều trị viêm loét, trào ngược hoặc bệnh tiêu hóa. [81][89]"
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -4668,16 +4842,16 @@
       "diets": [],
       "disease_prevention": [
         {
-          "disease": "Táo bón chức năng",
-          "effect": "Hỗ trợ bổ sung chất xơ và nước",
+          "disease": "Mất nước nhẹ",
+          "effect": "Hỗ trợ bổ sung nước và một số chất điện giải",
           "evidence_level": "Trung bình",
-          "explanation": "Chanh dây cung cấp chất xơ, nước và một số vitamin; ăn phần ruột cùng hạt có thể hỗ trợ nhu động ruột trong chế độ ăn cân đối."
+          "explanation": "Nước dừa tươi cung cấp nước, kali và một số khoáng chất, có thể dùng như một loại đồ uống trong điều kiện thông thường; không thay thế dung dịch bù nước điện giải chuẩn khi tiêu chảy hoặc mất nước nặng."
         },
         {
-          "disease": "Thiếu vitamin C",
-          "effect": "Hỗ trợ bổ sung vitamin C và hợp chất chống oxy hóa",
-          "evidence_level": "Trung bình",
-          "explanation": "Chanh dây có vitamin C và các hợp chất thực vật, có thể hỗ trợ bảo vệ tế bào khỏi stress oxy hóa; không nên diễn giải thành tác dụng phòng hoặc chữa ung thư."
+          "disease": "Tăng huyết áp do thiếu kali trong khẩu phần",
+          "effect": "Có thể hỗ trợ bổ sung kali ở người phù hợp",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Kali trong chế độ ăn có vai trò đối với huyết áp, nhưng nước dừa không phải thuốc hạ áp. Người bệnh thận, tăng kali máu hoặc đang dùng thuốc ảnh hưởng kali cần hỏi bác sĩ trước khi uống thường xuyên."
         }
       ],
       "super_tags": [],
@@ -4720,6 +4894,20 @@
       "cures": [],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Táo bón chức năng",
+          "effect": "Có thể hỗ trợ tăng lượng chất xơ hòa tan và nước trong khẩu phần",
+          "evidence_level": "Hạn chế",
+          "explanation": "Mủ trôm tạo chất nhầy và có thể làm tăng khối lượng dịch trong đường ruột; cần ngâm nở hoàn toàn và uống đủ nước. Không dùng để điều trị táo bón kéo dài, đau bụng, nôn hoặc tắc ruột."
+        },
+        {
+          "disease": "Tăng đường huyết và tăng cân",
+          "effect": "Có thể hỗ trợ cảm giác no nếu dùng không kèm đường, nhưng không có tác dụng điều trị",
+          "evidence_level": "Không đủ bằng chứng",
+          "explanation": "Mủ trôm chủ yếu là chất xơ hòa tan và bản thân không phải thuốc hạ đường huyết hay giảm cân. Các món mủ trôm pha đường, nước cốt dừa hoặc siro có thể làm tăng năng lượng và đường hấp thu."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -4815,6 +5003,20 @@
         "blue_zones",
         "longevity"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Bệnh tim mạch",
+          "effect": "Hỗ trợ sức khỏe tim mạch khi dùng khẩu phần phù hợp",
+          "evidence_level": "Trung bình",
+          "explanation": "Hạt điều cung cấp chất béo không bão hòa, magie và một số khoáng chất; có thể hỗ trợ thay thế chất béo bão hòa trong chế độ ăn. Nên chọn loại không tẩm nhiều muối và kiểm soát khẩu phần vì hạt điều giàu năng lượng. [92][97]"
+        },
+        {
+          "disease": "Thiếu magie và suy giảm sức khỏe xương",
+          "effect": "Hỗ trợ bổ sung magie, đồng và protein thực vật",
+          "evidence_level": "Trung bình",
+          "explanation": "Magie và đồng tham gia vào chức năng thần kinh, cơ và chuyển hóa xương; hạt điều không phải thuốc điều trị loãng xương hoặc bệnh thần kinh. [97]"
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -4857,6 +5059,20 @@
         "blue_zones",
         "longevity"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Bệnh tim mạch",
+          "effect": "Có thể hỗ trợ cải thiện chất lượng chất béo trong khẩu phần",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Hạt macca giàu chất béo không bão hòa đơn và năng lượng; dùng một lượng nhỏ thay cho thực phẩm giàu chất béo bão hòa có thể phù hợp với chế độ ăn tốt cho tim. Không nên gọi là thực phẩm chữa bệnh tim."
+        },
+        {
+          "disease": "Táo bón do thiếu chất xơ",
+          "effect": "Hỗ trợ bổ sung chất xơ ở mức vừa phải",
+          "evidence_level": "Hạn chế",
+          "explanation": "Hạt macca có chất xơ và một số khoáng chất, nhưng ăn quá nhiều dễ làm tăng năng lượng khẩu phần. Người dị ứng các loại hạt cần tránh sử dụng."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -4897,6 +5113,20 @@
         "mediterranean",
         "blue_zones",
         "longevity"
+      ],
+      "disease_prevention": [
+        {
+          "disease": "Bệnh tim mạch",
+          "effect": "Hỗ trợ cung cấp chất béo không bão hòa, magie và chất chống oxy hóa",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Hạt bí ngô có thể góp phần vào chế độ ăn giàu hạt, chất xơ và chất béo lành mạnh; dữ liệu về phòng xơ vữa hoặc bệnh tim không nên diễn giải thành tác dụng điều trị. [99]"
+        },
+        {
+          "disease": "Thiếu kẽm và magie",
+          "effect": "Hỗ trợ bổ sung một số khoáng chất",
+          "evidence_level": "Trung bình",
+          "explanation": "Hạt bí ngô cung cấp kẽm, magie, protein và chất béo; các chất này hỗ trợ chức năng miễn dịch, thần kinh và cơ bắp, nhưng không thay thế thuốc hoặc viên bổ sung khi có thiếu chất được chẩn đoán."
+        }
       ],
       "super_tags": [],
       "super_tags_order": {}
@@ -4946,6 +5176,20 @@
         "blue_zones",
         "longevity"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Táo bón chức năng",
+          "effect": "Hỗ trợ tăng lượng chất xơ và cải thiện nhu động ruột",
+          "evidence_level": "Trung bình",
+          "explanation": "Hạt chia giàu chất xơ hòa tan và không hòa tan; nên ngâm trong nước hoặc chất lỏng trước khi dùng, tăng lượng từ từ và uống đủ nước để giảm nguy cơ đầy bụng hoặc nghẹn. [106][115][117]"
+        },
+        {
+          "disease": "Bệnh tim mạch và hội chứng chuyển hóa",
+          "effect": "Có thể hỗ trợ cải thiện chất lượng khẩu phần",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Hạt chia cung cấp chất xơ, acid alpha-linolenic, protein và khoáng chất; có thể hỗ trợ các yếu tố nguy cơ khi kết hợp chế độ ăn và vận động phù hợp, nhưng không điều trị tăng huyết áp, rối loạn mỡ máu hoặc đái tháo đường. [107][108]"
+        }
+      ],
       "super_tags": [
         "🐟 Giàu Omega-3 & Chất béo tốt nhất",
         "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh"
@@ -4993,6 +5237,20 @@
         "blue_zones",
         "longevity"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Bệnh tim mạch",
+          "effect": "Hỗ trợ cung cấp chất béo không bão hòa, vitamin E và magie",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Hạt hướng dương có thể phù hợp trong khẩu phần thay thế đồ ăn vặt nhiều chất béo bão hòa; hiệu quả phụ thuộc tổng thể chế độ ăn và nên chọn loại không tẩm muối."
+        },
+        {
+          "disease": "Táo bón do thiếu chất xơ",
+          "effect": "Hỗ trợ bổ sung chất xơ",
+          "evidence_level": "Hạn chế",
+          "explanation": "Hạt hướng dương cung cấp chất xơ và một số khoáng chất, nhưng không nên ăn quá nhiều vì giàu năng lượng; loại rang muối có thể làm tăng lượng natri."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -5036,6 +5294,20 @@
         "blue_zones",
         "longevity",
         "dash"
+      ],
+      "disease_prevention": [
+        {
+          "disease": "Thiếu vitamin C và chất xơ",
+          "effect": "Hỗ trợ bổ sung vitamin C, chất xơ và hợp chất thực vật",
+          "evidence_level": "Trung bình",
+          "explanation": "Măng cụt là trái cây cung cấp nước, carbohydrate, chất xơ và một số vitamin; có thể góp phần vào chế độ ăn đa dạng nhưng không có bằng chứng cho thấy chữa ung thư hoặc các bệnh mạn tính."
+        },
+        {
+          "disease": "Táo bón chức năng",
+          "effect": "Hỗ trợ tiêu hóa khi dùng cả phần thịt quả",
+          "evidence_level": "Hạn chế",
+          "explanation": "Chất xơ trong trái cây có thể hỗ trợ nhu động ruột; vỏ măng cụt hoặc chế phẩm cô đặc không nên tự dùng để điều trị bệnh vì liều lượng và độ an toàn chưa được xác lập rõ."
+        }
       ],
       "super_tags": [],
       "super_tags_order": {}
@@ -5082,16 +5354,16 @@
       ],
       "disease_prevention": [
         {
-          "disease": "Bệnh tim mạch",
-          "effect": "Hỗ trợ sức khỏe tim mạch khi dùng khẩu phần phù hợp",
+          "disease": "Táo bón chức năng",
+          "effect": "Hỗ trợ bổ sung chất xơ và nước",
           "evidence_level": "Trung bình",
-          "explanation": "Hạt điều cung cấp chất béo không bão hòa, magie và một số khoáng chất; có thể hỗ trợ thay thế chất béo bão hòa trong chế độ ăn. Nên chọn loại không tẩm nhiều muối và kiểm soát khẩu phần vì hạt điều giàu năng lượng. [92][97]"
+          "explanation": "Chanh dây cung cấp chất xơ, nước và một số vitamin; ăn phần ruột cùng hạt có thể hỗ trợ nhu động ruột trong chế độ ăn cân đối."
         },
         {
-          "disease": "Thiếu magie và suy giảm sức khỏe xương",
-          "effect": "Hỗ trợ bổ sung magie, đồng và protein thực vật",
+          "disease": "Thiếu vitamin C",
+          "effect": "Hỗ trợ bổ sung vitamin C và hợp chất chống oxy hóa",
           "evidence_level": "Trung bình",
-          "explanation": "Magie và đồng tham gia vào chức năng thần kinh, cơ và chuyển hóa xương; hạt điều không phải thuốc điều trị loãng xương hoặc bệnh thần kinh. [97]"
+          "explanation": "Chanh dây có vitamin C và các hợp chất thực vật, có thể hỗ trợ bảo vệ tế bào khỏi stress oxy hóa; không nên diễn giải thành tác dụng phòng hoặc chữa ung thư."
         }
       ],
       "super_tags": [
@@ -5146,6 +5418,20 @@
         "blue_zones",
         "longevity",
         "dash"
+      ],
+      "disease_prevention": [
+        {
+          "disease": "Táo bón chức năng",
+          "effect": "Hỗ trợ bổ sung chất xơ và nước",
+          "evidence_level": "Hạn chế đến trung bình",
+          "explanation": "Hồng giòn là trái cây có chất xơ và carbohydrate; dùng lượng phù hợp có thể hỗ trợ tiêu hóa. Ăn quá nhiều, đặc biệt khi chưa chín kỹ, có thể gây đầy bụng hoặc khó chịu tiêu hóa."
+        },
+        {
+          "disease": "Thiếu vitamin C",
+          "effect": "Hỗ trợ bổ sung vitamin C và các hợp chất thực vật",
+          "evidence_level": "Hạn chế",
+          "explanation": "Hồng cung cấp một số vitamin, khoáng chất và polyphenol; các chất chống oxy hóa chỉ được xem là hỗ trợ bảo vệ tế bào, không phải thuốc phòng hoặc điều trị ung thư."
+        }
       ],
       "super_tags": [],
       "super_tags_order": {}
@@ -6158,20 +6444,6 @@
         "tieu_duong"
       ],
       "diets": [],
-      "disease_prevention": [
-        {
-          "disease": "Thiếu vitamin C và một số vi chất",
-          "effect": "Hỗ trợ bổ sung vitamin C, đồng và chất chống oxy hóa",
-          "evidence_level": "Trung bình",
-          "explanation": "Nhãn là trái cây cung cấp vitamin C, nước và carbohydrate; có thể góp phần vào khẩu phần đa dạng, nhưng không có tác dụng chữa mất ngủ, thiếu máu hoặc bệnh mạn tính như các quảng cáo dân gian thường khẳng định."
-        },
-        {
-          "disease": "Táo bón do thiếu chất xơ",
-          "effect": "Hỗ trợ bổ sung chất xơ ở mức vừa phải",
-          "evidence_level": "Hạn chế",
-          "explanation": "Nhãn có một lượng chất xơ nhưng cũng chứa đường tự nhiên; người đái tháo đường hoặc đang kiểm soát cân nặng cần tính vào tổng lượng carbohydrate và ưu tiên ăn quả tươi thay vì nhãn sấy hoặc sản phẩm thêm đường."
-        }
-      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -6437,20 +6709,6 @@
         "tieu_duong"
       ],
       "diets": [],
-      "disease_prevention": [
-        {
-          "disease": "Suy dinh dưỡng do thiếu năng lượng và protein",
-          "effect": "Hỗ trợ bổ sung protein trong khẩu phần",
-          "evidence_level": "Hạn chế",
-          "explanation": "Yến sào chứa protein và acid amin, có thể dùng như một thực phẩm bổ sung cho người ăn kém hoặc cần tăng đạm; chưa có bằng chứng lâm sàng chắc chắn rằng yến sào phòng hoặc điều trị một bệnh cụ thể. [39][44]"
-        },
-        {
-          "disease": "Suy giảm thể trạng sau bệnh",
-          "effect": "Có thể hỗ trợ phục hồi dinh dưỡng khi phối hợp với chế độ ăn đầy đủ",
-          "evidence_level": "Hạn chế",
-          "explanation": "Yến sào thường được dùng để bồi bổ ở người mới ốm dậy, nhưng các tuyên bố như chống lão hóa, tăng miễn dịch mạnh hoặc chữa bệnh hô hấp chưa đủ bằng chứng để xem là tác dụng điều trị. Theo y học cổ truyền, yến có vị ngọt, tính bình, quy vào Phế, Vị và Thận; đây là mô tả lý luận truyền thống, không thay thế bằng chứng lâm sàng hiện đại. [36][39]"
-        }
-      ],
       "super_tags": [],
       "super_tags_order": {}
     },
