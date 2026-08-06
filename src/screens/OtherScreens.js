@@ -14,6 +14,11 @@ export function DiseasesScreen({ navigation }) {
   const theme = getTheme(isDark);
   return (
     <SafeAreaView style={[styles.container, { backgroundColor: theme.bg }]}>
+      <View style={{ backgroundColor: '#fff3cd', padding: 12, margin: 16, borderRadius: 8, borderWidth: 1, borderColor: '#ffeeba' }}>
+        <Text style={{ color: '#856404', fontSize: 13, textAlign: 'center' }}>
+          ⚠️ <Text style={{ fontWeight: 'bold' }}>Lưu ý Y Khoa:</Text> Các gợi ý trị bệnh và kiêng kỵ được suy luận tự động từ cơ sở dữ liệu dựa trên thành phần dinh dưỡng. Đây không phải là lời khuyên y tế cá nhân hóa. Vui lòng tham khảo ý kiến bác sĩ chuyên khoa trước khi áp dụng.
+        </Text>
+      </View>
       <FlatList
         data={diseasesData}
         keyExtractor={item => item.id}
@@ -60,6 +65,11 @@ export function CausesScreen({ navigation }) {
   const theme = getTheme(isDark);
   return (
     <SafeAreaView style={[styles.container, { backgroundColor: theme.bg }]}>
+      <View style={{ backgroundColor: '#fff3cd', padding: 12, margin: 16, borderRadius: 8, borderWidth: 1, borderColor: '#ffeeba' }}>
+        <Text style={{ color: '#856404', fontSize: 13, textAlign: 'center' }}>
+          ⚠️ <Text style={{ fontWeight: 'bold' }}>Lưu ý Y Khoa:</Text> Các gợi ý trị bệnh và kiêng kỵ được suy luận tự động từ cơ sở dữ liệu dựa trên thành phần dinh dưỡng. Đây không phải là lời khuyên y tế cá nhân hóa. Vui lòng tham khảo ý kiến bác sĩ chuyên khoa trước khi áp dụng.
+        </Text>
+      </View>
       <FlatList
         data={diseasesData}
         keyExtractor={item => item.id + '_cause'}
