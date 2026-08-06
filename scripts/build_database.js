@@ -100,8 +100,10 @@ function parseSuperFoods() {
      const foodsBlock = match[2];
      const foodRegex = /"food_name":\s*"([^"]+)"/g;
      let foodMatch;
+     let idx = 0;
      while ((foodMatch = foodRegex.exec(foodsBlock)) !== null) {
-       superData.push({ category: catName, food: normalizeStr(foodMatch[1]) });
+       superData.push({ category: catName, food: normalizeStr(foodMatch[1]), index: idx });
+       idx++;
      }
   }
   return superData;
@@ -232,16 +234,11 @@ function updateData() {
       // 4. Enrich super_tags
       const nut = (food.nutrition || '').toLowerCase();
       food.super_tags = [];
+      food.super_tags_order = {};
 
-      food.numProtein = parseNum(nut.match(/protein\s*([\d,.]+)/));
-      food.numVitC = parseNum(nut.match(/vitamin c\s*([\d,.]+)/));
-      food.numIron = parseNum(nut.match(/sắt\s*([\d,.]+)/));
-      food.numCalcium = parseNum(nut.match(/canxi\s*([\d,.]+)/));
-      
-      if (nut.includes('omega') || nut.includes('dha') || nut.includes('epa')) food.super_tags.push("🐟 Siêu Omega-3");
-      if (nut.includes('collagen')) food.super_tags.push("✨ Siêu Collagen");
       if (food.disease_prevention && food.disease_prevention.length >= 3) {
         food.super_tags.push("🛡️ Đa dụng Phòng bệnh");
+        food.super_tags_order["🛡️ Đa dụng Phòng bệnh"] = 0;
       }
 
       const foodNameNorm = normalizeStr(food.name);
@@ -260,28 +257,11 @@ function updateData() {
            const tag = `${badge} ${sd.category}`;
            if (!food.super_tags.includes(tag)) {
              food.super_tags.push(tag);
+             food.super_tags_order[tag] = sd.index;
            }
         }
       });
-
-      if (food.super_tags.some(t => t.includes('Vua Vitamin C'))) food.super_tags = food.super_tags.filter(t => !t.includes('Siêu Vitamin C'));
-      if (food.super_tags.some(t => t.includes('Nguồn Protein'))) food.super_tags = food.super_tags.filter(t => !t.includes('Siêu Protein'));
-      if (food.super_tags.some(t => t.includes('Giàu Omega-3'))) food.super_tags = food.super_tags.filter(t => !t.includes('Siêu Omega-3'));
-      if (food.super_tags.some(t => t.includes('Vua Bổ máu'))) food.super_tags = food.super_tags.filter(t => !t.includes('Siêu Sắt') && !t.includes('Siêu Canxi'));
     });
-
-    // 5. Ranking Top 5
-    const topProtein = [...foods].filter(f => f.numProtein > 0 && !f.super_tags.some(t => t.includes('Nguồn Protein'))).sort((a, b) => b.numProtein - a.numProtein).slice(0, 5);
-    const topVitC = [...foods].filter(f => f.numVitC > 0 && !f.super_tags.some(t => t.includes('Vua Vitamin C'))).sort((a, b) => b.numVitC - a.numVitC).slice(0, 5);
-    const topIron = [...foods].filter(f => f.numIron > 0 && !f.super_tags.some(t => t.includes('Vua Bổ máu'))).sort((a, b) => b.numIron - a.numIron).slice(0, 5);
-    const topCalcium = [...foods].filter(f => f.numCalcium > 0 && !f.super_tags.some(t => t.includes('Vua Bổ máu'))).sort((a, b) => b.numCalcium - a.numCalcium).slice(0, 5);
-
-    topProtein.forEach(f => { if (!f.super_tags.includes("💪 Siêu Protein")) f.super_tags.push("💪 Siêu Protein"); });
-    topVitC.forEach(f => { if (!f.super_tags.includes("🍊 Siêu Vitamin C")) f.super_tags.push("🍊 Siêu Vitamin C"); });
-    topIron.forEach(f => { if (!f.super_tags.includes("🩸 Siêu Sắt")) f.super_tags.push("🩸 Siêu Sắt"); });
-    topCalcium.forEach(f => { if (!f.super_tags.includes("🦴 Siêu Canxi")) f.super_tags.push("🦴 Siêu Canxi"); });
-
-    // Removed cleanup so frontend can use these numeric values to sort
 
     if (foods.length > 0) {
       const masterData = { foods, diseases: diseasesDB, diets: dietsDB };

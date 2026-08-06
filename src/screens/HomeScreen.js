@@ -20,16 +20,12 @@ export default function HomeScreen({ navigation }) {
     if (activeFilter !== 'Tất cả') {
       filteredFoods = filteredFoods.filter(f => f.super_tags?.includes(activeFilter));
       
-      // Sort specific tags from highest to lowest if numeric data is available
-      if (activeFilter.includes('Siêu Sắt')) {
-        filteredFoods.sort((a, b) => (b.numIron || 0) - (a.numIron || 0));
-      } else if (activeFilter.includes('Siêu Canxi')) {
-        filteredFoods.sort((a, b) => (b.numCalcium || 0) - (a.numCalcium || 0));
-      } else if (activeFilter.includes('Siêu Protein')) {
-        filteredFoods.sort((a, b) => (b.numProtein || 0) - (a.numProtein || 0));
-      } else if (activeFilter.includes('Siêu Vitamin C')) {
-        filteredFoods.sort((a, b) => (b.numVitC || 0) - (a.numVitC || 0));
-      }
+      // Sort using the pre-calculated order from source_supper_food.md
+      filteredFoods.sort((a, b) => {
+        const orderA = a.super_tags_order?.[activeFilter] ?? 999;
+        const orderB = b.super_tags_order?.[activeFilter] ?? 999;
+        return orderA - orderB;
+      });
     }
 
     if (searchText) {
