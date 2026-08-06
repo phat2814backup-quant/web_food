@@ -224,6 +224,11 @@ function updateData() {
         let cleanedBlock = block.replace(/\n/g, ' ').replace(/\r/g, '');
         cleanedBlock = cleanedBlock.replace(/,\s*([}\]])/g, '$1');
         
+        const lastBracket = cleanedBlock.lastIndexOf(']');
+        if (lastBracket !== -1) {
+          cleanedBlock = cleanedBlock.substring(0, lastBracket + 1);
+        }
+
         const medicalData = JSON.parse(cleanedBlock);
         const arr = Array.isArray(medicalData) ? medicalData : [medicalData];
         
@@ -234,20 +239,20 @@ function updateData() {
           const mappedName = acronymMap[mId] || mId;
           const targetNorm = normalizeStr(mappedName);
 
-          const targetFood = foods.find(f => normalizeStr(f.name).includes(targetNorm) || targetNorm.includes(normalizeStr(f.name)));
-          if (targetFood) {
-            if (medItem.disease_prevention) {
+          const targetFoods = foods.filter(f => normalizeStr(f.name).includes(targetNorm) || targetNorm.includes(normalizeStr(f.name)));
+          
+          targetFoods.forEach(targetFood => {
+            if (medItem.disease_prevention && medItem.disease_prevention.length > 0) {
               targetFood.disease_prevention = medItem.disease_prevention;
             } else if (medItem.healthBenefits && Array.isArray(medItem.healthBenefits)) {
-              // Convert healthBenefits array to disease_prevention format
               targetFood.disease_prevention = medItem.healthBenefits.map(hb => ({
-                disease: hb.split(',')[0].trim(), // Lấy vế đầu làm tên bệnh/tác dụng
+                disease: hb.split(',')[0].trim(),
                 effect: hb,
                 evidence_level: "Khoa học hiện đại (tổng quát)",
                 explanation: medItem.scientificEvidence || medItem.description || "Dữ liệu được tổng hợp từ nguồn thông tin chung."
               }));
             }
-          }
+          });
         });
       } catch (e) {
         // Có thể bỏ qua console error nếu bị lặp nhiều do regex quét trúng block không hợp lệ

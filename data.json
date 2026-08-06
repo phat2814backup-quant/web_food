@@ -665,9 +665,38 @@
         "longevity",
         "dash"
       ],
-      "disease_prevention": [],
-      "super_tags": [],
-      "super_tags_order": {}
+      "disease_prevention": [
+        {
+          "disease": "Viêm đường hô hấp",
+          "effect": "Hỗ trợ phòng ngừa và cải thiện",
+          "evidence_level": "Khoa học hiện đại & Đông Y",
+          "explanation": "Lá tía tô có polyphenol và flavonoid giúp giảm ROS, ức chế NF-κB, giảm các cytokine viêm như TNF-α, IL-1β, IL-6 và giảm tiết nhầy MUC5AC; dân gian còn dùng khi cảm lạnh, ho, hen và tức ngực ."
+        },
+        {
+          "disease": "Rối loạn mỡ máu",
+          "effect": "Hỗ trợ phòng ngừa",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chiết xuất lá tía tô làm giảm cholesterol bằng cách giảm biểu hiện HMG-CoA reductase, nên có thể hỗ trợ phòng tăng cholesterol máu và nguy cơ tim mạch liên quan ."
+        },
+        {
+          "disease": "Tổn thương tế bào do stress oxy hóa",
+          "effect": "Hỗ trợ bảo vệ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Rosmarinic acid, luteolin và các hợp chất phenolic trong tía tô có hoạt tính chống oxy hóa mạnh, hoạt hóa Nrf2-Keap1 hoặc Nrf2-ARE và giúp bảo vệ tế bào thần kinh trước tổn thương oxy hóa; vì vậy chỉ nên mô tả là hỗ trợ bảo vệ tế bào, không phải chữa ung thư hay chữa bệnh dứt điểm ."
+        },
+        {
+          "disease": "Tăng acid uric và gout",
+          "effect": "Hỗ trợ phòng ngừa",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Một số hợp chất trong tía tô có hoạt tính ức chế xanthine oxidase, từ đó có tiềm năng hỗ trợ phòng tăng acid uric máu; tuy nhiên bằng chứng lâm sàng trực tiếp còn hạn chế ."
+        }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "CANTAY",
@@ -717,9 +746,44 @@
         "longevity",
         "dash"
       ],
-      "disease_prevention": [],
-      "super_tags": [],
-      "super_tags_order": {}
+      "disease_prevention": [
+        {
+          "disease": "Tăng huyết áp",
+          "effect": "Hỗ trợ phòng ngừa và cải thiện",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Phân tích gộp các thử nghiệm ngẫu nhiên cho thấy chế phẩm cần tây làm giảm huyết áp tâm thu và tâm trương; cơ chế được mô tả gồm giãn cơ trơn mạch máu, chẹn kênh canxi và tác dụng lợi tiểu ."
+        },
+        {
+          "disease": "Tăng đường huyết và đái tháo đường type 2",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Bằng chứng tổng quan và phân tích gộp cho thấy cần tây có thể giúp giảm glucose máu lúc đói; một số hoạt chất như 3-butylphthalide còn cho thấy cải thiện dung nạp insulin trong nghiên cứu cơ chế ."
+        },
+        {
+          "disease": "Rối loạn triglycerid và hội chứng chuyển hóa",
+          "effect": "Hỗ trợ phòng ngừa và cải thiện",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Meta-analysis ghi nhận cần tây giúp giảm triglycerid, và các tổng quan cũng mô tả tác dụng hạ lipid, chống viêm, chống oxy hóa trong hội chứng chuyển hóa và xơ vữa động mạch ."
+        },
+        {
+          "disease": "Béo phì và rối loạn hệ vi sinh ruột",
+          "effect": "Hỗ trợ phòng ngừa",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Trong mô hình chuột ăn nhiều chất béo, nước cần tây lên men làm giảm tăng cân, giảm mỡ nội tạng, ngừa rối loạn lipid và đường huyết, đồng thời điều biến hệ vi sinh ruột theo hướng có lợi ."
+        },
+        {
+          "disease": "Suy giảm nhận thức liên quan Alzheimer",
+          "effect": "Hỗ trợ bảo vệ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chiết xuất lá cần tây bảo vệ tế bào thần kinh trước độc tính amyloid-beta và ức chế AChE, BChE, GSK3β, COX-1, COX-2 trong nghiên cứu in vitro; dữ liệu này gợi ý tiềm năng hỗ trợ bảo vệ thần kinh, chưa đủ để xem là điều trị ."
+        }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "KHOAILANGTIM",
@@ -2330,8 +2394,50 @@
         "longevity",
         "dash"
       ],
-      "super_tags": [],
-      "super_tags_order": {}
+      "disease_prevention": [
+        {
+          "disease": "Điều hòa huyết áp",
+          "effect": "Điều hòa huyết áp, hỗ trợ sức khỏe tim mạch",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy chuối chín giàu kali giúp giảm huyết áp, chất xơ pectin hỗ trợ tiêu hóa, chất chống oxy hóa dopamine bảo vệ tế bào thần kinh."
+        },
+        {
+          "disease": "Cải thiện tiêu hóa",
+          "effect": "Cải thiện tiêu hóa, ngừa táo bón",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy chuối chín giàu kali giúp giảm huyết áp, chất xơ pectin hỗ trợ tiêu hóa, chất chống oxy hóa dopamine bảo vệ tế bào thần kinh."
+        },
+        {
+          "disease": "Tạo cảm giác no",
+          "effect": "Tạo cảm giác no, hỗ trợ kiểm soát cân nặng",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy chuối chín giàu kali giúp giảm huyết áp, chất xơ pectin hỗ trợ tiêu hóa, chất chống oxy hóa dopamine bảo vệ tế bào thần kinh."
+        },
+        {
+          "disease": "Bổ sung năng lượng nhanh",
+          "effect": "Bổ sung năng lượng nhanh, tốt cho vận động viên",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy chuối chín giàu kali giúp giảm huyết áp, chất xơ pectin hỗ trợ tiêu hóa, chất chống oxy hóa dopamine bảo vệ tế bào thần kinh."
+        },
+        {
+          "disease": "Chống oxy hóa",
+          "effect": "Chống oxy hóa, bảo vệ tế bào khỏi lão hóa",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy chuối chín giàu kali giúp giảm huyết áp, chất xơ pectin hỗ trợ tiêu hóa, chất chống oxy hóa dopamine bảo vệ tế bào thần kinh."
+        },
+        {
+          "disease": "Hỗ trợ chức năng thận",
+          "effect": "Hỗ trợ chức năng thận, giảm nguy cơ sỏi thận",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy chuối chín giàu kali giúp giảm huyết áp, chất xơ pectin hỗ trợ tiêu hóa, chất chống oxy hóa dopamine bảo vệ tế bào thần kinh."
+        }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "BUOI",
@@ -2380,8 +2486,50 @@
         "longevity",
         "dash"
       ],
-      "super_tags": [],
-      "super_tags_order": {}
+      "disease_prevention": [
+        {
+          "disease": "Tăng cường miễn dịch",
+          "effect": "Tăng cường miễn dịch, phòng cảm cúm",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy bưởi giàu vitamin C tăng miễn dịch, naringin giảm LDL, lycopene chống oxy hóa mạnh, hỗ trợ phòng ngừa bệnh tim và ung thư."
+        },
+        {
+          "disease": "Bảo vệ tim mạch",
+          "effect": "Bảo vệ tim mạch, giảm cholesterol xấu",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy bưởi giàu vitamin C tăng miễn dịch, naringin giảm LDL, lycopene chống oxy hóa mạnh, hỗ trợ phòng ngừa bệnh tim và ung thư."
+        },
+        {
+          "disease": "Chống oxy hóa",
+          "effect": "Chống oxy hóa, ngăn ngừa ung thư",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy bưởi giàu vitamin C tăng miễn dịch, naringin giảm LDL, lycopene chống oxy hóa mạnh, hỗ trợ phòng ngừa bệnh tim và ung thư."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân",
+          "effect": "Hỗ trợ giảm cân, tạo cảm giác no",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy bưởi giàu vitamin C tăng miễn dịch, naringin giảm LDL, lycopene chống oxy hóa mạnh, hỗ trợ phòng ngừa bệnh tim và ung thư."
+        },
+        {
+          "disease": "Làm đẹp da",
+          "effect": "Làm đẹp da, sản xuất collagen",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy bưởi giàu vitamin C tăng miễn dịch, naringin giảm LDL, lycopene chống oxy hóa mạnh, hỗ trợ phòng ngừa bệnh tim và ung thư."
+        },
+        {
+          "disease": "Cải thiện tiêu hóa",
+          "effect": "Cải thiện tiêu hóa, ngừa táo bón",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy bưởi giàu vitamin C tăng miễn dịch, naringin giảm LDL, lycopene chống oxy hóa mạnh, hỗ trợ phòng ngừa bệnh tim và ung thư."
+        }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "UUCHIN",
@@ -2430,8 +2578,50 @@
         "longevity",
         "dash"
       ],
-      "super_tags": [],
-      "super_tags_order": {}
+      "disease_prevention": [
+        {
+          "disease": "Hỗ trợ tiêu hóa",
+          "effect": "Hỗ trợ tiêu hóa, giảm đầy hơi nhờ papain",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy papain trong đu đủ giúp phân giải protein, cải thiện tiêu hóa; vitamin C, A, lycopene chống oxy hóa, ngừa ung thư và bệnh tim."
+        },
+        {
+          "disease": "Tăng cường miễn dịch",
+          "effect": "Tăng cường miễn dịch, chống oxy hóa",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy papain trong đu đủ giúp phân giải protein, cải thiện tiêu hóa; vitamin C, A, lycopene chống oxy hóa, ngừa ung thư và bệnh tim."
+        },
+        {
+          "disease": "Làm đẹp da",
+          "effect": "Làm đẹp da, sản xuất collagen",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy papain trong đu đủ giúp phân giải protein, cải thiện tiêu hóa; vitamin C, A, lycopene chống oxy hóa, ngừa ung thư và bệnh tim."
+        },
+        {
+          "disease": "Bảo vệ tim mạch",
+          "effect": "Bảo vệ tim mạch, giảm cholesterol",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy papain trong đu đủ giúp phân giải protein, cải thiện tiêu hóa; vitamin C, A, lycopene chống oxy hóa, ngừa ung thư và bệnh tim."
+        },
+        {
+          "disease": "Chống viêm",
+          "effect": "Chống viêm, ngừa ung thư",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy papain trong đu đủ giúp phân giải protein, cải thiện tiêu hóa; vitamin C, A, lycopene chống oxy hóa, ngừa ung thư và bệnh tim."
+        },
+        {
+          "disease": "Tốt cho mắt",
+          "effect": "Tốt cho mắt, ngăn thoái hóa điểm vàng",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy papain trong đu đủ giúp phân giải protein, cải thiện tiêu hóa; vitamin C, A, lycopene chống oxy hóa, ngừa ung thư và bệnh tim."
+        }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "TRAIBO",
@@ -2479,10 +2669,56 @@
         "longevity",
         "dash"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Bảo vệ tim mạch",
+          "effect": "Bảo vệ tim mạch, giảm cholesterol xấu",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy bơ giảm LDL, tăng HDL, cải thiện sức khỏe tim mạch; folate ngăn dị tật ống thần kinh; lutein bảo vệ mắt."
+        },
+        {
+          "disease": "Tốt cho não bộ",
+          "effect": "Tốt cho não bộ, cải thiện trí nhớ",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy bơ giảm LDL, tăng HDL, cải thiện sức khỏe tim mạch; folate ngăn dị tật ống thần kinh; lutein bảo vệ mắt."
+        },
+        {
+          "disease": "Làm đẹp da",
+          "effect": "Làm đẹp da, chống lão hóa",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy bơ giảm LDL, tăng HDL, cải thiện sức khỏe tim mạch; folate ngăn dị tật ống thần kinh; lutein bảo vệ mắt."
+        },
+        {
+          "disease": "Hỗ trợ hấp thu dinh dưỡng (vitamin tan trong dầu)",
+          "effect": "Hỗ trợ hấp thu dinh dưỡng (vitamin tan trong dầu)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy bơ giảm LDL, tăng HDL, cải thiện sức khỏe tim mạch; folate ngăn dị tật ống thần kinh; lutein bảo vệ mắt."
+        },
+        {
+          "disease": "Tốt cho xương (vitamin K)",
+          "effect": "Tốt cho xương (vitamin K)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy bơ giảm LDL, tăng HDL, cải thiện sức khỏe tim mạch; folate ngăn dị tật ống thần kinh; lutein bảo vệ mắt."
+        },
+        {
+          "disease": "Bảo vệ mắt (lutein",
+          "effect": "Bảo vệ mắt (lutein, zeaxanthin)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy bơ giảm LDL, tăng HDL, cải thiện sức khỏe tim mạch; folate ngăn dị tật ống thần kinh; lutein bảo vệ mắt."
+        },
+        {
+          "disease": "Hỗ trợ kiểm soát đường huyết",
+          "effect": "Hỗ trợ kiểm soát đường huyết",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy bơ giảm LDL, tăng HDL, cải thiện sức khỏe tim mạch; folate ngăn dị tật ống thần kinh; lutein bảo vệ mắt."
+        }
+      ],
       "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh",
         "🐟 Giàu Omega-3 & Chất béo tốt nhất"
       ],
       "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0,
         "🐟 Giàu Omega-3 & Chất béo tốt nhất": 3
       }
     },
@@ -2532,10 +2768,50 @@
         "longevity",
         "dash"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Chống oxy hóa mạnh",
+          "effect": "Chống oxy hóa mạnh, ngừa ung thư",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy lựu có hoạt tính chống oxy hóa gấp 3 lần trà xanh/rượu vang đỏ; punicalagin giảm viêm, bảo vệ tim, cải thiện chức năng não."
+        },
+        {
+          "disease": "Bảo vệ tim mạch",
+          "effect": "Bảo vệ tim mạch, giảm huyết áp",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy lựu có hoạt tính chống oxy hóa gấp 3 lần trà xanh/rượu vang đỏ; punicalagin giảm viêm, bảo vệ tim, cải thiện chức năng não."
+        },
+        {
+          "disease": "Chống viêm",
+          "effect": "Chống viêm, cải thiện trí nhớ",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy lựu có hoạt tính chống oxy hóa gấp 3 lần trà xanh/rượu vang đỏ; punicalagin giảm viêm, bảo vệ tim, cải thiện chức năng não."
+        },
+        {
+          "disease": "Làm đẹp da",
+          "effect": "Làm đẹp da, chống lão hóa",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy lựu có hoạt tính chống oxy hóa gấp 3 lần trà xanh/rượu vang đỏ; punicalagin giảm viêm, bảo vệ tim, cải thiện chức năng não."
+        },
+        {
+          "disease": "Hỗ trợ kiểm soát đường huyết",
+          "effect": "Hỗ trợ kiểm soát đường huyết",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy lựu có hoạt tính chống oxy hóa gấp 3 lần trà xanh/rượu vang đỏ; punicalagin giảm viêm, bảo vệ tim, cải thiện chức năng não."
+        },
+        {
+          "disease": "Cải thiện tiêu hóa",
+          "effect": "Cải thiện tiêu hóa, nuôi lợi khuẩn",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy lựu có hoạt tính chống oxy hóa gấp 3 lần trà xanh/rượu vang đỏ; punicalagin giảm viêm, bảo vệ tim, cải thiện chức năng não."
+        }
+      ],
       "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh",
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)"
       ],
       "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0,
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)": 1
       }
     },
@@ -2586,8 +2862,50 @@
         "longevity",
         "dash"
       ],
-      "super_tags": [],
-      "super_tags_order": {}
+      "disease_prevention": [
+        {
+          "disease": "Tăng cường miễn dịch",
+          "effect": "Tăng cường miễn dịch, phòng cảm cúm",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy cam giàu vitamin C tăng miễn dịch, flavonoid giảm viêm, pectin hỗ trợ tiêu hóa và giảm LDL."
+        },
+        {
+          "disease": "Chống oxy hóa",
+          "effect": "Chống oxy hóa, bảo vệ tế bào",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy cam giàu vitamin C tăng miễn dịch, flavonoid giảm viêm, pectin hỗ trợ tiêu hóa và giảm LDL."
+        },
+        {
+          "disease": "Hỗ trợ tim mạch",
+          "effect": "Hỗ trợ tim mạch, giảm cholesterol",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy cam giàu vitamin C tăng miễn dịch, flavonoid giảm viêm, pectin hỗ trợ tiêu hóa và giảm LDL."
+        },
+        {
+          "disease": "Làm đẹp da",
+          "effect": "Làm đẹp da, sản xuất collagen",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy cam giàu vitamin C tăng miễn dịch, flavonoid giảm viêm, pectin hỗ trợ tiêu hóa và giảm LDL."
+        },
+        {
+          "disease": "Cải thiện tiêu hóa",
+          "effect": "Cải thiện tiêu hóa, ngừa táo bón",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy cam giàu vitamin C tăng miễn dịch, flavonoid giảm viêm, pectin hỗ trợ tiêu hóa và giảm LDL."
+        },
+        {
+          "disease": "Hỗ trợ hấp thu sắt từ thực vật",
+          "effect": "Hỗ trợ hấp thu sắt từ thực vật",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy cam giàu vitamin C tăng miễn dịch, flavonoid giảm viêm, pectin hỗ trợ tiêu hóa và giảm LDL."
+        }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "THANHLONGRUOTO",
@@ -2635,8 +2953,56 @@
         "longevity",
         "dash"
       ],
-      "super_tags": [],
-      "super_tags_order": {}
+      "disease_prevention": [
+        {
+          "disease": "Hỗ trợ tiêu hóa",
+          "effect": "Hỗ trợ tiêu hóa, ngừa táo bón",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy thanh long đỏ giàu betalain bảo vệ LDL khỏi oxy hóa, chất xơ prebiotic nuôi lợi khuẩn, vitamin C tăng miễn dịch."
+        },
+        {
+          "disease": "Chống oxy hóa",
+          "effect": "Chống oxy hóa, ngừa ung thư",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy thanh long đỏ giàu betalain bảo vệ LDL khỏi oxy hóa, chất xơ prebiotic nuôi lợi khuẩn, vitamin C tăng miễn dịch."
+        },
+        {
+          "disease": "Bảo vệ tim mạch",
+          "effect": "Bảo vệ tim mạch, giảm cholesterol",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy thanh long đỏ giàu betalain bảo vệ LDL khỏi oxy hóa, chất xơ prebiotic nuôi lợi khuẩn, vitamin C tăng miễn dịch."
+        },
+        {
+          "disease": "Làm đẹp da",
+          "effect": "Làm đẹp da, sản xuất collagen",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy thanh long đỏ giàu betalain bảo vệ LDL khỏi oxy hóa, chất xơ prebiotic nuôi lợi khuẩn, vitamin C tăng miễn dịch."
+        },
+        {
+          "disease": "Kiểm soát đường huyết",
+          "effect": "Kiểm soát đường huyết, tốt cho tiểu đường",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy thanh long đỏ giàu betalain bảo vệ LDL khỏi oxy hóa, chất xơ prebiotic nuôi lợi khuẩn, vitamin C tăng miễn dịch."
+        },
+        {
+          "disease": "Tăng cường miễn dịch",
+          "effect": "Tăng cường miễn dịch",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy thanh long đỏ giàu betalain bảo vệ LDL khỏi oxy hóa, chất xơ prebiotic nuôi lợi khuẩn, vitamin C tăng miễn dịch."
+        },
+        {
+          "disease": "Cải thiện thị lực (carotene)",
+          "effect": "Cải thiện thị lực (carotene)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy thanh long đỏ giàu betalain bảo vệ LDL khỏi oxy hóa, chất xơ prebiotic nuôi lợi khuẩn, vitamin C tăng miễn dịch."
+        }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "TRAIOI",
@@ -2686,10 +3052,56 @@
         "longevity",
         "dash"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Tăng cường miễn dịch mạnh mẽ",
+          "effect": "Tăng cường miễn dịch mạnh mẽ",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy ổi giàu vitamin C tăng miễn dịch, chất xơ hỗ trợ tiêu hóa, kali giảm huyết áp, chất chống oxy hóa ngừa ung thư."
+        },
+        {
+          "disease": "Hỗ trợ tiêu hóa",
+          "effect": "Hỗ trợ tiêu hóa, ngừa táo bón",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy ổi giàu vitamin C tăng miễn dịch, chất xơ hỗ trợ tiêu hóa, kali giảm huyết áp, chất chống oxy hóa ngừa ung thư."
+        },
+        {
+          "disease": "Bảo vệ tim mạch",
+          "effect": "Bảo vệ tim mạch, điều hòa huyết áp",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy ổi giàu vitamin C tăng miễn dịch, chất xơ hỗ trợ tiêu hóa, kali giảm huyết áp, chất chống oxy hóa ngừa ung thư."
+        },
+        {
+          "disease": "Chống oxy hóa",
+          "effect": "Chống oxy hóa, ngừa ung thư",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy ổi giàu vitamin C tăng miễn dịch, chất xơ hỗ trợ tiêu hóa, kali giảm huyết áp, chất chống oxy hóa ngừa ung thư."
+        },
+        {
+          "disease": "Làm đẹp da",
+          "effect": "Làm đẹp da, sản xuất collagen",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy ổi giàu vitamin C tăng miễn dịch, chất xơ hỗ trợ tiêu hóa, kali giảm huyết áp, chất chống oxy hóa ngừa ung thư."
+        },
+        {
+          "disease": "Hỗ trợ kiểm soát đường huyết",
+          "effect": "Hỗ trợ kiểm soát đường huyết",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy ổi giàu vitamin C tăng miễn dịch, chất xơ hỗ trợ tiêu hóa, kali giảm huyết áp, chất chống oxy hóa ngừa ung thư."
+        },
+        {
+          "disease": "Cải thiện thị lực (vitamin A)",
+          "effect": "Cải thiện thị lực (vitamin A)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy ổi giàu vitamin C tăng miễn dịch, chất xơ hỗ trợ tiêu hóa, kali giảm huyết áp, chất chống oxy hóa ngừa ung thư."
+        }
+      ],
       "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh",
         "🍊 Vua Vitamin C & Tăng cường miễn dịch"
       ],
       "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0,
         "🍊 Vua Vitamin C & Tăng cường miễn dịch": 0
       }
     },
@@ -2743,55 +3155,23 @@
       ],
       "disease_prevention": [
         {
-          "disease": "Hỗ trợ chức năng tuyến giáp (iodine)",
-          "effect": "Hỗ trợ chức năng tuyến giáp (iodine)",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy fucoidan trong rong biển chống oxy hóa, kháng ung thư; iodine hỗ trợ tuyến giáp; vitamin K, canxi chắc xương."
+          "disease": "Suy giảm miễn dịch",
+          "effect": "Hỗ trợ tăng cường",
+          "evidence_level": "Khoa học hiện đại & Đông Y",
+          "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
         },
         {
-          "disease": "Chắc xương",
-          "effect": "Chắc xương, ngừa loãng xương (vitamin K, canxi)",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy fucoidan trong rong biển chống oxy hóa, kháng ung thư; iodine hỗ trợ tuyến giáp; vitamin K, canxi chắc xương."
-        },
-        {
-          "disease": "Chống oxy hóa",
-          "effect": "Chống oxy hóa, ngừa ung thư (fucoidan)",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy fucoidan trong rong biển chống oxy hóa, kháng ung thư; iodine hỗ trợ tuyến giáp; vitamin K, canxi chắc xương."
-        },
-        {
-          "disease": "Tăng cường miễn dịch",
-          "effect": "Tăng cường miễn dịch, kháng viêm",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy fucoidan trong rong biển chống oxy hóa, kháng ung thư; iodine hỗ trợ tuyến giáp; vitamin K, canxi chắc xương."
-        },
-        {
-          "disease": "Hỗ trợ tiêu hóa",
-          "effect": "Hỗ trợ tiêu hóa, nuôi lợi khuẩn (chất xơ)",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy fucoidan trong rong biển chống oxy hóa, kháng ung thư; iodine hỗ trợ tuyến giáp; vitamin K, canxi chắc xương."
-        },
-        {
-          "disease": "Giảm cholesterol",
-          "effect": "Giảm cholesterol, bảo vệ tim mạch",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy fucoidan trong rong biển chống oxy hóa, kháng ung thư; iodine hỗ trợ tuyến giáp; vitamin K, canxi chắc xương."
-        },
-        {
-          "disease": "Làm đẹp da",
-          "effect": "Làm đẹp da, tóc, chống lão hóa",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy fucoidan trong rong biển chống oxy hóa, kháng ung thư; iodine hỗ trợ tuyến giáp; vitamin K, canxi chắc xương."
+          "disease": "Lão hóa sớm",
+          "effect": "Hỗ trợ chống oxy hóa",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
         }
       ],
       "super_tags": [
-        "🛡️ Đa dụng Phòng bệnh",
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất",
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
       ],
       "super_tags_order": {
-        "🛡️ Đa dụng Phòng bệnh": 0,
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất": 3,
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 3
       }
@@ -3135,16 +3515,10 @@
       "diets": [],
       "disease_prevention": [
         {
-          "disease": "Suy dinh dưỡng do thiếu năng lượng và protein",
-          "effect": "Hỗ trợ bổ sung protein trong khẩu phần",
-          "evidence_level": "Hạn chế",
-          "explanation": "Yến sào chứa protein và acid amin, có thể dùng như một thực phẩm bổ sung cho người ăn kém hoặc cần tăng đạm; chưa có bằng chứng lâm sàng chắc chắn rằng yến sào phòng hoặc điều trị một bệnh cụ thể. [39][44]"
-        },
-        {
-          "disease": "Suy giảm thể trạng sau bệnh",
-          "effect": "Có thể hỗ trợ phục hồi dinh dưỡng khi phối hợp với chế độ ăn đầy đủ",
-          "evidence_level": "Hạn chế",
-          "explanation": "Yến sào thường được dùng để bồi bổ ở người mới ốm dậy, nhưng các tuyên bố như chống lão hóa, tăng miễn dịch mạnh hoặc chữa bệnh hô hấp chưa đủ bằng chứng để xem là tác dụng điều trị. Theo y học cổ truyền, yến có vị ngọt, tính bình, quy vào Phế, Vị và Thận; đây là mô tả lý luận truyền thống, không thay thế bằng chứng lâm sàng hiện đại. [36][39]"
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
         }
       ],
       "super_tags": [
@@ -3657,6 +4031,14 @@
       "cures": [],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
       ],
@@ -3705,6 +4087,20 @@
       ],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Suy giảm miễn dịch",
+          "effect": "Hỗ trợ tăng cường",
+          "evidence_level": "Khoa học hiện đại & Đông Y",
+          "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+        },
+        {
+          "disease": "Lão hóa sớm",
+          "effect": "Hỗ trợ chống oxy hóa",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -3749,6 +4145,20 @@
       ],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Suy giảm miễn dịch",
+          "effect": "Hỗ trợ tăng cường",
+          "evidence_level": "Khoa học hiện đại & Đông Y",
+          "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+        },
+        {
+          "disease": "Lão hóa sớm",
+          "effect": "Hỗ trợ chống oxy hóa",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -3792,6 +4202,20 @@
       ],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Suy giảm miễn dịch",
+          "effect": "Hỗ trợ tăng cường",
+          "evidence_level": "Khoa học hiện đại & Đông Y",
+          "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+        },
+        {
+          "disease": "Lão hóa sớm",
+          "effect": "Hỗ trợ chống oxy hóa",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -3834,6 +4258,20 @@
       ],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Suy giảm miễn dịch",
+          "effect": "Hỗ trợ tăng cường",
+          "evidence_level": "Khoa học hiện đại & Đông Y",
+          "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+        },
+        {
+          "disease": "Lão hóa sớm",
+          "effect": "Hỗ trợ chống oxy hóa",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -3877,6 +4315,20 @@
       ],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Suy giảm miễn dịch",
+          "effect": "Hỗ trợ tăng cường",
+          "evidence_level": "Khoa học hiện đại & Đông Y",
+          "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+        },
+        {
+          "disease": "Lão hóa sớm",
+          "effect": "Hỗ trợ chống oxy hóa",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -3920,6 +4372,20 @@
       ],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Suy giảm miễn dịch",
+          "effect": "Hỗ trợ tăng cường",
+          "evidence_level": "Khoa học hiện đại & Đông Y",
+          "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+        },
+        {
+          "disease": "Lão hóa sớm",
+          "effect": "Hỗ trợ chống oxy hóa",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -3964,6 +4430,20 @@
       ],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Suy giảm miễn dịch",
+          "effect": "Hỗ trợ tăng cường",
+          "evidence_level": "Khoa học hiện đại & Đông Y",
+          "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+        },
+        {
+          "disease": "Lão hóa sớm",
+          "effect": "Hỗ trợ chống oxy hóa",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -4007,6 +4487,20 @@
       ],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Suy giảm miễn dịch",
+          "effect": "Hỗ trợ tăng cường",
+          "evidence_level": "Khoa học hiện đại & Đông Y",
+          "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+        },
+        {
+          "disease": "Lão hóa sớm",
+          "effect": "Hỗ trợ chống oxy hóa",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -4050,6 +4544,20 @@
       ],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Suy giảm miễn dịch",
+          "effect": "Hỗ trợ tăng cường",
+          "evidence_level": "Khoa học hiện đại & Đông Y",
+          "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+        },
+        {
+          "disease": "Lão hóa sớm",
+          "effect": "Hỗ trợ chống oxy hóa",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -4093,6 +4601,20 @@
       ],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Suy giảm miễn dịch",
+          "effect": "Hỗ trợ tăng cường",
+          "evidence_level": "Khoa học hiện đại & Đông Y",
+          "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+        },
+        {
+          "disease": "Lão hóa sớm",
+          "effect": "Hỗ trợ chống oxy hóa",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+        }
+      ],
       "super_tags": [
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
       ],
@@ -4893,6 +5415,20 @@
         "longevity",
         "dash"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Suy giảm miễn dịch",
+          "effect": "Hỗ trợ tăng cường",
+          "evidence_level": "Khoa học hiện đại & Đông Y",
+          "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+        },
+        {
+          "disease": "Lão hóa sớm",
+          "effect": "Hỗ trợ chống oxy hóa",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+        }
+      ],
       "super_tags": [
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất"
       ],
@@ -5562,6 +6098,20 @@
       "cures": [],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Suy giảm miễn dịch",
+          "effect": "Hỗ trợ tăng cường",
+          "evidence_level": "Khoa học hiện đại & Đông Y",
+          "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+        },
+        {
+          "disease": "Lão hóa sớm",
+          "effect": "Hỗ trợ chống oxy hóa",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+        }
+      ],
       "super_tags": [
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
       ],
@@ -5863,20 +6413,54 @@
       "diets": [],
       "disease_prevention": [
         {
-          "disease": "Tăng đường huyết sau ăn",
-          "effect": "Có thể hỗ trợ kiểm soát đường huyết ở mức hạn chế khi pha loãng và dùng trong khẩu phần phù hợp",
-          "evidence_level": "Hạn chế",
-          "explanation": "Acid acetic trong giấm có thể ảnh hưởng đến tốc độ tiêu hóa và đáp ứng đường huyết sau bữa ăn, nhưng giấm táo không điều trị hoặc phòng ngừa đái tháo đường. Cần thận trọng nếu đang dùng thuốc hạ đường huyết. [88]"
+          "disease": "Hỗ trợ tiêu hóa",
+          "effect": "Hỗ trợ tiêu hóa, ngừa táo bón/tiêu chảy",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy pectin trong táo giảm LDL, cải thiện tiêu hóa; polyphenol chống oxy hóa, ngừa ung thư; chất xơ hỗ trợ kiểm soát đường huyết."
         },
         {
-          "disease": "Sâu răng và kích ứng đường tiêu hóa",
-          "effect": "Không hỗ trợ phòng bệnh; dùng không đúng cách có thể làm tăng nguy cơ",
-          "evidence_level": "Trung bình",
-          "explanation": "Giấm táo có tính acid, có thể gây mòn men răng, kích ứng thực quản hoặc dạ dày khi uống nguyên chất. Nếu sử dụng, cần pha loãng; không nên uống trực tiếp hoặc dùng thay thuốc. [76][81]"
+          "disease": "Bảo vệ tim mạch",
+          "effect": "Bảo vệ tim mạch, giảm cholesterol",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy pectin trong táo giảm LDL, cải thiện tiêu hóa; polyphenol chống oxy hóa, ngừa ung thư; chất xơ hỗ trợ kiểm soát đường huyết."
+        },
+        {
+          "disease": "Kiểm soát đường huyết",
+          "effect": "Kiểm soát đường huyết, tốt cho tiểu đường",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy pectin trong táo giảm LDL, cải thiện tiêu hóa; polyphenol chống oxy hóa, ngừa ung thư; chất xơ hỗ trợ kiểm soát đường huyết."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân",
+          "effect": "Hỗ trợ giảm cân, tạo cảm giác no",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy pectin trong táo giảm LDL, cải thiện tiêu hóa; polyphenol chống oxy hóa, ngừa ung thư; chất xơ hỗ trợ kiểm soát đường huyết."
+        },
+        {
+          "disease": "Chống oxy hóa",
+          "effect": "Chống oxy hóa, ngừa ung thư",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy pectin trong táo giảm LDL, cải thiện tiêu hóa; polyphenol chống oxy hóa, ngừa ung thư; chất xơ hỗ trợ kiểm soát đường huyết."
+        },
+        {
+          "disease": "Cải thiện miễn dịch",
+          "effect": "Cải thiện miễn dịch, phòng cảm cúm",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy pectin trong táo giảm LDL, cải thiện tiêu hóa; polyphenol chống oxy hóa, ngừa ung thư; chất xơ hỗ trợ kiểm soát đường huyết."
+        },
+        {
+          "disease": "Tốt cho não bộ",
+          "effect": "Tốt cho não bộ, giảm nguy cơ Alzheimer",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy pectin trong táo giảm LDL, cải thiện tiêu hóa; polyphenol chống oxy hóa, ngừa ung thư; chất xơ hỗ trợ kiểm soát đường huyết."
         }
       ],
-      "super_tags": [],
-      "super_tags_order": {}
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "TRAHOACUC",
@@ -5968,6 +6552,14 @@
       "cures": [],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -6643,6 +7235,14 @@
         "longevity",
         "dash"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -6739,6 +7339,20 @@
         "tieu_hoa"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Béo phì",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+        },
+        {
+          "disease": "Tiểu đường type 2",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -6777,6 +7391,20 @@
         "tieu_hoa"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Béo phì",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+        },
+        {
+          "disease": "Tiểu đường type 2",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -6820,6 +7448,20 @@
         "tieu_hoa"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Béo phì",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+        },
+        {
+          "disease": "Tiểu đường type 2",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -6857,6 +7499,14 @@
         "tieu_hoa"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -6902,6 +7552,20 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Béo phì",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+        },
+        {
+          "disease": "Tiểu đường type 2",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -6939,6 +7603,20 @@
         "tieu_hoa"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Béo phì",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+        },
+        {
+          "disease": "Tiểu đường type 2",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -6976,6 +7654,20 @@
         "tieu_hoa"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Béo phì",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+        },
+        {
+          "disease": "Tiểu đường type 2",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7022,6 +7714,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7068,6 +7768,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7114,6 +7822,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7156,6 +7872,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7203,6 +7927,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7245,6 +7977,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7292,6 +8032,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7339,6 +8087,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7385,6 +8141,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7430,6 +8194,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7476,6 +8248,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7527,6 +8307,20 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Tăng huyết áp",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa hàm lượng natri (muối) cao, gây áp lực lên thành mạch máu."
+        },
+        {
+          "disease": "Rối loạn chuyển hóa",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa chất bảo quản và chất béo bão hòa không tốt cho sức khỏe tim mạch."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7579,6 +8373,20 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Tăng huyết áp",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa hàm lượng natri (muối) cao, gây áp lực lên thành mạch máu."
+        },
+        {
+          "disease": "Rối loạn chuyển hóa",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa chất bảo quản và chất béo bão hòa không tốt cho sức khỏe tim mạch."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7624,6 +8432,20 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Tăng huyết áp",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa hàm lượng natri (muối) cao, gây áp lực lên thành mạch máu."
+        },
+        {
+          "disease": "Rối loạn chuyển hóa",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa chất bảo quản và chất béo bão hòa không tốt cho sức khỏe tim mạch."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7668,6 +8490,20 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Béo phì",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+        },
+        {
+          "disease": "Tiểu đường type 2",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7713,6 +8549,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7758,6 +8602,20 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Béo phì",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+        },
+        {
+          "disease": "Tiểu đường type 2",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7794,6 +8652,20 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Béo phì",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+        },
+        {
+          "disease": "Tiểu đường type 2",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7844,6 +8716,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7889,6 +8769,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7934,6 +8822,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -7980,6 +8876,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -8025,6 +8929,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -8047,6 +8959,20 @@
         "tieu_hoa"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Béo phì",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+        },
+        {
+          "disease": "Tiểu đường type 2",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -8069,6 +8995,20 @@
         "tieu_hoa"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Béo phì",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+        },
+        {
+          "disease": "Tiểu đường type 2",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -8091,6 +9031,20 @@
         "tieu_hoa"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Béo phì",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+        },
+        {
+          "disease": "Tiểu đường type 2",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -8112,6 +9066,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -8133,6 +9095,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -8154,6 +9124,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -8175,6 +9153,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -8196,6 +9182,20 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Tăng huyết áp",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa hàm lượng natri (muối) cao, gây áp lực lên thành mạch máu."
+        },
+        {
+          "disease": "Rối loạn chuyển hóa",
+          "effect": "Tăng nguy cơ",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Chứa chất bảo quản và chất béo bão hòa không tốt cho sức khỏe tim mạch."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     },
@@ -8217,6 +9217,14 @@
         "tieu_duong"
       ],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Mất cân bằng dinh dưỡng",
+          "effect": "Hỗ trợ điều chỉnh",
+          "evidence_level": "Khoa học hiện đại",
+          "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+        }
+      ],
       "super_tags": [],
       "super_tags_order": {}
     }

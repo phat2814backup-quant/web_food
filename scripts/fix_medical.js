@@ -12,6 +12,12 @@ for (const path of paths) {
   // Fix the broken JSON strings
   content = content.replace(/tim m\s+## References/g, 'tim mạch"\n      }\n    ]\n  }\n]\n```\n\n## References');
   content = content.replace(/tim m\s*```json/g, 'tim mạch"\n      }\n    ]\n  }\n]\n```\n```json');
+  
+  // Fix the broken JSON string at "rượu dâu,
+  content = content.replace(/"Làm mứt, rượu dâu,[\s\n]*Dưới đây là dữ liệu JSON/g, '"Làm mứt, rượu dâu"]\n  }\n]\n```\n\nDưới đây là dữ liệu JSON');
+
+  // Fix missing { in disease_prevention
+  content = content.replace(/"disease_prevention": \[\s*"disease":/g, '"disease_prevention": [\n      {\n        "disease":');
 
   fs.writeFileSync(path, content, 'utf8');
   console.log('Fixed ' + path);

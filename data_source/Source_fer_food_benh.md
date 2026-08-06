@@ -1402,9 +1402,12 @@ Bạn có thể lưu file này dưới dạng `.json` để sử dụng trong �
     ],
     "traditionalMedicineUses": "Dùng để bổ máu, nhuận tràng, hỗ trợ người thiếu máu, mất ngủ, tiểu đường.",
     "scientificEvidence": "Nghiên cứu cho thấy dâu tằm giàu anthocyanin, resveratrol chống oxy hóa, giảm LDL, cải thiện kiểm soát đường huyết, bảo vệ gan.",
-    "culinaryUses": ["Ăn trực tiếp", "Làm nước ép, sinh tố", "Kết hợp sữa chua, salad", "Làm mứt, rượu dâu,
+    "culinaryUses": ["Ăn trực tiếp", "Làm nước ép, sinh tố", "Kết hợp sữa chua, salad", "Làm mứt, rượu dâu"]
+  }
+]
+```
 
-    Dưới đây là dữ liệu JSON cho 10 thực phẩm/dược liệu bạn yêu cầu, tuân theo cùng cấu trúc đã quy định:
+Dưới đây là dữ liệu JSON cho 10 thực phẩm/dược liệu bạn yêu cầu, tuân theo cùng cấu trúc đã quy định:
     
     ```json
     [
@@ -2337,7 +2340,7 @@ Bạn có thể lưu file này dưới dạng `.json` để sử dụng trong �
   {
     "id": "Sữa bò",
     "disease_prevention": [
-      
+      {
         "disease": "Loãng xương và thiếu canxi",
         "effect": "Hỗ trợ cung cấp canxi và protein cho xương",
         "evidence_level": "Trung bình",
@@ -2851,3 +2854,825 @@ Bạn có thể lưu file này dưới dạng `.json` để sử dụng trong �
     ]
   }
 ]
+
+
+```json
+[
+  {
+    "id": "TAOOTAOTAU",
+    "name": "Táo đỏ (Táo Tàu)",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "NAMHUONGNAMONGCO",
+    "name": "Nấm hương (nấm đông cô)",
+    "disease_prevention": [
+      {
+        "disease": "Suy giảm miễn dịch",
+        "effect": "Hỗ trợ tăng cường",
+        "evidence_level": "Khoa học hiện đại & Đông Y",
+        "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+      },
+      {
+        "disease": "Lão hóa sớm",
+        "effect": "Hỗ trợ chống oxy hóa",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+      }
+    ]
+  },
+  {
+    "id": "NAMROM",
+    "name": "Nấm rơm",
+    "disease_prevention": [
+      {
+        "disease": "Suy giảm miễn dịch",
+        "effect": "Hỗ trợ tăng cường",
+        "evidence_level": "Khoa học hiện đại & Đông Y",
+        "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+      },
+      {
+        "disease": "Lão hóa sớm",
+        "effect": "Hỗ trợ chống oxy hóa",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+      }
+    ]
+  },
+  {
+    "id": "NAMKIMCHAM",
+    "name": "Nấm kim châm",
+    "disease_prevention": [
+      {
+        "disease": "Suy giảm miễn dịch",
+        "effect": "Hỗ trợ tăng cường",
+        "evidence_level": "Khoa học hiện đại & Đông Y",
+        "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+      },
+      {
+        "disease": "Lão hóa sớm",
+        "effect": "Hỗ trợ chống oxy hóa",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+      }
+    ]
+  },
+  {
+    "id": "NAMUIGA",
+    "name": "Nấm đùi gà",
+    "disease_prevention": [
+      {
+        "disease": "Suy giảm miễn dịch",
+        "effect": "Hỗ trợ tăng cường",
+        "evidence_level": "Khoa học hiện đại & Đông Y",
+        "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+      },
+      {
+        "disease": "Lão hóa sớm",
+        "effect": "Hỗ trợ chống oxy hóa",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+      }
+    ]
+  },
+  {
+    "id": "NAMBAONGUNAMSO",
+    "name": "Nấm bào ngư (nấm sò)",
+    "disease_prevention": [
+      {
+        "disease": "Suy giảm miễn dịch",
+        "effect": "Hỗ trợ tăng cường",
+        "evidence_level": "Khoa học hiện đại & Đông Y",
+        "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+      },
+      {
+        "disease": "Lão hóa sớm",
+        "effect": "Hỗ trợ chống oxy hóa",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+      }
+    ]
+  },
+  {
+    "id": "NAMTUYETNGANNHI",
+    "name": "Nấm tuyết (ngân nhĩ)",
+    "disease_prevention": [
+      {
+        "disease": "Suy giảm miễn dịch",
+        "effect": "Hỗ trợ tăng cường",
+        "evidence_level": "Khoa học hiện đại & Đông Y",
+        "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+      },
+      {
+        "disease": "Lão hóa sớm",
+        "effect": "Hỗ trợ chống oxy hóa",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+      }
+    ]
+  },
+  {
+    "id": "NAMMOCNHINAMMEO",
+    "name": "Nấm mộc nhĩ (nấm mèo)",
+    "disease_prevention": [
+      {
+        "disease": "Suy giảm miễn dịch",
+        "effect": "Hỗ trợ tăng cường",
+        "evidence_level": "Khoa học hiện đại & Đông Y",
+        "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+      },
+      {
+        "disease": "Lão hóa sớm",
+        "effect": "Hỗ trợ chống oxy hóa",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+      }
+    ]
+  },
+  {
+    "id": "NAMNGOCCHAM",
+    "name": "Nấm ngọc châm",
+    "disease_prevention": [
+      {
+        "disease": "Suy giảm miễn dịch",
+        "effect": "Hỗ trợ tăng cường",
+        "evidence_level": "Khoa học hiện đại & Đông Y",
+        "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+      },
+      {
+        "disease": "Lão hóa sớm",
+        "effect": "Hỗ trợ chống oxy hóa",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+      }
+    ]
+  },
+  {
+    "id": "NAMMOI",
+    "name": "Nấm mối",
+    "disease_prevention": [
+      {
+        "disease": "Suy giảm miễn dịch",
+        "effect": "Hỗ trợ tăng cường",
+        "evidence_level": "Khoa học hiện đại & Đông Y",
+        "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+      },
+      {
+        "disease": "Lão hóa sớm",
+        "effect": "Hỗ trợ chống oxy hóa",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+      }
+    ]
+  },
+  {
+    "id": "NAMLINHCHI",
+    "name": "Nấm linh chi",
+    "disease_prevention": [
+      {
+        "disease": "Suy giảm miễn dịch",
+        "effect": "Hỗ trợ tăng cường",
+        "evidence_level": "Khoa học hiện đại & Đông Y",
+        "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+      },
+      {
+        "disease": "Lão hóa sớm",
+        "effect": "Hỗ trợ chống oxy hóa",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+      }
+    ]
+  },
+  {
+    "id": "RONGBIENTAOBIEN",
+    "name": "Rong biển (tảo biển)",
+    "disease_prevention": [
+      {
+        "disease": "Suy giảm miễn dịch",
+        "effect": "Hỗ trợ tăng cường",
+        "evidence_level": "Khoa học hiện đại & Đông Y",
+        "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+      },
+      {
+        "disease": "Lão hóa sớm",
+        "effect": "Hỗ trợ chống oxy hóa",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+      }
+    ]
+  },
+  {
+    "id": "YENSAO",
+    "name": "Yến sào",
+    "disease_prevention": [
+      {
+        "disease": "Suy giảm miễn dịch",
+        "effect": "Hỗ trợ tăng cường",
+        "evidence_level": "Khoa học hiện đại & Đông Y",
+        "explanation": "Giàu beta-glucan và vi chất giúp kích thích hệ miễn dịch tự nhiên."
+      },
+      {
+        "disease": "Lão hóa sớm",
+        "effect": "Hỗ trợ chống oxy hóa",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều chất chống oxy hóa bảo vệ tế bào khỏi gốc tự do."
+      }
+    ]
+  },
+  {
+    "id": "TRAMUOPANG",
+    "name": "Trà mướp đắng",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "TRAINHAN",
+    "name": "Trái nhãn",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "TRASUATRANCHAU",
+    "name": "Trà sữa trân châu",
+    "disease_prevention": [
+      {
+        "disease": "Béo phì",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+      },
+      {
+        "disease": "Tiểu đường type 2",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+      }
+    ]
+  },
+  {
+    "id": "NUOCNGOTCOGAS",
+    "name": "Nước ngọt có gas",
+    "disease_prevention": [
+      {
+        "disease": "Béo phì",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+      },
+      {
+        "disease": "Tiểu đường type 2",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+      }
+    ]
+  },
+  {
+    "id": "NUOCTANGLUC",
+    "name": "Nước tăng lực",
+    "disease_prevention": [
+      {
+        "disease": "Béo phì",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+      },
+      {
+        "disease": "Tiểu đường type 2",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+      }
+    ]
+  },
+  {
+    "id": "TRACHANHONGCHAI",
+    "name": "Trà chanh đóng chai",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "SUAACCOUONG",
+    "name": "Sữa đặc có đường",
+    "disease_prevention": [
+      {
+        "disease": "Béo phì",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+      },
+      {
+        "disease": "Tiểu đường type 2",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+      }
+    ]
+  },
+  {
+    "id": "NUOCEPTRAICAYONGHOPONGCHAI",
+    "name": "Nước ép trái cây đóng hộp (đóng chai)",
+    "disease_prevention": [
+      {
+        "disease": "Béo phì",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+      },
+      {
+        "disease": "Tiểu đường type 2",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+      }
+    ]
+  },
+  {
+    "id": "NUOCKHOANGVITRAICAYCOUONG",
+    "name": "Nước khoáng vị trái cây (có đường)",
+    "disease_prevention": [
+      {
+        "disease": "Béo phì",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+      },
+      {
+        "disease": "Tiểu đường type 2",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+      }
+    ]
+  },
+  {
+    "id": "GARANCONGNGHIEP",
+    "name": "Gà rán công nghiệp",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "KHOAITAYCHIEN",
+    "name": "Khoai tây chiên",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "HAMBURGER",
+    "name": "Hamburger",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "PIZZACONGNGHIEP",
+    "name": "Pizza công nghiệp",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "XIENBANCAVIENBOVIENCHIEN",
+    "name": "Xiên bẩn (cá viên/bò viên chiên)",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "PHOMAIQUECHIENXU",
+    "name": "Phô mai que chiên xù",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "NEMCHUARAN",
+    "name": "Nem chua rán",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "XUCXICHCONGNGHIEP",
+    "name": "Xúc xích công nghiệp",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "THITXONGKHOIBACON",
+    "name": "Thịt xông khói (bacon)",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "DAMBONGJAMBON",
+    "name": "Dăm bông (jambon)",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "LAPXUONG",
+    "name": "Lạp xưởng",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "PATEONGHOP",
+    "name": "Pate đóng hộp",
+    "disease_prevention": [
+      {
+        "disease": "Tăng huyết áp",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa hàm lượng natri (muối) cao, gây áp lực lên thành mạch máu."
+      },
+      {
+        "disease": "Rối loạn chuyển hóa",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa chất bảo quản và chất béo bão hòa không tốt cho sức khỏe tim mạch."
+      }
+    ]
+  },
+  {
+    "id": "THITHOPSPAM",
+    "name": "Thịt hộp (Spam)",
+    "disease_prevention": [
+      {
+        "disease": "Tăng huyết áp",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa hàm lượng natri (muối) cao, gây áp lực lên thành mạch máu."
+      },
+      {
+        "disease": "Rối loạn chuyển hóa",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa chất bảo quản và chất béo bão hòa không tốt cho sức khỏe tim mạch."
+      }
+    ]
+  },
+  {
+    "id": "MIANLIENMITOM",
+    "name": "Mì ăn liền (mì tôm)",
+    "disease_prevention": [
+      {
+        "disease": "Tăng huyết áp",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa hàm lượng natri (muối) cao, gây áp lực lên thành mạch máu."
+      },
+      {
+        "disease": "Rối loạn chuyển hóa",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa chất bảo quản và chất béo bão hòa không tốt cho sức khỏe tim mạch."
+      }
+    ]
+  },
+  {
+    "id": "BIMBIMSNACK",
+    "name": "Bim bim (snack)",
+    "disease_prevention": [
+      {
+        "disease": "Béo phì",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+      },
+      {
+        "disease": "Tiểu đường type 2",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+      }
+    ]
+  },
+  {
+    "id": "KEMCONGNGHIEP",
+    "name": "Kem công nghiệp",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "BANHNGOTONGGOI",
+    "name": "Bánh ngọt đóng gói",
+    "disease_prevention": [
+      {
+        "disease": "Béo phì",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+      },
+      {
+        "disease": "Tiểu đường type 2",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+      }
+    ]
+  },
+  {
+    "id": "KEOMUTKEODEOMAU",
+    "name": "Kẹo mút / Kẹo dẻo màu",
+    "disease_prevention": [
+      {
+        "disease": "Béo phì",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+      },
+      {
+        "disease": "Tiểu đường type 2",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+      }
+    ]
+  },
+  {
+    "id": "SOCOLASUACONGNGHIEP",
+    "name": "Socola sữa công nghiệp",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "TRAICAYSAYTAMUONG",
+    "name": "Trái cây sấy tẩm đường",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "BOTHUCVATMARGARINE",
+    "name": "Bơ thực vật (margarine)",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "NGUCOCANSANGTAMMAU",
+    "name": "Ngũ cốc ăn sáng tẩm màu",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "TRANCHAUENBOBA",
+    "name": "Trân châu đen (boba)",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "TRA_SUA",
+    "name": "Trà sữa trân châu",
+    "disease_prevention": [
+      {
+        "disease": "Béo phì",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+      },
+      {
+        "disease": "Tiểu đường type 2",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+      }
+    ]
+  },
+  {
+    "id": "NUOC_NGOT",
+    "name": "Nước ngọt có gas",
+    "disease_prevention": [
+      {
+        "disease": "Béo phì",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+      },
+      {
+        "disease": "Tiểu đường type 2",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+      }
+    ]
+  },
+  {
+    "id": "NUOC_TANG_LUC",
+    "name": "Nước tăng lực",
+    "disease_prevention": [
+      {
+        "disease": "Béo phì",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa nhiều đường bổ sung và calo rỗng, dễ gây tích tụ mỡ nếu dùng thường xuyên."
+      },
+      {
+        "disease": "Tiểu đường type 2",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Làm tăng đột biến đường huyết, lâu dài gây kháng insulin."
+      }
+    ]
+  },
+  {
+    "id": "GA_RAN",
+    "name": "Gà rán công nghiệp",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "KHOAI_TAY_CHIEN",
+    "name": "Khoai tây chiên",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "HAMBURGER",
+    "name": "Hamburger",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "PIZZA",
+    "name": "Pizza công nghiệp",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  },
+  {
+    "id": "MI_GOI",
+    "name": "Mì ăn liền",
+    "disease_prevention": [
+      {
+        "disease": "Tăng huyết áp",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa hàm lượng natri (muối) cao, gây áp lực lên thành mạch máu."
+      },
+      {
+        "disease": "Rối loạn chuyển hóa",
+        "effect": "Tăng nguy cơ",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Chứa chất bảo quản và chất béo bão hòa không tốt cho sức khỏe tim mạch."
+      }
+    ]
+  },
+  {
+    "id": "XUC_XICH",
+    "name": "Xúc xích công nghiệp",
+    "disease_prevention": [
+      {
+        "disease": "Mất cân bằng dinh dưỡng",
+        "effect": "Hỗ trợ điều chỉnh",
+        "evidence_level": "Khoa học hiện đại",
+        "explanation": "Sử dụng ở mức độ phù hợp giúp bổ sung đa dạng vi chất cho cơ thể."
+      }
+    ]
+  }
+]
+```
