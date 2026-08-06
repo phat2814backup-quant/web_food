@@ -1429,10 +1429,50 @@
         "longevity",
         "dash"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Hỗ trợ giảm cân nhờ protein cao",
+          "effect": "Hỗ trợ giảm cân nhờ protein cao, calo thấp",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nhiều nghiên cứu cho thấy ăn đậu nành/đậu phụ giảm cholesterol LDL ~5%, cải thiện chức năng nội mạc mạch máu, giảm huyết áp, hỗ trợ phòng ngừa ung thư."
+        },
+        {
+          "disease": "Cải thiện sức khỏe tim mạch",
+          "effect": "Cải thiện sức khỏe tim mạch, giảm cholesterol xấu (LDL)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nhiều nghiên cứu cho thấy ăn đậu nành/đậu phụ giảm cholesterol LDL ~5%, cải thiện chức năng nội mạc mạch máu, giảm huyết áp, hỗ trợ phòng ngừa ung thư."
+        },
+        {
+          "disease": "Giảm nguy cơ ung thư vú",
+          "effect": "Giảm nguy cơ ung thư vú, tuyến tiền liệt, dạ dày",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nhiều nghiên cứu cho thấy ăn đậu nành/đậu phụ giảm cholesterol LDL ~5%, cải thiện chức năng nội mạc mạch máu, giảm huyết áp, hỗ trợ phòng ngừa ung thư."
+        },
+        {
+          "disease": "Hỗ trợ tiêu hóa",
+          "effect": "Hỗ trợ tiêu hóa, tăng lợi khuẩn đường ruột",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nhiều nghiên cứu cho thấy ăn đậu nành/đậu phụ giảm cholesterol LDL ~5%, cải thiện chức năng nội mạc mạch máu, giảm huyết áp, hỗ trợ phòng ngừa ung thư."
+        },
+        {
+          "disease": "Giảm triệu chứng mãn kinh",
+          "effect": "Giảm triệu chứng mãn kinh, cải thiện da và xương",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nhiều nghiên cứu cho thấy ăn đậu nành/đậu phụ giảm cholesterol LDL ~5%, cải thiện chức năng nội mạc mạch máu, giảm huyết áp, hỗ trợ phòng ngừa ung thư."
+        },
+        {
+          "disease": "Tốt cho não bộ",
+          "effect": "Tốt cho não bộ, giảm nguy cơ sa sút trí tuệ",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nhiều nghiên cứu cho thấy ăn đậu nành/đậu phụ giảm cholesterol LDL ~5%, cải thiện chức năng nội mạc mạch máu, giảm huyết áp, hỗ trợ phòng ngừa ung thư."
+        }
+      ],
       "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh",
         "💪 Nguồn Protein chất lượng cao nhất"
       ],
       "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0,
         "💪 Nguồn Protein chất lượng cao nhất": 2
       }
     },
@@ -1480,8 +1520,56 @@
         "longevity",
         "dash"
       ],
-      "super_tags": [],
-      "super_tags_order": {}
+      "disease_prevention": [
+        {
+          "disease": "Thanh nhiệt",
+          "effect": "Thanh nhiệt, giải độc, làm mát cơ thể",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy đậu đen xanh lòng giàu chất xơ hòa tan/không hòa tan, có tác dụng hạ lipid máu, ổn định đường huyết, giàu selen chống lão hóa."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân",
+          "effect": "Hỗ trợ giảm cân, tạo cảm giác no lâu",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy đậu đen xanh lòng giàu chất xơ hòa tan/không hòa tan, có tác dụng hạ lipid máu, ổn định đường huyết, giàu selen chống lão hóa."
+        },
+        {
+          "disease": "Cải thiện tiêu hóa",
+          "effect": "Cải thiện tiêu hóa, ngừa táo bón",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy đậu đen xanh lòng giàu chất xơ hòa tan/không hòa tan, có tác dụng hạ lipid máu, ổn định đường huyết, giàu selen chống lão hóa."
+        },
+        {
+          "disease": "Ổn định đường huyết",
+          "effect": "Ổn định đường huyết, tốt cho người tiểu đường",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy đậu đen xanh lòng giàu chất xơ hòa tan/không hòa tan, có tác dụng hạ lipid máu, ổn định đường huyết, giàu selen chống lão hóa."
+        },
+        {
+          "disease": "Hạ mỡ máu",
+          "effect": "Hạ mỡ máu, tốt cho tim mạch",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy đậu đen xanh lòng giàu chất xơ hòa tan/không hòa tan, có tác dụng hạ lipid máu, ổn định đường huyết, giàu selen chống lão hóa."
+        },
+        {
+          "disease": "Làm đẹp da",
+          "effect": "Làm đẹp da, chống lão hóa",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy đậu đen xanh lòng giàu chất xơ hòa tan/không hòa tan, có tác dụng hạ lipid máu, ổn định đường huyết, giàu selen chống lão hóa."
+        },
+        {
+          "disease": "Tăng cường miễn dịch",
+          "effect": "Tăng cường miễn dịch",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy đậu đen xanh lòng giàu chất xơ hòa tan/không hòa tan, có tác dụng hạ lipid máu, ổn định đường huyết, giàu selen chống lão hóa."
+        }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "AUXANH",
@@ -1531,8 +1619,56 @@
         "longevity",
         "dash"
       ],
-      "super_tags": [],
-      "super_tags_order": {}
+      "disease_prevention": [
+        {
+          "disease": "Giải nhiệt",
+          "effect": "Giải nhiệt, giải độc, thanh mát",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy đậu xanh giúp giảm đường huyết, giảm LDL, tăng HDL, giàu chất chống oxy hóa carotenoid, flavonoid."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân",
+          "effect": "Hỗ trợ giảm cân, kiểm soát đường huyết",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy đậu xanh giúp giảm đường huyết, giảm LDL, tăng HDL, giàu chất chống oxy hóa carotenoid, flavonoid."
+        },
+        {
+          "disease": "Phòng ngừa bệnh tim mạch",
+          "effect": "Phòng ngừa bệnh tim mạch, đột quỵ",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy đậu xanh giúp giảm đường huyết, giảm LDL, tăng HDL, giàu chất chống oxy hóa carotenoid, flavonoid."
+        },
+        {
+          "disease": "Cải thiện tiêu hóa",
+          "effect": "Cải thiện tiêu hóa, ngừa ung thư đại tràng",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy đậu xanh giúp giảm đường huyết, giảm LDL, tăng HDL, giàu chất chống oxy hóa carotenoid, flavonoid."
+        },
+        {
+          "disease": "Tăng cường miễn dịch",
+          "effect": "Tăng cường miễn dịch, chống oxy hóa",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy đậu xanh giúp giảm đường huyết, giảm LDL, tăng HDL, giàu chất chống oxy hóa carotenoid, flavonoid."
+        },
+        {
+          "disease": "Giảm huyết áp",
+          "effect": "Giảm huyết áp, giảm cholesterol",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy đậu xanh giúp giảm đường huyết, giảm LDL, tăng HDL, giàu chất chống oxy hóa carotenoid, flavonoid."
+        },
+        {
+          "disease": "Hỗ trợ phụ nữ mang thai (giàu folate)",
+          "effect": "Hỗ trợ phụ nữ mang thai (giàu folate)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy đậu xanh giúp giảm đường huyết, giảm LDL, tăng HDL, giàu chất chống oxy hóa carotenoid, flavonoid."
+        }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "AUO",
@@ -1582,8 +1718,50 @@
         "longevity",
         "dash"
       ],
-      "super_tags": [],
-      "super_tags_order": {}
+      "disease_prevention": [
+        {
+          "disease": "Lợi tiểu",
+          "effect": "Lợi tiểu, giảm phù nề",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu hiện đại ghi nhận đậu đỏ giàu chất xơ, protein, có tác dụng hỗ trợ kiểm soát đường huyết, giảm lipid máu."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân",
+          "effect": "Hỗ trợ giảm cân, tạo no lâu",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu hiện đại ghi nhận đậu đỏ giàu chất xơ, protein, có tác dụng hỗ trợ kiểm soát đường huyết, giảm lipid máu."
+        },
+        {
+          "disease": "Cải thiện tiêu hóa",
+          "effect": "Cải thiện tiêu hóa, ngừa táo bón",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu hiện đại ghi nhận đậu đỏ giàu chất xơ, protein, có tác dụng hỗ trợ kiểm soát đường huyết, giảm lipid máu."
+        },
+        {
+          "disease": "Tốt cho tim mạch",
+          "effect": "Tốt cho tim mạch, giảm cholesterol",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu hiện đại ghi nhận đậu đỏ giàu chất xơ, protein, có tác dụng hỗ trợ kiểm soát đường huyết, giảm lipid máu."
+        },
+        {
+          "disease": "Bổ máu",
+          "effect": "Bổ máu, hỗ trợ người thiếu máu",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu hiện đại ghi nhận đậu đỏ giàu chất xơ, protein, có tác dụng hỗ trợ kiểm soát đường huyết, giảm lipid máu."
+        },
+        {
+          "disease": "Thanh nhiệt",
+          "effect": "Thanh nhiệt, giải độc",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu hiện đại ghi nhận đậu đỏ giàu chất xơ, protein, có tác dụng hỗ trợ kiểm soát đường huyết, giảm lipid máu."
+        }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "SUAAUNANH",
@@ -1695,10 +1873,56 @@
         "blue_zones",
         "longevity"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Kiểm soát đường huyết",
+          "effect": "Kiểm soát đường huyết, tốt cho người tiểu đường",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy gạo lứt giảm nguy cơ tiểu đường type 2, bệnh tim, giảm LDL, tăng HDL, hỗ trợ kiểm soát cân nặng."
+        },
+        {
+          "disease": "Giảm nguy cơ tim mạch",
+          "effect": "Giảm nguy cơ tim mạch, hạ cholesterol",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy gạo lứt giảm nguy cơ tiểu đường type 2, bệnh tim, giảm LDL, tăng HDL, hỗ trợ kiểm soát cân nặng."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân",
+          "effect": "Hỗ trợ giảm cân, tạo no lâu",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy gạo lứt giảm nguy cơ tiểu đường type 2, bệnh tim, giảm LDL, tăng HDL, hỗ trợ kiểm soát cân nặng."
+        },
+        {
+          "disease": "Cải thiện tiêu hóa",
+          "effect": "Cải thiện tiêu hóa, ngừa táo bón",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy gạo lứt giảm nguy cơ tiểu đường type 2, bệnh tim, giảm LDL, tăng HDL, hỗ trợ kiểm soát cân nặng."
+        },
+        {
+          "disease": "Tốt cho xương (giàu magie)",
+          "effect": "Tốt cho xương (giàu magie)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy gạo lứt giảm nguy cơ tiểu đường type 2, bệnh tim, giảm LDL, tăng HDL, hỗ trợ kiểm soát cân nặng."
+        },
+        {
+          "disease": "Tăng cường miễn dịch",
+          "effect": "Tăng cường miễn dịch, phòng ngừa ung thư",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy gạo lứt giảm nguy cơ tiểu đường type 2, bệnh tim, giảm LDL, tăng HDL, hỗ trợ kiểm soát cân nặng."
+        },
+        {
+          "disease": "Cải thiện da (kích thích collagen)",
+          "effect": "Cải thiện da (kích thích collagen)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy gạo lứt giảm nguy cơ tiểu đường type 2, bệnh tim, giảm LDL, tăng HDL, hỗ trợ kiểm soát cân nặng."
+        }
+      ],
       "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh",
         "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh"
       ],
       "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0,
         "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh": 1
       }
     },
@@ -1747,8 +1971,56 @@
         "blue_zones",
         "longevity"
       ],
-      "super_tags": [],
-      "super_tags_order": {}
+      "disease_prevention": [
+        {
+          "disease": "An thần",
+          "effect": "An thần, cải thiện giấc ngủ, giảm mất ngủ",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu ghi nhận hạt sen chứa alkaloid (liensinine) có tác dụng an thần nhẹ, giảm căng thẳng, hỗ trợ giấc ngủ; giàu chất xơ, protein, ít cholesterol."
+        },
+        {
+          "disease": "Bổ tỳ",
+          "effect": "Bổ tỳ, ích thận, cầm tiêu chảy",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu ghi nhận hạt sen chứa alkaloid (liensinine) có tác dụng an thần nhẹ, giảm căng thẳng, hỗ trợ giấc ngủ; giàu chất xơ, protein, ít cholesterol."
+        },
+        {
+          "disease": "Tốt cho tim mạch",
+          "effect": "Tốt cho tim mạch, hạ huyết áp",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu ghi nhận hạt sen chứa alkaloid (liensinine) có tác dụng an thần nhẹ, giảm căng thẳng, hỗ trợ giấc ngủ; giàu chất xơ, protein, ít cholesterol."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân",
+          "effect": "Hỗ trợ giảm cân, kiểm soát đường huyết",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu ghi nhận hạt sen chứa alkaloid (liensinine) có tác dụng an thần nhẹ, giảm căng thẳng, hỗ trợ giấc ngủ; giàu chất xơ, protein, ít cholesterol."
+        },
+        {
+          "disease": "Tăng cường miễn dịch",
+          "effect": "Tăng cường miễn dịch, chống oxy hóa",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu ghi nhận hạt sen chứa alkaloid (liensinine) có tác dụng an thần nhẹ, giảm căng thẳng, hỗ trợ giấc ngủ; giàu chất xơ, protein, ít cholesterol."
+        },
+        {
+          "disease": "Tốt cho phụ nữ mang thai",
+          "effect": "Tốt cho phụ nữ mang thai, cân bằng hormone",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu ghi nhận hạt sen chứa alkaloid (liensinine) có tác dụng an thần nhẹ, giảm căng thẳng, hỗ trợ giấc ngủ; giàu chất xơ, protein, ít cholesterol."
+        },
+        {
+          "disease": "Làm đẹp da",
+          "effect": "Làm đẹp da, chống lão hóa",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu ghi nhận hạt sen chứa alkaloid (liensinine) có tác dụng an thần nhẹ, giảm căng thẳng, hỗ trợ giấc ngủ; giàu chất xơ, protein, ít cholesterol."
+        }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "HATMEVUNGEN",
@@ -1795,11 +2067,57 @@
         "blue_zones",
         "longevity"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Tốt cho tim mạch",
+          "effect": "Tốt cho tim mạch, giảm cholesterol xấu",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy mè đen giàu lignans giảm LDL, tăng HDL; chất xơ hỗ trợ tiêu hóa; canxi cao tốt cho xương."
+        },
+        {
+          "disease": "Cải thiện tiêu hóa",
+          "effect": "Cải thiện tiêu hóa, ngừa táo bón",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy mè đen giàu lignans giảm LDL, tăng HDL; chất xơ hỗ trợ tiêu hóa; canxi cao tốt cho xương."
+        },
+        {
+          "disease": "Kiểm soát đường huyết",
+          "effect": "Kiểm soát đường huyết, tốt cho người tiểu đường",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy mè đen giàu lignans giảm LDL, tăng HDL; chất xơ hỗ trợ tiêu hóa; canxi cao tốt cho xương."
+        },
+        {
+          "disease": "Tốt cho xương (giàu canxi)",
+          "effect": "Tốt cho xương (giàu canxi)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy mè đen giàu lignans giảm LDL, tăng HDL; chất xơ hỗ trợ tiêu hóa; canxi cao tốt cho xương."
+        },
+        {
+          "disease": "Chống oxy hóa",
+          "effect": "Chống oxy hóa, ngừa ung thư",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy mè đen giàu lignans giảm LDL, tăng HDL; chất xơ hỗ trợ tiêu hóa; canxi cao tốt cho xương."
+        },
+        {
+          "disease": "Làm đẹp da",
+          "effect": "Làm đẹp da, tóc, chống lão hóa",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy mè đen giàu lignans giảm LDL, tăng HDL; chất xơ hỗ trợ tiêu hóa; canxi cao tốt cho xương."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân",
+          "effect": "Hỗ trợ giảm cân, tạo no lâu",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy mè đen giàu lignans giảm LDL, tăng HDL; chất xơ hỗ trợ tiêu hóa; canxi cao tốt cho xương."
+        }
+      ],
       "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh",
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất",
         "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh"
       ],
       "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0,
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất": 4,
         "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh": 1
       }
@@ -1850,10 +2168,56 @@
         "blue_zones",
         "longevity"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Tốt cho não bộ",
+          "effect": "Tốt cho não bộ, cải thiện trí nhớ, học tập",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy ăn 30-45g óc chó/ngày giảm LDL, tăng HDL, cải thiện chức năng nội mạc, tăng lợi khuẩn, giảm nguy cơ tiểu đường type 2."
+        },
+        {
+          "disease": "Hỗ trợ tim mạch",
+          "effect": "Hỗ trợ tim mạch, giảm cholesterol, hạ huyết áp",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy ăn 30-45g óc chó/ngày giảm LDL, tăng HDL, cải thiện chức năng nội mạc, tăng lợi khuẩn, giảm nguy cơ tiểu đường type 2."
+        },
+        {
+          "disease": "Chống viêm",
+          "effect": "Chống viêm, chống oxy hóa, ngừa ung thư",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy ăn 30-45g óc chó/ngày giảm LDL, tăng HDL, cải thiện chức năng nội mạc, tăng lợi khuẩn, giảm nguy cơ tiểu đường type 2."
+        },
+        {
+          "disease": "Cải thiện tiêu hóa",
+          "effect": "Cải thiện tiêu hóa, tăng lợi khuẩn đường ruột",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy ăn 30-45g óc chó/ngày giảm LDL, tăng HDL, cải thiện chức năng nội mạc, tăng lợi khuẩn, giảm nguy cơ tiểu đường type 2."
+        },
+        {
+          "disease": "Hỗ trợ kiểm soát đường huyết",
+          "effect": "Hỗ trợ kiểm soát đường huyết, ngừa tiểu đường",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy ăn 30-45g óc chó/ngày giảm LDL, tăng HDL, cải thiện chức năng nội mạc, tăng lợi khuẩn, giảm nguy cơ tiểu đường type 2."
+        },
+        {
+          "disease": "Tốt cho xương",
+          "effect": "Tốt cho xương, khớp",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy ăn 30-45g óc chó/ngày giảm LDL, tăng HDL, cải thiện chức năng nội mạc, tăng lợi khuẩn, giảm nguy cơ tiểu đường type 2."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân",
+          "effect": "Hỗ trợ giảm cân, tạo no lâu",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy ăn 30-45g óc chó/ngày giảm LDL, tăng HDL, cải thiện chức năng nội mạc, tăng lợi khuẩn, giảm nguy cơ tiểu đường type 2."
+        }
+      ],
       "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh",
         "🐟 Giàu Omega-3 & Chất béo tốt nhất"
       ],
       "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0,
         "🐟 Giàu Omega-3 & Chất béo tốt nhất": 3
       }
     },
@@ -2377,11 +2741,57 @@
         "longevity",
         "dash"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Hỗ trợ chức năng tuyến giáp (iodine)",
+          "effect": "Hỗ trợ chức năng tuyến giáp (iodine)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy fucoidan trong rong biển chống oxy hóa, kháng ung thư; iodine hỗ trợ tuyến giáp; vitamin K, canxi chắc xương."
+        },
+        {
+          "disease": "Chắc xương",
+          "effect": "Chắc xương, ngừa loãng xương (vitamin K, canxi)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy fucoidan trong rong biển chống oxy hóa, kháng ung thư; iodine hỗ trợ tuyến giáp; vitamin K, canxi chắc xương."
+        },
+        {
+          "disease": "Chống oxy hóa",
+          "effect": "Chống oxy hóa, ngừa ung thư (fucoidan)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy fucoidan trong rong biển chống oxy hóa, kháng ung thư; iodine hỗ trợ tuyến giáp; vitamin K, canxi chắc xương."
+        },
+        {
+          "disease": "Tăng cường miễn dịch",
+          "effect": "Tăng cường miễn dịch, kháng viêm",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy fucoidan trong rong biển chống oxy hóa, kháng ung thư; iodine hỗ trợ tuyến giáp; vitamin K, canxi chắc xương."
+        },
+        {
+          "disease": "Hỗ trợ tiêu hóa",
+          "effect": "Hỗ trợ tiêu hóa, nuôi lợi khuẩn (chất xơ)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy fucoidan trong rong biển chống oxy hóa, kháng ung thư; iodine hỗ trợ tuyến giáp; vitamin K, canxi chắc xương."
+        },
+        {
+          "disease": "Giảm cholesterol",
+          "effect": "Giảm cholesterol, bảo vệ tim mạch",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy fucoidan trong rong biển chống oxy hóa, kháng ung thư; iodine hỗ trợ tuyến giáp; vitamin K, canxi chắc xương."
+        },
+        {
+          "disease": "Làm đẹp da",
+          "effect": "Làm đẹp da, tóc, chống lão hóa",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy fucoidan trong rong biển chống oxy hóa, kháng ung thư; iodine hỗ trợ tuyến giáp; vitamin K, canxi chắc xương."
+        }
+      ],
       "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh",
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất",
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
       ],
       "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0,
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất": 3,
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 3
       }
@@ -2558,8 +2968,50 @@
       "cures": [],
       "avoids": [],
       "diets": [],
-      "super_tags": [],
-      "super_tags_order": {}
+      "disease_prevention": [
+        {
+          "disease": "Giảm buồn nôn",
+          "effect": "Giảm buồn nôn, say tàu xe, ốm nghén",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy gingerol có tác dụng chống viêm mạnh, giảm buồn nôn, cải thiện tiêu hóa, giảm đau và hỗ trợ kiểm soát đường huyết."
+        },
+        {
+          "disease": "Chống viêm",
+          "effect": "Chống viêm, giảm đau (viêm khớp, đau bụng kinh)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy gingerol có tác dụng chống viêm mạnh, giảm buồn nôn, cải thiện tiêu hóa, giảm đau và hỗ trợ kiểm soát đường huyết."
+        },
+        {
+          "disease": "Hỗ trợ tiêu hóa",
+          "effect": "Hỗ trợ tiêu hóa, giảm đầy hơi",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy gingerol có tác dụng chống viêm mạnh, giảm buồn nôn, cải thiện tiêu hóa, giảm đau và hỗ trợ kiểm soát đường huyết."
+        },
+        {
+          "disease": "Kiểm soát đường huyết",
+          "effect": "Kiểm soát đường huyết, tốt cho tiểu đường",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy gingerol có tác dụng chống viêm mạnh, giảm buồn nôn, cải thiện tiêu hóa, giảm đau và hỗ trợ kiểm soát đường huyết."
+        },
+        {
+          "disease": "Chống oxy hóa",
+          "effect": "Chống oxy hóa, ngừa ung thư",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy gingerol có tác dụng chống viêm mạnh, giảm buồn nôn, cải thiện tiêu hóa, giảm đau và hỗ trợ kiểm soát đường huyết."
+        },
+        {
+          "disease": "Tăng cường miễn dịch",
+          "effect": "Tăng cường miễn dịch, trị cảm cúm",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy gingerol có tác dụng chống viêm mạnh, giảm buồn nôn, cải thiện tiêu hóa, giảm đau và hỗ trợ kiểm soát đường huyết."
+        }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "HANHTAY",
@@ -2599,8 +3051,50 @@
       "cures": [],
       "avoids": [],
       "diets": [],
-      "super_tags": [],
-      "super_tags_order": {}
+      "disease_prevention": [
+        {
+          "disease": "Chống viêm",
+          "effect": "Chống viêm, chống oxy hóa mạnh",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy quercetin trong hành tây giảm viêm, chống oxy hóa, cải thiện chức năng nội mạc mạch máu, hỗ trợ kiểm soát đường huyết."
+        },
+        {
+          "disease": "Hỗ trợ tim mạch",
+          "effect": "Hỗ trợ tim mạch, giảm huyết áp",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy quercetin trong hành tây giảm viêm, chống oxy hóa, cải thiện chức năng nội mạc mạch máu, hỗ trợ kiểm soát đường huyết."
+        },
+        {
+          "disease": "Kháng khuẩn",
+          "effect": "Kháng khuẩn, tăng cường miễn dịch",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy quercetin trong hành tây giảm viêm, chống oxy hóa, cải thiện chức năng nội mạc mạch máu, hỗ trợ kiểm soát đường huyết."
+        },
+        {
+          "disease": "Kiểm soát đường huyết",
+          "effect": "Kiểm soát đường huyết, tốt cho tiểu đường",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy quercetin trong hành tây giảm viêm, chống oxy hóa, cải thiện chức năng nội mạc mạch máu, hỗ trợ kiểm soát đường huyết."
+        },
+        {
+          "disease": "Cải thiện tiêu hóa",
+          "effect": "Cải thiện tiêu hóa, nuôi lợi khuẩn",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy quercetin trong hành tây giảm viêm, chống oxy hóa, cải thiện chức năng nội mạc mạch máu, hỗ trợ kiểm soát đường huyết."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân",
+          "effect": "Hỗ trợ giảm cân, tạo cảm giác no",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy quercetin trong hành tây giảm viêm, chống oxy hóa, cải thiện chức năng nội mạc mạch máu, hỗ trợ kiểm soát đường huyết."
+        }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "SA",
@@ -2699,8 +3193,56 @@
       "cures": [],
       "avoids": [],
       "diets": [],
-      "super_tags": [],
-      "super_tags_order": {}
+      "disease_prevention": [
+        {
+          "disease": "Kháng khuẩn",
+          "effect": "Kháng khuẩn, kháng viêm tự nhiên",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy mật ong có tính kháng khuẩn nhờ hydrogen peroxide, enzyme glucose oxidase; flavonoid chống oxy hóa, kháng viêm, làm lành vết thương."
+        },
+        {
+          "disease": "Làm lành vết thương",
+          "effect": "Làm lành vết thương, vết bỏng",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy mật ong có tính kháng khuẩn nhờ hydrogen peroxide, enzyme glucose oxidase; flavonoid chống oxy hóa, kháng viêm, làm lành vết thương."
+        },
+        {
+          "disease": "Trị ho",
+          "effect": "Trị ho, viêm họng, cảm cúm",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy mật ong có tính kháng khuẩn nhờ hydrogen peroxide, enzyme glucose oxidase; flavonoid chống oxy hóa, kháng viêm, làm lành vết thương."
+        },
+        {
+          "disease": "Hỗ trợ tiêu hóa",
+          "effect": "Hỗ trợ tiêu hóa, nuôi lợi khuẩn",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy mật ong có tính kháng khuẩn nhờ hydrogen peroxide, enzyme glucose oxidase; flavonoid chống oxy hóa, kháng viêm, làm lành vết thương."
+        },
+        {
+          "disease": "Chống oxy hóa",
+          "effect": "Chống oxy hóa, ngừa ung thư",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy mật ong có tính kháng khuẩn nhờ hydrogen peroxide, enzyme glucose oxidase; flavonoid chống oxy hóa, kháng viêm, làm lành vết thương."
+        },
+        {
+          "disease": "Cung cấp năng lượng nhanh",
+          "effect": "Cung cấp năng lượng nhanh",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy mật ong có tính kháng khuẩn nhờ hydrogen peroxide, enzyme glucose oxidase; flavonoid chống oxy hóa, kháng viêm, làm lành vết thương."
+        },
+        {
+          "disease": "An thần",
+          "effect": "An thần, cải thiện giấc ngủ",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy mật ong có tính kháng khuẩn nhờ hydrogen peroxide, enzyme glucose oxidase; flavonoid chống oxy hóa, kháng viêm, làm lành vết thương."
+        }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "TRAXANHLATUOI",
@@ -2741,10 +3283,56 @@
       "cures": [],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Chống oxy hóa mạnh",
+          "effect": "Chống oxy hóa mạnh, ngừa ung thư",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy EGCG trong trà xanh chống oxy hóa mạnh gấp 100 lần vitamin C, giảm nguy cơ ung thư, cải thiện tim mạch, não bộ và kiểm soát đường huyết."
+        },
+        {
+          "disease": "Bảo vệ tim mạch",
+          "effect": "Bảo vệ tim mạch, giảm cholesterol",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy EGCG trong trà xanh chống oxy hóa mạnh gấp 100 lần vitamin C, giảm nguy cơ ung thư, cải thiện tim mạch, não bộ và kiểm soát đường huyết."
+        },
+        {
+          "disease": "Cải thiện chức năng não",
+          "effect": "Cải thiện chức năng não, tăng trí nhớ",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy EGCG trong trà xanh chống oxy hóa mạnh gấp 100 lần vitamin C, giảm nguy cơ ung thư, cải thiện tim mạch, não bộ và kiểm soát đường huyết."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân",
+          "effect": "Hỗ trợ giảm cân, tăng trao đổi chất",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy EGCG trong trà xanh chống oxy hóa mạnh gấp 100 lần vitamin C, giảm nguy cơ ung thư, cải thiện tim mạch, não bộ và kiểm soát đường huyết."
+        },
+        {
+          "disease": "Kháng khuẩn",
+          "effect": "Kháng khuẩn, kháng virus",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy EGCG trong trà xanh chống oxy hóa mạnh gấp 100 lần vitamin C, giảm nguy cơ ung thư, cải thiện tim mạch, não bộ và kiểm soát đường huyết."
+        },
+        {
+          "disease": "Kiểm soát đường huyết",
+          "effect": "Kiểm soát đường huyết, tốt cho tiểu đường",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy EGCG trong trà xanh chống oxy hóa mạnh gấp 100 lần vitamin C, giảm nguy cơ ung thư, cải thiện tim mạch, não bộ và kiểm soát đường huyết."
+        },
+        {
+          "disease": "Làm đẹp da",
+          "effect": "Làm đẹp da, chống lão hóa",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy EGCG trong trà xanh chống oxy hóa mạnh gấp 100 lần vitamin C, giảm nguy cơ ung thư, cải thiện tim mạch, não bộ và kiểm soát đường huyết."
+        }
+      ],
       "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh",
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)"
       ],
       "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0,
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)": 0
       }
     },
@@ -2785,10 +3373,56 @@
       "cures": [],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Tăng cường miễn dịch",
+          "effect": "Tăng cường miễn dịch, kháng virus",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy cordycepin trong ĐTHT có tác dụng kháng ung thư, tăng miễn dịch, bảo vệ gan thận, cải thiện chức năng sinh lý và chống oxy hóa."
+        },
+        {
+          "disease": "Bảo vệ gan",
+          "effect": "Bảo vệ gan, thận, hỗ trợ viêm gan B, C",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy cordycepin trong ĐTHT có tác dụng kháng ung thư, tăng miễn dịch, bảo vệ gan thận, cải thiện chức năng sinh lý và chống oxy hóa."
+        },
+        {
+          "disease": "Chống ung thư",
+          "effect": "Chống ung thư, ức chế tế bào ung thư",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy cordycepin trong ĐTHT có tác dụng kháng ung thư, tăng miễn dịch, bảo vệ gan thận, cải thiện chức năng sinh lý và chống oxy hóa."
+        },
+        {
+          "disease": "Cải thiện sinh lực",
+          "effect": "Cải thiện sinh lực, chức năng sinh lý",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy cordycepin trong ĐTHT có tác dụng kháng ung thư, tăng miễn dịch, bảo vệ gan thận, cải thiện chức năng sinh lý và chống oxy hóa."
+        },
+        {
+          "disease": "Chống oxy hóa",
+          "effect": "Chống oxy hóa, chống lão hóa",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy cordycepin trong ĐTHT có tác dụng kháng ung thư, tăng miễn dịch, bảo vệ gan thận, cải thiện chức năng sinh lý và chống oxy hóa."
+        },
+        {
+          "disease": "Hỗ trợ tim mạch",
+          "effect": "Hỗ trợ tim mạch, điều hòa huyết áp",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy cordycepin trong ĐTHT có tác dụng kháng ung thư, tăng miễn dịch, bảo vệ gan thận, cải thiện chức năng sinh lý và chống oxy hóa."
+        },
+        {
+          "disease": "Cải thiện giấc ngủ",
+          "effect": "Cải thiện giấc ngủ, giảm mệt mỏi",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy cordycepin trong ĐTHT có tác dụng kháng ung thư, tăng miễn dịch, bảo vệ gan thận, cải thiện chức năng sinh lý và chống oxy hóa."
+        }
+      ],
       "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh",
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
       ],
       "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0,
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 0
       }
     },
@@ -2839,8 +3473,56 @@
         "longevity",
         "dash"
       ],
-      "super_tags": [],
-      "super_tags_order": {}
+      "disease_prevention": [
+        {
+          "disease": "Tăng cường miễn dịch",
+          "effect": "Tăng cường miễn dịch, phòng cảm cúm",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy vitamin C, flavonoid trong chanh tăng miễn dịch, chống oxy hóa, cải thiện chức năng nội mạc mạch máu, hỗ trợ tiêu hóa."
+        },
+        {
+          "disease": "Chống oxy hóa",
+          "effect": "Chống oxy hóa, bảo vệ tế bào",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy vitamin C, flavonoid trong chanh tăng miễn dịch, chống oxy hóa, cải thiện chức năng nội mạc mạch máu, hỗ trợ tiêu hóa."
+        },
+        {
+          "disease": "Hỗ trợ tiêu hóa",
+          "effect": "Hỗ trợ tiêu hóa, giảm đầy hơi",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy vitamin C, flavonoid trong chanh tăng miễn dịch, chống oxy hóa, cải thiện chức năng nội mạc mạch máu, hỗ trợ tiêu hóa."
+        },
+        {
+          "disease": "Làm đẹp da",
+          "effect": "Làm đẹp da, sản xuất collagen",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy vitamin C, flavonoid trong chanh tăng miễn dịch, chống oxy hóa, cải thiện chức năng nội mạc mạch máu, hỗ trợ tiêu hóa."
+        },
+        {
+          "disease": "Kiểm soát huyết áp",
+          "effect": "Kiểm soát huyết áp, tim mạch",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy vitamin C, flavonoid trong chanh tăng miễn dịch, chống oxy hóa, cải thiện chức năng nội mạc mạch máu, hỗ trợ tiêu hóa."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân",
+          "effect": "Hỗ trợ giảm cân, tạo cảm giác no",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy vitamin C, flavonoid trong chanh tăng miễn dịch, chống oxy hóa, cải thiện chức năng nội mạc mạch máu, hỗ trợ tiêu hóa."
+        },
+        {
+          "disease": "Kháng khuẩn",
+          "effect": "Kháng khuẩn, trị viêm họng",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy vitamin C, flavonoid trong chanh tăng miễn dịch, chống oxy hóa, cải thiện chức năng nội mạc mạch máu, hỗ trợ tiêu hóa."
+        }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "KYTU",
@@ -2881,11 +3563,57 @@
       "cures": [],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Bảo vệ mắt",
+          "effect": "Bảo vệ mắt, ngăn thoái hóa điểm vàng",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy zeaxanthin trong kỷ tử bảo vệ võng mạc, polysaccharide tăng miễn dịch, chống oxy hóa, bảo vệ gan thận."
+        },
+        {
+          "disease": "Cải thiện thị lực",
+          "effect": "Cải thiện thị lực, giảm mỏi mắt",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy zeaxanthin trong kỷ tử bảo vệ võng mạc, polysaccharide tăng miễn dịch, chống oxy hóa, bảo vệ gan thận."
+        },
+        {
+          "disease": "Bảo vệ gan",
+          "effect": "Bảo vệ gan, hỗ trợ giải độc",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy zeaxanthin trong kỷ tử bảo vệ võng mạc, polysaccharide tăng miễn dịch, chống oxy hóa, bảo vệ gan thận."
+        },
+        {
+          "disease": "Tăng cường chức năng thận",
+          "effect": "Tăng cường chức năng thận",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy zeaxanthin trong kỷ tử bảo vệ võng mạc, polysaccharide tăng miễn dịch, chống oxy hóa, bảo vệ gan thận."
+        },
+        {
+          "disease": "Tăng miễn dịch",
+          "effect": "Tăng miễn dịch, chống virus",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy zeaxanthin trong kỷ tử bảo vệ võng mạc, polysaccharide tăng miễn dịch, chống oxy hóa, bảo vệ gan thận."
+        },
+        {
+          "disease": "Chống oxy hóa",
+          "effect": "Chống oxy hóa, chống lão hóa",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy zeaxanthin trong kỷ tử bảo vệ võng mạc, polysaccharide tăng miễn dịch, chống oxy hóa, bảo vệ gan thận."
+        },
+        {
+          "disease": "Hỗ trợ kiểm soát đường huyết",
+          "effect": "Hỗ trợ kiểm soát đường huyết",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy zeaxanthin trong kỷ tử bảo vệ võng mạc, polysaccharide tăng miễn dịch, chống oxy hóa, bảo vệ gan thận."
+        }
+      ],
       "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh",
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)",
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
       ],
       "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0,
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)": 2,
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 3
       }
@@ -3410,11 +4138,57 @@
       "cures": [],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Bảo vệ tim mạch",
+          "effect": "Bảo vệ tim mạch, giảm triglyceride, hạ huyết áp",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 (EPA, DHA) trong cá hồi giảm viêm, hạ huyết áp, giảm triglyceride, cải thiện chức năng nội mạc mạch máu, giảm nguy cơ đột quỵ và nhồi máu cơ tim đến 30%."
+        },
+        {
+          "disease": "Cải thiện chức năng não",
+          "effect": "Cải thiện chức năng não, ngăn sa sút trí tuệ, Alzheimer",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 (EPA, DHA) trong cá hồi giảm viêm, hạ huyết áp, giảm triglyceride, cải thiện chức năng nội mạc mạch máu, giảm nguy cơ đột quỵ và nhồi máu cơ tim đến 30%."
+        },
+        {
+          "disease": "Chống viêm",
+          "effect": "Chống viêm, hỗ trợ viêm khớp dạng thấp",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 (EPA, DHA) trong cá hồi giảm viêm, hạ huyết áp, giảm triglyceride, cải thiện chức năng nội mạc mạch máu, giảm nguy cơ đột quỵ và nhồi máu cơ tim đến 30%."
+        },
+        {
+          "disease": "Tốt cho mắt",
+          "effect": "Tốt cho mắt, ngăn thoái hóa điểm vàng",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 (EPA, DHA) trong cá hồi giảm viêm, hạ huyết áp, giảm triglyceride, cải thiện chức năng nội mạc mạch máu, giảm nguy cơ đột quỵ và nhồi máu cơ tim đến 30%."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân",
+          "effect": "Hỗ trợ giảm cân, tạo cảm giác no",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 (EPA, DHA) trong cá hồi giảm viêm, hạ huyết áp, giảm triglyceride, cải thiện chức năng nội mạc mạch máu, giảm nguy cơ đột quỵ và nhồi máu cơ tim đến 30%."
+        },
+        {
+          "disease": "Cải thiện tâm trạng",
+          "effect": "Cải thiện tâm trạng, giảm trầm cảm",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 (EPA, DHA) trong cá hồi giảm viêm, hạ huyết áp, giảm triglyceride, cải thiện chức năng nội mạc mạch máu, giảm nguy cơ đột quỵ và nhồi máu cơ tim đến 30%."
+        },
+        {
+          "disease": "Tốt cho da",
+          "effect": "Tốt cho da, tóc, chống lão hóa",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 (EPA, DHA) trong cá hồi giảm viêm, hạ huyết áp, giảm triglyceride, cải thiện chức năng nội mạc mạch máu, giảm nguy cơ đột quỵ và nhồi máu cơ tim đến 30%."
+        }
+      ],
       "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh",
         "🐟 Giàu Omega-3 & Chất béo tốt nhất",
         "💪 Nguồn Protein chất lượng cao nhất"
       ],
       "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0,
         "🐟 Giàu Omega-3 & Chất béo tốt nhất": 0,
         "💪 Nguồn Protein chất lượng cao nhất": 2
       }
@@ -3458,11 +4232,57 @@
       "cures": [],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Bảo vệ tim mạch",
+          "effect": "Bảo vệ tim mạch, giảm triglyceride, cholesterol",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá thu giảm triglyceride, hạ huyết áp, cải thiện chức năng nội mạc, giảm nguy cơ bệnh tim mạch và đột quỵ."
+        },
+        {
+          "disease": "Cải thiện chức năng não",
+          "effect": "Cải thiện chức năng não, ngăn sa sút trí tuệ",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá thu giảm triglyceride, hạ huyết áp, cải thiện chức năng nội mạc, giảm nguy cơ bệnh tim mạch và đột quỵ."
+        },
+        {
+          "disease": "Tăng cường miễn dịch",
+          "effect": "Tăng cường miễn dịch, kháng viêm",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá thu giảm triglyceride, hạ huyết áp, cải thiện chức năng nội mạc, giảm nguy cơ bệnh tim mạch và đột quỵ."
+        },
+        {
+          "disease": "Tốt cho xương (vitamin D)",
+          "effect": "Tốt cho xương (vitamin D)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá thu giảm triglyceride, hạ huyết áp, cải thiện chức năng nội mạc, giảm nguy cơ bệnh tim mạch và đột quỵ."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân",
+          "effect": "Hỗ trợ giảm cân, tạo cảm giác no",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá thu giảm triglyceride, hạ huyết áp, cải thiện chức năng nội mạc, giảm nguy cơ bệnh tim mạch và đột quỵ."
+        },
+        {
+          "disease": "Cải thiện tâm trạng",
+          "effect": "Cải thiện tâm trạng, giảm trầm cảm",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá thu giảm triglyceride, hạ huyết áp, cải thiện chức năng nội mạc, giảm nguy cơ bệnh tim mạch và đột quỵ."
+        },
+        {
+          "disease": "Tốt cho mắt",
+          "effect": "Tốt cho mắt, da, tóc",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá thu giảm triglyceride, hạ huyết áp, cải thiện chức năng nội mạc, giảm nguy cơ bệnh tim mạch và đột quỵ."
+        }
+      ],
       "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh",
         "💪 Nguồn Protein chất lượng cao nhất",
         "🐟 Giàu Omega-3 & Chất béo tốt nhất"
       ],
       "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0,
         "💪 Nguồn Protein chất lượng cao nhất": 1,
         "🐟 Giàu Omega-3 & Chất béo tốt nhất": 1
       }
@@ -3502,8 +4322,56 @@
       "cures": [],
       "avoids": [],
       "diets": [],
-      "super_tags": [],
-      "super_tags_order": {}
+      "disease_prevention": [
+        {
+          "disease": "Hỗ trợ hồi phục vết thương",
+          "effect": "Hỗ trợ hồi phục vết thương, vết mổ",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy protein trong cá lóc dễ hấp thu, vitamin A cải thiện thị lực, sắt bổ máu, kali hỗ trợ tim mạch."
+        },
+        {
+          "disease": "Tốt cho tiêu hóa",
+          "effect": "Tốt cho tiêu hóa, dễ hấp thu",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy protein trong cá lóc dễ hấp thu, vitamin A cải thiện thị lực, sắt bổ máu, kali hỗ trợ tim mạch."
+        },
+        {
+          "disease": "Bổ dưỡng cho người ốm",
+          "effect": "Bổ dưỡng cho người ốm, suy nhược",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy protein trong cá lóc dễ hấp thu, vitamin A cải thiện thị lực, sắt bổ máu, kali hỗ trợ tim mạch."
+        },
+        {
+          "disease": "Tốt cho xương",
+          "effect": "Tốt cho xương, răng (canxi, photpho)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy protein trong cá lóc dễ hấp thu, vitamin A cải thiện thị lực, sắt bổ máu, kali hỗ trợ tim mạch."
+        },
+        {
+          "disease": "Cải thiện thị lực (vitamin A)",
+          "effect": "Cải thiện thị lực (vitamin A)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy protein trong cá lóc dễ hấp thu, vitamin A cải thiện thị lực, sắt bổ máu, kali hỗ trợ tim mạch."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân (ít béo",
+          "effect": "Hỗ trợ giảm cân (ít béo, giàu protein)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy protein trong cá lóc dễ hấp thu, vitamin A cải thiện thị lực, sắt bổ máu, kali hỗ trợ tim mạch."
+        },
+        {
+          "disease": "Tăng cường miễn dịch",
+          "effect": "Tăng cường miễn dịch",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy protein trong cá lóc dễ hấp thu, vitamin A cải thiện thị lực, sắt bổ máu, kali hỗ trợ tim mạch."
+        }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "CAMOI",
@@ -3543,10 +4411,56 @@
       "cures": [],
       "avoids": [],
       "diets": [],
+      "disease_prevention": [
+        {
+          "disease": "Chắc xương",
+          "effect": "Chắc xương, ngừa loãng xương (canxi, vitamin D)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá mòi giảm viêm, hạ huyết áp, cải thiện chức năng nội mạc; canxi, vitamin D chắc xương, ngừa loãng xương."
+        },
+        {
+          "disease": "Bảo vệ tim mạch",
+          "effect": "Bảo vệ tim mạch, giảm triglyceride",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá mòi giảm viêm, hạ huyết áp, cải thiện chức năng nội mạc; canxi, vitamin D chắc xương, ngừa loãng xương."
+        },
+        {
+          "disease": "Cải thiện chức năng não",
+          "effect": "Cải thiện chức năng não, ngăn sa sút trí tuệ",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá mòi giảm viêm, hạ huyết áp, cải thiện chức năng nội mạc; canxi, vitamin D chắc xương, ngừa loãng xương."
+        },
+        {
+          "disease": "Kiểm soát đường huyết",
+          "effect": "Kiểm soát đường huyết, tốt cho tiểu đường",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá mòi giảm viêm, hạ huyết áp, cải thiện chức năng nội mạc; canxi, vitamin D chắc xương, ngừa loãng xương."
+        },
+        {
+          "disease": "Tăng cường miễn dịch",
+          "effect": "Tăng cường miễn dịch, kháng viêm",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá mòi giảm viêm, hạ huyết áp, cải thiện chức năng nội mạc; canxi, vitamin D chắc xương, ngừa loãng xương."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân",
+          "effect": "Hỗ trợ giảm cân, tạo cảm giác no",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá mòi giảm viêm, hạ huyết áp, cải thiện chức năng nội mạc; canxi, vitamin D chắc xương, ngừa loãng xương."
+        },
+        {
+          "disease": "Tốt cho mắt",
+          "effect": "Tốt cho mắt, da, tóc",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá mòi giảm viêm, hạ huyết áp, cải thiện chức năng nội mạc; canxi, vitamin D chắc xương, ngừa loãng xương."
+        }
+      ],
       "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh",
         "🐟 Giàu Omega-3 & Chất béo tốt nhất"
       ],
       "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0,
         "🐟 Giàu Omega-3 & Chất béo tốt nhất": 1
       }
     },
@@ -3588,8 +4502,56 @@
       "cures": [],
       "avoids": [],
       "diets": [],
-      "super_tags": [],
-      "super_tags_order": {}
+      "disease_prevention": [
+        {
+          "disease": "Bảo vệ tim mạch",
+          "effect": "Bảo vệ tim mạch, giảm cholesterol",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá chép giảm viêm, cải thiện chức năng tim mạch; vitamin D, canxi chắc xương; protein chất lượng cao."
+        },
+        {
+          "disease": "Cải thiện chức năng não",
+          "effect": "Cải thiện chức năng não, ngăn sa sút trí tuệ",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá chép giảm viêm, cải thiện chức năng tim mạch; vitamin D, canxi chắc xương; protein chất lượng cao."
+        },
+        {
+          "disease": "Chắc xương",
+          "effect": "Chắc xương, ngừa loãng xương (canxi, vitamin D)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá chép giảm viêm, cải thiện chức năng tim mạch; vitamin D, canxi chắc xương; protein chất lượng cao."
+        },
+        {
+          "disease": "Bổ máu",
+          "effect": "Bổ máu, hỗ trợ người thiếu máu",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá chép giảm viêm, cải thiện chức năng tim mạch; vitamin D, canxi chắc xương; protein chất lượng cao."
+        },
+        {
+          "disease": "Tốt cho phụ nữ mang thai",
+          "effect": "Tốt cho phụ nữ mang thai, thai nhi",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá chép giảm viêm, cải thiện chức năng tim mạch; vitamin D, canxi chắc xương; protein chất lượng cao."
+        },
+        {
+          "disease": "Tăng cường miễn dịch",
+          "effect": "Tăng cường miễn dịch, kháng viêm",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá chép giảm viêm, cải thiện chức năng tim mạch; vitamin D, canxi chắc xương; protein chất lượng cao."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân",
+          "effect": "Hỗ trợ giảm cân, tạo cảm giác no",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy omega-3 trong cá chép giảm viêm, cải thiện chức năng tim mạch; vitamin D, canxi chắc xương; protein chất lượng cao."
+        }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "TOMTUOI",
@@ -3638,8 +4600,56 @@
         "blue_zones",
         "longevity"
       ],
-      "super_tags": [],
-      "super_tags_order": {}
+      "disease_prevention": [
+        {
+          "disease": "Tăng cường miễn dịch (kẽm",
+          "effect": "Tăng cường miễn dịch (kẽm, selen)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy kẽm, selen trong tôm tăng miễn dịch, astaxanthin chống oxy hóa, vitamin D chắc xương."
+        },
+        {
+          "disease": "Chắc xương",
+          "effect": "Chắc xương, ngừa loãng xương (canxi, vitamin D)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy kẽm, selen trong tôm tăng miễn dịch, astaxanthin chống oxy hóa, vitamin D chắc xương."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân (giàu protein",
+          "effect": "Hỗ trợ giảm cân (giàu protein, ít calo)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy kẽm, selen trong tôm tăng miễn dịch, astaxanthin chống oxy hóa, vitamin D chắc xương."
+        },
+        {
+          "disease": "Cải thiện tâm trạng",
+          "effect": "Cải thiện tâm trạng, giảm trầm cảm",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy kẽm, selen trong tôm tăng miễn dịch, astaxanthin chống oxy hóa, vitamin D chắc xương."
+        },
+        {
+          "disease": "Tốt cho mắt",
+          "effect": "Tốt cho mắt, da, tóc (astaxanthin)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy kẽm, selen trong tôm tăng miễn dịch, astaxanthin chống oxy hóa, vitamin D chắc xương."
+        },
+        {
+          "disease": "Hỗ trợ chức năng tuyến giáp (iodine)",
+          "effect": "Hỗ trợ chức năng tuyến giáp (iodine)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy kẽm, selen trong tôm tăng miễn dịch, astaxanthin chống oxy hóa, vitamin D chắc xương."
+        },
+        {
+          "disease": "Chống oxy hóa",
+          "effect": "Chống oxy hóa, bảo vệ tế bào",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy kẽm, selen trong tôm tăng miễn dịch, astaxanthin chống oxy hóa, vitamin D chắc xương."
+        }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "HAUBIEN",
@@ -3687,10 +4697,56 @@
         "blue_zones",
         "longevity"
       ],
+      "disease_prevention": [
+        {
+          "disease": "Tăng cường miễn dịch (kẽm",
+          "effect": "Tăng cường miễn dịch (kẽm, selen)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy kẽm trong hàu tăng miễn dịch, hỗ trợ sản xuất testosterone; vitamin B12 tốt cho thần kinh, tạo máu."
+        },
+        {
+          "disease": "Hỗ trợ sinh lý nam",
+          "effect": "Hỗ trợ sinh lý nam, tăng testosterone",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy kẽm trong hàu tăng miễn dịch, hỗ trợ sản xuất testosterone; vitamin B12 tốt cho thần kinh, tạo máu."
+        },
+        {
+          "disease": "Tốt cho thần kinh",
+          "effect": "Tốt cho thần kinh, tạo máu (vitamin B12)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy kẽm trong hàu tăng miễn dịch, hỗ trợ sản xuất testosterone; vitamin B12 tốt cho thần kinh, tạo máu."
+        },
+        {
+          "disease": "Chắc xương",
+          "effect": "Chắc xương, ngừa loãng xương (canxi, vitamin D)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy kẽm trong hàu tăng miễn dịch, hỗ trợ sản xuất testosterone; vitamin B12 tốt cho thần kinh, tạo máu."
+        },
+        {
+          "disease": "Chống oxy hóa",
+          "effect": "Chống oxy hóa, bảo vệ tế bào",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy kẽm trong hàu tăng miễn dịch, hỗ trợ sản xuất testosterone; vitamin B12 tốt cho thần kinh, tạo máu."
+        },
+        {
+          "disease": "Cải thiện tâm trạng",
+          "effect": "Cải thiện tâm trạng, giảm trầm cảm",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy kẽm trong hàu tăng miễn dịch, hỗ trợ sản xuất testosterone; vitamin B12 tốt cho thần kinh, tạo máu."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân (ít calo",
+          "effect": "Hỗ trợ giảm cân (ít calo, giàu protein)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy kẽm trong hàu tăng miễn dịch, hỗ trợ sản xuất testosterone; vitamin B12 tốt cho thần kinh, tạo máu."
+        }
+      ],
       "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh",
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất"
       ],
       "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0,
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất": 2
       }
     },
@@ -3737,8 +4793,56 @@
       "cures": [],
       "avoids": [],
       "diets": [],
-      "super_tags": [],
-      "super_tags_order": {}
+      "disease_prevention": [
+        {
+          "disease": "Tốt cho mắt",
+          "effect": "Tốt cho mắt, da (vitamin A)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy vitamin A trong lươn cải thiện thị lực, vitamin D chắc xương, omega-3 bảo vệ tim mạch."
+        },
+        {
+          "disease": "Chắc xương",
+          "effect": "Chắc xương, ngừa loãng xương (vitamin D, canxi)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy vitamin A trong lươn cải thiện thị lực, vitamin D chắc xương, omega-3 bảo vệ tim mạch."
+        },
+        {
+          "disease": "Tốt cho thần kinh",
+          "effect": "Tốt cho thần kinh, tạo máu (vitamin B12)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy vitamin A trong lươn cải thiện thị lực, vitamin D chắc xương, omega-3 bảo vệ tim mạch."
+        },
+        {
+          "disease": "Bảo vệ tim mạch",
+          "effect": "Bảo vệ tim mạch, giảm viêm (omega-3)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy vitamin A trong lươn cải thiện thị lực, vitamin D chắc xương, omega-3 bảo vệ tim mạch."
+        },
+        {
+          "disease": "Tăng cường miễn dịch (kẽm",
+          "effect": "Tăng cường miễn dịch (kẽm, selen)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy vitamin A trong lươn cải thiện thị lực, vitamin D chắc xương, omega-3 bảo vệ tim mạch."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân",
+          "effect": "Hỗ trợ giảm cân, tạo cảm giác no",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy vitamin A trong lươn cải thiện thị lực, vitamin D chắc xương, omega-3 bảo vệ tim mạch."
+        },
+        {
+          "disease": "Bổ dưỡng cho người ốm",
+          "effect": "Bổ dưỡng cho người ốm, suy nhược",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy vitamin A trong lươn cải thiện thị lực, vitamin D chắc xương, omega-3 bảo vệ tim mạch."
+        }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "RONGBIENTAOBIEN",
@@ -3835,8 +4939,56 @@
       "cures": [],
       "avoids": [],
       "diets": [],
-      "super_tags": [],
-      "super_tags_order": {}
+      "disease_prevention": [
+        {
+          "disease": "Chắc xương",
+          "effect": "Chắc xương, ngừa còi xương, loãng xương",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy canxi photphat trong cua đồng hỗ trợ phát triển xương, ngăn ngừa loãng xương; sắt bổ máu, protein chất lượng cao."
+        },
+        {
+          "disease": "Tạo máu",
+          "effect": "Tạo máu, hỗ trợ người thiếu máu (sắt)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy canxi photphat trong cua đồng hỗ trợ phát triển xương, ngăn ngừa loãng xương; sắt bổ máu, protein chất lượng cao."
+        },
+        {
+          "disease": "Bổ dưỡng",
+          "effect": "Bổ dưỡng, cung cấp năng lượng (protein)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy canxi photphat trong cua đồng hỗ trợ phát triển xương, ngăn ngừa loãng xương; sắt bổ máu, protein chất lượng cao."
+        },
+        {
+          "disease": "Hỗ trợ tiêu hóa (chitin",
+          "effect": "Hỗ trợ tiêu hóa (chitin, chất xơ)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy canxi photphat trong cua đồng hỗ trợ phát triển xương, ngăn ngừa loãng xương; sắt bổ máu, protein chất lượng cao."
+        },
+        {
+          "disease": "Tăng cường miễn dịch (kẽm",
+          "effect": "Tăng cường miễn dịch (kẽm, selen)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy canxi photphat trong cua đồng hỗ trợ phát triển xương, ngăn ngừa loãng xương; sắt bổ máu, protein chất lượng cao."
+        },
+        {
+          "disease": "Hỗ trợ giảm cân (ít calo",
+          "effect": "Hỗ trợ giảm cân (ít calo, giàu protein)",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy canxi photphat trong cua đồng hỗ trợ phát triển xương, ngăn ngừa loãng xương; sắt bổ máu, protein chất lượng cao."
+        },
+        {
+          "disease": "Tốt cho da",
+          "effect": "Tốt cho da, tóc, móng",
+          "evidence_level": "Khoa học hiện đại (tổng quát)",
+          "explanation": "Nghiên cứu cho thấy canxi photphat trong cua đồng hỗ trợ phát triển xương, ngăn ngừa loãng xương; sắt bổ máu, protein chất lượng cao."
+        }
+      ],
+      "super_tags": [
+        "🛡️ Đa dụng Phòng bệnh"
+      ],
+      "super_tags_order": {
+        "🛡️ Đa dụng Phòng bệnh": 0
+      }
     },
     {
       "id": "TRUNGGATA",

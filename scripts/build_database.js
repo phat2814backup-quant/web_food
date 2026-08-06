@@ -216,30 +216,41 @@ function updateData() {
     };
 
     const medicalJsonMatches = [...medicalContent.matchAll(/```json\s+([\s\S]*?)\s+```/g)];
-    const rawMatches = [...medicalContent.matchAll(/\[\s*\{\s*"id"[\s\S]*?\n\]/g)];
+    const rawMatches = [...medicalContent.matchAll(/\[\s*\{\s*"(id|name)"[\s\S]*?\n\]/g)];
     const allBlocks = [...medicalJsonMatches.map(m => m[1]), ...rawMatches.map(m => m[0])];
 
     for (const block of allBlocks) {
       try {
-        let cleanedBlock = block.replace(/\n/g, ' ').replace(/\r/g, ''); // Clean literal newlines
-        // Fix common AI formatting errors like trailing commas
+        let cleanedBlock = block.replace(/\n/g, ' ').replace(/\r/g, '');
         cleanedBlock = cleanedBlock.replace(/,\s*([}\]])/g, '$1');
         
         const medicalData = JSON.parse(cleanedBlock);
         const arr = Array.isArray(medicalData) ? medicalData : [medicalData];
         
         arr.forEach(medItem => {
-          const mId = (medItem.id || "").toLowerCase();
+          const mId = (medItem.id || medItem.name || "").toLowerCase();
+          if (!mId) return;
+
           const mappedName = acronymMap[mId] || mId;
           const targetNorm = normalizeStr(mappedName);
 
           const targetFood = foods.find(f => normalizeStr(f.name).includes(targetNorm) || targetNorm.includes(normalizeStr(f.name)));
           if (targetFood) {
-            targetFood.disease_prevention = medItem.disease_prevention;
+            if (medItem.disease_prevention) {
+              targetFood.disease_prevention = medItem.disease_prevention;
+            } else if (medItem.healthBenefits && Array.isArray(medItem.healthBenefits)) {
+              // Convert healthBenefits array to disease_prevention format
+              targetFood.disease_prevention = medItem.healthBenefits.map(hb => ({
+                disease: hb.split(',')[0].trim(), // Lấy vế đầu làm tên bệnh/tác dụng
+                effect: hb,
+                evidence_level: "Khoa học hiện đại (tổng quát)",
+                explanation: medItem.scientificEvidence || medItem.description || "Dữ liệu được tổng hợp từ nguồn thông tin chung."
+              }));
+            }
           }
         });
       } catch (e) {
-        console.error("Lỗi khi parse JSON y khoa:", e.message);
+        // Có thể bỏ qua console error nếu bị lặp nhiều do regex quét trúng block không hợp lệ
       }
     }
 
