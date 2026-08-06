@@ -69,7 +69,7 @@ function updateData() {
     for (let i = 1; i < sections.length; i++) {
       const section = sections[i];
       const lines = section.split('\n');
-      const title = lines[0].trim();
+      const title = lines[0].trim().replace(/Đợt/gi, 'Nhóm');
       
       const jsonMatches = [...section.matchAll(/```json\s+([\s\S]*?)\s+```/g)];
       
