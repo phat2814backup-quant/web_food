@@ -1260,11 +1260,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 20.0,
+        "protein": 0.6,
+        "carbs": 4.0,
+        "fat": 0.2,
+        "fiber": 0.8,
         "unit": "100g"
       }
     },
