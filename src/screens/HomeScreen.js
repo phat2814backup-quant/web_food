@@ -13,6 +13,7 @@ export default function HomeScreen({ navigation }) {
   const theme = getTheme(isDark);
   const [searchText, setSearchText] = useState('');
   const [activeFilter, setActiveFilter] = useState('Tất cả');
+  const [showFilters, setShowFilters] = useState(false);
 
   const sectionsData = useMemo(() => {
     let filteredFoods = [...foodData];
@@ -115,17 +116,32 @@ export default function HomeScreen({ navigation }) {
           value={searchText}
           onChangeText={setSearchText}
         />
-        <View style={{ flexDirection: 'row', flexWrap: 'wrap', marginTop: 12 }}>
-          {FILTER_OPTIONS.map(filter => (
-            <TouchableOpacity 
-              key={filter} 
-              onPress={() => setActiveFilter(filter)}
-              style={{ backgroundColor: activeFilter === filter ? theme.primary : theme.bg, paddingHorizontal: 12, paddingVertical: 6, borderRadius: 16, marginRight: 8, marginBottom: 8, borderWidth: 1, borderColor: activeFilter === filter ? theme.primary : theme.border }}
-            >
-              <Text style={{ color: activeFilter === filter ? '#fff' : theme.text, fontWeight: 'bold', fontSize: 13 }}>{filter}</Text>
-            </TouchableOpacity>
-          ))}
-        </View>
+        <TouchableOpacity 
+          onPress={() => setShowFilters(!showFilters)}
+          style={{ flexDirection: 'row', alignItems: 'center', marginTop: 12, paddingVertical: 8, paddingHorizontal: 12, backgroundColor: theme.cardBg, borderRadius: 8, borderWidth: 1, borderColor: theme.border }}
+        >
+          <Text style={{ color: theme.text, fontWeight: 'bold', flex: 1 }}>
+            Bộ lọc: <Text style={{ color: theme.primary }}>{activeFilter}</Text>
+          </Text>
+          <Text style={{ color: theme.textMuted }}>{showFilters ? '▲' : '▼'}</Text>
+        </TouchableOpacity>
+
+        {showFilters && (
+          <View style={{ flexDirection: 'row', flexWrap: 'wrap', marginTop: 12 }}>
+            {FILTER_OPTIONS.map(filter => (
+              <TouchableOpacity 
+                key={filter} 
+                onPress={() => {
+                  setActiveFilter(filter);
+                  setShowFilters(false);
+                }}
+                style={{ backgroundColor: activeFilter === filter ? theme.primary : theme.bg, paddingHorizontal: 12, paddingVertical: 6, borderRadius: 16, marginRight: 8, marginBottom: 8, borderWidth: 1, borderColor: activeFilter === filter ? theme.primary : theme.border }}
+              >
+                <Text style={{ color: activeFilter === filter ? '#fff' : theme.text, fontWeight: 'bold', fontSize: 13 }}>{filter}</Text>
+              </TouchableOpacity>
+            ))}
+          </View>
+        )}
       </View>
       <SectionList
         sections={sectionsData}
