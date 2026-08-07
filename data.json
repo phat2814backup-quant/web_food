@@ -441,11 +441,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 0.0,
+        "calories": 23.0,
         "protein": 2.5999999046325684,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "carbs": 2.5,
+        "fat": 0.30000001192092896,
+        "fiber": 1.399999976158142,
         "unit": "100g"
       }
     },
@@ -513,11 +513,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
+        "calories": 25.0,
         "protein": 3.200000047683716,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "carbs": 2.0999999046325684,
+        "fat": 0.4000000059604645,
+        "fiber": 1.0,
         "unit": "100g"
       }
     },
@@ -1329,11 +1329,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
+        "calories": 21.0,
         "protein": 1.5,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "carbs": 3.5999999046325684,
+        "fat": 0.10000000149011612,
+        "fiber": 1.5,
         "unit": "100g"
       }
     },
@@ -1700,11 +1700,11 @@
         "💪 Nguồn Protein chất lượng cao nhất": 2
       },
       "nutrition_data": {
-        "calories": 76.0,
-        "protein": 8.0,
-        "carbs": 2.0,
-        "fat": 4.0,
-        "fiber": 1.0,
+        "calories": 95.0,
+        "protein": 10.899999618530273,
+        "carbs": 0.699999988079071,
+        "fat": 5.400000095367432,
+        "fiber": 0.4000000059604645,
         "unit": "100g"
       }
     },
@@ -1910,11 +1910,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 24.600000381469727,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 328.0,
+        "protein": 23.399999618530273,
+        "carbs": 53.099998474121094,
+        "fat": 2.4000000953674316,
+        "fiber": 4.699999809265137,
         "unit": "100g"
       }
     },
@@ -2190,11 +2190,11 @@
         "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh": 1
       },
       "nutrition_data": {
-        "calories": 0.0,
+        "calories": 345.0,
         "protein": 7.5,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "carbs": 72.80000305175781,
+        "fat": 2.700000047683716,
+        "fiber": 3.4000000953674316,
         "unit": "100g"
       }
     },
@@ -2294,11 +2294,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 0.0,
+        "calories": 161.0,
         "protein": 9.5,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "carbs": 29.5,
+        "fat": 0.5,
+        "fiber": 0.800000011920929,
         "unit": "100g"
       }
     },
@@ -2779,11 +2779,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 0.0,
+        "calories": 30.0,
         "protein": 0.20000000298023224,
-        "carbs": 0.0,
+        "carbs": 7.300000190734863,
         "fat": 0.0,
-        "fiber": 0.0,
+        "fiber": 0.699999988079071,
         "unit": "100g"
       }
     },
@@ -3187,11 +3187,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 0.0,
+        "calories": 23.0,
         "protein": 0.699999988079071,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "carbs": 4.5,
+        "fat": 0.20000000298023224,
+        "fiber": 0.20000000298023224,
         "unit": "100g"
       }
     },
@@ -3629,11 +3629,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 0.0,
+        "calories": 121.0,
         "protein": 6.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "carbs": 23.0,
+        "fat": 0.5,
+        "fiber": 1.5,
         "unit": "100g"
       }
     },
@@ -3721,11 +3721,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 0.0,
+        "calories": 323.0,
         "protein": 9.100000381469727,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "carbs": 58.29999923706055,
+        "fat": 5.900000095367432,
+        "fiber": 12.5,
         "unit": "100g"
       }
     },
@@ -4570,11 +4570,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
+        "calories": 57.0,
         "protein": 3.5999999046325684,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "carbs": 3.4000000953674316,
+        "fat": 3.200000047683716,
+        "fiber": 1.100000023841858,
         "unit": "100g"
       }
     },
@@ -5902,10 +5902,10 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 0.0,
+        "calories": 180.0,
         "protein": 18.399999618530273,
-        "carbs": 0.0,
-        "fat": 0.0,
+        "carbs": 0.20000000298023224,
+        "fat": 11.699999809265137,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -6078,10 +6078,10 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 0.0,
+        "calories": 87.0,
         "protein": 12.300000190734863,
-        "carbs": 0.0,
-        "fat": 0.0,
+        "carbs": 2.0,
+        "fat": 3.299999952316284,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -6344,10 +6344,10 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
+        "calories": 139.0,
         "protein": 19.0,
         "carbs": 0.0,
-        "fat": 0.0,
+        "fat": 7.0,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -6469,10 +6469,10 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
+        "calories": 267.0,
         "protein": 17.799999237060547,
         "carbs": 0.0,
-        "fat": 0.0,
+        "fat": 21.799999237060547,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -6548,10 +6548,10 @@
         "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột": 0
       },
       "nutrition_data": {
-        "calories": 0.0,
+        "calories": 61.0,
         "protein": 3.299999952316284,
-        "carbs": 0.0,
-        "fat": 0.0,
+        "carbs": 3.5999999046325684,
+        "fat": 3.700000047683716,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -7498,11 +7498,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
+        "calories": 605.0,
         "protein": 18.399999618530273,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "carbs": 28.700000762939453,
+        "fat": 46.29999923706055,
+        "fiber": 0.6000000238418579,
         "unit": "100g"
       }
     },
