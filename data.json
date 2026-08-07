@@ -66,6 +66,14 @@
       ],
       "super_tags_order": {
         "🍊 Vua Vitamin C & Tăng cường miễn dịch": 2
+      },
+      "nutrition_data": {
+        "calories": 35.0,
+        "protein": 5.3,
+        "carbs": 3.4,
+        "fat": 0.0,
+        "fiber": 2.5,
+        "unit": "100g"
       }
     },
     {
@@ -158,6 +166,14 @@
         "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh": 0,
         "🍊 Vua Vitamin C & Tăng cường miễn dịch": 0,
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất": 2
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -239,6 +255,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 3.2,
+        "carbs": 1.8,
+        "fat": 0.0,
+        "fiber": 4.5,
+        "unit": "100g"
       }
     },
     {
@@ -321,6 +345,14 @@
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất": 1
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -407,6 +439,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -471,7 +511,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "RAUCHANVITCAIBOXOI",
@@ -551,6 +599,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -616,7 +672,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "LATIATO",
@@ -696,6 +760,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -783,6 +855,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -863,6 +943,14 @@
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)": 2
+      },
+      "nutrition_data": {
+        "calories": 119.0,
+        "protein": 0.8,
+        "carbs": 28.5,
+        "fat": 0.2,
+        "fiber": 1.3,
+        "unit": "100g"
       }
     },
     {
@@ -930,6 +1018,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 25.0,
+        "protein": 0.5,
+        "carbs": 6.0,
+        "fat": 0.0,
+        "fiber": 2.0,
+        "unit": "100g"
       }
     },
     {
@@ -996,6 +1092,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 20.0,
+        "protein": 0.8,
+        "carbs": 4.9,
+        "fat": 0.0,
+        "fiber": 1.2,
+        "unit": "100g"
       }
     },
     {
@@ -1065,6 +1169,14 @@
       ],
       "super_tags_order": {
         "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh": 3
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -1146,6 +1258,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -1207,7 +1327,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 18.0,
+        "protein": 0.6,
+        "carbs": 4.1,
+        "fat": 0.0,
+        "fiber": 1.5,
+        "unit": "100g"
+      }
     },
     {
       "id": "CUDEN",
@@ -1263,7 +1391,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 43.0,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 0.0,
+        "fiber": 3.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "CUSEN",
@@ -1318,7 +1454,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "CUNGHE",
@@ -1387,6 +1531,14 @@
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)": 3,
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 4
+      },
+      "nutrition_data": {
+        "calories": 354.0,
+        "protein": 8.0,
+        "carbs": 65.0,
+        "fat": 10.0,
+        "fiber": 21.0,
+        "unit": "100g"
       }
     },
     {
@@ -1443,7 +1595,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 86.0,
+        "protein": 3.0,
+        "carbs": 19.0,
+        "fat": 1.0,
+        "fiber": 3.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "AUPHU",
@@ -1538,6 +1698,14 @@
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
         "💪 Nguồn Protein chất lượng cao nhất": 2
+      },
+      "nutrition_data": {
+        "calories": 76.0,
+        "protein": 8.0,
+        "carbs": 2.0,
+        "fat": 4.0,
+        "fiber": 1.0,
+        "unit": "100g"
       }
     },
     {
@@ -1633,6 +1801,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -1732,6 +1908,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 328.0,
+        "protein": 23.4,
+        "carbs": 53.1,
+        "fat": 2.4,
+        "fiber": 4.7,
+        "unit": "100g"
       }
     },
     {
@@ -1825,6 +2009,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 147.0,
+        "protein": 8.7,
+        "carbs": 28.5,
+        "fat": 0.1,
+        "fiber": 8.4,
+        "unit": "100g"
       }
     },
     {
@@ -1890,7 +2082,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 28.0,
+        "protein": 3.1,
+        "carbs": 0.4,
+        "fat": 1.6,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "GAOLUT",
@@ -1988,6 +2188,14 @@
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh": 1
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -2084,6 +2292,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -2184,6 +2400,14 @@
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất": 4,
         "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh": 1
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -2283,6 +2507,14 @@
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🐟 Giàu Omega-3 & Chất béo tốt nhất": 3
+      },
+      "nutrition_data": {
+        "calories": 187.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -2346,7 +2578,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 161.0,
+        "protein": 6.0,
+        "carbs": 6.0,
+        "fat": 14.0,
+        "fiber": 3.5,
+        "unit": "100g"
+      }
     },
     {
       "id": "CHUOICHIN",
@@ -2437,6 +2677,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 89.0,
+        "protein": 1.1,
+        "carbs": 22.8,
+        "fat": 0.0,
+        "fiber": 2.6,
+        "unit": "100g"
       }
     },
     {
@@ -2529,6 +2777,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 42.0,
+        "protein": 0.8,
+        "carbs": 11.0,
+        "fat": 0.0,
+        "fiber": 1.6,
+        "unit": "100g"
       }
     },
     {
@@ -2621,6 +2877,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 68.0,
+        "protein": 0.47,
+        "carbs": 10.82,
+        "fat": 0.26,
+        "fiber": 1.7,
+        "unit": "100g"
       }
     },
     {
@@ -2720,6 +2984,14 @@
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🐟 Giàu Omega-3 & Chất béo tốt nhất": 3
+      },
+      "nutrition_data": {
+        "calories": 160.0,
+        "protein": 2.0,
+        "carbs": 8.5,
+        "fat": 15.0,
+        "fiber": 6.7,
+        "unit": "100g"
       }
     },
     {
@@ -2813,6 +3085,14 @@
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)": 1
+      },
+      "nutrition_data": {
+        "calories": 83.0,
+        "protein": 1.7,
+        "carbs": 18.7,
+        "fat": 0.0,
+        "fiber": 4.0,
+        "unit": "100g"
       }
     },
     {
@@ -2905,6 +3185,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 47.0,
+        "protein": 1.0,
+        "carbs": 12.0,
+        "fat": 0.0,
+        "fiber": 2.0,
+        "unit": "100g"
       }
     },
     {
@@ -3002,6 +3290,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 60.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -3103,6 +3399,14 @@
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🍊 Vua Vitamin C & Tăng cường miễn dịch": 0
+      },
+      "nutrition_data": {
+        "calories": 68.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 5.4,
+        "unit": "100g"
       }
     },
     {
@@ -3174,6 +3478,14 @@
       "super_tags_order": {
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất": 3,
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 3
+      },
+      "nutrition_data": {
+        "calories": 52.0,
+        "protein": 0.3,
+        "carbs": 13.8,
+        "fat": 0.0,
+        "fiber": 2.4,
+        "unit": "100g"
       }
     },
     {
@@ -3242,6 +3554,14 @@
       ],
       "super_tags_order": {
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)": 4
+      },
+      "nutrition_data": {
+        "calories": 43.0,
+        "protein": 1.4,
+        "carbs": 9.8,
+        "fat": 0.0,
+        "fiber": 1.7,
+        "unit": "100g"
       }
     },
     {
@@ -3307,6 +3627,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 138.0,
+        "protein": 6.3,
+        "carbs": 29.0,
+        "fat": 0.0,
+        "fiber": 3.0,
+        "unit": "100g"
       }
     },
     {
@@ -3391,6 +3719,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -3474,6 +3810,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 40.0,
+        "protein": 1.1,
+        "carbs": 9.3,
+        "fat": 0.1,
+        "fiber": 1.7,
+        "unit": "100g"
       }
     },
     {
@@ -3526,6 +3870,14 @@
       ],
       "super_tags_order": {
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 2
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -3616,6 +3968,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 304.0,
+        "protein": 0.0,
+        "carbs": 82.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -3708,6 +4068,14 @@
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)": 0
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -3798,6 +4166,14 @@
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 0
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -3896,6 +4272,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 29.0,
+        "protein": 0.0,
+        "carbs": 10.0,
+        "fat": 0.0,
+        "fiber": 2.8,
+        "unit": "100g"
       }
     },
     {
@@ -3990,6 +4374,14 @@
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)": 2,
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 3
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -4044,6 +4436,14 @@
       ],
       "super_tags_order": {
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 3
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -4102,7 +4502,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 44.0,
+        "protein": 1.0,
+        "carbs": 11.0,
+        "fat": 0.0,
+        "fiber": 2.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "NAMROM",
@@ -4160,7 +4568,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 31.0,
+        "protein": 3.6,
+        "carbs": 0.0,
+        "fat": 0.3,
+        "fiber": 1.1,
+        "unit": "100g"
+      }
     },
     {
       "id": "NAMKIMCHAM",
@@ -4217,7 +4633,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 40.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "NAMUIGA",
@@ -4273,7 +4697,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 40.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "NAMBAONGUNAMSO",
@@ -4330,7 +4762,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 40.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "NAMTUYETNGANNHI",
@@ -4387,7 +4827,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "NAMMOCNHINAMMEO",
@@ -4445,7 +4893,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "NAMNGOCCHAM",
@@ -4502,7 +4958,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "NAMMOI",
@@ -4559,7 +5023,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "NAMLINHCHI",
@@ -4620,6 +5092,14 @@
       ],
       "super_tags_order": {
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 1
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -4713,6 +5193,14 @@
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🐟 Giàu Omega-3 & Chất béo tốt nhất": 0,
         "💪 Nguồn Protein chất lượng cao nhất": 2
+      },
+      "nutrition_data": {
+        "calories": 182.0,
+        "protein": 25.0,
+        "carbs": 0.0,
+        "fat": 8.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -4807,6 +5295,14 @@
         "🛡️ Đa dụng Phòng bệnh": 0,
         "💪 Nguồn Protein chất lượng cao nhất": 1,
         "🐟 Giàu Omega-3 & Chất béo tốt nhất": 1
+      },
+      "nutrition_data": {
+        "calories": 189.0,
+        "protein": 19.0,
+        "carbs": 0.0,
+        "fat": 11.9,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -4893,6 +5389,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 18.2,
+        "carbs": 0.0,
+        "fat": 2.7,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -4984,6 +5488,14 @@
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🐟 Giàu Omega-3 & Chất béo tốt nhất": 1
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -5073,6 +5585,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 127.0,
+        "protein": 18.0,
+        "carbs": 0.0,
+        "fat": 5.5,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -5171,6 +5691,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 100.0,
+        "protein": 20.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -5270,6 +5798,14 @@
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất": 2
+      },
+      "nutrition_data": {
+        "calories": 80.0,
+        "protein": 9.0,
+        "carbs": 0.0,
+        "fat": 3.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -5364,6 +5900,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 18.7,
+        "carbs": 0.0,
+        "fat": 0.9,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -5434,6 +5978,14 @@
       ],
       "super_tags_order": {
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất": 3
+      },
+      "nutrition_data": {
+        "calories": 45.0,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 1.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -5524,6 +6076,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -5583,6 +6143,14 @@
       ],
       "super_tags_order": {
         "💪 Nguồn Protein chất lượng cao nhất": 3
+      },
+      "nutrition_data": {
+        "calories": 143.0,
+        "protein": 12.6,
+        "carbs": 0.7,
+        "fat": 9.5,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -5642,6 +6210,14 @@
       ],
       "super_tags_order": {
         "💪 Nguồn Protein chất lượng cao nhất": 0
+      },
+      "nutrition_data": {
+        "calories": 165.0,
+        "protein": 31.0,
+        "carbs": 0.0,
+        "fat": 3.6,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -5703,6 +6279,14 @@
       ],
       "super_tags_order": {
         "💪 Nguồn Protein chất lượng cao nhất": 1
+      },
+      "nutrition_data": {
+        "calories": 160.0,
+        "protein": 23.0,
+        "carbs": 0.0,
+        "fat": 5.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -5758,7 +6342,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 22.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "CHIMBOCAU",
@@ -5812,7 +6404,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "THITVIT",
@@ -5867,7 +6467,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "SUACHUA",
@@ -5938,6 +6546,14 @@
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột": 0
+      },
+      "nutrition_data": {
+        "calories": 70.0,
+        "protein": 4.0,
+        "carbs": 5.0,
+        "fat": 4.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -5996,7 +6612,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 65.0,
+        "protein": 3.3,
+        "carbs": 0.0,
+        "fat": 3.8,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "GANGA",
@@ -6057,6 +6681,14 @@
       "super_tags_order": {
         "💪 Nguồn Protein chất lượng cao nhất": 4,
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất": 0
+      },
+      "nutrition_data": {
+        "calories": 116.0,
+        "protein": 17.0,
+        "carbs": 0.0,
+        "fat": 5.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -6117,6 +6749,14 @@
       ],
       "super_tags_order": {
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 2
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -6184,6 +6824,14 @@
       ],
       "super_tags_order": {
         "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột": 2
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -6252,6 +6900,14 @@
       ],
       "super_tags_order": {
         "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột": 1
+      },
+      "nutrition_data": {
+        "calories": 23.0,
+        "protein": 2.0,
+        "carbs": 0.0,
+        "fat": 1.0,
+        "fiber": 2.0,
+        "unit": "100g"
       }
     },
     {
@@ -6318,6 +6974,14 @@
       ],
       "super_tags_order": {
         "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột": 3
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -6372,7 +7036,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "GIAMTAO",
@@ -6460,6 +7132,14 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0
+      },
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
       }
     },
     {
@@ -6512,7 +7192,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "TRAMUOPANG",
@@ -6561,7 +7249,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "NUOCDUATUOI",
@@ -6613,7 +7309,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 20.0,
+        "protein": 0.0,
+        "carbs": 5.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "MUTROM",
@@ -6667,7 +7371,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "TUYETYEN",
@@ -6721,7 +7433,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "HATIEU",
@@ -6776,7 +7496,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 553.0,
+        "protein": 18.2,
+        "carbs": 30.2,
+        "fat": 43.9,
+        "fiber": 3.3,
+        "unit": "100g"
+      }
     },
     {
       "id": "HATMACCA",
@@ -6832,7 +7560,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 718.0,
+        "protein": 7.9,
+        "carbs": 13.8,
+        "fat": 75.8,
+        "fiber": 8.6,
+        "unit": "100g"
+      }
     },
     {
       "id": "HATBINGO",
@@ -6887,7 +7623,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 580.0,
+        "protein": 30.0,
+        "carbs": 19.0,
+        "fat": 49.0,
+        "fiber": 7.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "HATCHIA",
@@ -6955,6 +7699,14 @@
       "super_tags_order": {
         "🐟 Giàu Omega-3 & Chất béo tốt nhất": 2,
         "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh": 2
+      },
+      "nutrition_data": {
+        "calories": 486.0,
+        "protein": 16.5,
+        "carbs": 42.0,
+        "fat": 30.7,
+        "fiber": 34.0,
+        "unit": "100g"
       }
     },
     {
@@ -7010,7 +7762,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 584.0,
+        "protein": 20.8,
+        "carbs": 20.0,
+        "fat": 51.5,
+        "fiber": 8.6,
+        "unit": "100g"
+      }
     },
     {
       "id": "TRAIMANGCUT",
@@ -7068,7 +7828,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 73.0,
+        "protein": 0.4,
+        "carbs": 17.9,
+        "fat": 0.6,
+        "fiber": 1.8,
+        "unit": "100g"
+      }
     },
     {
       "id": "TRAICHANHDAYCHANHDAY",
@@ -7129,6 +7897,14 @@
       ],
       "super_tags_order": {
         "🍊 Vua Vitamin C & Tăng cường miễn dịch": 1
+      },
+      "nutrition_data": {
+        "calories": 97.0,
+        "protein": 2.2,
+        "carbs": 23.4,
+        "fat": 0.7,
+        "fiber": 10.4,
+        "unit": "100g"
       }
     },
     {
@@ -7192,7 +7968,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 70.0,
+        "protein": 0.6,
+        "carbs": 18.6,
+        "fat": 0.2,
+        "fiber": 3.6,
+        "unit": "100g"
+      }
     },
     {
       "id": "TRAINHAN",
@@ -7244,7 +8028,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 60.0,
+        "protein": 1.3,
+        "carbs": 16.0,
+        "fat": 0.0,
+        "fiber": 1.1,
+        "unit": "100g"
+      }
     },
     {
       "id": "TRAIVAI",
@@ -7303,7 +8095,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 66.0,
+        "protein": 0.8,
+        "carbs": 16.5,
+        "fat": 0.4,
+        "fiber": 1.3,
+        "unit": "100g"
+      }
     },
     {
       "id": "TRASUATRANCHAU",
@@ -7354,7 +8154,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 300.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "NUOCNGOTCOGAS",
@@ -7406,7 +8214,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 160.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "NUOCTANGLUC",
@@ -7463,7 +8279,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 120.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "TRACHANHONGCHAI",
@@ -7508,7 +8332,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 45.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "SUAACCOUONG",
@@ -7567,7 +8399,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 330.0,
+        "protein": 8.0,
+        "carbs": 56.0,
+        "fat": 9.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "NUOCEPTRAICAYONGHOPONGCHAI",
@@ -7618,7 +8458,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 60.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "NUOCKHOANGVITRAICAYCOUONG",
@@ -7669,7 +8517,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 45.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "GARANCONGNGHIEP",
@@ -7723,7 +8579,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "KHOAITAYCHIEN",
@@ -7777,7 +8641,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 378.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "HAMBURGER",
@@ -7831,7 +8703,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 600.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "PIZZACONGNGHIEP",
@@ -7881,7 +8761,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 280.0,
+        "protein": 12.0,
+        "carbs": 30.0,
+        "fat": 14.0,
+        "fiber": 3.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "XIENBANCAVIENBOVIENCHIEN",
@@ -7936,7 +8824,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "PHOMAIQUECHIENXU",
@@ -7986,7 +8882,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 329.0,
+        "protein": 15.0,
+        "carbs": 25.0,
+        "fat": 19.0,
+        "fiber": 1.9,
+        "unit": "100g"
+      }
     },
     {
       "id": "NEMCHUARAN",
@@ -8041,7 +8945,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 350.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "XUCXICHCONGNGHIEP",
@@ -8096,7 +9008,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 320.0,
+        "protein": 15.0,
+        "carbs": 8.0,
+        "fat": 28.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "THITXONGKHOIBACON",
@@ -8150,7 +9070,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 550.0,
+        "protein": 15.0,
+        "carbs": 0.0,
+        "fat": 45.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "DAMBONGJAMBON",
@@ -8203,7 +9131,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 250.0,
+        "protein": 20.0,
+        "carbs": 0.0,
+        "fat": 15.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "LAPXUONG",
@@ -8257,7 +9193,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 500.0,
+        "protein": 20.0,
+        "carbs": 15.0,
+        "fat": 45.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "PATEONGHOP",
@@ -8322,7 +9266,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 350.0,
+        "protein": 15.0,
+        "carbs": 0.0,
+        "fat": 30.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "THITHOPSPAM",
@@ -8388,7 +9340,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 350.0,
+        "protein": 15.0,
+        "carbs": 0.0,
+        "fat": 30.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "MIANLIENMITOM",
@@ -8447,7 +9407,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 350.0,
+        "protein": 9.0,
+        "carbs": 50.0,
+        "fat": 13.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "BIMBIMSNACK",
@@ -8505,7 +9473,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "KEMCONGNGHIEP",
@@ -8558,7 +9534,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 250.0,
+        "protein": 5.0,
+        "carbs": 25.0,
+        "fat": 15.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "BANHNGOTONGGOI",
@@ -8617,7 +9601,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 500.0,
+        "protein": 8.0,
+        "carbs": 65.0,
+        "fat": 25.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "KEOMUTKEODEOMAU",
@@ -8667,7 +9659,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 400.0,
+        "protein": 0.0,
+        "carbs": 95.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "SOCOLASUACONGNGHIEP",
@@ -8725,7 +9725,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 550.0,
+        "protein": 9.0,
+        "carbs": 60.0,
+        "fat": 32.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "TRAICAYSAYTAMUONG",
@@ -8778,7 +9786,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 350.0,
+        "protein": 0.0,
+        "carbs": 80.0,
+        "fat": 0.0,
+        "fiber": 8.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "BOTHUCVATMARGARINE",
@@ -8831,7 +9847,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 720.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 80.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "NGUCOCANSANGTAMMAU",
@@ -8885,7 +9909,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 450.0,
+        "protein": 10.0,
+        "carbs": 85.0,
+        "fat": 15.0,
+        "fiber": 8.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "TRANCHAUENBOBA",
@@ -8938,7 +9970,15 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 250.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      }
     },
     {
       "id": "TRA_SUA",
@@ -8974,7 +10014,16 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      },
+      "good_combinations": []
     },
     {
       "id": "NUOC_NGOT",
@@ -9010,7 +10059,16 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      },
+      "good_combinations": []
     },
     {
       "id": "NUOC_TANG_LUC",
@@ -9046,7 +10104,16 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      },
+      "good_combinations": []
     },
     {
       "id": "GA_RAN",
@@ -9075,7 +10142,16 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      },
+      "good_combinations": []
     },
     {
       "id": "KHOAI_TAY_CHIEN",
@@ -9104,7 +10180,16 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      },
+      "good_combinations": []
     },
     {
       "id": "HAMBURGER",
@@ -9133,7 +10218,16 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      },
+      "good_combinations": []
     },
     {
       "id": "PIZZA",
@@ -9162,7 +10256,16 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      },
+      "good_combinations": []
     },
     {
       "id": "MI_GOI",
@@ -9197,7 +10300,16 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      },
+      "good_combinations": []
     },
     {
       "id": "XUC_XICH",
@@ -9226,7 +10338,16 @@
         }
       ],
       "super_tags": [],
-      "super_tags_order": {}
+      "super_tags_order": {},
+      "nutrition_data": {
+        "calories": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "unit": "100g"
+      },
+      "good_combinations": []
     }
   ],
   "diseases": [
