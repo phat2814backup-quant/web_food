@@ -32,6 +32,28 @@ export default function HomeScreen({ navigation }) {
     if (searchText) {
       const searchNormalized = removeDiacritics(searchText);
       const searchRaw = searchText.toLowerCase().trim();
+      
+      // Dynamic Top 10 Search
+      let topField = null;
+      let topName = "";
+      if (searchNormalized.includes("top dam") || searchNormalized.includes("nhieu dam") || searchNormalized.includes("giau dam")) { topField = "protein"; topName = "Đạm"; }
+      else if (searchNormalized.includes("top canxi") || searchNormalized.includes("nhieu canxi") || searchNormalized.includes("giau canxi")) { topField = "calcium"; topName = "Canxi"; }
+      else if (searchNormalized.includes("top sat") || searchNormalized.includes("nhieu sat") || searchNormalized.includes("giau sat")) { topField = "iron"; topName = "Sắt"; }
+      else if (searchNormalized.includes("top kali") || searchNormalized.includes("nhieu kali") || searchNormalized.includes("giau kali")) { topField = "potassium"; topName = "Kali"; }
+      else if (searchNormalized.includes("top kem") || searchNormalized.includes("nhieu kem") || searchNormalized.includes("giau kem")) { topField = "zinc"; topName = "Kẽm"; }
+      else if (searchNormalized.includes("top vit") || searchNormalized.includes("nhieu vit") || searchNormalized.includes("giau vit")) { topField = "vit_c"; topName = "Vitamin C"; }
+      else if (searchNormalized.includes("top xo") || searchNormalized.includes("nhieu xo") || searchNormalized.includes("giau xo")) { topField = "fiber"; topName = "Chất xơ"; }
+      else if (searchNormalized.includes("top calo") || searchNormalized.includes("nhieu calo") || searchNormalized.includes("top nang luong") || searchNormalized.includes("nhieu nang luong")) { topField = "calories"; topName = "Năng lượng"; }
+      
+      if (topField) {
+         filteredFoods.sort((a, b) => {
+            const valA = a.nutrition_data?.[topField] || 0;
+            const valB = b.nutrition_data?.[topField] || 0;
+            return valB - valA;
+         });
+         return [{ title: `Top 10 thực phẩm chứa nhiều ${topName} nhất`, data: filteredFoods.slice(0, 10) }];
+      }
+
       const searchWords = searchNormalized.split(' ').filter(Boolean);
       const searchRawWords = searchRaw.split(' ').filter(Boolean);
       const hasDiacritics = searchRaw !== searchNormalized;
@@ -58,6 +80,7 @@ export default function HomeScreen({ navigation }) {
         
         // Match descriptions
         const combinedDescRaw = [
+          (food.super_tags?.join(" ") || ""),
           (food.nutrition || ""),
           (food.benefits?.join(" ") || ""),
           food.disease_prevention ? JSON.stringify(food.disease_prevention) : ""
