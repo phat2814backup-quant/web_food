@@ -42,6 +42,9 @@ export function DietsScreen({ navigation }) {
   const theme = getTheme(isDark);
   return (
     <SafeAreaView style={[styles.container, { backgroundColor: theme.bg }]}>
+      <TouchableOpacity style={{ margin: 16, marginBottom: 0, padding: 12, backgroundColor: theme.primary, borderRadius: 8, alignItems: 'center' }} onPress={() => navigation.navigate('FoodsTab')}>
+        <Text style={{ color: '#fff', fontWeight: 'bold', fontSize: 15 }}>🏠 Về Màn Hình Thực Phẩm</Text>
+      </TouchableOpacity>
       <FlatList
         data={dietsData}
         keyExtractor={item => item.id}
@@ -51,7 +54,7 @@ export function DietsScreen({ navigation }) {
             <Text style={styles.cardIcon}>🌿</Text>
             <View style={styles.foodInfo}>
               <Text style={[styles.foodName, { color: theme.text }]}>{item.name}</Text>
-              <Text style={[styles.foodSummary, { color: theme.textMuted }]} numberOfLines={2}>{item.desc}</Text>
+              <Text style={[styles.foodSummary, { color: theme.textMuted }]} numberOfLines={2}>{item.desc?.replace(/\n/g, ' ')}</Text>
             </View>
           </TouchableOpacity>
         )}
@@ -279,8 +282,18 @@ export function DietDetailScreen({ route, navigation }) {
     <ScrollView style={[styles.container, { backgroundColor: theme.bg }]}>
       <View style={[styles.headerHero, { backgroundColor: '#27ae60' }]}>
         <Text style={styles.heroTitle}>{diet.name}</Text>
-        <Text style={styles.heroDesc}>{diet.desc}</Text>
+        {diet.desc?.split('\n').map((line, i) => {
+          const parts = line.split(':');
+          if (parts.length > 1) {
+             return <Text key={i} style={[styles.heroDesc, { textAlign: 'left', marginBottom: 8, fontSize: 14 }]}><Text style={{fontWeight: 'bold', color: '#fff'}}>{parts[0]}:</Text>{parts.slice(1).join(':')}</Text>
+          }
+          return <Text key={i} style={[styles.heroDesc, { textAlign: 'left', marginBottom: 8, fontSize: 14 }]}>{line}</Text>
+        })}
       </View>
+
+      <TouchableOpacity style={{ margin: 16, marginBottom: 0, padding: 12, backgroundColor: theme.primary, borderRadius: 8, alignItems: 'center' }} onPress={() => navigation.navigate('FoodsTab')}>
+         <Text style={{ color: '#fff', fontWeight: 'bold', fontSize: 16 }}>🏠 Trở Về Trang Chủ</Text>
+      </TouchableOpacity>
 
       <View style={styles.listContainer}>
         <Text style={styles.sectionListHeaderText}>Thực phẩm phù hợp tiêu chuẩn</Text>

@@ -10834,23 +10834,43 @@
   "diets": [
     {
       "id": "mediterranean",
-      "name": "Địa Trung Hải",
-      "desc": "Nhiều rau củ, trái cây, ngũ cốc nguyên hạt, đậu, hạt, dầu ô liu. Rất tốt cho tim mạch."
+      "name": "Địa Trung Hải (Mediterranean)",
+      "desc": "Tóm tắt: Chế độ ăn số 1 thế giới nhiều năm liền. Nhấn mạnh vào chất béo tốt (dầu oliu) và nguồn đạm từ biển cả.\nTỷ trọng dinh dưỡng: ~40% Carbohydrate, ~40% Chất béo (tốt), ~20% Protein.\nTinh thần & Ngủ nghỉ: Chú trọng các bữa ăn quây quần bên gia đình và bạn bè. Tinh thần thoải mái, ngủ đủ 7-8 tiếng/ngày, kết hợp vận động ngoài trời nhẹ nhàng như đi bộ."
     },
     {
       "id": "blue_zones",
       "name": "Vùng Xanh (Blue Zones)",
-      "desc": "90-95% calo từ thực vật. Đậu là cốt lõi. Thịt đỏ rất ít. Ăn no 80% (Hara Hachi Bu)."
+      "desc": "Tóm tắt: Dựa trên bí quyết sống thọ của 5 vùng đất có nhiều người sống trên 100 tuổi nhất thế giới. Thực vật (đặc biệt là các loại đậu) đóng vai trò cốt lõi.\nTỷ trọng dinh dưỡng: 90-95% năng lượng từ thực vật. Ăn no đến 80% (nguyên tắc Hara Hachi Bu).\nTinh thần & Ngủ nghỉ: Ngủ trưa ngắn (siesta), gắn kết cộng đồng mạnh mẽ, luôn có mục đích sống rõ ràng (Ikigai) và di chuyển tự nhiên mỗi ngày thay vì tập gym cường độ cao."
     },
     {
-      "id": "longevity",
-      "name": "Longevity (Valter Longo)",
-      "desc": "Protein thấp-vừa, chủ yếu thực vật và cá. Nhịn ăn gián đoạn nhẹ."
+      "id": "keto",
+      "name": "Keto (Ketogenic)",
+      "desc": "Tóm tắt: Giảm thiểu tối đa tinh bột để cơ thể chuyển đổi mỡ thành năng lượng (trạng thái Ketosis). Thích hợp giảm cân nhanh.\nTỷ trọng dinh dưỡng: ~75% Chất béo, ~20% Protein, ~5% Carbohydrate.\nTinh thần & Ngủ nghỉ: Giai đoạn đầu có thể mệt mỏi (Keto flu) nên cần ngủ sâu, bù đủ nước và điện giải. Tránh stress vì stress làm tăng đường huyết."
+    },
+    {
+      "id": "intermittent_fasting",
+      "name": "Nhịn ăn gián đoạn (IF - 16/8)",
+      "desc": "Tóm tắt: Nhịn ăn 16 tiếng và ăn trong khung 8 tiếng. Kích hoạt cơ chế tự dọn dẹp tế bào (Autophagy) giúp cơ thể chống lão hóa.\nTỷ trọng dinh dưỡng: Linh hoạt, nhưng ưu tiên nạp đủ đạm và chất xơ trong khung giờ ăn để tránh mất cơ.\nTinh thần & Ngủ nghỉ: Ngủ rất quan trọng (chiếm nửa thời gian nhịn ăn). Thiền định giúp làm dịu cảm giác đói trong khung giờ nhịn."
     },
     {
       "id": "dash",
-      "name": "DASH",
-      "desc": "Nhiều rau, ít muối, giảm huyết áp."
+      "name": "DASH (Dành cho Huyết áp)",
+      "desc": "Tóm tắt: Chế độ ăn được thiết kế y khoa chuyên biệt để hạ huyết áp bằng cách cắt giảm natri và tăng cường khoáng chất.\nTỷ trọng dinh dưỡng: ~55% Carbohydrate, ~27% Chất béo, ~18% Protein. Hạn chế muối (dưới 1500mg-2300mg/ngày).\nTinh thần & Ngủ nghỉ: Giữ tĩnh tâm, tập yoga và hít thở sâu để hạ huyết áp. Đảm bảo giấc ngủ sâu giúp mạch máu thư giãn."
+    },
+    {
+      "id": "paleo",
+      "name": "Paleo (Người nguyên thủy)",
+      "desc": "Tóm tắt: Ăn các thực phẩm giống như tổ tiên chúng ta săn bắt hái lượm. Cắt bỏ hoàn toàn ngũ cốc, sữa, đường tinh luyện và thực phẩm chế biến sẵn.\nTỷ trọng dinh dưỡng: Đạm cao (thịt, trứng), chất béo tốt (hạt, bơ), carb thấp từ trái cây và rau.\nTinh thần & Ngủ nghỉ: Ngủ theo nhịp sinh học tự nhiên (ngủ sớm khi trời tối), tiếp xúc với ánh sáng mặt trời ban ngày, tập các bài thể dục vận động mạnh."
+    },
+    {
+      "id": "flexitarian",
+      "name": "Ăn chay linh hoạt (Flexitarian)",
+      "desc": "Tóm tắt: Phần lớn thời gian là ăn chay nhưng thỉnh thoảng vẫn ăn thịt/cá khi thèm. Ít áp lực và thân thiện với môi trường.\nTỷ trọng dinh dưỡng: Cân bằng, tập trung tăng tỷ trọng chất xơ, vitamin từ rau củ và protein thực vật.\nTinh thần & Ngủ nghỉ: Rất thoải mái tâm lý do không kiêng khem khắc nghiệt. Phù hợp cho những ai muốn chuyển đổi từ từ sang lối sống xanh."
+    },
+    {
+      "id": "mind",
+      "name": "MIND (Chống suy giảm trí nhớ)",
+      "desc": "Tóm tắt: Sự kết hợp hoàn hảo giữa Địa Trung Hải và DASH. Tập trung vào các siêu thực phẩm bổ não (như quả mọng, rau lá xanh, hạt óc chó) để chống lại Alzheimer.\nTỷ trọng dinh dưỡng: Ưu tiên omega-3, chất chống oxy hóa, ít chất béo bão hòa.\nTinh thần & Ngủ nghỉ: Kết hợp với các bài tập rèn luyện trí não, tránh căng thẳng kéo dài và đảm bảo ngủ đủ giấc để não đào thải độc tố (qua hệ thống glymphatic)."
     }
   ]
 }
