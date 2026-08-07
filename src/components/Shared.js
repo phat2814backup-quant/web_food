@@ -4,7 +4,7 @@ import { commonStyles as styles } from '../styles/theme';
 
 export const removeDiacritics = (str) => {
   if (!str) return "";
-  return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+  return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/đ/g, 'd').replace(/Đ/g, 'D').toLowerCase();
 };
 
 export const iconForCategory = (category) => {
