@@ -1401,9 +1401,12 @@ Bạn có thể lưu file này dưới dạng `.json` để sử dụng trong �
     ],
     "traditionalMedicineUses": "Dùng để bổ máu, nhuận tràng, hỗ trợ người thiếu máu, mất ngủ, tiểu đường.",
     "scientificEvidence": "Nghiên cứu cho thấy dâu tằm giàu anthocyanin, resveratrol chống oxy hóa, giảm LDL, cải thiện kiểm soát đường huyết, bảo vệ gan.",
-    "culinaryUses": ["Ăn trực tiếp", "Làm nước ép, sinh tố", "Kết hợp sữa chua, salad", "Làm mứt, rượu dâu,
+    "culinaryUses": ["Ăn trực tiếp", "Làm nước ép, sinh tố", "Kết hợp sữa chua, salad", "Làm mứt, rượu dâu"]
+  }
+]
+```
 
-    Dưới đây là dữ liệu JSON cho 10 thực phẩm/dược liệu bạn yêu cầu, tuân theo cùng cấu trúc đã quy định:
+Dưới đây là dữ liệu JSON cho 10 thực phẩm/dược liệu bạn yêu cầu, tuân theo cùng cấu trúc đã quy định:
     
     ```json
     [

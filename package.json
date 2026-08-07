@@ -17,11 +17,11 @@
     "react-native-web": "^0.21.0"
   },
   "scripts": {
-    "update-data": "node update_data.js",
-    "start": "npm run update-data && expo start",
-    "android": "npm run update-data && expo start --android",
-    "ios": "npm run update-data && expo start --ios",
-    "web": "npm run update-data && expo start --web"
+    "update-data": "node scripts/build_database.js",
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
   },
   "private": true
 }
