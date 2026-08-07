@@ -176,9 +176,14 @@ export default function HomeScreen({ navigation }) {
             ))}
           </View>
         )}
-        renderSectionHeader={({ section: { title } }) => (
-          <View style={styles.sectionListHeader}><Text style={styles.sectionListHeaderText}>{title}</Text></View>
-        )}
+        renderSectionHeader={({ section: { title } }) => {
+          const isHarmful = title.includes('Nhóm 11') || title.includes('Gây hại');
+          return (
+            <View style={[styles.sectionListHeader, isHarmful && { backgroundColor: '#fbe9e7' }]}>
+              <Text style={[styles.sectionListHeaderText, isHarmful && { color: '#e74c3c' }]}>{title}</Text>
+            </View>
+          );
+        }}
         contentContainerStyle={styles.listContainer}
         stickySectionHeadersEnabled={false}
       />
