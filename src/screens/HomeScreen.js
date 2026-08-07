@@ -115,17 +115,17 @@ export default function HomeScreen({ navigation }) {
           value={searchText}
           onChangeText={setSearchText}
         />
-        <ScrollView horizontal showsHorizontalScrollIndicator={false} style={{ marginTop: 12 }}>
+        <View style={{ flexDirection: 'row', flexWrap: 'wrap', marginTop: 12 }}>
           {FILTER_OPTIONS.map(filter => (
             <TouchableOpacity 
               key={filter} 
               onPress={() => setActiveFilter(filter)}
-              style={{ backgroundColor: activeFilter === filter ? theme.primary : theme.bg, paddingHorizontal: 12, paddingVertical: 6, borderRadius: 16, marginRight: 8, borderWidth: 1, borderColor: activeFilter === filter ? theme.primary : theme.border }}
+              style={{ backgroundColor: activeFilter === filter ? theme.primary : theme.bg, paddingHorizontal: 12, paddingVertical: 6, borderRadius: 16, marginRight: 8, marginBottom: 8, borderWidth: 1, borderColor: activeFilter === filter ? theme.primary : theme.border }}
             >
-              <Text style={{ color: activeFilter === filter ? '#fff' : theme.text, fontWeight: 'bold' }}>{filter}</Text>
+              <Text style={{ color: activeFilter === filter ? '#fff' : theme.text, fontWeight: 'bold', fontSize: 13 }}>{filter}</Text>
             </TouchableOpacity>
           ))}
-        </ScrollView>
+        </View>
       </View>
       <SectionList
         sections={sectionsData}
