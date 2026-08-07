@@ -297,9 +297,18 @@ export function DietDetailScreen({ route, navigation }) {
 
       <View style={styles.listContainer}>
         <Text style={styles.sectionListHeaderText}>Thực phẩm phù hợp tiêu chuẩn</Text>
-        {approvedFoods.map(f => (
-          <FoodRow key={f.id} item={f} theme={theme} onPress={() => navigation.navigate('FoodDetail', { food: f })} />
-        ))}
+        <View style={{ flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'space-between', paddingHorizontal: 4 }}>
+          {approvedFoods.map(f => (
+            <TouchableOpacity 
+              key={f.id} 
+              style={{ width: '31%', backgroundColor: theme.cardBg, borderRadius: 12, padding: 12, alignItems: 'center', marginBottom: 12, borderWidth: 1, borderColor: theme.border }} 
+              onPress={() => navigation.navigate('FoodDetail', { food: f })}
+            >
+              <Text style={{ fontSize: 32, marginBottom: 8 }}>{f.icon || '🍲'}</Text>
+              <Text style={{ fontSize: 13, fontWeight: 'bold', color: theme.text, textAlign: 'center' }} numberOfLines={2}>{f.name}</Text>
+            </TouchableOpacity>
+          ))}
+        </View>
       </View>
     </ScrollView>
   );
