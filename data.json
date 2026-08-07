@@ -2627,28 +2627,16 @@
       "category": "Hạt có dầu",
       "nutrition": "Thành phần (100g): Năng lượng 619kcal, Đạm 24.1g, Tinh bột 9.58g, Béo 59.3g, Chất xơ 6.8g. Vi chất nổi bật: Sắt 3.12mg, Magiê 201mg, Phốt pho 513mg, Đồng 1.36mg, Mangan 3.9mg, Vit A 2µg, Beta-carotene 24µg, Vit C 1.7mg, Folate 31µg, Canxi 61mg, Kali 523mg, Kẽm 3.37mg.",
       "benefits": [
-        "Omega-3 thực vật và chất béo không bão hòa hỗ trợ sức khỏe tim mạch.",
-        "Protein và chất xơ giúp tăng cảm giác no.",
-        "Vitamin E, đồng và mangan tham gia vào hệ thống chống oxy hóa.",
-        "Có thể góp phần cải thiện chất lượng khẩu phần khi thay thế đồ ăn vặt nhiều đường hoặc chất béo bão hòa."
+        "Chứa axit béo Omega-3 thực vật (ALA) cao nhất trong các loại hạt",
+        "Thúc đẩy hệ vi sinh vật đường ruột khỏe mạnh",
+        "Hình dáng giống não và thực sự cực tốt cho não bộ"
       ],
       "good_combinations": [
-        {
-          "food": "Óc chó và yến mạch",
-          "reason": "Óc chó bổ sung chất béo tốt; yến mạch bổ sung carbohydrate phức hợp và chất xơ."
-        },
-        {
-          "food": "Óc chó trộn sữa chua không đường",
-          "reason": "Sữa chua bổ sung protein và canxi, còn óc chó bổ sung chất béo không bão hòa."
-        }
+        "Yến mạch",
+        "Chuối",
+        "Mật ong"
       ],
-      "bad_combinations": [
-        {
-          "food_id": "Thực phẩm nhiều đường tinh luyện",
-          "food_name": "Thực phẩm nhiều đường tinh luyện",
-          "reason": "Kết hợp ngũ cốc với quá nhiều đường sẽ làm tăng đột biến lượng đường trong máu, giảm lợi ích ổn định đường huyết của các loại hạt."
-        }
-      ],
+      "bad_combinations": [],
       "consumption_tips": "Ăn hạt nguyên chất, không tẩm đường hoặc muối; khẩu phần thường dùng khoảng 20–30g mỗi ngày. Bảo quản kín, tránh hạt có mùi ôi hoặc nấm mốc.",
       "best_time": "Có thể dùng vào bữa phụ hoặc thêm vào bữa sáng. Người dị ứng hạt cây, trẻ nhỏ có nguy cơ hóc hoặc người cần kiểm soát năng lượng nên dùng theo hướng dẫn phù hợp.",
       "sources": [
@@ -2657,11 +2645,14 @@
         "https://www.vinmec.com/vie/bai-viet/cac-loai-hat-an-vat-cho-ba-bau-vi",
         "https://medlatec.vn/tin-tuc/diem-danh-cac-loai-hat-dinh-duong-tot-cho-suc-khoe-s51-n32907"
       ],
-      "main_category": "🟡 Nhóm 3: Đậu, Hạt & Ngũ cốc nguyên hạt",
+      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
       "cures": [
-        "tieu_duong"
+        "Người suy giảm trí nhớ",
+        "Người cần tăng cường chất lượng tinh trùng"
       ],
-      "avoids": [],
+      "avoids": [
+        "Người bị dị ứng hạt"
+      ],
       "diets": [
         "mediterranean",
         "keto",
@@ -2670,48 +2661,8 @@
         "blue_zones"
       ],
       "disease_prevention": [
-        {
-          "disease": "Tốt cho não bộ",
-          "effect": "Tốt cho não bộ, cải thiện trí nhớ, học tập",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy ăn 30-45g óc chó/ngày giảm LDL, tăng HDL, cải thiện chức năng nội mạc, tăng lợi khuẩn, giảm nguy cơ tiểu đường type 2."
-        },
-        {
-          "disease": "Hỗ trợ tim mạch",
-          "effect": "Hỗ trợ tim mạch, giảm cholesterol, hạ huyết áp",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy ăn 30-45g óc chó/ngày giảm LDL, tăng HDL, cải thiện chức năng nội mạc, tăng lợi khuẩn, giảm nguy cơ tiểu đường type 2."
-        },
-        {
-          "disease": "Chống viêm",
-          "effect": "Chống viêm, chống oxy hóa, ngừa ung thư",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy ăn 30-45g óc chó/ngày giảm LDL, tăng HDL, cải thiện chức năng nội mạc, tăng lợi khuẩn, giảm nguy cơ tiểu đường type 2."
-        },
-        {
-          "disease": "Cải thiện tiêu hóa",
-          "effect": "Cải thiện tiêu hóa, tăng lợi khuẩn đường ruột",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy ăn 30-45g óc chó/ngày giảm LDL, tăng HDL, cải thiện chức năng nội mạc, tăng lợi khuẩn, giảm nguy cơ tiểu đường type 2."
-        },
-        {
-          "disease": "Hỗ trợ kiểm soát đường huyết",
-          "effect": "Hỗ trợ kiểm soát đường huyết, ngừa tiểu đường",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy ăn 30-45g óc chó/ngày giảm LDL, tăng HDL, cải thiện chức năng nội mạc, tăng lợi khuẩn, giảm nguy cơ tiểu đường type 2."
-        },
-        {
-          "disease": "Tốt cho xương",
-          "effect": "Tốt cho xương, khớp",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy ăn 30-45g óc chó/ngày giảm LDL, tăng HDL, cải thiện chức năng nội mạc, tăng lợi khuẩn, giảm nguy cơ tiểu đường type 2."
-        },
-        {
-          "disease": "Hỗ trợ giảm cân",
-          "effect": "Hỗ trợ giảm cân, tạo no lâu",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy ăn 30-45g óc chó/ngày giảm LDL, tăng HDL, cải thiện chức năng nội mạc, tăng lợi khuẩn, giảm nguy cơ tiểu đường type 2."
-        }
+        "Làm chậm quá trình lão hóa nhận thức",
+        "Ngăn ngừa các khối u ung thư vú và tuyến tiền liệt"
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh",
@@ -2744,28 +2695,16 @@
       "category": "Hạt có dầu",
       "nutrition": "Thành phần (100g): Năng lượng 594kcal, Đạm 18.2g, Tinh bột 27.9g, Béo 49.9g, Chất xơ 13.7g. Vi chất nổi bật: Sắt 2.83mg, Magiê 240mg, Phốt pho 400mg, Đồng 0.97mg, Mangan 2mg, Vit C 0.7mg, Folate 32µg, Canxi 263mg, Kali 560mg, Kẽm 2.6mg.",
       "benefits": [
-        "Vitamin E và chất béo không bão hòa hỗ trợ chống oxy hóa và tim mạch.",
-        "Protein và chất xơ giúp tăng cảm giác no.",
-        "Magie và mangan hỗ trợ chuyển hóa năng lượng và chức năng cơ.",
-        "Canxi, phospho và protein góp phần hỗ trợ sức khỏe xương."
+        "Chứa lượng Vitamin E khổng lồ bảo vệ màng tế bào",
+        "Giảm cảm giác đói, hỗ trợ giảm cân",
+        "Nguồn magie rất cao"
       ],
       "good_combinations": [
-        {
-          "food": "Hạnh nhân và sữa chua không đường",
-          "reason": "Hạnh nhân bổ sung chất béo tốt và chất xơ; sữa chua bổ sung protein và canxi."
-        },
-        {
-          "food": "Hạnh nhân với yến mạch hoặc gạo lứt",
-          "reason": "Kết hợp hạt với ngũ cốc nguyên hạt giúp tăng chất xơ, protein và độ đa dạng dinh dưỡng."
-        }
+        "Sữa chua",
+        "Trái cây sấy",
+        "Salad"
       ],
-      "bad_combinations": [
-        {
-          "food_id": "Thực phẩm nhiều đường tinh luyện",
-          "food_name": "Thực phẩm nhiều đường tinh luyện",
-          "reason": "Kết hợp ngũ cốc với quá nhiều đường sẽ làm tăng đột biến lượng đường trong máu, giảm lợi ích ổn định đường huyết của các loại hạt."
-        }
-      ],
+      "bad_combinations": [],
       "consumption_tips": "Ưu tiên hạnh nhân nguyên chất, rang khô không muối hoặc ngâm rồi dùng; khẩu phần khoảng 20–30g mỗi ngày. Không dùng hạnh nhân đắng hoặc hạt có mùi ôi.",
       "best_time": "Có thể dùng vào bữa sáng hoặc bữa phụ. Người dị ứng hạt cây, trẻ nhỏ có nguy cơ hóc và người cần kiểm soát năng lượng nên điều chỉnh khẩu phần.",
       "sources": [
@@ -2774,11 +2713,14 @@
         "https://www.vinmec.com/vie/bai-viet/cac-loai-hat-an-vat-cho-ba-bau-vi",
         "https://medlatec.vn/tin-tuc/diem-danh-cac-loai-hat-dinh-duong-tot-cho-suc-khoe-s51-n32907"
       ],
-      "main_category": "🟡 Nhóm 3: Đậu, Hạt & Ngũ cốc nguyên hạt",
+      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
       "cures": [
-        "tieu_duong"
+        "Bệnh nhân tiểu đường loại 2",
+        "Người có Cholesterol cao"
       ],
-      "avoids": [],
+      "avoids": [
+        "Người có cơ địa dị ứng các loại hạt (Tree nut allergy)"
+      ],
       "diets": [
         "mediterranean",
         "keto",
@@ -2787,18 +2729,8 @@
         "blue_zones"
       ],
       "disease_prevention": [
-        {
-          "disease": "Thiếu vitamin C và một số vi chất",
-          "effect": "Hỗ trợ bổ sung vitamin C, đồng và chất chống oxy hóa",
-          "evidence_level": "Trung bình",
-          "explanation": "Nhãn là trái cây cung cấp vitamin C, nước và carbohydrate; có thể góp phần vào khẩu phần đa dạng, nhưng không có tác dụng chữa mất ngủ, thiếu máu hoặc bệnh mạn tính như các quảng cáo dân gian thường khẳng định."
-        },
-        {
-          "disease": "Táo bón do thiếu chất xơ",
-          "effect": "Hỗ trợ bổ sung chất xơ ở mức vừa phải",
-          "evidence_level": "Hạn chế",
-          "explanation": "Nhãn có một lượng chất xơ nhưng cũng chứa đường tự nhiên; người đái tháo đường hoặc đang kiểm soát cân nặng cần tính vào tổng lượng carbohydrate và ưu tiên ăn quả tươi thay vì nhãn sấy hoặc sản phẩm thêm đường."
-        }
+        "Bảo vệ Cholesterol LDL khỏi bị oxy hóa (nguyên nhân gây xơ vữa động mạch)",
+        "Kiểm soát lượng đường trong máu"
       ],
       "super_tags": [],
       "super_tags_order": {},
@@ -5547,27 +5479,17 @@
       "category": "Cá béo",
       "nutrition": "Thành phần (100g): Năng lượng 38kcal, Đạm 0.6g, Tinh bột 6.8g, Béo 1g, Chất xơ 6g. Vi chất nổi bật: Canxi 10mg, Sắt 1.3mg, Magiê 22mg, Mangan 0.15mg, Phốt pho 16mg, Kali 291mg, Kẽm 2.4mg, Đồng 20mg, Vit C 62mg, Folate 49µg, Beta-carotene 374µg, Lycopene 5204µg.",
       "benefits": [
-        "Omega-3 EPA và DHA hỗ trợ sức khỏe tim mạch và não bộ.",
-        "Protein chất lượng cao góp phần duy trì cơ bắp.",
-        "Vitamin D và phospho hỗ trợ sức khỏe xương.",
-        "Vitamin B12, selen và vitamin B6 hỗ trợ chuyển hóa và hệ thần kinh."
+        "Nguồn Omega-3 EPA và DHA tốt nhất",
+        "Chứa chất chống oxy hóa Astaxanthin (giúp cá có màu hồng)",
+        "Cung cấp Vitamin B phong phú"
       ],
       "good_combinations": [
-        {
-          "food": "Cá hồi áp chảo với rau xanh",
-          "reason": "Cá hồi cung cấp protein và omega-3; rau xanh bổ sung chất xơ, folate và vitamin."
-        },
-        {
-          "food": "Cá hồi và khoai lang",
-          "reason": "Khoai lang cung cấp carbohydrate và chất xơ, giúp bữa ăn cân đối hơn."
-        }
+        "Măng tây",
+        "Chanh",
+        "Rau bó xôi"
       ],
       "bad_combinations": [
-        {
-          "food_id": "CAHOI",
-          "food_name": "Cá hồi sống hoặc chưa chín kỹ",
-          "reason": "Theo khoa học hiện đại, cá sống hoặc chưa chín có thể chứa ký sinh trùng và vi sinh vật gây bệnh; đây là vấn đề an toàn thực phẩm, không phải món ăn kỵ theo dân gian."
-        }
+        "Chế biến chiên ngập dầu (làm hỏng cấu trúc Omega-3)"
       ],
       "consumption_tips": "Nấu chín hoàn toàn bằng cách hấp, áp chảo hoặc nướng; tránh chiên nhiều dầu. Có thể dùng khoảng 100–150g mỗi lần, 2 lần mỗi tuần tùy tổng khẩu phần cá.",
       "best_time": "Dùng trong bữa chính. Phụ nữ mang thai nên chọn cá hồi đã nấu chín và tránh sản phẩm sống; người dị ứng cá cần tránh sử dụng.",
@@ -5575,9 +5497,16 @@
         "https://www.aia.com.vn/vi/song-khoe/loi-khuyen/dinh-duong/ca-hoi-co-tac-dung-gi.html",
         "https://www.vinmec.com/vie/bai-viet/loai-ca-nao-de-gay-di-ung-nhat-vi"
       ],
-      "main_category": "🔵 Nhóm 7: Hải sản & Thủy sản giàu Omega-3, Khoáng chất",
-      "cures": [],
-      "avoids": [],
+      "main_category": "Nhóm 5 - Thịt, Cá, Thủy hải sản",
+      "cures": [
+        "Người bệnh viêm khớp dạng thấp",
+        "Bệnh nhân tim mạch",
+        "Người bị trầm cảm cấp độ nhẹ"
+      ],
+      "avoids": [
+        "Người dị ứng hải sản",
+        "Phụ nữ mang thai không nên ăn sống (Sashimi) do nguy cơ ký sinh trùng"
+      ],
       "diets": [
         "mediterranean",
         "keto",
@@ -5586,48 +5515,9 @@
         "intermittent_fasting"
       ],
       "disease_prevention": [
-        {
-          "disease": "Bảo vệ tim mạch",
-          "effect": "Bảo vệ tim mạch, giảm triglyceride, hạ huyết áp",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy omega-3 (EPA, DHA) trong cá hồi giảm viêm, hạ huyết áp, giảm triglyceride, cải thiện chức năng nội mạc mạch máu, giảm nguy cơ đột quỵ và nhồi máu cơ tim đến 30%."
-        },
-        {
-          "disease": "Cải thiện chức năng não",
-          "effect": "Cải thiện chức năng não, ngăn sa sút trí tuệ, Alzheimer",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy omega-3 (EPA, DHA) trong cá hồi giảm viêm, hạ huyết áp, giảm triglyceride, cải thiện chức năng nội mạc mạch máu, giảm nguy cơ đột quỵ và nhồi máu cơ tim đến 30%."
-        },
-        {
-          "disease": "Chống viêm",
-          "effect": "Chống viêm, hỗ trợ viêm khớp dạng thấp",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy omega-3 (EPA, DHA) trong cá hồi giảm viêm, hạ huyết áp, giảm triglyceride, cải thiện chức năng nội mạc mạch máu, giảm nguy cơ đột quỵ và nhồi máu cơ tim đến 30%."
-        },
-        {
-          "disease": "Tốt cho mắt",
-          "effect": "Tốt cho mắt, ngăn thoái hóa điểm vàng",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy omega-3 (EPA, DHA) trong cá hồi giảm viêm, hạ huyết áp, giảm triglyceride, cải thiện chức năng nội mạc mạch máu, giảm nguy cơ đột quỵ và nhồi máu cơ tim đến 30%."
-        },
-        {
-          "disease": "Hỗ trợ giảm cân",
-          "effect": "Hỗ trợ giảm cân, tạo cảm giác no",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy omega-3 (EPA, DHA) trong cá hồi giảm viêm, hạ huyết áp, giảm triglyceride, cải thiện chức năng nội mạc mạch máu, giảm nguy cơ đột quỵ và nhồi máu cơ tim đến 30%."
-        },
-        {
-          "disease": "Cải thiện tâm trạng",
-          "effect": "Cải thiện tâm trạng, giảm trầm cảm",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy omega-3 (EPA, DHA) trong cá hồi giảm viêm, hạ huyết áp, giảm triglyceride, cải thiện chức năng nội mạc mạch máu, giảm nguy cơ đột quỵ và nhồi máu cơ tim đến 30%."
-        },
-        {
-          "disease": "Tốt cho da",
-          "effect": "Tốt cho da, tóc, chống lão hóa",
-          "evidence_level": "Khoa học hiện đại (tổng quát)",
-          "explanation": "Nghiên cứu cho thấy omega-3 (EPA, DHA) trong cá hồi giảm viêm, hạ huyết áp, giảm triglyceride, cải thiện chức năng nội mạc mạch máu, giảm nguy cơ đột quỵ và nhồi máu cơ tim đến 30%."
-        }
+        "Giảm viêm mãn tính toàn thân",
+        "Bảo vệ sức khỏe tim mạch, chống loạn nhịp tim",
+        "Giảm nguy cơ thoái hóa điểm vàng"
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh",
@@ -11006,7 +10896,7 @@
       "id": "food_d07067ea",
       "name": "Dầu ô liu nguyên chất",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 4 - Chất béo (Dầu, Mỡ, Bơ)",
       "icon": "🫒",
       "diets": [
         "mediterranean",
@@ -11016,14 +10906,30 @@
         "flexitarian"
       ],
       "nutrition": "Thành phần (100g): Năng lượng 1510kcal, Đạm 0.37g, Tinh bột 0g, Béo 40g, Chất xơ 0g. Vi chất nổi bật: Kali 31mg, Kẽm 0.07mg, Magiê 2mg, Phốt pho 15mg, Đồng 0.019mg, Mangan 0.007mg, Vit A 8µg, Beta-carotene 30µg.",
-      "disease_prevention": [],
-      "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+      "disease_prevention": [
+        "Giảm nguy cơ đột quỵ não và nhồi máu cơ tim",
+        "Chống lại hội chứng suy giảm trí nhớ (Alzheimer)"
       ],
-      "good_combinations": [],
-      "bad_combinations": [],
-      "cures": [],
-      "avoids": [],
+      "benefits": [
+        "Chống viêm cực mạnh nhờ oleocanthal",
+        "Bảo vệ màng tế bào khỏi tổn thương",
+        "Nuôi dưỡng làn da và tóc"
+      ],
+      "good_combinations": [
+        "Cà chua",
+        "Salad rau xanh",
+        "Chanh"
+      ],
+      "bad_combinations": [
+        "Đun nóng ở nhiệt độ quá cao (gây biến chất béo)"
+      ],
+      "cures": [
+        "Người bị mỡ máu cao",
+        "Bệnh nhân tim mạch"
+      ],
+      "avoids": [
+        "Người đang cần kiêng nghiêm ngặt chất béo theo chỉ định y khoa (viêm tụy cấp)"
+      ],
       "nutrition_data": {
         "calories": 1510.0,
         "protein": 0.37,
@@ -11044,7 +10950,7 @@
       "id": "food_5a9655d0",
       "name": "Quả bơ",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 3 - Trái cây",
       "icon": "🥑",
       "diets": [
         "mediterranean",
@@ -11053,14 +10959,30 @@
         "flexitarian"
       ],
       "nutrition": "Thành phần (100g): Năng lượng 160kcal, Đạm 2g, Tinh bột 8.53g, Béo 14.7g, Chất xơ 6.7g. Vi chất nổi bật: Vit C 10mg, Vit A 7µg, Beta-carotene 62µg, Sắt 0.55mg, Magiê 29mg, Phốt pho 52mg, Đồng 0.19mg, Mangan 0.142mg, Canxi 12mg, Kali 485mg, Kẽm 0.64mg, Folate 81µg.",
-      "disease_prevention": [],
-      "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+      "disease_prevention": [
+        "Giảm mức Cholesterol và Triglyceride",
+        "Giảm thoái hóa điểm vàng ở mắt nhờ Lutein"
       ],
-      "good_combinations": [],
-      "bad_combinations": [],
-      "cures": [],
-      "avoids": [],
+      "benefits": [
+        "Cung cấp axit béo đơn không bão hòa tốt cho tim",
+        "Giàu Kali hơn cả chuối",
+        "Tăng cường khả năng hấp thụ vitamin từ rau củ khác"
+      ],
+      "good_combinations": [
+        "Trứng",
+        "Cá hồi",
+        "Cà chua"
+      ],
+      "bad_combinations": [
+        "Thịt mỡ động vật quá nhiều (gây thừa calo và khó tiêu)"
+      ],
+      "cures": [
+        "Người mắc bệnh viêm khớp",
+        "Người cần giảm cân bằng chất béo tốt"
+      ],
+      "avoids": [
+        "Người có vấn đề nghiêm trọng về gan (khó tiêu hóa chất béo)"
+      ],
       "nutrition_data": {
         "calories": 160.0,
         "protein": 2.0,
@@ -11081,7 +11003,7 @@
       "id": "food_08d0f953",
       "name": "Đậu gà",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
       "icon": "🧆",
       "diets": [
         "mediterranean",
@@ -11090,14 +11012,28 @@
         "flexitarian"
       ],
       "nutrition": "Thành phần (100g): Năng lượng 1580kcal, Đạm 20.5g, Tinh bột 63g, Béo 6.04g, Chất xơ 12.2g. Vi chất nổi bật: Beta-carotene 40µg, Vit A 3µg, Canxi 57mg, Kali 718mg, Kẽm 2.76mg, Đồng 0.656mg, Mangan 4.15mg, Sắt 4.31mg, Magiê 79mg, Phốt pho 252mg, Vit C 4mg, Folate 557µg.",
-      "disease_prevention": [],
-      "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+      "disease_prevention": [
+        "Kiểm soát đường huyết ở bệnh nhân tiểu đường Type 2",
+        "Ngăn ngừa sự phát triển của tế bào ung thư ruột kết"
       ],
-      "good_combinations": [],
+      "benefits": [
+        "Nguồn protein thực vật tuyệt vời",
+        "Cảm giác no lâu, hỗ trợ kiểm soát cân nặng",
+        "Giúp hệ tiêu hóa khỏe mạnh nhờ chất xơ hòa tan"
+      ],
+      "good_combinations": [
+        "Dầu ô liu",
+        "Chanh",
+        "Vừng (Tahini)"
+      ],
       "bad_combinations": [],
-      "cures": [],
-      "avoids": [],
+      "cures": [
+        "Bệnh nhân tiểu đường",
+        "Người ăn chay cần bổ sung đạm"
+      ],
+      "avoids": [
+        "Người mắc bệnh Gout trong đợt cấp (chứa purin vừa phải)"
+      ],
       "nutrition_data": {
         "calories": 1580.0,
         "protein": 20.5,
@@ -11124,7 +11060,7 @@
       "id": "food_c2edae3b",
       "name": "Đậu lăng",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
       "icon": "🫘",
       "diets": [
         "mediterranean",
@@ -11133,14 +11069,28 @@
         "flexitarian"
       ],
       "nutrition": "Thành phần (100g): Năng lượng 106kcal, Đạm 8.96g, Tinh bột 22.1g, Béo 0.55g, Chất xơ 0g. Vi chất nổi bật: Vit A 2µg, Canxi 25mg, Kali 322mg, Kẽm 1.51mg, Sắt 3.21mg, Magiê 37mg, Phốt pho 173mg, Đồng 0.352mg, Mangan 0.506mg, Vit C 16.5mg, Folate 100µg.",
-      "disease_prevention": [],
-      "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+      "disease_prevention": [
+        "Ngăn ngừa dị tật ống thần kinh ở thai nhi",
+        "Giảm nguy cơ bệnh tim mạch"
       ],
-      "good_combinations": [],
+      "benefits": [
+        "Chứa rất nhiều folate và sắt",
+        "Cung cấp năng lượng duy trì ổn định",
+        "Kích thích lợi khuẩn đường ruột"
+      ],
+      "good_combinations": [
+        "Gạo lứt",
+        "Cà rốt",
+        "Rau bina (bó xôi)"
+      ],
       "bad_combinations": [],
-      "cures": [],
-      "avoids": [],
+      "cures": [
+        "Người bị thiếu máu do thiếu sắt",
+        "Phụ nữ mang thai"
+      ],
+      "avoids": [
+        "Người đang bị hội chứng ruột kích thích (IBS) nặng (do chứa nhiều FODMAP)"
+      ],
       "nutrition_data": {
         "calories": 106.0,
         "protein": 8.96,
@@ -11161,7 +11111,7 @@
       "id": "food_7940c00d",
       "name": "Hạt diêm mạch (Quinoa)",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 1 - Lương thực (Gạo, Ngô, Khoai, Sắn)",
       "icon": "🍚",
       "diets": [
         "mediterranean",
@@ -11169,14 +11119,28 @@
         "flexitarian"
       ],
       "nutrition": "Thành phần (100g): Năng lượng 1540kcal, Đạm 14.1g, Tinh bột 64.2g, Béo 6.07g, Chất xơ 7g. Vi chất nổi bật: Vit A 1µg, Beta-carotene 8µg, Sắt 4.57mg, Magiê 197mg, Phốt pho 457mg, Đồng 0.59mg, Mangan 2.03mg, Folate 184µg, Canxi 47mg, Kali 563mg, Kẽm 3.1mg.",
-      "disease_prevention": [],
-      "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+      "disease_prevention": [
+        "Ngăn ngừa tiểu đường",
+        "Giảm tần suất các cơn đau nửa đầu"
       ],
-      "good_combinations": [],
+      "benefits": [
+        "Chứa đầy đủ 9 axit amin thiết yếu (Protein hoàn chỉnh)",
+        "Chỉ số đường huyết thấp (GI=53)",
+        "Chứa nhiều magie và mangan"
+      ],
+      "good_combinations": [
+        "Cá hồi",
+        "Đậu đen",
+        "Ngò rí"
+      ],
       "bad_combinations": [],
-      "cures": [],
-      "avoids": [],
+      "cures": [
+        "Bệnh nhân tiểu đường",
+        "Người mắc hội chứng không dung nạp gluten (Celiac)"
+      ],
+      "avoids": [
+        "Người dị ứng với saponin (cần rửa kỹ hạt trước khi nấu)"
+      ],
       "nutrition_data": {
         "calories": 1540.0,
         "protein": 14.1,
@@ -11197,7 +11161,7 @@
       "id": "food_4d1ea658",
       "name": "Quả việt quất",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 3 - Trái cây",
       "icon": "🫐",
       "diets": [
         "mind",
@@ -11206,14 +11170,31 @@
         "dash"
       ],
       "nutrition": "Thành phần (100g): Năng lượng 61kcal, Đạm 1.22g, Tinh bột 12.3g, Béo 0.76g, Chất xơ 2.6g. Vi chất nổi bật: Sắt 0.37mg, Magiê 7mg, Phốt pho 29mg, Đồng 0.03mg, Mangan 2mg, Vit C 18.3mg, Folate 33µg, Beta-carotene 69µg, Canxi 13mg, Kali 75mg, Kẽm 0.2mg, Vit A 6µg.",
-      "disease_prevention": [],
-      "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+      "disease_prevention": [
+        "Chống lại lão hóa não, cải thiện trí nhớ",
+        "Ngăn ngừa nhiễm trùng đường tiết niệu (UTI)",
+        "Giảm tổn thương cơ sau tập luyện"
       ],
-      "good_combinations": [],
-      "bad_combinations": [],
-      "cures": [],
-      "avoids": [],
+      "benefits": [
+        "Vua chống oxy hóa (anthocyanins)",
+        "Bảo vệ DNA khỏi tổn thương do lão hóa",
+        "Cải thiện độ nhạy insulin"
+      ],
+      "good_combinations": [
+        "Sữa chua Hy Lạp",
+        "Yến mạch",
+        "Quả óc chó"
+      ],
+      "bad_combinations": [
+        "Đường tinh luyện (làm mất tác dụng chống oxy hóa)"
+      ],
+      "cures": [
+        "Người lớn tuổi có nguy cơ suy giảm trí nhớ",
+        "Bệnh nhân cao huyết áp"
+      ],
+      "avoids": [
+        "Người đang dùng thuốc loãng máu (nên hỏi ý kiến bác sĩ vì chứa vitamin K)"
+      ],
       "nutrition_data": {
         "calories": 61.0,
         "protein": 1.22,
@@ -11234,7 +11215,7 @@
       "id": "food_3b628259",
       "name": "Dâu tây",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 3 - Trái cây",
       "icon": "🍓",
       "diets": [
         "mind",
@@ -11245,7 +11226,9 @@
       "nutrition": "Thành phần (100g): Năng lượng 136kcal, Đạm 0.67g, Tinh bột 7.68g, Béo 0.3g, Chất xơ 2g. Vi chất nổi bật: Mangan 0.386mg, Beta-carotene 7µg, Kẽm 0.14mg, Magiê 13mg, Phốt pho 24mg, Đồng 0.048mg, Vit C 58.8mg, Folate 24µg, Kali 153mg, Canxi 16mg, Sắt 0.41mg, Vit A 1µg.",
       "disease_prevention": [],
       "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+        "Nguồn vitamin C, khoáng chất",
+        "Chống lão hóa",
+        "Tăng cường miễn dịch"
       ],
       "good_combinations": [],
       "bad_combinations": [],
@@ -11271,7 +11254,7 @@
       "id": "food_b4a7e4df",
       "name": "Rau bó xôi (Spinach)",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
       "icon": "🥬",
       "diets": [
         "mediterranean",
@@ -11281,14 +11264,31 @@
         "flexitarian"
       ],
       "nutrition": "Thành phần (100g): Năng lượng 22kcal, Đạm 2.2g, Tinh bột 3.9g, Béo 0.3g, Chất xơ 2.8g. Vi chất nổi bật: Vit A 495µg, Sắt 1.5mg, Magiê 11mg, Phốt pho 28mg, Đồng 0.075mg, Mangan 0.407mg, Vit C 130mg, Folate 159µg, Canxi 210mg, Kali 449mg, Kẽm 0.17mg.",
-      "disease_prevention": [],
-      "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+      "disease_prevention": [
+        "Hạ huyết áp hiệu quả",
+        "Chống stress oxy hóa",
+        "Giảm nguy cơ ung thư tuyến tiền liệt"
       ],
-      "good_combinations": [],
-      "bad_combinations": [],
-      "cures": [],
-      "avoids": [],
+      "benefits": [
+        "Giàu sắt, canxi và magie",
+        "Chứa nhiều nitrat tự nhiên giúp mở rộng mạch máu",
+        "Bảo vệ mắt cực tốt"
+      ],
+      "good_combinations": [
+        "Trái cây giàu Vitamin C (Cam, Chanh) để hấp thụ sắt",
+        "Sữa chua"
+      ],
+      "bad_combinations": [
+        "Thực phẩm quá giàu Canxi ăn cùng lúc (oxalate cản trở hấp thu)"
+      ],
+      "cures": [
+        "Người cao huyết áp",
+        "Người thiếu máu"
+      ],
+      "avoids": [
+        "Người có tiền sử sỏi thận (sỏi canxi oxalate)",
+        "Người đang dùng thuốc chống đông máu Warfarin"
+      ],
       "nutrition_data": {
         "calories": 22.0,
         "protein": 2.2,
@@ -11313,7 +11313,7 @@
       "id": "food_38ef24c9",
       "name": "Bông cải xanh",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
       "icon": "🥦",
       "diets": [
         "mediterranean",
@@ -11323,14 +11323,31 @@
         "flexitarian"
       ],
       "nutrition": "Thành phần (100g): Năng lượng 28kcal, Đạm 2.98g, Tinh bột 5.06g, Béo 0.35g, Chất xơ 2.3g. Vi chất nổi bật: Canxi 48mg, Kali 325mg, Kẽm 0.4mg, Vit C 93.2mg, Folate 71µg, Sắt 0.88mg, Magiê 25mg, Phốt pho 66mg, Đồng 0.045mg, Mangan 0.229mg.",
-      "disease_prevention": [],
-      "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+      "disease_prevention": [
+        "Phòng chống nhiều loại ung thư (vú, tuyến tiền liệt, dạ dày)",
+        "Ngăn ngừa viêm xương khớp",
+        "Giảm tổn thương thần kinh do tiểu đường"
       ],
-      "good_combinations": [],
-      "bad_combinations": [],
-      "cures": [],
-      "avoids": [],
+      "benefits": [
+        "Chứa Sulforaphane - một hợp chất chống ung thư tiềm năng",
+        "Cung cấp lượng lớn Vitamin K và C",
+        "Hỗ trợ quá trình giải độc gan"
+      ],
+      "good_combinations": [
+        "Mù tạt (Tăng sinh khả dụng của Sulforaphane)",
+        "Dầu ô liu",
+        "Tỏi"
+      ],
+      "bad_combinations": [
+        "Luộc chín quá kỹ (tiêu diệt hoàn toàn enzym myrosinase)"
+      ],
+      "cures": [
+        "Bệnh nhân đường ruột, gan kém",
+        "Người tiểu đường"
+      ],
+      "avoids": [
+        "Người suy giáp nặng (nếu ăn sống quá nhiều)"
+      ],
       "nutrition_data": {
         "calories": 28.0,
         "protein": 2.98,
@@ -11392,7 +11409,7 @@
       "id": "food_5237cbb7",
       "name": "Sữa chua Hy Lạp",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 6 - Sữa và các chế phẩm từ sữa",
       "icon": "🥣",
       "diets": [
         "mediterranean",
@@ -11400,14 +11417,31 @@
         "dash"
       ],
       "nutrition": "Thành phần (100g): Năng lượng 406kcal, Đạm 9g, Tinh bột 3.98g, Béo 5g, Chất xơ 0g. Vi chất nổi bật: Magiê 11mg, Phốt pho 135mg, Đồng 0.017mg, Mangan 0.009mg, Vit A 2µg, Beta-carotene 7µg, Folate 5µg, Canxi 100mg, Kali 141mg, Kẽm 0.52mg.",
-      "disease_prevention": [],
-      "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+      "disease_prevention": [
+        "Tăng cường sức mạnh hệ miễn dịch",
+        "Ngăn ngừa loãng xương",
+        "Chống nhiễm nấm Candida"
       ],
-      "good_combinations": [],
-      "bad_combinations": [],
-      "cures": [],
-      "avoids": [],
+      "benefits": [
+        "Chứa gấp đôi protein so với sữa chua thường",
+        "Nguồn Probiotic (lợi khuẩn) dồi dào",
+        "Ít đường lactose hơn sữa thông thường"
+      ],
+      "good_combinations": [
+        "Việt quất",
+        "Mật ong",
+        "Hạt chia"
+      ],
+      "bad_combinations": [
+        "Chanh hoặc thực phẩm quá chua (làm hỏng cấu trúc sữa chua)"
+      ],
+      "cures": [
+        "Người đang bị rối loạn tiêu hóa",
+        "Người đang tập luyện thể thao cần phục hồi cơ bắp"
+      ],
+      "avoids": [
+        "Người không dung nạp Lactose nặng (dù sữa chua Hy Lạp ít Lactose hơn)"
+      ],
       "nutrition_data": {
         "calories": 406.0,
         "protein": 9.0,
@@ -11428,7 +11462,7 @@
       "id": "food_d71ca5d6",
       "name": "Thịt bò ăn cỏ",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 5 - Thịt, Cá, Thủy hải sản",
       "icon": "🥩",
       "diets": [
         "keto",
@@ -11436,14 +11470,33 @@
         "intermittent_fasting"
       ],
       "nutrition": "Thành phần (100g): Năng lượng 828kcal, Đạm 19.4g, Tinh bột 0g, Béo 12.7g, Chất xơ 0g. Vi chất nổi bật: Canxi 12mg, Kali 289mg, Kẽm 4.55mg, Sắt 1.99mg, Magiê 19mg, Phốt pho 175mg, Đồng 0.063mg, Mangan 0.01mg, Folate 6µg.",
-      "disease_prevention": [],
-      "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+      "disease_prevention": [
+        "Giảm nguy cơ ung thư so với thịt đỏ thông thường",
+        "Bổ máu, ngăn ngừa thiếu máu nhược sắc"
       ],
-      "good_combinations": [],
-      "bad_combinations": [],
-      "cures": [],
-      "avoids": [],
+      "benefits": [
+        "Chứa hàm lượng CLA (Axit linoleic liên hợp) cao gấp đôi bò ăn hạt",
+        "Nguồn sắt Heme dễ hấp thu",
+        "Nhiều Omega-3 hơn bò nuôi công nghiệp"
+      ],
+      "good_combinations": [
+        "Rau lá xanh đậm",
+        "Tiêu đen (giúp tiêu hóa đạm)",
+        "Tỏi"
+      ],
+      "bad_combinations": [
+        "Rượu vang đỏ quá mức",
+        "Trà đặc (Tanin cản trở hấp thu sắt)"
+      ],
+      "cures": [
+        "Người thiếu máu",
+        "Phụ nữ mang thai",
+        "Vận động viên"
+      ],
+      "avoids": [
+        "Người bệnh Gout cấp tính",
+        "Bệnh nhân suy thận nặng cần giới hạn đạm"
+      ],
       "nutrition_data": {
         "calories": 828.0,
         "protein": 19.4,
@@ -11464,7 +11517,7 @@
       "id": "food_8ddec27c",
       "name": "Trứng gà",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 5 - Thịt, Cá, Thủy hải sản",
       "icon": "🥚",
       "diets": [
         "keto",
@@ -11475,7 +11528,8 @@
       "nutrition": "Thành phần (100g): Năng lượng 599kcal, Đạm 12.6g, Tinh bột 0.72g, Béo 9.51g, Chất xơ 0g. Vi chất nổi bật: Sắt 1.75mg, Magiê 12mg, Phốt pho 198mg, Đồng 0.072mg, Mangan 0.028mg, Vit A 160µg, Canxi 56mg, Kali 138mg, Kẽm 1.29mg, Folate 47µg.",
       "disease_prevention": [],
       "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+        "Cung cấp protein hoàn chỉnh",
+        "Choline tốt cho não"
       ],
       "good_combinations": [],
       "bad_combinations": [],
@@ -11501,7 +11555,7 @@
       "id": "food_573e7c55",
       "name": "Dừa tươi",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 3 - Trái cây",
       "icon": "🥥",
       "diets": [
         "keto",
@@ -11510,7 +11564,8 @@
       "nutrition": "Thành phần (100g): Năng lượng 1480kcal, Đạm 3.33g, Tinh bột 15.2g, Béo 33.5g, Chất xơ 9g. Vi chất nổi bật: Sắt 2.43mg, Magiê 32mg, Phốt pho 113mg, Đồng 0.435mg, Mangan 1.5mg, Vit C 3.3mg, Folate 26µg, Canxi 14mg, Kali 356mg, Kẽm 1.1mg.",
       "disease_prevention": [],
       "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+        "Cung cấp điện giải",
+        "Chứa chất béo chuỗi trung bình (MCT)"
       ],
       "good_combinations": [],
       "bad_combinations": [],
@@ -11536,7 +11591,7 @@
       "id": "food_c07cb81d",
       "name": "Bơ lạt (Butter)",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 4 - Chất béo (Dầu, Mỡ, Bơ)",
       "icon": "🧈",
       "diets": [
         "keto"
@@ -11544,7 +11599,8 @@
       "nutrition": "Thành phần (100g): Năng lượng 39kcal, Đạm 1.23g, Tinh bột 10g, Béo 0.07g, Chất xơ 0g. Vi chất nổi bật: Vit A 167µg, Sắt 0.58mg, Magiê 9mg, Phốt pho 14mg, Đồng 0.036mg, Mangan 0.173mg, Vit C 3.5mg, Folate 16µg, Canxi 19mg, Kali 133mg, Kẽm 0.12mg.",
       "disease_prevention": [],
       "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+        "Cung cấp vitamin tan trong dầu",
+        "Hỗ trợ hấp thu dinh dưỡng"
       ],
       "good_combinations": [],
       "bad_combinations": [],
@@ -11570,7 +11626,7 @@
       "id": "food_848616dd",
       "name": "Thịt ba chỉ heo",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 5 - Thịt, Cá, Thủy hải sản",
       "icon": "🥓",
       "diets": [
         "keto"
@@ -11578,7 +11634,9 @@
       "nutrition": "Thành phần (100g): Năng lượng 518kcal, Đạm 9.34g, Tinh bột 0g, Béo 53g, Chất xơ 0g. Vi chất nổi bật: Vit A 3µg, Folate 1µg, Canxi 5mg, Kali 185mg, Kẽm 1.02mg, Vit C 0.3mg, Sắt 0.52mg, Magiê 4mg, Phốt pho 108mg, Đồng 0.052mg, Mangan 0.006mg.",
       "disease_prevention": [],
       "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+        "Cung cấp protein",
+        "Xây dựng cơ bắp",
+        "Cung cấp khoáng chất"
       ],
       "good_combinations": [],
       "bad_combinations": [],
@@ -11604,20 +11662,37 @@
       "id": "food_56c5160a",
       "name": "Phô mai Cheddar",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 6 - Sữa và các chế phẩm từ sữa",
       "icon": "🧀",
       "diets": [
         "keto"
       ],
       "nutrition": "Thành phần (100g): Năng lượng 463kcal, Đạm 9.85g, Tinh bột 66.5g, Béo 16.9g, Chất xơ 3.6g. Vi chất nổi bật: Vit A 56µg, Beta-carotene 18µg, Sắt 0.92mg, Canxi 197mg, Folate 8µg, Kali 130mg, Kẽm 0.73mg, Đồng 0.119mg, Mangan 0.448mg, Magiê 22mg, Phốt pho 143mg.",
-      "disease_prevention": [],
-      "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+      "disease_prevention": [
+        "Ngăn ngừa sâu răng (tăng pH trong miệng)",
+        "Giảm nguy cơ loãng xương"
       ],
-      "good_combinations": [],
-      "bad_combinations": [],
-      "cures": [],
-      "avoids": [],
+      "benefits": [
+        "Chứa nhiều Vitamin K2 giúp điều hướng canxi vào xương thay vì mạch máu",
+        "Rất giàu Canxi và Protein",
+        "Không chứa Lactose (an toàn cho người bất dung nạp)"
+      ],
+      "good_combinations": [
+        "Bông cải xanh",
+        "Thịt bò",
+        "Bánh mì nguyên cám"
+      ],
+      "bad_combinations": [
+        "Quá nhiều bơ (Gây dư thừa năng lượng)"
+      ],
+      "cures": [
+        "Trẻ em đang tuổi phát triển chiều cao",
+        "Người gầy cần tăng cân"
+      ],
+      "avoids": [
+        "Người béo phì",
+        "Bệnh nhân tim mạch cần kiêng chất béo bão hòa"
+      ],
       "nutrition_data": {
         "calories": 463.0,
         "protein": 9.85,
@@ -11638,7 +11713,7 @@
       "id": "food_84f0a24e",
       "name": "Cam",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 3 - Trái cây",
       "icon": "🍊",
       "diets": [
         "mediterranean",
@@ -11648,7 +11723,9 @@
       "nutrition": "Thành phần (100g): Năng lượng 197kcal, Đạm 0.94g, Tinh bột 11.8g, Béo 0.12g, Chất xơ 2.4g. Vi chất nổi bật: Vit A 11µg, Beta-carotene 71µg, Canxi 40mg, Kali 181mg, Kẽm 0.07mg, Vit C 53.2mg, Folate 30µg, Sắt 0.1mg, Magiê 10mg, Phốt pho 14mg, Đồng 0.045mg, Mangan 0.025mg.",
       "disease_prevention": [],
       "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+        "Nguồn vitamin C, khoáng chất",
+        "Chống lão hóa",
+        "Tăng cường miễn dịch"
       ],
       "good_combinations": [],
       "bad_combinations": [],
@@ -11674,7 +11751,7 @@
       "id": "food_daffec8b",
       "name": "Chanh",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 3 - Trái cây",
       "icon": "🍋",
       "diets": [
         "mediterranean",
@@ -11684,7 +11761,9 @@
       "nutrition": "Thành phần (100g): Năng lượng 29kcal, Đạm 1.1g, Tinh bột 9.32g, Béo 0.3g, Chất xơ 2.8g. Vi chất nổi bật: Beta-carotene 3µg, Vit A 1µg, Vit C 53mg, Folate 11µg, Sắt 0.6mg, Magiê 8mg, Phốt pho 16mg, Đồng 0.037mg, Mangan 0.03mg, Canxi 26mg, Kali 138mg, Kẽm 0.06mg.",
       "disease_prevention": [],
       "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+        "Nguồn vitamin C, khoáng chất",
+        "Chống lão hóa",
+        "Tăng cường miễn dịch"
       ],
       "good_combinations": [],
       "bad_combinations": [],
@@ -11710,7 +11789,7 @@
       "id": "food_6b9d0c17",
       "name": "Dưa hấu",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 3 - Trái cây",
       "icon": "🍉",
       "diets": [
         "dash",
@@ -11719,7 +11798,9 @@
       "nutrition": "Thành phần (100g): Năng lượng 127kcal, Đạm 0.61g, Tinh bột 7.55g, Béo 0.15g, Chất xơ 0.4g. Vi chất nổi bật: Sắt 0.24mg, Magiê 10mg, Phốt pho 11mg, Đồng 0.042mg, Mangan 0.038mg, Vit A 28µg, Beta-carotene 303µg, Lycopene 4530µg, Vit C 8.1mg, Folate 3µg, Canxi 7mg, Kẽm 0.1mg, Kali 112mg.",
       "disease_prevention": [],
       "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+        "Nguồn vitamin C, khoáng chất",
+        "Chống lão hóa",
+        "Tăng cường miễn dịch"
       ],
       "good_combinations": [],
       "bad_combinations": [],
@@ -11745,7 +11826,7 @@
       "id": "food_638705bc",
       "name": "Chuối",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 3 - Trái cây",
       "icon": "🍌",
       "diets": [
         "dash",
@@ -11755,7 +11836,9 @@
       "nutrition": "Thành phần (100g): Năng lượng 89kcal, Đạm 1.09g, Tinh bột 22.8g, Béo 0.33g, Chất xơ 2.6g. Vi chất nổi bật: Vit A 3µg, Vit C 8.7mg, Folate 20µg, Beta-carotene 26µg, Sắt 0.26mg, Magiê 27mg, Phốt pho 22mg, Đồng 0.078mg, Mangan 0.27mg, Canxi 5mg, Kali 358mg, Kẽm 0.15mg.",
       "disease_prevention": [],
       "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+        "Nguồn vitamin C, khoáng chất",
+        "Chống lão hóa",
+        "Tăng cường miễn dịch"
       ],
       "good_combinations": [],
       "bad_combinations": [],
@@ -11781,7 +11864,7 @@
       "id": "food_ed7a61d8",
       "name": "Nho",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 3 - Trái cây",
       "icon": "🍇",
       "diets": [
         "mediterranean",
@@ -11790,7 +11873,9 @@
       "nutrition": "Thành phần (100g): Năng lượng 288kcal, Đạm 0.72g, Tinh bột 18.1g, Béo 0.16g, Chất xơ 0.9g. Vi chất nổi bật: Canxi 10mg, Kali 191mg, Folate 2µg, Mangan 0.071mg, Vit A 3µg, Sắt 0.36mg, Magiê 7mg, Phốt pho 20mg, Đồng 0.127mg, Kẽm 0.07mg, Vit C 3.2mg, Beta-carotene 39µg.",
       "disease_prevention": [],
       "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+        "Nguồn vitamin C, khoáng chất",
+        "Chống lão hóa",
+        "Tăng cường miễn dịch"
       ],
       "good_combinations": [],
       "bad_combinations": [],
@@ -11816,7 +11901,7 @@
       "id": "food_3332c802",
       "name": "Dưa lưới",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 3 - Trái cây",
       "icon": "🍈",
       "diets": [
         "dash",
@@ -11825,7 +11910,9 @@
       "nutrition": "Thành phần (100g): Năng lượng 141kcal, Đạm 0.84g, Tinh bột 8.16g, Béo 0.19g, Chất xơ 0.9g. Vi chất nổi bật: Kali 267mg, Vit C 36.7mg, Folate 21µg, Sắt 0.21mg, Magiê 12mg, Phốt pho 15mg, Đồng 0.041mg, Mangan 0.041mg, Vit A 169µg, Beta-carotene 2020µg, Canxi 9mg, Kẽm 0.18mg.",
       "disease_prevention": [],
       "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+        "Nguồn vitamin C, khoáng chất",
+        "Chống lão hóa",
+        "Tăng cường miễn dịch"
       ],
       "good_combinations": [],
       "bad_combinations": [],
@@ -11851,7 +11938,7 @@
       "id": "food_e619646b",
       "name": "Nấm hương",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
       "icon": "🍄",
       "diets": [
         "mediterranean",
@@ -11862,7 +11949,8 @@
       "nutrition": "Thành phần (100g): Năng lượng 141kcal, Đạm 2.24g, Tinh bột 6.79g, Béo 0.49g, Chất xơ 2.5g. Vi chất nổi bật: Folate 13µg, Kali 304mg, Kẽm 1.03mg, Canxi 2mg, Đồng 0.142mg, Mangan 0.23mg, Sắt 0.41mg, Magiê 20mg, Phốt pho 112mg.",
       "disease_prevention": [],
       "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+        "Tăng cường miễn dịch",
+        "Phòng ngừa u bướu"
       ],
       "good_combinations": [],
       "bad_combinations": [],
@@ -11888,7 +11976,7 @@
       "id": "food_947094dc",
       "name": "Ớt chuông",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
       "icon": "🫑",
       "diets": [
         "mediterranean",
@@ -11899,7 +11987,9 @@
       "nutrition": "Thành phần (100g): Năng lượng 111kcal, Đạm 0.99g, Tinh bột 6.03g, Béo 0.3g, Chất xơ 2.1g. Vi chất nổi bật: Folate 46µg, Beta-carotene 1620µg, Vit C 128mg, Vit A 157µg, Mangan 0.112mg, Đồng 0.017mg, Sắt 0.43mg, Magiê 12mg, Phốt pho 26mg, Canxi 7mg, Kali 211mg, Kẽm 0.25mg.",
       "disease_prevention": [],
       "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+        "Cung cấp chất xơ, vitamin",
+        "Hỗ trợ tiêu hóa",
+        "Thanh lọc cơ thể"
       ],
       "good_combinations": [],
       "bad_combinations": [],
@@ -11929,7 +12019,7 @@
       "id": "food_1f715328",
       "name": "Ngô ngọt",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
       "icon": "🌽",
       "diets": [
         "blue_zones",
@@ -11938,7 +12028,9 @@
       "nutrition": "Thành phần (100g): Năng lượng 86kcal, Đạm 3.27g, Tinh bột 18.7g, Béo 1.35g, Chất xơ 2g. Vi chất nổi bật: Folate 42µg, Sắt 0.52mg, Magiê 37mg, Phốt pho 89mg, Đồng 0.054mg, Mangan 0.163mg, Canxi 2mg, Kali 270mg, Kẽm 0.46mg, Vit A 9µg, Beta-carotene 47µg, Vit C 6.8mg.",
       "disease_prevention": [],
       "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+        "Cung cấp chất xơ, vitamin",
+        "Hỗ trợ tiêu hóa",
+        "Thanh lọc cơ thể"
       ],
       "good_combinations": [],
       "bad_combinations": [],
@@ -11964,7 +12056,7 @@
       "id": "food_a4bccdc5",
       "name": "Đậu phộng (Lạc)",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Các món khác",
+      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
       "icon": "🥜",
       "diets": [
         "blue_zones",
@@ -11974,7 +12066,9 @@
       "nutrition": "Thành phần (100g): Năng lượng 567kcal, Đạm 25.8g, Tinh bột 16.1g, Béo 49.2g, Chất xơ 8.5g. Vi chất nổi bật: Đồng 1.14mg, Mangan 1.93mg, Folate 240µg, Sắt 4.58mg, Magiê 168mg, Phốt pho 376mg, Canxi 92mg, Kali 705mg, Kẽm 3.27mg.",
       "disease_prevention": [],
       "benefits": [
-        "Thực phẩm nguyên bản tốt cho sức khỏe"
+        "Cung cấp đạm thực vật",
+        "Tốt cho tim mạch",
+        "Nhiều chất xơ"
       ],
       "good_combinations": [],
       "bad_combinations": [],
