@@ -284,7 +284,7 @@
       "id": "RAUDEN",
       "name": "Rau dền",
       "category": "Rau lá xanh",
-      "nutrition": "Giàu protein thực vật, chất xơ và các khoáng chất như sắt, magie, phospho và mangan; bài Vinmec được kiểm tra không hiển thị đầy đủ định lượng trên 100g.",
+      "nutrition": "Thành phần (100g): Năng lượng 97kcal, Đạm 2.46g, Tinh bột 4.02g, Béo 0.33g, Chất xơ 0g. Vi chất nổi bật: Vit A 146µg, Canxi 215mg, Kali 611mg, Kẽm 0.9mg, Sắt 2.32mg, Magiê 55mg, Phốt pho 50mg, Đồng 0.162mg, Mangan 0.885mg, Vit C 43.3mg, Folate 85µg.",
       "benefits": [
         "Bổ sung chất xơ hỗ trợ tiêu hóa.",
         "Cung cấp sắt và các khoáng chất cần thiết cho cơ thể.",
@@ -355,24 +355,26 @@
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh",
-        "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất"
+        "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất",
+        "🍌 Đỉnh cao Kali"
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
-        "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất": 1
+        "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất": 1,
+        "🍌 Đỉnh cao Kali": 5
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
+        "calories": 97.0,
+        "protein": 2.46,
+        "carbs": 4.02,
+        "fat": 0.33,
         "fiber": 0.0,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 43.3,
+        "calcium": 215.0,
+        "potassium": 611.0,
+        "iron": 2.32,
+        "zinc": 0.9
       }
     },
     {
@@ -535,12 +537,8 @@
           "explanation": "Rau muống chứa vitamin A, B, C, canxi, phospho và sắt; các vi chất này hỗ trợ thị lực, miễn dịch, tạo máu và chức năng cơ. Sắt từ rau không thay thế sắt thuốc khi thiếu máu đã được chẩn đoán. [123][125]"
         }
       ],
-      "super_tags": [
-        "🍌 Đỉnh cao Kali"
-      ],
-      "super_tags_order": {
-        "🍌 Đỉnh cao Kali": 8
-      },
+      "super_tags": [],
+      "super_tags_order": {},
       "nutrition_data": {
         "calories": 25.0,
         "protein": 3.2,
@@ -630,13 +628,11 @@
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh",
-        "👑 Vua Vitamin C",
-        "🛡️ Nguồn Kẽm dồi dào"
+        "👑 Vua Vitamin C"
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
-        "👑 Vua Vitamin C": 6,
-        "🛡️ Nguồn Kẽm dồi dào": 9
+        "👑 Vua Vitamin C": 7
       },
       "nutrition_data": {
         "calories": 38.0,
@@ -656,7 +652,7 @@
       "id": "CAIBEXANH",
       "name": "Cải bẹ xanh",
       "category": "Rau họ cải",
-      "nutrition": "Giàu vitamin C và vitamin K; HelloBacsi nêu một chén cải xanh khoảng 56g có thể cung cấp khoảng 120% nhu cầu vitamin K hằng ngày.",
+      "nutrition": "Thành phần (100g): Năng lượng 27kcal, Đạm 2.86g, Tinh bột 4.67g, Béo 0.42g, Chất xơ 3.2g. Vi chất nổi bật: Vit C 70mg, Folate 12µg, Vit A 151µg, Beta-carotene 1790µg, Sắt 1.64mg, Magiê 32mg, Phốt pho 58mg, Đồng 0.165mg, Canxi 115mg, Kali 384mg, Kẽm 0.25mg.",
       "benefits": [
         "Vitamin C hỗ trợ chức năng miễn dịch và chống oxy hóa.",
         "Vitamin K góp phần vào quá trình đông máu và duy trì xương.",
@@ -714,20 +710,24 @@
           "explanation": "Ăn nhiều rau lá xanh nói chung liên quan với giảm nguy cơ bệnh mạn, một phần nhờ phytochemical chống oxy hóa và tác dụng hiệp đồng của toàn thực phẩm thay vì một hoạt chất đơn lẻ ."
         }
       ],
-      "super_tags": [],
-      "super_tags_order": {},
+      "super_tags": [
+        "👑 Vua Vitamin C"
+      ],
+      "super_tags_order": {
+        "👑 Vua Vitamin C": 6
+      },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 27.0,
+        "protein": 2.86,
+        "carbs": 4.67,
+        "fat": 0.42,
+        "fiber": 3.2,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 70.0,
+        "calcium": 115.0,
+        "potassium": 384.0,
+        "iron": 1.64,
+        "zinc": 0.25
       }
     },
     {
@@ -904,14 +904,10 @@
         }
       ],
       "super_tags": [
-        "🛡️ Đa dụng Phòng bệnh",
-        "💪 Cao thủ Canxi",
-        "🩸 Quán quân Sắt"
+        "🛡️ Đa dụng Phòng bệnh"
       ],
       "super_tags_order": {
-        "🛡️ Đa dụng Phòng bệnh": 0,
-        "💪 Cao thủ Canxi": 8,
-        "🩸 Quán quân Sắt": 5
+        "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
         "calories": 10.0,
@@ -1104,7 +1100,7 @@
       "id": "BIO",
       "name": "Bí đỏ",
       "category": "Quả giàu beta-carotene",
-      "nutrition": "Trong 100g bí đỏ nấu chín quy đổi từ số liệu Vinmec: khoảng 20 kcal, 4,9g carbohydrate, 1,2g chất xơ và 0,8g protein; giàu vitamin A, vitamin C, vitamin E, kali, mangan và folate.",
+      "nutrition": "Thành phần (100g): Năng lượng 26kcal, Đạm 1g, Tinh bột 6.5g, Béo 0.1g, Chất xơ 0.5g. Vi chất nổi bật: Beta-carotene 3100µg, Vit A 426µg, Canxi 21mg, Kali 340mg, Kẽm 0.32mg, Sắt 0.8mg, Magiê 12mg, Phốt pho 44mg, Đồng 0.127mg, Mangan 0.125mg, Vit C 9mg, Folate 16µg.",
       "benefits": [
         "Beta-carotene và vitamin A hỗ trợ thị lực.",
         "Chất xơ hỗ trợ tiêu hóa và cảm giác no.",
@@ -1160,25 +1156,23 @@
         }
       ],
       "super_tags": [
-        "🛡️ Đa dụng Phòng bệnh",
-        "🥩 Siêu Nguồn Đạm"
+        "🛡️ Đa dụng Phòng bệnh"
       ],
       "super_tags_order": {
-        "🛡️ Đa dụng Phòng bệnh": 0,
-        "🥩 Siêu Nguồn Đạm": 0
+        "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 35.099998474121094,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 26.0,
+        "protein": 1.0,
+        "carbs": 6.5,
+        "fat": 0.1,
+        "fiber": 0.5,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 9.0,
+        "calcium": 21.0,
+        "potassium": 340.0,
+        "iron": 0.8,
+        "zinc": 0.32
       }
     },
     {
@@ -1435,7 +1429,7 @@
       "id": "CUDEN",
       "name": "Củ dền",
       "category": "Củ màu đỏ",
-      "nutrition": "Trong 100g theo bảng Medlatec: khoảng 43 kcal, 10g carbohydrate, 3g chất xơ, 2g protein và không đáng kể chất béo; chứa folate, kali, sắt, vitamin C, betalain, nitrat và oxalate.",
+      "nutrition": "Thành phần (100g): Năng lượng 43kcal, Đạm 1.61g, Tinh bột 9.56g, Béo 0.17g, Chất xơ 2.8g. Vi chất nổi bật: Vit A 2µg, Canxi 16mg, Kali 325mg, Kẽm 0.35mg, Vit C 4.9mg, Folate 109µg, Sắt 0.8mg, Magiê 23mg, Phốt pho 40mg, Đồng 0.075mg, Mangan 0.329mg, Beta-carotene 20µg.",
       "benefits": [
         "Folate góp phần hỗ trợ quá trình tạo máu và phân chia tế bào.",
         "Nitrat tự nhiên có thể hỗ trợ hiệu quả sử dụng oxy khi vận động.",
@@ -1488,23 +1482,23 @@
       "super_tags_order": {},
       "nutrition_data": {
         "calories": 43.0,
-        "protein": 2.0,
-        "carbs": 10.0,
-        "fat": 0.0,
-        "fiber": 3.0,
+        "protein": 1.61,
+        "carbs": 9.56,
+        "fat": 0.17,
+        "fiber": 2.8,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 4.9,
+        "calcium": 16.0,
+        "potassium": 325.0,
+        "iron": 0.8,
+        "zinc": 0.35
       }
     },
     {
       "id": "CUSEN",
       "name": "Củ sen",
       "category": "Củ và thân rễ thủy sinh",
-      "nutrition": "Cung cấp carbohydrate, chất xơ, vitamin C, kali và các hợp chất thực vật; các nguồn được phép kiểm tra không cung cấp đầy đủ bảng định lượng trên 100g.",
+      "nutrition": "Thành phần (100g): Năng lượng 311kcal, Đạm 2.6g, Tinh bột 17.2g, Béo 0.1g, Chất xơ 4.9g. Vi chất nổi bật: Canxi 45mg, Kali 556mg, Kẽm 0.39mg, Sắt 1.16mg, Magiê 23mg, Phốt pho 100mg, Đồng 0.257mg, Mangan 0.261mg, Vit C 44mg, Folate 13µg.",
       "benefits": [
         "Chất xơ hỗ trợ tiêu hóa.",
         "Vitamin C góp phần hỗ trợ miễn dịch và chống oxy hóa.",
@@ -1555,17 +1549,17 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 311.0,
+        "protein": 2.6,
+        "carbs": 17.2,
+        "fat": 0.1,
+        "fiber": 4.9,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 44.0,
+        "calcium": 45.0,
+        "potassium": 556.0,
+        "iron": 1.16,
+        "zinc": 0.39
       }
     },
     {
@@ -1629,16 +1623,12 @@
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh",
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)",
-        "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu",
-        "🍌 Đỉnh cao Kali",
-        "🛡️ Nguồn Kẽm dồi dào"
+        "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)": 3,
-        "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 4,
-        "🍌 Đỉnh cao Kali": 9,
-        "🛡️ Nguồn Kẽm dồi dào": 7
+        "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 4
       },
       "nutrition_data": {
         "calories": 54.0,
@@ -1658,7 +1648,7 @@
       "id": "BAPNGO",
       "name": "Bắp ngô",
       "category": "Ngũ cốc nguyên hạt và thực phẩm giàu tinh bột",
-      "nutrition": "Trong 100g bắp ngô ngọt theo bảng Medlatec: khoảng 86 kcal, 19g glucid, 3g chất xơ, 1g lipid và 3g protein.",
+      "nutrition": "Thành phần (100g): Năng lượng 86kcal, Đạm 3.22g, Tinh bột 19g, Béo 1.18g, Chất xơ 2.7g. Vi chất nổi bật: Beta-carotene 1µg, Sắt 0.52mg, Magiê 37mg, Phốt pho 89mg, Đồng 0.054mg, Mangan 0.161mg, Vit C 6.8mg, Folate 46µg, Canxi 2mg, Kali 270mg, Kẽm 0.45mg.",
       "benefits": [
         "Cung cấp carbohydrate làm nguồn năng lượng.",
         "Chất xơ hỗ trợ tiêu hóa và cảm giác no.",
@@ -1711,16 +1701,16 @@
       "super_tags_order": {},
       "nutrition_data": {
         "calories": 86.0,
-        "protein": 3.0,
+        "protein": 3.22,
         "carbs": 19.0,
-        "fat": 1.0,
-        "fiber": 3.0,
+        "fat": 1.18,
+        "fiber": 2.7,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 6.8,
+        "calcium": 2.0,
+        "potassium": 270.0,
+        "iron": 0.52,
+        "zinc": 0.45
       }
     },
     {
@@ -1920,12 +1910,10 @@
         }
       ],
       "super_tags": [
-        "🛡️ Đa dụng Phòng bệnh",
-        "🩸 Quán quân Sắt"
+        "🛡️ Đa dụng Phòng bệnh"
       ],
       "super_tags_order": {
-        "🛡️ Đa dụng Phòng bệnh": 0,
-        "🩸 Quán quân Sắt": 9
+        "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
         "calories": 45.0,
@@ -2042,7 +2030,7 @@
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🍌 Đỉnh cao Kali": 1,
-        "🩸 Quán quân Sắt": 3,
+        "🩸 Quán quân Sắt": 7,
         "🥩 Siêu Nguồn Đạm": 3
       },
       "nutrition_data": {
@@ -2334,13 +2322,11 @@
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh",
-        "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh",
-        "🩸 Quán quân Sắt"
+        "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh"
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
-        "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh": 1,
-        "🩸 Quán quân Sắt": 7
+        "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh": 1
       },
       "nutrition_data": {
         "calories": 345.0,
@@ -2446,12 +2432,10 @@
         }
       ],
       "super_tags": [
-        "🛡️ Đa dụng Phòng bệnh",
-        "🍌 Đỉnh cao Kali"
+        "🛡️ Đa dụng Phòng bệnh"
       ],
       "super_tags_order": {
-        "🛡️ Đa dụng Phòng bệnh": 0,
-        "🍌 Đỉnh cao Kali": 6
+        "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
         "calories": 161.0,
@@ -2471,7 +2455,7 @@
       "id": "HATMEVUNGEN",
       "name": "Hạt mè (vừng) đen",
       "category": "Hạt có dầu",
-      "nutrition": "Giàu chất béo không bão hòa, protein thực vật, chất xơ, canxi, magie, sắt, đồng, vitamin B1, B2, folate và các hợp chất lignan; hàm lượng thay đổi theo hạt sống hoặc rang.",
+      "nutrition": "Thành phần (100g): Năng lượng 573kcal, Đạm 17.7g, Tinh bột 23.4g, Béo 49.7g, Chất xơ 11.8g. Vi chất nổi bật: Beta-carotene 5µg, Sắt 14.6mg, Magiê 351mg, Phốt pho 629mg, Đồng 4.08mg, Mangan 2.46mg, Folate 97µg, Canxi 975mg, Kali 468mg, Kẽm 7.75mg.",
       "benefits": [
         "Chất béo không bão hòa góp phần hỗ trợ sức khỏe tim mạch.",
         "Canxi, magie và phospho hỗ trợ xương.",
@@ -2559,32 +2543,38 @@
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh",
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất",
-        "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh"
+        "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh",
+        "💪 Cao thủ Canxi",
+        "🩸 Quán quân Sắt",
+        "🛡️ Nguồn Kẽm dồi dào"
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất": 4,
-        "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh": 1
+        "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh": 1,
+        "💪 Cao thủ Canxi": 1,
+        "🩸 Quán quân Sắt": 1,
+        "🛡️ Nguồn Kẽm dồi dào": 6
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 573.0,
+        "protein": 17.7,
+        "carbs": 23.4,
+        "fat": 49.7,
+        "fiber": 11.8,
         "unit": "100g",
         "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "calcium": 975.0,
+        "potassium": 468.0,
+        "iron": 14.6,
+        "zinc": 7.75
       }
     },
     {
       "id": "HATOCCHO",
       "name": "Hạt óc chó",
       "category": "Hạt có dầu",
-      "nutrition": "Trong 28g hạt óc chó: khoảng 185–187 kcal, giàu chất béo không bão hòa đa, omega-3 thực vật, protein, chất xơ, vitamin E, magie, đồng và mangan; quy đổi 100g tương đương khoảng 660–670 kcal.",
+      "nutrition": "Thành phần (100g): Năng lượng 619kcal, Đạm 24.1g, Tinh bột 9.58g, Béo 59.3g, Chất xơ 6.8g. Vi chất nổi bật: Sắt 3.12mg, Magiê 201mg, Phốt pho 513mg, Đồng 1.36mg, Mangan 3.9mg, Vit A 2µg, Beta-carotene 24µg, Vit C 1.7mg, Folate 31µg, Canxi 61mg, Kali 523mg, Kẽm 3.37mg.",
       "benefits": [
         "Omega-3 thực vật và chất béo không bão hòa hỗ trợ sức khỏe tim mạch.",
         "Protein và chất xơ giúp tăng cảm giác no.",
@@ -2672,31 +2662,33 @@
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh",
-        "🐟 Giàu Omega-3 & Chất béo tốt nhất"
+        "🐟 Giàu Omega-3 & Chất béo tốt nhất",
+        "🥩 Siêu Nguồn Đạm"
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
-        "🐟 Giàu Omega-3 & Chất béo tốt nhất": 3
+        "🐟 Giàu Omega-3 & Chất béo tốt nhất": 3,
+        "🥩 Siêu Nguồn Đạm": 2
       },
       "nutrition_data": {
-        "calories": 187.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 619.0,
+        "protein": 24.1,
+        "carbs": 9.58,
+        "fat": 59.3,
+        "fiber": 6.8,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 1.7,
+        "calcium": 61.0,
+        "potassium": 523.0,
+        "iron": 3.12,
+        "zinc": 3.37
       }
     },
     {
       "id": "HATHANHNHAN",
       "name": "Hạt hạnh nhân",
       "category": "Hạt có dầu",
-      "nutrition": "Trong 28g hạnh nhân: khoảng 161 kcal, 14g chất béo, 6g protein, 6g carbohydrate và 3,5g chất xơ; quy đổi 100g tương đương khoảng 575 kcal, giàu vitamin E, magie, mangan, đồng, phospho và canxi.",
+      "nutrition": "Thành phần (100g): Năng lượng 594kcal, Đạm 18.2g, Tinh bột 27.9g, Béo 49.9g, Chất xơ 13.7g. Vi chất nổi bật: Sắt 2.83mg, Magiê 240mg, Phốt pho 400mg, Đồng 0.97mg, Mangan 2mg, Vit C 0.7mg, Folate 32µg, Canxi 263mg, Kali 560mg, Kẽm 2.6mg.",
       "benefits": [
         "Vitamin E và chất béo không bão hòa hỗ trợ chống oxy hóa và tim mạch.",
         "Protein và chất xơ giúp tăng cảm giác no.",
@@ -2752,20 +2744,24 @@
           "explanation": "Nhãn có một lượng chất xơ nhưng cũng chứa đường tự nhiên; người đái tháo đường hoặc đang kiểm soát cân nặng cần tính vào tổng lượng carbohydrate và ưu tiên ăn quả tươi thay vì nhãn sấy hoặc sản phẩm thêm đường."
         }
       ],
-      "super_tags": [],
-      "super_tags_order": {},
+      "super_tags": [
+        "🍌 Đỉnh cao Kali"
+      ],
+      "super_tags_order": {
+        "🍌 Đỉnh cao Kali": 9
+      },
       "nutrition_data": {
-        "calories": 161.0,
-        "protein": 6.0,
-        "carbs": 6.0,
-        "fat": 14.0,
-        "fiber": 3.5,
+        "calories": 594.0,
+        "protein": 18.2,
+        "carbs": 27.9,
+        "fat": 49.9,
+        "fiber": 13.7,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 0.7,
+        "calcium": 263.0,
+        "potassium": 560.0,
+        "iron": 2.83,
+        "zinc": 2.6
       }
     },
     {
@@ -2858,7 +2854,7 @@
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
-        "👑 Vua Vitamin C": 7
+        "👑 Vua Vitamin C": 8
       },
       "nutrition_data": {
         "calories": 38.0,
@@ -2985,7 +2981,7 @@
       "id": "UUCHIN",
       "name": "Đu đủ chín",
       "category": "Trái cây giàu carotenoid",
-      "nutrition": "Trong 100g: khoảng 68 kcal, 90g nước, 10,82g carbohydrate, 1,7g chất xơ, 0,47g protein và 0,26g chất béo; giàu carotenoid, vitamin A, vitamin C, folate, kali và magie.",
+      "nutrition": "Thành phần (100g): Năng lượng 43kcal, Đạm 0.47g, Tinh bột 10.8g, Béo 0.26g, Chất xơ 1.7g. Vi chất nổi bật: Sắt 0.25mg, Magiê 21mg, Phốt pho 10mg, Đồng 0.045mg, Mangan 0.04mg, Lycopene 1830µg, Vit C 60.9mg, Folate 37µg, Vit A 47µg, Beta-carotene 274µg, Canxi 20mg, Kali 182mg, Kẽm 0.08mg.",
       "benefits": [
         "Carotenoid và vitamin A hỗ trợ thị lực.",
         "Vitamin C góp phần hỗ trợ miễn dịch và chống oxy hóa.",
@@ -3073,17 +3069,17 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 68.0,
+        "calories": 43.0,
         "protein": 0.47,
-        "carbs": 10.82,
+        "carbs": 10.8,
         "fat": 0.26,
         "fiber": 1.7,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 60.9,
+        "calcium": 20.0,
+        "potassium": 182.0,
+        "iron": 0.25,
+        "zinc": 0.08
       }
     },
     {
@@ -3618,7 +3614,7 @@
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🍊 Vua Vitamin C & Tăng cường miễn dịch": 0,
-        "👑 Vua Vitamin C": 8
+        "👑 Vua Vitamin C": 9
       },
       "nutrition_data": {
         "calories": 38.0,
@@ -3785,7 +3781,7 @@
       ],
       "super_tags_order": {
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)": 4,
-        "💪 Cao thủ Canxi": 1
+        "💪 Cao thủ Canxi": 2
       },
       "nutrition_data": {
         "calories": 38.0,
@@ -3861,13 +3857,11 @@
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh",
-        "👑 Vua Vitamin C",
-        "🍌 Đỉnh cao Kali"
+        "👑 Vua Vitamin C"
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
-        "👑 Vua Vitamin C": 5,
-        "🍌 Đỉnh cao Kali": 5
+        "👑 Vua Vitamin C": 5
       },
       "nutrition_data": {
         "calories": 14.0,
@@ -3962,17 +3956,13 @@
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh",
-        "💪 Cao thủ Canxi",
         "🍌 Đỉnh cao Kali",
-        "🩸 Quán quân Sắt",
-        "🛡️ Nguồn Kẽm dồi dào"
+        "🩸 Quán quân Sắt"
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
-        "💪 Cao thủ Canxi": 9,
         "🍌 Đỉnh cao Kali": 0,
-        "🩸 Quán quân Sắt": 1,
-        "🛡️ Nguồn Kẽm dồi dào": 6
+        "🩸 Quán quân Sắt": 2
       },
       "nutrition_data": {
         "calories": 323.0,
@@ -3992,7 +3982,7 @@
       "id": "HANHTAY",
       "name": "Hành tây",
       "category": "Củ và gia vị họ hành",
-      "nutrition": "Trong 100g hành tây sống: khoảng 40 kcal, 9,3g carbohydrate, 1,7g chất xơ, 1,1g protein và 0,1g chất béo; cung cấp vitamin C, folate, vitamin B6, kali, quercetin và các hợp chất lưu huỳnh.",
+      "nutrition": "Thành phần (100g): Năng lượng 166kcal, Đạm 1.1g, Tinh bột 9.34g, Béo 0.1g, Chất xơ 1.7g. Vi chất nổi bật: Canxi 23mg, Kali 146mg, Kẽm 0.17mg, Vit C 7.4mg, Folate 19µg, Sắt 0.21mg, Magiê 10mg, Phốt pho 29mg, Đồng 0.039mg, Mangan 0.129mg, Beta-carotene 1µg.",
       "benefits": [
         "Quercetin và các hợp chất lưu huỳnh có hoạt tính chống oxy hóa.",
         "Chất xơ hỗ trợ tiêu hóa.",
@@ -4071,17 +4061,17 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 40.0,
+        "calories": 166.0,
         "protein": 1.1,
-        "carbs": 9.3,
+        "carbs": 9.34,
         "fat": 0.1,
         "fiber": 1.7,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 7.4,
+        "calcium": 23.0,
+        "potassium": 146.0,
+        "iron": 0.21,
+        "zinc": 0.17
       }
     },
     {
@@ -4130,12 +4120,10 @@
         }
       ],
       "super_tags": [
-        "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu",
-        "🍌 Đỉnh cao Kali"
+        "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
       ],
       "super_tags_order": {
-        "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 2,
-        "🍌 Đỉnh cao Kali": 4
+        "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 2
       },
       "nutrition_data": {
         "calories": 152.0,
@@ -4339,13 +4327,11 @@
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh",
-        "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)",
-        "👑 Vua Vitamin C"
+        "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)"
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
-        "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)": 0,
-        "👑 Vua Vitamin C": 9
+        "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)": 0
       },
       "nutrition_data": {
         "calories": 38.0,
@@ -4581,7 +4567,7 @@
       "id": "KYTU",
       "name": "Kỷ tử",
       "category": "Dược liệu và quả mọng khô",
-      "nutrition": "Kỷ tử thường được dùng ở dạng khô nên giá trị dinh dưỡng phụ thuộc sản phẩm; cung cấp carbohydrate tự nhiên, chất xơ, protein, carotenoid, vitamin, khoáng chất và các polyphenol.",
+      "nutrition": "Thành phần (100g): Năng lượng 349kcal, Đạm 14.3g, Tinh bột 77.1g, Béo 0.39g, Chất xơ 13g. Vi chất nổi bật: Sắt 6.8mg, Vit C 48.4mg, Canxi 190mg.",
       "benefits": [
         "Carotenoid và polyphenol có hoạt tính chống oxy hóa.",
         "Chất xơ hỗ trợ tiêu hóa.",
@@ -4663,24 +4649,26 @@
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh",
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)",
-        "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu"
+        "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu",
+        "🩸 Quán quân Sắt"
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)": 2,
-        "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 3
+        "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 3,
+        "🩸 Quán quân Sắt": 6
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 349.0,
+        "protein": 14.3,
+        "carbs": 77.1,
+        "fat": 0.39,
+        "fiber": 13.0,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
+        "vit_c": 48.4,
+        "calcium": 190.0,
         "potassium": 0.0,
-        "iron": 0.0,
+        "iron": 6.8,
         "zinc": 0.0
       }
     },
@@ -5234,10 +5222,10 @@
         "🛡️ Nguồn Kẽm dồi dào"
       ],
       "super_tags_order": {
-        "💪 Cao thủ Canxi": 7,
-        "🍌 Đỉnh cao Kali": 2,
+        "💪 Cao thủ Canxi": 9,
+        "🍌 Đỉnh cao Kali": 3,
         "🩸 Quán quân Sắt": 0,
-        "🛡️ Nguồn Kẽm dồi dào": 4
+        "🛡️ Nguồn Kẽm dồi dào": 7
       },
       "nutrition_data": {
         "calories": 304.0,
@@ -5577,7 +5565,7 @@
       "id": "CATHU",
       "name": "Cá thu",
       "category": "Cá béo",
-      "nutrition": "Trong 100g cá thu: khoảng 189 kcal, 19g protein, 11,9g chất béo, 89mg natri và không đáng kể carbohydrate, chất xơ hoặc đường; giàu omega-3, vitamin B12, niacin, vitamin B6, selen, magie và phospho.",
+      "nutrition": "Thành phần (100g): Năng lượng 158kcal, Đạm 20.1g, Tinh bột 0g, Béo 7.89g, Chất xơ 0g. Vi chất nổi bật: Vit A 19µg, Canxi 23mg, Kali 406mg, Kẽm 0.67mg, Đồng 0.093mg, Mangan 0.015mg, Vit C 2mg, Sắt 1.16mg, Magiê 28mg, Phốt pho 125mg, Folate 2µg.",
       "benefits": [
         "Omega-3 hỗ trợ sức khỏe tim mạch và não bộ.",
         "Protein chất lượng cao hỗ trợ duy trì cơ bắp.",
@@ -5666,20 +5654,20 @@
         "🛡️ Đa dụng Phòng bệnh": 0,
         "💪 Nguồn Protein chất lượng cao nhất": 1,
         "🐟 Giàu Omega-3 & Chất béo tốt nhất": 1,
-        "🥩 Siêu Nguồn Đạm": 9
+        "🥩 Siêu Nguồn Đạm": 7
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 18.200000762939453,
+        "calories": 158.0,
+        "protein": 20.1,
         "carbs": 0.0,
-        "fat": 0.0,
+        "fat": 7.89,
         "fiber": 0.0,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 2.0,
+        "calcium": 23.0,
+        "potassium": 406.0,
+        "iron": 1.16,
+        "zinc": 0.67
       }
     },
     {
@@ -5889,7 +5877,7 @@
       "id": "CACHEP",
       "name": "Cá chép",
       "category": "Cá nước ngọt",
-      "nutrition": "Trong 100g: khoảng 127 kcal, 18g protein, 5,5g chất béo và không đáng kể carbohydrate; cung cấp phospho, kali, vitamin B12, niacin và một lượng omega-3.",
+      "nutrition": "Thành phần (100g): Năng lượng 127kcal, Đạm 17.8g, Tinh bột 0g, Béo 5.6g, Chất xơ 0g. Vi chất nổi bật: Vit A 9µg, Canxi 41mg, Kali 333mg, Kẽm 1.48mg, Sắt 1.24mg, Magiê 29mg, Phốt pho 415mg, Đồng 0.057mg, Mangan 0.042mg, Vit C 1.6mg, Folate 15µg.",
       "benefits": [
         "Protein hỗ trợ duy trì cơ bắp và phục hồi mô.",
         "Vitamin B12 và niacin hỗ trợ chuyển hóa năng lượng.",
@@ -5974,17 +5962,17 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 16.0,
+        "calories": 127.0,
+        "protein": 17.8,
         "carbs": 0.0,
-        "fat": 0.0,
+        "fat": 5.6,
         "fiber": 0.0,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 1.6,
+        "calcium": 41.0,
+        "potassium": 333.0,
+        "iron": 1.24,
+        "zinc": 1.48
       }
     },
     {
@@ -6102,7 +6090,7 @@
       "id": "HAUBIEN",
       "name": "Hàu biển",
       "category": "Hải sản có vỏ",
-      "nutrition": "Trong 100g hàu tươi: khoảng 68–80 kcal, 7–9g protein, 2–3g chất béo và rất ít carbohydrate; giàu kẽm, vitamin B12, sắt, đồng, selen, iốt và omega-3.",
+      "nutrition": "Thành phần (100g): Năng lượng 51kcal, Đạm 5.71g, Tinh bột 2.72g, Béo 1.71g, Chất xơ 0g. Vi chất nổi bật: Sắt 4.61mg, Magiê 18mg, Phốt pho 97mg, Đồng 2.86mg, Mangan 0.296mg, Vit A 13µg, Folate 7µg, Canxi 59mg, Kẽm 39.3mg, Kali 156mg.",
       "benefits": [
         "Kẽm hỗ trợ miễn dịch, lành vết thương và chuyển hóa.",
         "Vitamin B12 hỗ trợ hệ thần kinh và quá trình tạo máu.",
@@ -6190,24 +6178,28 @@
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh",
-        "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất"
+        "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất",
+        "🩸 Quán quân Sắt",
+        "🛡️ Nguồn Kẽm dồi dào"
       ],
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
-        "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất": 2
+        "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất": 2,
+        "🩸 Quán quân Sắt": 8,
+        "🛡️ Nguồn Kẽm dồi dào": 0
       },
       "nutrition_data": {
-        "calories": 80.0,
-        "protein": 9.0,
-        "carbs": 0.0,
-        "fat": 3.0,
+        "calories": 51.0,
+        "protein": 5.71,
+        "carbs": 2.72,
+        "fat": 1.71,
         "fiber": 0.0,
         "unit": "100g",
         "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "calcium": 59.0,
+        "potassium": 156.0,
+        "iron": 4.61,
+        "zinc": 39.3
       }
     },
     {
@@ -6298,12 +6290,10 @@
         }
       ],
       "super_tags": [
-        "🛡️ Đa dụng Phòng bệnh",
-        "🥩 Siêu Nguồn Đạm"
+        "🛡️ Đa dụng Phòng bệnh"
       ],
       "super_tags_order": {
-        "🛡️ Đa dụng Phòng bệnh": 0,
-        "🥩 Siêu Nguồn Đạm": 7
+        "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
         "calories": 180.0,
@@ -6558,12 +6548,10 @@
         }
       ],
       "super_tags": [
-        "💪 Nguồn Protein chất lượng cao nhất",
-        "🩸 Quán quân Sắt"
+        "💪 Nguồn Protein chất lượng cao nhất"
       ],
       "super_tags_order": {
-        "💪 Nguồn Protein chất lượng cao nhất": 3,
-        "🩸 Quán quân Sắt": 8
+        "💪 Nguồn Protein chất lượng cao nhất": 3
       },
       "nutrition_data": {
         "calories": 166.0,
@@ -6583,7 +6571,7 @@
       "id": "UCGA",
       "name": "Ức gà",
       "category": "Thịt gia cầm nạc",
-      "nutrition": "Trong 100g ức gà không da, đã nấu chín: khoảng 165 kcal, 31g protein, 3,6g chất béo, 15mg canxi, 1,04mg sắt, 29mg magie, 228mg phospho, 256mg kali và khoảng 27,6mcg selen.",
+      "nutrition": "Thành phần (100g): Năng lượng 501kcal, Đạm 22.5g, Tinh bột 0g, Béo 2.62g, Chất xơ 0g. Vi chất nổi bật: Canxi 5mg, Sắt 0.37mg, Kali 334mg, Kẽm 0.68mg, Magiê 28mg, Phốt pho 213mg, Đồng 0.037mg, Mangan 0.011mg, Folate 9µg, Vit A 9µg.",
       "benefits": [
         "Protein cao hỗ trợ duy trì và phát triển cơ bắp.",
         "Ít carbohydrate và tương đối ít chất béo, phù hợp với chế độ kiểm soát năng lượng.",
@@ -6637,20 +6625,20 @@
       ],
       "super_tags_order": {
         "💪 Nguồn Protein chất lượng cao nhất": 0,
-        "🥩 Siêu Nguồn Đạm": 1
+        "🥩 Siêu Nguồn Đạm": 4
       },
       "nutrition_data": {
-        "calories": 165.0,
-        "protein": 31.0,
+        "calories": 501.0,
+        "protein": 22.5,
         "carbs": 0.0,
-        "fat": 3.6,
+        "fat": 2.62,
         "fiber": 0.0,
         "unit": "100g",
         "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "calcium": 5.0,
+        "potassium": 334.0,
+        "iron": 0.37,
+        "zinc": 0.68
       }
     },
     {
@@ -7000,7 +6988,7 @@
       "super_tags_order": {
         "🛡️ Đa dụng Phòng bệnh": 0,
         "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột": 0,
-        "🛡️ Nguồn Kẽm dồi dào": 0
+        "🛡️ Nguồn Kẽm dồi dào": 1
       },
       "nutrition_data": {
         "calories": 78.0,
@@ -7142,16 +7130,12 @@
       "super_tags": [
         "💪 Nguồn Protein chất lượng cao nhất",
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất",
-        "🍌 Đỉnh cao Kali",
-        "🩸 Quán quân Sắt",
-        "🛡️ Nguồn Kẽm dồi dào"
+        "🩸 Quán quân Sắt"
       ],
       "super_tags_order": {
         "💪 Nguồn Protein chất lượng cao nhất": 4,
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất": 0,
-        "🍌 Đỉnh cao Kali": 7,
-        "🩸 Quán quân Sắt": 2,
-        "🛡️ Nguồn Kẽm dồi dào": 8
+        "🩸 Quán quân Sắt": 4
       },
       "nutrition_data": {
         "calories": 111.0,
@@ -7244,7 +7228,7 @@
       "id": "DUACAICHUA",
       "name": "Dưa cải chua",
       "category": "Rau củ lên men",
-      "nutrition": "Cung cấp rau, nước, chất xơ và một lượng nhỏ vitamin K, vitamin C cùng các sản phẩm chuyển hóa từ quá trình lên men; hàm lượng natri thường cao và thay đổi theo công thức muối.",
+      "nutrition": "Thành phần (100g): Năng lượng 19kcal, Đạm 0.91g, Tinh bột 4.28g, Béo 0.14g, Chất xơ 2.9g. Vi chất nổi bật: Beta-carotene 8µg, Vit A 1µg, Canxi 30mg, Kali 170mg, Kẽm 0.19mg, Vit C 14.7mg, Folate 24µg, Sắt 1.47mg, Magiê 13mg, Phốt pho 20mg, Đồng 0.096mg, Mangan 0.151mg.",
       "benefits": [
         "Chất xơ hỗ trợ tiêu hóa.",
         "Quá trình lên men có thể tạo ra một số vi khuẩn có lợi nếu sản phẩm được làm đúng cách.",
@@ -7307,24 +7291,24 @@
         "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột": 2
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 19.0,
+        "protein": 0.91,
+        "carbs": 4.28,
+        "fat": 0.14,
+        "fiber": 2.9,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 14.7,
+        "calcium": 30.0,
+        "potassium": 170.0,
+        "iron": 1.47,
+        "zinc": 0.19
       }
     },
     {
       "id": "KIMCHI",
       "name": "Kim chi",
       "category": "Rau củ lên men",
-      "nutrition": "Trong 150g kim chi cải thảo: khoảng 23 kcal, 4g đường, 2g protein, dưới 1g chất béo, 2g chất xơ và khoảng 747mg natri; cung cấp vitamin A, C, K, B6, sắt, folate và lợi khuẩn.",
+      "nutrition": "Thành phần (100g): Năng lượng 65kcal, Đạm 1.1g, Tinh bột 2.4g, Béo 0.5g, Chất xơ 1.6g. Vi chất nổi bật: Canxi 33mg, Kali 151mg, Kẽm 0.22mg, Sắt 2.5mg, Magiê 14mg, Phốt pho 24mg, Đồng 0.024mg, Vit A 5µg, Beta-carotene 55µg, Folate 52µg.",
       "benefits": [
         "Lợi khuẩn từ quá trình lên men có thể hỗ trợ hệ vi sinh đường ruột.",
         "Chất xơ hỗ trợ tiêu hóa.",
@@ -7388,17 +7372,17 @@
         "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột": 1
       },
       "nutrition_data": {
-        "calories": 23.0,
-        "protein": 2.0,
-        "carbs": 0.0,
-        "fat": 1.0,
-        "fiber": 2.0,
+        "calories": 65.0,
+        "protein": 1.1,
+        "carbs": 2.4,
+        "fat": 0.5,
+        "fiber": 1.6,
         "unit": "100g",
         "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "calcium": 33.0,
+        "potassium": 151.0,
+        "iron": 2.5,
+        "zinc": 0.22
       }
     },
     {
@@ -7652,7 +7636,7 @@
       "id": "TRAHOACUC",
       "name": "Trà hoa cúc",
       "category": "Đồ uống thảo dược",
-      "nutrition": "Trà hoa cúc không đường gần như không cung cấp năng lượng đáng kể; chứa các hợp chất thực vật như flavonoid và apigenin, nhưng hàm lượng thay đổi theo loài hoa, lượng hoa và cách hãm.",
+      "nutrition": "Thành phần (100g): Năng lượng 4kcal, Đạm 0g, Tinh bột 0.2g, Béo 0g, Chất xơ 0g. Vi chất nổi bật: Folate 1µg, Sắt 0.08mg, Magiê 1mg, Đồng 0.015mg, Mangan 0.044mg, Canxi 2mg, Kali 9mg, Kẽm 0.04mg.",
       "benefits": [
         "Có thể giúp tạo cảm giác thư giãn.",
         "Một số hợp chất flavonoid có hoạt tính chống oxy hóa.",
@@ -7700,17 +7684,17 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
+        "calories": 4.0,
         "protein": 0.0,
-        "carbs": 0.0,
+        "carbs": 0.2,
         "fat": 0.0,
         "fiber": 0.0,
         "unit": "100g",
         "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "calcium": 2.0,
+        "potassium": 9.0,
+        "iron": 0.08,
+        "zinc": 0.04
       }
     },
     {
@@ -8028,15 +8012,11 @@
       ],
       "super_tags": [
         "🍌 Đỉnh cao Kali",
-        "🩸 Quán quân Sắt",
-        "🛡️ Nguồn Kẽm dồi dào",
-        "🥩 Siêu Nguồn Đạm"
+        "🛡️ Nguồn Kẽm dồi dào"
       ],
       "super_tags_order": {
-        "🍌 Đỉnh cao Kali": 3,
-        "🩸 Quán quân Sắt": 4,
-        "🛡️ Nguồn Kẽm dồi dào": 5,
-        "🥩 Siêu Nguồn Đạm": 8
+        "🍌 Đỉnh cao Kali": 4,
+        "🛡️ Nguồn Kẽm dồi dào": 8
       },
       "nutrition_data": {
         "calories": 605.0,
@@ -8056,7 +8036,7 @@
       "id": "HATMACCA",
       "name": "Hạt macca",
       "category": "Hạt có dầu",
-      "nutrition": "Trong 100g hạt macca: khoảng 718 kcal, 7,9g protein, 13,8g carbohydrate, 8,6g chất xơ và khoảng 75,8g chất béo, chủ yếu là chất béo không bão hòa; cung cấp magie, mangan, đồng, thiamine và vitamin B6.",
+      "nutrition": "Thành phần (100g): Năng lượng 716kcal, Đạm 7.79g, Tinh bột 12.8g, Béo 76.1g, Chất xơ 8g. Vi chất nổi bật: Canxi 70mg, Kali 363mg, Kẽm 1.29mg, Sắt 2.65mg, Magiê 118mg, Phốt pho 198mg, Đồng 0.57mg, Mangan 3.04mg, Vit C 0.7mg, Folate 10µg.",
       "benefits": [
         "Chất béo không bão hòa góp phần hỗ trợ sức khỏe tim mạch.",
         "Chất xơ hỗ trợ tiêu hóa và cảm giác no.",
@@ -8108,24 +8088,24 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 718.0,
-        "protein": 7.9,
-        "carbs": 13.8,
-        "fat": 75.8,
-        "fiber": 8.6,
+        "calories": 716.0,
+        "protein": 7.79,
+        "carbs": 12.8,
+        "fat": 76.1,
+        "fiber": 8.0,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 0.7,
+        "calcium": 70.0,
+        "potassium": 363.0,
+        "iron": 2.65,
+        "zinc": 1.29
       }
     },
     {
       "id": "HATBINGO",
       "name": "Hạt bí ngô",
       "category": "Hạt có dầu",
-      "nutrition": "Trong 100g hạt bí đã tách vỏ: khoảng 560–580 kcal, khoảng 29–30g protein, 10–19g carbohydrate, 5–7g chất xơ và 45–49g chất béo; giàu magie, kẽm, sắt, phospho, kali, canxi, vitamin E và phytosterol.",
+      "nutrition": "Thành phần (100g): Năng lượng 446kcal, Đạm 18.6g, Tinh bột 53.8g, Béo 19.4g, Chất xơ 18.4g. Vi chất nổi bật: Vit A 3µg, Đồng 0.69mg, Mangan 0.496mg, Sắt 3.31mg, Magiê 262mg, Phốt pho 92mg, Vit C 0.3mg, Folate 9µg, Canxi 55mg, Kali 919mg, Kẽm 10.3mg.",
       "benefits": [
         "Magie hỗ trợ hoạt động cơ, thần kinh và sức khỏe tim mạch.",
         "Kẽm góp phần hỗ trợ miễn dịch và sức khỏe sinh sản.",
@@ -8174,30 +8154,34 @@
         }
       ],
       "super_tags": [
+        "🍌 Đỉnh cao Kali",
+        "🛡️ Nguồn Kẽm dồi dào",
         "🥩 Siêu Nguồn Đạm"
       ],
       "super_tags_order": {
-        "🥩 Siêu Nguồn Đạm": 2
+        "🍌 Đỉnh cao Kali": 2,
+        "🛡️ Nguồn Kẽm dồi dào": 5,
+        "🥩 Siêu Nguồn Đạm": 9
       },
       "nutrition_data": {
-        "calories": 580.0,
-        "protein": 30.0,
-        "carbs": 19.0,
-        "fat": 49.0,
-        "fiber": 7.0,
+        "calories": 446.0,
+        "protein": 18.6,
+        "carbs": 53.8,
+        "fat": 19.4,
+        "fiber": 18.4,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 0.3,
+        "calcium": 55.0,
+        "potassium": 919.0,
+        "iron": 3.31,
+        "zinc": 10.3
       }
     },
     {
       "id": "HATCHIA",
       "name": "Hạt chia",
       "category": "Hạt giàu chất xơ và omega-3 thực vật",
-      "nutrition": "Trong 100g hạt chia: khoảng 486 kcal, 16,5g protein, 42g carbohydrate, 34g chất xơ và 30,7g chất béo, trong đó có omega-3 thực vật; giàu canxi, magie, phospho, mangan và chất chống oxy hóa.",
+      "nutrition": "Thành phần (100g): Năng lượng 486kcal, Đạm 16.5g, Tinh bột 42.1g, Béo 30.7g, Chất xơ 34.4g. Vi chất nổi bật: Sắt 7.72mg, Magiê 335mg, Phốt pho 860mg, Đồng 0.924mg, Mangan 2.72mg, Vit C 1.6mg, Folate 49µg, Kali 407mg, Kẽm 4.58mg, Canxi 631mg.",
       "benefits": [
         "Hàm lượng chất xơ cao hỗ trợ tiêu hóa và cảm giác no.",
         "Omega-3 thực vật và chất béo không bão hòa hỗ trợ sức khỏe tim mạch.",
@@ -8254,31 +8238,35 @@
       ],
       "super_tags": [
         "🐟 Giàu Omega-3 & Chất béo tốt nhất",
-        "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh"
+        "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh",
+        "💪 Cao thủ Canxi",
+        "🩸 Quán quân Sắt"
       ],
       "super_tags_order": {
         "🐟 Giàu Omega-3 & Chất béo tốt nhất": 2,
-        "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh": 2
+        "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh": 2,
+        "💪 Cao thủ Canxi": 8,
+        "🩸 Quán quân Sắt": 5
       },
       "nutrition_data": {
         "calories": 486.0,
         "protein": 16.5,
-        "carbs": 42.0,
+        "carbs": 42.1,
         "fat": 30.7,
-        "fiber": 34.0,
+        "fiber": 34.4,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 1.6,
+        "calcium": 631.0,
+        "potassium": 407.0,
+        "iron": 7.72,
+        "zinc": 4.58
       }
     },
     {
       "id": "HATHUONGDUONG",
       "name": "Hạt hướng dương",
       "category": "Hạt có dầu",
-      "nutrition": "Trong 100g hạt hướng dương đã tách vỏ: khoảng 584 kcal, 20,8g protein, 20g carbohydrate, 8,6g chất xơ và 51,5g chất béo; giàu vitamin E, magie, selenium, đồng, phospho và folate.",
+      "nutrition": "Thành phần (100g): Năng lượng 592kcal, Đạm 20.1g, Tinh bột 22.9g, Béo 51.3g, Chất xơ 10.6g. Vi chất nổi bật: Vit C 1.1mg, Beta-carotene 5µg, Sắt 4.28mg, Canxi 87mg, Magiê 127mg, Phốt pho 1140mg, Đồng 1.8mg, Mangan 2.08mg, Folate 234µg, Kali 483mg, Kẽm 5.21mg.",
       "benefits": [
         "Vitamin E và chất béo không bão hòa có hoạt tính chống oxy hóa.",
         "Magie hỗ trợ hoạt động cơ, thần kinh và tim mạch.",
@@ -8327,23 +8315,27 @@
         }
       ],
       "super_tags": [
+        "🩸 Quán quân Sắt",
+        "🛡️ Nguồn Kẽm dồi dào",
         "🥩 Siêu Nguồn Đạm"
       ],
       "super_tags_order": {
-        "🥩 Siêu Nguồn Đạm": 5
+        "🩸 Quán quân Sắt": 9,
+        "🛡️ Nguồn Kẽm dồi dào": 9,
+        "🥩 Siêu Nguồn Đạm": 8
       },
       "nutrition_data": {
-        "calories": 584.0,
-        "protein": 20.8,
-        "carbs": 20.0,
-        "fat": 51.5,
-        "fiber": 8.6,
+        "calories": 592.0,
+        "protein": 20.1,
+        "carbs": 22.9,
+        "fat": 51.3,
+        "fiber": 10.6,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 1.1,
+        "calcium": 87.0,
+        "potassium": 483.0,
+        "iron": 4.28,
+        "zinc": 5.21
       }
     },
     {
@@ -8556,7 +8548,7 @@
         "💪 Cao thủ Canxi"
       ],
       "super_tags_order": {
-        "💪 Cao thủ Canxi": 2
+        "💪 Cao thủ Canxi": 3
       },
       "nutrition_data": {
         "calories": 38.0,
@@ -8625,7 +8617,7 @@
         "💪 Cao thủ Canxi"
       ],
       "super_tags_order": {
-        "💪 Cao thủ Canxi": 3
+        "💪 Cao thủ Canxi": 4
       },
       "nutrition_data": {
         "calories": 38.0,
@@ -8752,7 +8744,7 @@
         "🛡️ Nguồn Kẽm dồi dào"
       ],
       "super_tags_order": {
-        "🛡️ Nguồn Kẽm dồi dào": 1
+        "🛡️ Nguồn Kẽm dồi dào": 2
       },
       "nutrition_data": {
         "calories": 78.0,
@@ -8772,7 +8764,7 @@
       "id": "NUOCNGOTCOGAS",
       "name": "Nước ngọt có gas",
       "category": "Đồ uống có đường",
-      "nutrition": "Một lon 330ml thường chứa khoảng 35–40g đường và khoảng 140–160 kcal; hầu như không cung cấp protein, chất xơ, vitamin hoặc khoáng chất đáng kể. Thành phần thường gồm nước có carbon dioxide, đường, acid thực phẩm, hương liệu và chất tạo màu.",
+      "nutrition": "Thành phần (100g): Năng lượng 42kcal, Đạm 0g, Tinh bột 10.7g, Béo 0g, Chất xơ 0g. Vi chất nổi bật: Sắt 0.1mg, Magiê 1mg, Phốt pho 1mg, Đồng 0.013mg, Canxi 4mg, Kali 50mg, Kẽm 0.16mg, Mangan 0.036mg.",
       "benefits": [
         "Cung cấp năng lượng nhanh từ đường.",
         "Carbon dioxide tạo cảm giác sảng khoái và vị gas.",
@@ -8807,17 +8799,17 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 160.0,
+        "calories": 42.0,
         "protein": 0.0,
-        "carbs": 0.0,
+        "carbs": 10.7,
         "fat": 0.0,
         "fiber": 0.0,
         "unit": "100g",
         "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "calcium": 4.0,
+        "potassium": 50.0,
+        "iron": 0.1,
+        "zinc": 0.16
       }
     },
     {
@@ -8979,7 +8971,7 @@
         "🛡️ Nguồn Kẽm dồi dào"
       ],
       "super_tags_order": {
-        "🛡️ Nguồn Kẽm dồi dào": 2
+        "🛡️ Nguồn Kẽm dồi dào": 3
       },
       "nutrition_data": {
         "calories": 78.0,
@@ -9034,7 +9026,7 @@
         "💪 Cao thủ Canxi"
       ],
       "super_tags_order": {
-        "💪 Cao thủ Canxi": 4
+        "💪 Cao thủ Canxi": 5
       },
       "nutrition_data": {
         "calories": 38.0,
@@ -9089,7 +9081,7 @@
         "💪 Cao thủ Canxi"
       ],
       "super_tags_order": {
-        "💪 Cao thủ Canxi": 5
+        "💪 Cao thủ Canxi": 6
       },
       "nutrition_data": {
         "calories": 38.0,
@@ -9109,7 +9101,7 @@
       "id": "GARANCONGNGHIEP",
       "name": "Gà rán công nghiệp",
       "category": "Thức ăn nhanh chiên ngập dầu",
-      "nutrition": "Giá trị dinh dưỡng thay đổi theo phần thịt và lớp bột; thường giàu protein nhưng cũng nhiều năng lượng, chất béo, chất béo bão hòa, natri và carbohydrate từ lớp bột chiên.",
+      "nutrition": "Thành phần (100g): Năng lượng 153kcal, Đạm 27.9g, Tinh bột 0g, Béo 4.54g, Chất xơ 0g. Vi chất nổi bật: Đồng 0.058mg, Mangan 0.036mg, Vit A 4µg, Sắt 0.54mg, Canxi 23mg, Kali 306mg, Kẽm 0.97mg, Folate 12µg, Magiê 28mg, Phốt pho 237mg.",
       "benefits": [
         "Thịt gà cung cấp protein.",
         "Có thể cung cấp vitamin nhóm B, selen, kẽm và phospho.",
@@ -9149,27 +9141,31 @@
       ],
       "diets": [],
       "disease_prevention": [],
-      "super_tags": [],
-      "super_tags_order": {},
+      "super_tags": [
+        "🥩 Siêu Nguồn Đạm"
+      ],
+      "super_tags_order": {
+        "🥩 Siêu Nguồn Đạm": 0
+      },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
+        "calories": 153.0,
+        "protein": 27.9,
         "carbs": 0.0,
-        "fat": 0.0,
+        "fat": 4.54,
         "fiber": 0.0,
         "unit": "100g",
         "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "calcium": 23.0,
+        "potassium": 306.0,
+        "iron": 0.54,
+        "zinc": 0.97
       }
     },
     {
       "id": "KHOAITAYCHIEN",
       "name": "Khoai tây chiên",
       "category": "Thức ăn nhanh giàu tinh bột và chất béo",
-      "nutrition": "Trong 117g khoai tây chiên: khoảng 378 kcal; thường chứa nhiều carbohydrate, chất béo và natri, trong khi chất xơ và vi chất thay đổi theo loại khoai, dầu chiên và lượng muối.",
+      "nutrition": "Thành phần (100g): Năng lượng 312kcal, Đạm 3.43g, Tinh bột 41.4g, Béo 14.7g, Chất xơ 3.8g. Vi chất nổi bật: Folate 30µg, Vit C 4.7mg, Sắt 0.81mg, Magiê 35mg, Phốt pho 125mg, Đồng 0.124mg, Mangan 0.247mg, Canxi 18mg, Kali 579mg, Kẽm 0.5mg.",
       "benefits": [
         "Cung cấp carbohydrate và năng lượng.",
         "Khoai tây nguyên liệu có kali và một số vitamin C, nhưng hàm lượng giảm sau chế biến.",
@@ -9209,27 +9205,31 @@
       ],
       "diets": [],
       "disease_prevention": [],
-      "super_tags": [],
-      "super_tags_order": {},
+      "super_tags": [
+        "🍌 Đỉnh cao Kali"
+      ],
+      "super_tags_order": {
+        "🍌 Đỉnh cao Kali": 6
+      },
       "nutrition_data": {
-        "calories": 378.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 312.0,
+        "protein": 3.43,
+        "carbs": 41.4,
+        "fat": 14.7,
+        "fiber": 3.8,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 4.7,
+        "calcium": 18.0,
+        "potassium": 579.0,
+        "iron": 0.81,
+        "zinc": 0.5
       }
     },
     {
       "id": "HAMBURGER",
       "name": "Hamburger",
       "category": "Thức ăn nhanh chế biến sẵn",
-      "nutrition": "Một hamburger thông thường có thể cung cấp khoảng 250–600 kcal tùy kích thước và loại nhân; thường chứa protein, carbohydrate từ bánh mì, chất béo từ thịt và phô mai, cùng lượng natri cao từ thịt chế biến, sốt và gia vị.",
+      "nutrition": "Thành phần (100g): Năng lượng 1240kcal, Đạm 16.5g, Tinh bột 31.5g, Béo 12g, Chất xơ 1.7g. Vi chất nổi bật: Canxi 62mg, Kali 197mg, Kẽm 2.52mg, Sắt 3.06mg, Magiê 27mg, Phốt pho 134mg, Đồng 0.121mg, Mangan 0.357mg, Vit A 9µg, Beta-carotene 15µg, Lycopene 5µg, Folate 80µg.",
       "benefits": [
         "Thịt hoặc nhân đậu cung cấp protein.",
         "Bánh mì cung cấp carbohydrate và năng lượng.",
@@ -9272,24 +9272,24 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 600.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 1240.0,
+        "protein": 16.5,
+        "carbs": 31.5,
+        "fat": 12.0,
+        "fiber": 1.7,
         "unit": "100g",
         "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "calcium": 62.0,
+        "potassium": 197.0,
+        "iron": 3.06,
+        "zinc": 2.52
       }
     },
     {
       "id": "PIZZACONGNGHIEP",
       "name": "Pizza công nghiệp",
       "category": "Thức ăn nhanh chế biến sẵn",
-      "nutrition": "Trong 100g: khoảng 220–280 kcal, 8–12g protein, 8–14g chất béo, 22–30g carbohydrate và 2–3g chất xơ; thường chứa nhiều natri, chất béo bão hòa và năng lượng thay đổi theo đế bánh, phô mai, thịt nguội và sốt.",
+      "nutrition": "Thành phần (100g): Năng lượng 343kcal, Đạm 4.32g, Tinh bột 34.9g, Béo 21.5g, Chất xơ 3.2g. Vi chất nổi bật: Sắt 0.75mg, Magiê 42mg, Phốt pho 198mg, Đồng 0.064mg, Mangan 0.187mg, Vit A 5µg, Beta-carotene 2µg, Lycopene 1µg, Folate 10µg, Canxi 63mg, Kali 362mg, Kẽm 0.86mg, Vit C 1.1mg.",
       "benefits": [
         "Cung cấp carbohydrate từ đế bánh.",
         "Phô mai và thịt phủ mặt cung cấp một lượng protein.",
@@ -9328,17 +9328,17 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 280.0,
-        "protein": 12.0,
-        "carbs": 30.0,
-        "fat": 14.0,
-        "fiber": 3.0,
+        "calories": 343.0,
+        "protein": 4.32,
+        "carbs": 34.9,
+        "fat": 21.5,
+        "fiber": 3.2,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 1.1,
+        "calcium": 63.0,
+        "potassium": 362.0,
+        "iron": 0.75,
+        "zinc": 0.86
       }
     },
     {
@@ -9406,7 +9406,7 @@
       "id": "PHOMAIQUECHIENXU",
       "name": "Phô mai que chiên xù",
       "category": "Thức ăn vặt từ sữa chiên ngập dầu",
-      "nutrition": "Trong 100g: khoảng 329 kcal, 15g protein, 19g chất béo, 25g carbohydrate, 1,9g chất xơ và khoảng 794mg natri; giá trị thay đổi theo loại phô mai, lớp bột và lượng dầu hấp thụ.",
+      "nutrition": "Thành phần (100g): Năng lượng 1360kcal, Đạm 13.6g, Tinh bột 27.2g, Béo 17.9g, Chất xơ 1.6g. Vi chất nổi bật: Canxi 331mg, Kali 121mg, Kẽm 1.98mg, Sắt 0.84mg, Magiê 21mg, Phốt pho 358mg, Đồng 0.067mg, Mangan 0.363mg, Vit A 96µg, Beta-carotene 15µg, Folate 26µg.",
       "benefits": [
         "Phô mai cung cấp protein và canxi.",
         "Carbohydrate từ bột chiên cung cấp năng lượng.",
@@ -9445,17 +9445,17 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 329.0,
-        "protein": 15.0,
-        "carbs": 25.0,
-        "fat": 19.0,
-        "fiber": 1.9,
+        "calories": 1360.0,
+        "protein": 13.6,
+        "carbs": 27.2,
+        "fat": 17.9,
+        "fiber": 1.6,
         "unit": "100g",
         "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "calcium": 331.0,
+        "potassium": 121.0,
+        "iron": 0.84,
+        "zinc": 1.98
       }
     },
     {
@@ -9507,7 +9507,7 @@
         "🥩 Siêu Nguồn Đạm"
       ],
       "super_tags_order": {
-        "🥩 Siêu Nguồn Đạm": 4
+        "🥩 Siêu Nguồn Đạm": 5
       },
       "nutrition_data": {
         "calories": 137.0,
@@ -9527,7 +9527,7 @@
       "id": "XUCXICHCONGNGHIEP",
       "name": "Xúc xích công nghiệp",
       "category": "Thịt chế biến sẵn",
-      "nutrition": "Trong 100g: khoảng 250–320 kcal, 10–15g protein, 20–28g chất béo, 2–8g carbohydrate và thường chứa nhiều natri; hàm lượng thay đổi theo loại thịt, mỡ, tinh bột và phụ gia.",
+      "nutrition": "Thành phần (100g): Năng lượng 585kcal, Đạm 12g, Tinh bột 1.6g, Béo 9.5g, Chất xơ 0g. Vi chất nổi bật: Canxi 8mg, Kali 129mg, Kẽm 1.96mg, Sắt 1.15mg, Magiê 11mg, Phốt pho 191mg, Đồng 0.065mg, Vit C 1mg, Folate 4µg.",
       "benefits": [
         "Cung cấp protein từ thịt.",
         "Có thể cung cấp vitamin B12, sắt và kẽm với lượng thay đổi theo công thức.",
@@ -9571,17 +9571,17 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 320.0,
-        "protein": 15.0,
-        "carbs": 8.0,
-        "fat": 28.0,
+        "calories": 585.0,
+        "protein": 12.0,
+        "carbs": 1.6,
+        "fat": 9.5,
         "fiber": 0.0,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 1.0,
+        "calcium": 8.0,
+        "potassium": 129.0,
+        "iron": 1.15,
+        "zinc": 1.96
       }
     },
     {
@@ -9748,11 +9748,9 @@
       "diets": [],
       "disease_prevention": [],
       "super_tags": [
-        "🩸 Quán quân Sắt",
         "🥩 Siêu Nguồn Đạm"
       ],
       "super_tags_order": {
-        "🩸 Quán quân Sắt": 6,
         "🥩 Siêu Nguồn Đạm": 6
       },
       "nutrition_data": {
@@ -9773,7 +9771,7 @@
       "id": "PATEONGHOP",
       "name": "Pate đóng hộp",
       "category": "Thịt nội tạng chế biến sẵn",
-      "nutrition": "Trong 100g: khoảng 250–350 kcal, 10–15g protein, 20–30g chất béo và thường chứa nhiều natri; một số loại có thể cung cấp vitamin A, vitamin B12, sắt và đồng từ gan.",
+      "nutrition": "Thành phần (100g): Năng lượng 201kcal, Đạm 13.4g, Tinh bột 6.55g, Béo 13.1g, Chất xơ 0g. Vi chất nổi bật: Vit A 217µg, Canxi 10mg, Kali 95mg, Kẽm 2.14mg, Sắt 9.19mg, Magiê 13mg, Phốt pho 175mg, Đồng 0.18mg, Mangan 0.162mg, Vit C 10mg, Folate 321µg.",
       "benefits": [
         "Cung cấp protein và năng lượng.",
         "Pate có gan có thể cung cấp vitamin A, vitamin B12 và sắt.",
@@ -9818,27 +9816,31 @@
       ],
       "diets": [],
       "disease_prevention": [],
-      "super_tags": [],
-      "super_tags_order": {},
+      "super_tags": [
+        "🩸 Quán quân Sắt"
+      ],
+      "super_tags_order": {
+        "🩸 Quán quân Sắt": 3
+      },
       "nutrition_data": {
-        "calories": 350.0,
-        "protein": 15.0,
-        "carbs": 0.0,
-        "fat": 30.0,
+        "calories": 201.0,
+        "protein": 13.4,
+        "carbs": 6.55,
+        "fat": 13.1,
         "fiber": 0.0,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 10.0,
+        "calcium": 10.0,
+        "potassium": 95.0,
+        "iron": 9.19,
+        "zinc": 2.14
       }
     },
     {
       "id": "THITHOPSPAM",
       "name": "Thịt hộp (Spam)",
       "category": "Thịt chế biến và đóng hộp",
-      "nutrition": "Trong 100g: khoảng 300–350 kcal, 12–15g protein, 25–30g chất béo, carbohydrate thay đổi theo sản phẩm và thường chứa nhiều natri; có thể chứa chất béo bão hòa, cholesterol và chất bảo quản.",
+      "nutrition": "Thành phần (100g): Năng lượng 293kcal, Đạm 12.5g, Tinh bột 3.4g, Béo 25.1g, Chất xơ 0g. Vi chất nổi bật: Folate 4µg, Sắt 0.64mg, Magiê 14mg, Phốt pho 109mg, Đồng 0.046mg, Kali 564mg, Kẽm 2.12mg, Vit C 43mg.",
       "benefits": [
         "Cung cấp protein và năng lượng.",
         "Tiện dụng, dễ bảo quản khi chưa mở hộp.",
@@ -9884,27 +9886,31 @@
       ],
       "diets": [],
       "disease_prevention": [],
-      "super_tags": [],
-      "super_tags_order": {},
+      "super_tags": [
+        "🍌 Đỉnh cao Kali"
+      ],
+      "super_tags_order": {
+        "🍌 Đỉnh cao Kali": 8
+      },
       "nutrition_data": {
-        "calories": 350.0,
-        "protein": 15.0,
-        "carbs": 0.0,
-        "fat": 30.0,
+        "calories": 293.0,
+        "protein": 12.5,
+        "carbs": 3.4,
+        "fat": 25.1,
         "fiber": 0.0,
         "unit": "100g",
-        "vit_c": 0.0,
+        "vit_c": 43.0,
         "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "potassium": 564.0,
+        "iron": 0.64,
+        "zinc": 2.12
       }
     },
     {
       "id": "MIANLIENMITOM",
       "name": "Mì ăn liền (mì tôm)",
       "category": "Thực phẩm chế biến từ ngũ cốc",
-      "nutrition": "Một gói mì 75g thường cung cấp khoảng 300–350 kcal, 40–50g carbohydrate, 6,9–9g protein và 10–13g chất béo; thường chứa rất ít chất xơ và nhiều natri từ sợi mì cùng gói gia vị.",
+      "nutrition": "Thành phần (100g): Năng lượng 1840kcal, Đạm 10.2g, Tinh bột 60.3g, Béo 17.6g, Chất xơ 2.9g. Vi chất nổi bật: Vit A 1µg, Beta-carotene 6µg, Vit C 0.3mg, Canxi 21mg, Kali 181mg, Kẽm 0.6mg, Folate 116µg, Sắt 4.11mg, Magiê 25mg, Phốt pho 115mg, Đồng 0.126mg, Mangan 0.63mg.",
       "benefits": [
         "Cung cấp năng lượng nhanh từ carbohydrate và chất béo.",
         "Cung cấp một lượng nhỏ protein.",
@@ -9946,17 +9952,17 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 350.0,
-        "protein": 9.0,
-        "carbs": 50.0,
-        "fat": 13.0,
-        "fiber": 0.0,
+        "calories": 1840.0,
+        "protein": 10.2,
+        "carbs": 60.3,
+        "fat": 17.6,
+        "fiber": 2.9,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 0.3,
+        "calcium": 21.0,
+        "potassium": 181.0,
+        "iron": 4.11,
+        "zinc": 0.6
       }
     },
     {
@@ -10021,7 +10027,7 @@
       "id": "KEMCONGNGHIEP",
       "name": "Kem công nghiệp",
       "category": "Món tráng miệng nhiều đường và chất béo",
-      "nutrition": "Trong 100g: thường khoảng 180–250 kcal, 20–25g carbohydrate, 3–5g protein và 7–15g chất béo; sản phẩm có thể chứa nhiều đường, sữa bột, chất béo thực vật, hương liệu và chất ổn định.",
+      "nutrition": "Thành phần (100g): Năng lượng 755kcal, Đạm 4.78g, Tinh bột 29.5g, Béo 4.83g, Chất xơ 0.3g. Vi chất nổi bật: Kali 208mg, Kẽm 0.73mg, Magiê 14mg, Phốt pho 103mg, Canxi 161mg, Sắt 0.19mg, Đồng 0.017mg, Mangan 0.005mg, Vit C 1.2mg, Folate 6µg, Vit A 128µg, Beta-carotene 14µg.",
       "benefits": [
         "Cung cấp năng lượng từ carbohydrate và chất béo.",
         "Có thể cung cấp một lượng nhỏ protein và canxi nếu chứa sữa.",
@@ -10063,17 +10069,17 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 250.0,
-        "protein": 5.0,
-        "carbs": 25.0,
-        "fat": 15.0,
-        "fiber": 0.0,
+        "calories": 755.0,
+        "protein": 4.78,
+        "carbs": 29.5,
+        "fat": 4.83,
+        "fiber": 0.3,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 1.2,
+        "calcium": 161.0,
+        "potassium": 208.0,
+        "iron": 0.19,
+        "zinc": 0.73
       }
     },
     {
@@ -10139,7 +10145,7 @@
       "id": "KEOMUTKEODEOMAU",
       "name": "Kẹo mút / Kẹo dẻo màu",
       "category": "Kẹo nhiều đường",
-      "nutrition": "Trong 100g: thường khoảng 330–400 kcal, 75–95g carbohydrate, gần như không có protein, chất xơ hoặc chất béo; có thể chứa đường, siro glucose, gelatin, acid thực phẩm, hương liệu và màu thực phẩm.",
+      "nutrition": "Thành phần (100g): Năng lượng 1570kcal, Đạm 0g, Tinh bột 93.6g, Béo 0.05g, Chất xơ 0.2g. Vi chất nổi bật: Phốt pho 4mg, Sắt 0.13mg, Canxi 3mg, Kali 37mg, Kẽm 0.05mg, Magiê 2mg, Đồng 0.028mg, Mangan 0.035mg.",
       "benefits": [
         "Cung cấp năng lượng nhanh từ đường.",
         "Có thể giúp tăng đường huyết tạm thời khi bị hạ đường huyết theo hướng dẫn y tế.",
@@ -10172,17 +10178,17 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 400.0,
+        "calories": 1570.0,
         "protein": 0.0,
-        "carbs": 95.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "carbs": 93.6,
+        "fat": 0.05,
+        "fiber": 0.2,
         "unit": "100g",
         "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "calcium": 3.0,
+        "potassium": 37.0,
+        "iron": 0.13,
+        "zinc": 0.05
       }
     },
     {
@@ -10300,7 +10306,7 @@
         "💪 Cao thủ Canxi"
       ],
       "super_tags_order": {
-        "💪 Cao thủ Canxi": 6
+        "💪 Cao thủ Canxi": 7
       },
       "nutrition_data": {
         "calories": 38.0,
@@ -10379,7 +10385,7 @@
       "id": "NGUCOCANSANGTAMMAU",
       "name": "Ngũ cốc ăn sáng tẩm màu",
       "category": "Ngũ cốc chế biến sẵn nhiều đường",
-      "nutrition": "Trong 100g: thường khoảng 350–450 kcal, 70–85g carbohydrate, 5–10g protein, 2–8g chất xơ và 5–15g chất béo; có thể chứa nhiều đường, muối, hương liệu và màu thực phẩm.",
+      "nutrition": "Thành phần (100g): Năng lượng 1420kcal, Đạm 10.9g, Tinh bột 80.6g, Béo 2.06g, Chất xơ 14.7g. Vi chất nổi bật: Magiê 174mg, Phốt pho 418mg, Canxi 44mg, Kali 391mg, Kẽm 3.13mg, Folate 30µg, Sắt 3.87mg.",
       "benefits": [
         "Cung cấp carbohydrate và năng lượng nhanh.",
         "Có thể cung cấp vitamin nhóm B, sắt hoặc acid folic nếu được tăng cường.",
@@ -10422,17 +10428,17 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 450.0,
-        "protein": 10.0,
-        "carbs": 85.0,
-        "fat": 15.0,
-        "fiber": 8.0,
+        "calories": 1420.0,
+        "protein": 10.9,
+        "carbs": 80.6,
+        "fat": 2.06,
+        "fiber": 14.7,
         "unit": "100g",
         "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "calcium": 44.0,
+        "potassium": 391.0,
+        "iron": 3.87,
+        "zinc": 3.13
       }
     },
     {
@@ -10518,7 +10524,7 @@
         "🛡️ Nguồn Kẽm dồi dào"
       ],
       "super_tags_order": {
-        "🛡️ Nguồn Kẽm dồi dào": 3
+        "🛡️ Nguồn Kẽm dồi dào": 4
       },
       "nutrition_data": {
         "calories": 78.0,
@@ -10539,7 +10545,7 @@
       "id": "NUOC_NGOT",
       "name": "Nước ngọt có gas",
       "category": "Đồ uống công nghiệp",
-      "nutrition": "Chứa lượng đường khổng lồ (khoảng 39g/lon), phẩm màu và axit photphoric làm mòn men răng.",
+      "nutrition": "Thành phần (100g): Năng lượng 42kcal, Đạm 0g, Tinh bột 10.7g, Béo 0g, Chất xơ 0g. Vi chất nổi bật: Sắt 0.1mg, Magiê 1mg, Phốt pho 1mg, Đồng 0.013mg, Canxi 4mg, Kali 50mg, Kẽm 0.16mg, Mangan 0.036mg.",
       "benefits": [
         "Giải khát tạm thời."
       ],
@@ -10558,17 +10564,17 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
+        "calories": 42.0,
         "protein": 0.0,
-        "carbs": 0.0,
+        "carbs": 10.7,
         "fat": 0.0,
         "fiber": 0.0,
         "unit": "100g",
         "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "calcium": 4.0,
+        "potassium": 50.0,
+        "iron": 0.1,
+        "zinc": 0.16
       },
       "good_combinations": []
     },
@@ -10613,7 +10619,7 @@
       "id": "GA_RAN",
       "name": "Gà rán công nghiệp",
       "category": "Thức ăn nhanh",
-      "nutrition": "Nhiều dầu mỡ, lớp bột chiên hút nhiều dầu (trans fat và bão hòa), giàu calo nhưng nghèo vi chất.",
+      "nutrition": "Thành phần (100g): Năng lượng 153kcal, Đạm 27.9g, Tinh bột 0g, Béo 4.54g, Chất xơ 0g. Vi chất nổi bật: Đồng 0.058mg, Mangan 0.036mg, Vit A 4µg, Sắt 0.54mg, Canxi 23mg, Kali 306mg, Kẽm 0.97mg, Folate 12µg, Magiê 28mg, Phốt pho 237mg.",
       "benefits": [
         "Rất hấp dẫn, ngon miệng và tiện lợi."
       ],
@@ -10628,20 +10634,24 @@
       ],
       "diets": [],
       "disease_prevention": [],
-      "super_tags": [],
-      "super_tags_order": {},
+      "super_tags": [
+        "🥩 Siêu Nguồn Đạm"
+      ],
+      "super_tags_order": {
+        "🥩 Siêu Nguồn Đạm": 1
+      },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
+        "calories": 153.0,
+        "protein": 27.9,
         "carbs": 0.0,
-        "fat": 0.0,
+        "fat": 4.54,
         "fiber": 0.0,
         "unit": "100g",
         "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "calcium": 23.0,
+        "potassium": 306.0,
+        "iron": 0.54,
+        "zinc": 0.97
       },
       "good_combinations": []
     },
@@ -10649,7 +10659,7 @@
       "id": "KHOAI_TAY_CHIEN",
       "name": "Khoai tây chiên",
       "category": "Thức ăn nhanh",
-      "nutrition": "Chứa nhiều tinh bột tiêu hóa nhanh, dầu mỡ và lượng muối natri cao. Nhiệt độ cao sinh ra acrylamide.",
+      "nutrition": "Thành phần (100g): Năng lượng 312kcal, Đạm 3.43g, Tinh bột 41.4g, Béo 14.7g, Chất xơ 3.8g. Vi chất nổi bật: Folate 30µg, Vit C 4.7mg, Sắt 0.81mg, Magiê 35mg, Phốt pho 125mg, Đồng 0.124mg, Mangan 0.247mg, Canxi 18mg, Kali 579mg, Kẽm 0.5mg.",
       "benefits": [
         "Ăn vặt giòn ngon."
       ],
@@ -10664,20 +10674,24 @@
       ],
       "diets": [],
       "disease_prevention": [],
-      "super_tags": [],
-      "super_tags_order": {},
+      "super_tags": [
+        "🍌 Đỉnh cao Kali"
+      ],
+      "super_tags_order": {
+        "🍌 Đỉnh cao Kali": 7
+      },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 312.0,
+        "protein": 3.43,
+        "carbs": 41.4,
+        "fat": 14.7,
+        "fiber": 3.8,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 4.7,
+        "calcium": 18.0,
+        "potassium": 579.0,
+        "iron": 0.81,
+        "zinc": 0.5
       },
       "good_combinations": []
     },
@@ -10685,7 +10699,7 @@
       "id": "PIZZA",
       "name": "Pizza công nghiệp",
       "category": "Thức ăn nhanh",
-      "nutrition": "Dư thừa tinh bột tinh chế, nhiều chất béo bão hòa từ phô mai và thịt xông khói.",
+      "nutrition": "Thành phần (100g): Năng lượng 343kcal, Đạm 4.32g, Tinh bột 34.9g, Béo 21.5g, Chất xơ 3.2g. Vi chất nổi bật: Sắt 0.75mg, Magiê 42mg, Phốt pho 198mg, Đồng 0.064mg, Mangan 0.187mg, Vit A 5µg, Beta-carotene 2µg, Lycopene 1µg, Folate 10µg, Canxi 63mg, Kali 362mg, Kẽm 0.86mg, Vit C 1.1mg.",
       "benefits": [
         "Món ăn tiệc tùng hấp dẫn."
       ],
@@ -10703,17 +10717,17 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 343.0,
+        "protein": 4.32,
+        "carbs": 34.9,
+        "fat": 21.5,
+        "fiber": 3.2,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 1.1,
+        "calcium": 63.0,
+        "potassium": 362.0,
+        "iron": 0.75,
+        "zinc": 0.86
       },
       "good_combinations": []
     },
@@ -10721,7 +10735,7 @@
       "id": "MI_GOI",
       "name": "Mì ăn liền",
       "category": "Thực phẩm chế biến sẵn",
-      "nutrition": "Sợi mì chiên qua dầu (nhiều béo bão hòa), gói gia vị chứa rất nhiều muối (natri) và chất điều vị (MSG).",
+      "nutrition": "Thành phần (100g): Năng lượng 1840kcal, Đạm 10.2g, Tinh bột 60.3g, Béo 17.6g, Chất xơ 2.9g. Vi chất nổi bật: Vit A 1µg, Beta-carotene 6µg, Vit C 0.3mg, Canxi 21mg, Kali 181mg, Kẽm 0.6mg, Folate 116µg, Sắt 4.11mg, Magiê 25mg, Phốt pho 115mg, Đồng 0.126mg, Mangan 0.63mg.",
       "benefits": [
         "Cứu đói nhanh chóng, dễ bảo quản."
       ],
@@ -10739,17 +10753,17 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 1840.0,
+        "protein": 10.2,
+        "carbs": 60.3,
+        "fat": 17.6,
+        "fiber": 2.9,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 0.3,
+        "calcium": 21.0,
+        "potassium": 181.0,
+        "iron": 4.11,
+        "zinc": 0.6
       },
       "good_combinations": []
     },
@@ -10757,7 +10771,7 @@
       "id": "XUC_XICH",
       "name": "Xúc xích công nghiệp",
       "category": "Thịt chế biến",
-      "nutrition": "Chứa nhiều chất bảo quản (nitrate, nitrite), nhiều muối và chất béo bão hòa. Ít thịt nguyên chất.",
+      "nutrition": "Thành phần (100g): Năng lượng 585kcal, Đạm 12g, Tinh bột 1.6g, Béo 9.5g, Chất xơ 0g. Vi chất nổi bật: Canxi 8mg, Kali 129mg, Kẽm 1.96mg, Sắt 1.15mg, Magiê 11mg, Phốt pho 191mg, Đồng 0.065mg, Vit C 1mg, Folate 4µg.",
       "benefits": [
         "Tiện lợi, dễ chế biến."
       ],
@@ -10775,17 +10789,17 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
+        "calories": 585.0,
+        "protein": 12.0,
+        "carbs": 1.6,
+        "fat": 9.5,
         "fiber": 0.0,
         "unit": "100g",
-        "vit_c": 0.0,
-        "calcium": 0.0,
-        "potassium": 0.0,
-        "iron": 0.0,
-        "zinc": 0.0
+        "vit_c": 1.0,
+        "calcium": 8.0,
+        "potassium": 129.0,
+        "iron": 1.15,
+        "zinc": 1.96
       },
       "good_combinations": []
     }
