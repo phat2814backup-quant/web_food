@@ -2661,8 +2661,18 @@
         "blue_zones"
       ],
       "disease_prevention": [
-        "Làm chậm quá trình lão hóa nhận thức",
-        "Ngăn ngừa các khối u ung thư vú và tuyến tiền liệt"
+        {
+          "disease": "Làm chậm quá trình lão hóa nhận thức",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Làm chậm quá trình lão hóa nhận thức"
+        },
+        {
+          "disease": "Ngăn ngừa các khối u ung thư vú và tuyến tiền liệt",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Ngăn ngừa các khối u ung thư vú và tuyến tiền liệt"
+        }
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh",
@@ -2729,8 +2739,18 @@
         "blue_zones"
       ],
       "disease_prevention": [
-        "Bảo vệ Cholesterol LDL khỏi bị oxy hóa (nguyên nhân gây xơ vữa động mạch)",
-        "Kiểm soát lượng đường trong máu"
+        {
+          "disease": "Bảo vệ Cholesterol LDL khỏi bị oxy hóa (nguyên nhân gây xơ vữa động mạch)",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Bảo vệ Cholesterol LDL khỏi bị oxy hóa (nguyên nhân gây xơ vữa động mạch)"
+        },
+        {
+          "disease": "Kiểm soát lượng đường trong máu",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Kiểm soát lượng đường trong máu"
+        }
       ],
       "super_tags": [],
       "super_tags_order": {},
@@ -5515,9 +5535,24 @@
         "intermittent_fasting"
       ],
       "disease_prevention": [
-        "Giảm viêm mãn tính toàn thân",
-        "Bảo vệ sức khỏe tim mạch, chống loạn nhịp tim",
-        "Giảm nguy cơ thoái hóa điểm vàng"
+        {
+          "disease": "Giảm viêm mãn tính toàn thân",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Giảm viêm mãn tính toàn thân"
+        },
+        {
+          "disease": "Bảo vệ sức khỏe tim mạch, chống loạn nhịp tim",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Bảo vệ sức khỏe tim mạch, chống loạn nhịp tim"
+        },
+        {
+          "disease": "Giảm nguy cơ thoái hóa điểm vàng",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Giảm nguy cơ thoái hóa điểm vàng"
+        }
       ],
       "super_tags": [
         "🛡️ Đa dụng Phòng bệnh",
@@ -10907,8 +10942,18 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 1510kcal, Đạm 0.37g, Tinh bột 0g, Béo 40g, Chất xơ 0g. Vi chất nổi bật: Kali 31mg, Kẽm 0.07mg, Magiê 2mg, Phốt pho 15mg, Đồng 0.019mg, Mangan 0.007mg, Vit A 8µg, Beta-carotene 30µg.",
       "disease_prevention": [
-        "Giảm nguy cơ đột quỵ não và nhồi máu cơ tim",
-        "Chống lại hội chứng suy giảm trí nhớ (Alzheimer)"
+        {
+          "disease": "Giảm nguy cơ đột quỵ não và nhồi máu cơ tim",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Giảm nguy cơ đột quỵ não và nhồi máu cơ tim"
+        },
+        {
+          "disease": "Chống lại hội chứng suy giảm trí nhớ (Alzheimer)",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Chống lại hội chứng suy giảm trí nhớ (Alzheimer)"
+        }
       ],
       "benefits": [
         "Chống viêm cực mạnh nhờ oleocanthal",
@@ -10960,8 +11005,18 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 160kcal, Đạm 2g, Tinh bột 8.53g, Béo 14.7g, Chất xơ 6.7g. Vi chất nổi bật: Vit C 10mg, Vit A 7µg, Beta-carotene 62µg, Sắt 0.55mg, Magiê 29mg, Phốt pho 52mg, Đồng 0.19mg, Mangan 0.142mg, Canxi 12mg, Kali 485mg, Kẽm 0.64mg, Folate 81µg.",
       "disease_prevention": [
-        "Giảm mức Cholesterol và Triglyceride",
-        "Giảm thoái hóa điểm vàng ở mắt nhờ Lutein"
+        {
+          "disease": "Giảm mức Cholesterol và Triglyceride",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Giảm mức Cholesterol và Triglyceride"
+        },
+        {
+          "disease": "Giảm thoái hóa điểm vàng ở mắt nhờ Lutein",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Giảm thoái hóa điểm vàng ở mắt nhờ Lutein"
+        }
       ],
       "benefits": [
         "Cung cấp axit béo đơn không bão hòa tốt cho tim",
@@ -11013,8 +11068,18 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 1580kcal, Đạm 20.5g, Tinh bột 63g, Béo 6.04g, Chất xơ 12.2g. Vi chất nổi bật: Beta-carotene 40µg, Vit A 3µg, Canxi 57mg, Kali 718mg, Kẽm 2.76mg, Đồng 0.656mg, Mangan 4.15mg, Sắt 4.31mg, Magiê 79mg, Phốt pho 252mg, Vit C 4mg, Folate 557µg.",
       "disease_prevention": [
-        "Kiểm soát đường huyết ở bệnh nhân tiểu đường Type 2",
-        "Ngăn ngừa sự phát triển của tế bào ung thư ruột kết"
+        {
+          "disease": "Kiểm soát đường huyết ở bệnh nhân tiểu đường Type 2",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Kiểm soát đường huyết ở bệnh nhân tiểu đường Type 2"
+        },
+        {
+          "disease": "Ngăn ngừa sự phát triển của tế bào ung thư ruột kết",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Ngăn ngừa sự phát triển của tế bào ung thư ruột kết"
+        }
       ],
       "benefits": [
         "Nguồn protein thực vật tuyệt vời",
@@ -11070,8 +11135,18 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 106kcal, Đạm 8.96g, Tinh bột 22.1g, Béo 0.55g, Chất xơ 0g. Vi chất nổi bật: Vit A 2µg, Canxi 25mg, Kali 322mg, Kẽm 1.51mg, Sắt 3.21mg, Magiê 37mg, Phốt pho 173mg, Đồng 0.352mg, Mangan 0.506mg, Vit C 16.5mg, Folate 100µg.",
       "disease_prevention": [
-        "Ngăn ngừa dị tật ống thần kinh ở thai nhi",
-        "Giảm nguy cơ bệnh tim mạch"
+        {
+          "disease": "Ngăn ngừa dị tật ống thần kinh ở thai nhi",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Ngăn ngừa dị tật ống thần kinh ở thai nhi"
+        },
+        {
+          "disease": "Giảm nguy cơ bệnh tim mạch",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Giảm nguy cơ bệnh tim mạch"
+        }
       ],
       "benefits": [
         "Chứa rất nhiều folate và sắt",
@@ -11120,8 +11195,18 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 1540kcal, Đạm 14.1g, Tinh bột 64.2g, Béo 6.07g, Chất xơ 7g. Vi chất nổi bật: Vit A 1µg, Beta-carotene 8µg, Sắt 4.57mg, Magiê 197mg, Phốt pho 457mg, Đồng 0.59mg, Mangan 2.03mg, Folate 184µg, Canxi 47mg, Kali 563mg, Kẽm 3.1mg.",
       "disease_prevention": [
-        "Ngăn ngừa tiểu đường",
-        "Giảm tần suất các cơn đau nửa đầu"
+        {
+          "disease": "Ngăn ngừa tiểu đường",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Ngăn ngừa tiểu đường"
+        },
+        {
+          "disease": "Giảm tần suất các cơn đau nửa đầu",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Giảm tần suất các cơn đau nửa đầu"
+        }
       ],
       "benefits": [
         "Chứa đầy đủ 9 axit amin thiết yếu (Protein hoàn chỉnh)",
@@ -11171,9 +11256,24 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 61kcal, Đạm 1.22g, Tinh bột 12.3g, Béo 0.76g, Chất xơ 2.6g. Vi chất nổi bật: Sắt 0.37mg, Magiê 7mg, Phốt pho 29mg, Đồng 0.03mg, Mangan 2mg, Vit C 18.3mg, Folate 33µg, Beta-carotene 69µg, Canxi 13mg, Kali 75mg, Kẽm 0.2mg, Vit A 6µg.",
       "disease_prevention": [
-        "Chống lại lão hóa não, cải thiện trí nhớ",
-        "Ngăn ngừa nhiễm trùng đường tiết niệu (UTI)",
-        "Giảm tổn thương cơ sau tập luyện"
+        {
+          "disease": "Chống lại lão hóa não, cải thiện trí nhớ",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Chống lại lão hóa não, cải thiện trí nhớ"
+        },
+        {
+          "disease": "Ngăn ngừa nhiễm trùng đường tiết niệu (UTI)",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Ngăn ngừa nhiễm trùng đường tiết niệu (UTI)"
+        },
+        {
+          "disease": "Giảm tổn thương cơ sau tập luyện",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Giảm tổn thương cơ sau tập luyện"
+        }
       ],
       "benefits": [
         "Vua chống oxy hóa (anthocyanins)",
@@ -11225,9 +11325,24 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 136kcal, Đạm 0.67g, Tinh bột 7.68g, Béo 0.3g, Chất xơ 2g. Vi chất nổi bật: Mangan 0.386mg, Beta-carotene 7µg, Kẽm 0.14mg, Magiê 13mg, Phốt pho 24mg, Đồng 0.048mg, Vit C 58.8mg, Folate 24µg, Kali 153mg, Canxi 16mg, Sắt 0.41mg, Vit A 1µg.",
       "disease_prevention": [
-        "Ngăn ngừa lão hóa da",
-        "Bảo vệ tim mạch",
-        "Kiểm soát lượng đường huyết"
+        {
+          "disease": "Ngăn ngừa lão hóa da",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Ngăn ngừa lão hóa da"
+        },
+        {
+          "disease": "Bảo vệ tim mạch",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Bảo vệ tim mạch"
+        },
+        {
+          "disease": "Kiểm soát lượng đường huyết",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Kiểm soát lượng đường huyết"
+        }
       ],
       "benefits": [
         "Nguồn vitamin C, khoáng chất",
@@ -11280,9 +11395,24 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 22kcal, Đạm 2.2g, Tinh bột 3.9g, Béo 0.3g, Chất xơ 2.8g. Vi chất nổi bật: Vit A 495µg, Sắt 1.5mg, Magiê 11mg, Phốt pho 28mg, Đồng 0.075mg, Mangan 0.407mg, Vit C 130mg, Folate 159µg, Canxi 210mg, Kali 449mg, Kẽm 0.17mg.",
       "disease_prevention": [
-        "Hạ huyết áp hiệu quả",
-        "Chống stress oxy hóa",
-        "Giảm nguy cơ ung thư tuyến tiền liệt"
+        {
+          "disease": "Hạ huyết áp hiệu quả",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Hạ huyết áp hiệu quả"
+        },
+        {
+          "disease": "Chống stress oxy hóa",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Chống stress oxy hóa"
+        },
+        {
+          "disease": "Giảm nguy cơ ung thư tuyến tiền liệt",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Giảm nguy cơ ung thư tuyến tiền liệt"
+        }
       ],
       "benefits": [
         "Giàu sắt, canxi và magie",
@@ -11339,9 +11469,24 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 28kcal, Đạm 2.98g, Tinh bột 5.06g, Béo 0.35g, Chất xơ 2.3g. Vi chất nổi bật: Canxi 48mg, Kali 325mg, Kẽm 0.4mg, Vit C 93.2mg, Folate 71µg, Sắt 0.88mg, Magiê 25mg, Phốt pho 66mg, Đồng 0.045mg, Mangan 0.229mg.",
       "disease_prevention": [
-        "Phòng chống nhiều loại ung thư (vú, tuyến tiền liệt, dạ dày)",
-        "Ngăn ngừa viêm xương khớp",
-        "Giảm tổn thương thần kinh do tiểu đường"
+        {
+          "disease": "Phòng chống nhiều loại ung thư (vú, tuyến tiền liệt, dạ dày)",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Phòng chống nhiều loại ung thư (vú, tuyến tiền liệt, dạ dày)"
+        },
+        {
+          "disease": "Ngăn ngừa viêm xương khớp",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Ngăn ngừa viêm xương khớp"
+        },
+        {
+          "disease": "Giảm tổn thương thần kinh do tiểu đường",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Giảm tổn thương thần kinh do tiểu đường"
+        }
       ],
       "benefits": [
         "Chứa Sulforaphane - một hợp chất chống ung thư tiềm năng",
@@ -11397,9 +11542,24 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 74kcal, Đạm 0.88g, Tinh bột 3.89g, Béo 0.2g, Chất xơ 1.2g. Vi chất nổi bật: Lycopene 2570µg, Vit C 13.7mg, Vit A 42µg, Canxi 10mg, Kali 237mg, Kẽm 0.17mg, Sắt 0.27mg, Magiê 11mg, Phốt pho 24mg, Đồng 0.059mg, Mangan 0.114mg, Beta-carotene 449µg, Folate 15µg.",
       "disease_prevention": [
-        "Chống lại ung thư tuyến tiền liệt nhờ Lycopene",
-        "Bảo vệ da khỏi tia UV",
-        "Ngăn ngừa thoái hóa điểm vàng"
+        {
+          "disease": "Chống lại ung thư tuyến tiền liệt nhờ Lycopene",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Chống lại ung thư tuyến tiền liệt nhờ Lycopene"
+        },
+        {
+          "disease": "Bảo vệ da khỏi tia UV",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Bảo vệ da khỏi tia UV"
+        },
+        {
+          "disease": "Ngăn ngừa thoái hóa điểm vàng",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Ngăn ngừa thoái hóa điểm vàng"
+        }
       ],
       "benefits": [
         "Thực phẩm nguyên bản tốt cho sức khỏe"
@@ -11448,9 +11608,24 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 406kcal, Đạm 9g, Tinh bột 3.98g, Béo 5g, Chất xơ 0g. Vi chất nổi bật: Magiê 11mg, Phốt pho 135mg, Đồng 0.017mg, Mangan 0.009mg, Vit A 2µg, Beta-carotene 7µg, Folate 5µg, Canxi 100mg, Kali 141mg, Kẽm 0.52mg.",
       "disease_prevention": [
-        "Tăng cường sức mạnh hệ miễn dịch",
-        "Ngăn ngừa loãng xương",
-        "Chống nhiễm nấm Candida"
+        {
+          "disease": "Tăng cường sức mạnh hệ miễn dịch",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Tăng cường sức mạnh hệ miễn dịch"
+        },
+        {
+          "disease": "Ngăn ngừa loãng xương",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Ngăn ngừa loãng xương"
+        },
+        {
+          "disease": "Chống nhiễm nấm Candida",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Chống nhiễm nấm Candida"
+        }
       ],
       "benefits": [
         "Chứa gấp đôi protein so với sữa chua thường",
@@ -11501,8 +11676,18 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 828kcal, Đạm 19.4g, Tinh bột 0g, Béo 12.7g, Chất xơ 0g. Vi chất nổi bật: Canxi 12mg, Kali 289mg, Kẽm 4.55mg, Sắt 1.99mg, Magiê 19mg, Phốt pho 175mg, Đồng 0.063mg, Mangan 0.01mg, Folate 6µg.",
       "disease_prevention": [
-        "Giảm nguy cơ ung thư so với thịt đỏ thông thường",
-        "Bổ máu, ngăn ngừa thiếu máu nhược sắc"
+        {
+          "disease": "Giảm nguy cơ ung thư so với thịt đỏ thông thường",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Giảm nguy cơ ung thư so với thịt đỏ thông thường"
+        },
+        {
+          "disease": "Bổ máu, ngăn ngừa thiếu máu nhược sắc",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Bổ máu, ngăn ngừa thiếu máu nhược sắc"
+        }
       ],
       "benefits": [
         "Chứa hàm lượng CLA (Axit linoleic liên hợp) cao gấp đôi bò ăn hạt",
@@ -11557,9 +11742,24 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 599kcal, Đạm 12.6g, Tinh bột 0.72g, Béo 9.51g, Chất xơ 0g. Vi chất nổi bật: Sắt 1.75mg, Magiê 12mg, Phốt pho 198mg, Đồng 0.072mg, Mangan 0.028mg, Vit A 160µg, Canxi 56mg, Kali 138mg, Kẽm 1.29mg, Folate 47µg.",
       "disease_prevention": [
-        "Bảo vệ thị lực nhờ Lutein và Zeaxanthin",
-        "Hỗ trợ chức năng não bộ",
-        "Giảm nguy cơ đột quỵ"
+        {
+          "disease": "Bảo vệ thị lực nhờ Lutein và Zeaxanthin",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Bảo vệ thị lực nhờ Lutein và Zeaxanthin"
+        },
+        {
+          "disease": "Hỗ trợ chức năng não bộ",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Hỗ trợ chức năng não bộ"
+        },
+        {
+          "disease": "Giảm nguy cơ đột quỵ",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Giảm nguy cơ đột quỵ"
+        }
       ],
       "benefits": [
         "Cung cấp protein hoàn chỉnh",
@@ -11608,9 +11808,24 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 1480kcal, Đạm 3.33g, Tinh bột 15.2g, Béo 33.5g, Chất xơ 9g. Vi chất nổi bật: Sắt 2.43mg, Magiê 32mg, Phốt pho 113mg, Đồng 0.435mg, Mangan 1.5mg, Vit C 3.3mg, Folate 26µg, Canxi 14mg, Kali 356mg, Kẽm 1.1mg.",
       "disease_prevention": [
-        "Kháng khuẩn và nấm nhờ axit lauric",
-        "Hỗ trợ sức khỏe tim mạch",
-        "Ngăn ngừa sỏi thận (nước dừa)"
+        {
+          "disease": "Kháng khuẩn và nấm nhờ axit lauric",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Kháng khuẩn và nấm nhờ axit lauric"
+        },
+        {
+          "disease": "Hỗ trợ sức khỏe tim mạch",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Hỗ trợ sức khỏe tim mạch"
+        },
+        {
+          "disease": "Ngăn ngừa sỏi thận (nước dừa)",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Ngăn ngừa sỏi thận (nước dừa)"
+        }
       ],
       "benefits": [
         "Cung cấp điện giải",
@@ -11658,8 +11873,18 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 39kcal, Đạm 1.23g, Tinh bột 10g, Béo 0.07g, Chất xơ 0g. Vi chất nổi bật: Vit A 167µg, Sắt 0.58mg, Magiê 9mg, Phốt pho 14mg, Đồng 0.036mg, Mangan 0.173mg, Vit C 3.5mg, Folate 16µg, Canxi 19mg, Kali 133mg, Kẽm 0.12mg.",
       "disease_prevention": [
-        "Tăng cường hấp thu vitamin A, D, E, K",
-        "Bảo vệ niêm mạc ruột nhờ axit butyric"
+        {
+          "disease": "Tăng cường hấp thu vitamin A, D, E, K",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Tăng cường hấp thu vitamin A, D, E, K"
+        },
+        {
+          "disease": "Bảo vệ niêm mạc ruột nhờ axit butyric",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Bảo vệ niêm mạc ruột nhờ axit butyric"
+        }
       ],
       "benefits": [
         "Cung cấp vitamin tan trong dầu",
@@ -11708,8 +11933,18 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 518kcal, Đạm 9.34g, Tinh bột 0g, Béo 53g, Chất xơ 0g. Vi chất nổi bật: Vit A 3µg, Folate 1µg, Canxi 5mg, Kali 185mg, Kẽm 1.02mg, Vit C 0.3mg, Sắt 0.52mg, Magiê 4mg, Phốt pho 108mg, Đồng 0.052mg, Mangan 0.006mg.",
       "disease_prevention": [
-        "Cung cấp năng lượng mạnh mẽ",
-        "Hỗ trợ hấp thu các vitamin tan trong mỡ"
+        {
+          "disease": "Cung cấp năng lượng mạnh mẽ",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Cung cấp năng lượng mạnh mẽ"
+        },
+        {
+          "disease": "Hỗ trợ hấp thu các vitamin tan trong mỡ",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Hỗ trợ hấp thu các vitamin tan trong mỡ"
+        }
       ],
       "benefits": [
         "Cung cấp protein",
@@ -11759,8 +11994,18 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 463kcal, Đạm 9.85g, Tinh bột 66.5g, Béo 16.9g, Chất xơ 3.6g. Vi chất nổi bật: Vit A 56µg, Beta-carotene 18µg, Sắt 0.92mg, Canxi 197mg, Folate 8µg, Kali 130mg, Kẽm 0.73mg, Đồng 0.119mg, Mangan 0.448mg, Magiê 22mg, Phốt pho 143mg.",
       "disease_prevention": [
-        "Ngăn ngừa sâu răng (tăng pH trong miệng)",
-        "Giảm nguy cơ loãng xương"
+        {
+          "disease": "Ngăn ngừa sâu răng (tăng pH trong miệng)",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Ngăn ngừa sâu răng (tăng pH trong miệng)"
+        },
+        {
+          "disease": "Giảm nguy cơ loãng xương",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Giảm nguy cơ loãng xương"
+        }
       ],
       "benefits": [
         "Chứa nhiều Vitamin K2 giúp điều hướng canxi vào xương thay vì mạch máu",
@@ -11812,9 +12057,24 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 197kcal, Đạm 0.94g, Tinh bột 11.8g, Béo 0.12g, Chất xơ 2.4g. Vi chất nổi bật: Vit A 11µg, Beta-carotene 71µg, Canxi 40mg, Kali 181mg, Kẽm 0.07mg, Vit C 53.2mg, Folate 30µg, Sắt 0.1mg, Magiê 10mg, Phốt pho 14mg, Đồng 0.045mg, Mangan 0.025mg.",
       "disease_prevention": [
-        "Tăng cường miễn dịch mạnh mẽ",
-        "Ngăn ngừa thiếu máu (giúp hấp thu sắt)",
-        "Bảo vệ DNA tế bào"
+        {
+          "disease": "Tăng cường miễn dịch mạnh mẽ",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Tăng cường miễn dịch mạnh mẽ"
+        },
+        {
+          "disease": "Ngăn ngừa thiếu máu (giúp hấp thu sắt)",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Ngăn ngừa thiếu máu (giúp hấp thu sắt)"
+        },
+        {
+          "disease": "Bảo vệ DNA tế bào",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Bảo vệ DNA tế bào"
+        }
       ],
       "benefits": [
         "Nguồn vitamin C, khoáng chất",
@@ -11865,9 +12125,24 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 29kcal, Đạm 1.1g, Tinh bột 9.32g, Béo 0.3g, Chất xơ 2.8g. Vi chất nổi bật: Beta-carotene 3µg, Vit A 1µg, Vit C 53mg, Folate 11µg, Sắt 0.6mg, Magiê 8mg, Phốt pho 16mg, Đồng 0.037mg, Mangan 0.03mg, Canxi 26mg, Kali 138mg, Kẽm 0.06mg.",
       "disease_prevention": [
-        "Kiềm hóa cơ thể",
-        "Ngăn ngừa sỏi thận (nhờ axit citric)",
-        "Giải độc gan"
+        {
+          "disease": "Kiềm hóa cơ thể",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Kiềm hóa cơ thể"
+        },
+        {
+          "disease": "Ngăn ngừa sỏi thận (nhờ axit citric)",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Ngăn ngừa sỏi thận (nhờ axit citric)"
+        },
+        {
+          "disease": "Giải độc gan",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Giải độc gan"
+        }
       ],
       "benefits": [
         "Nguồn vitamin C, khoáng chất",
@@ -11918,9 +12193,24 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 127kcal, Đạm 0.61g, Tinh bột 7.55g, Béo 0.15g, Chất xơ 0.4g. Vi chất nổi bật: Sắt 0.24mg, Magiê 10mg, Phốt pho 11mg, Đồng 0.042mg, Mangan 0.038mg, Vit A 28µg, Beta-carotene 303µg, Lycopene 4530µg, Vit C 8.1mg, Folate 3µg, Canxi 7mg, Kẽm 0.1mg, Kali 112mg.",
       "disease_prevention": [
-        "Giảm viêm và căng thẳng oxy hóa",
-        "Giảm huyết áp",
-        "Làm dịu đau nhức cơ bắp"
+        {
+          "disease": "Giảm viêm và căng thẳng oxy hóa",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Giảm viêm và căng thẳng oxy hóa"
+        },
+        {
+          "disease": "Giảm huyết áp",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Giảm huyết áp"
+        },
+        {
+          "disease": "Làm dịu đau nhức cơ bắp",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Làm dịu đau nhức cơ bắp"
+        }
       ],
       "benefits": [
         "Nguồn vitamin C, khoáng chất",
@@ -11971,9 +12261,24 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 89kcal, Đạm 1.09g, Tinh bột 22.8g, Béo 0.33g, Chất xơ 2.6g. Vi chất nổi bật: Vit A 3µg, Vit C 8.7mg, Folate 20µg, Beta-carotene 26µg, Sắt 0.26mg, Magiê 27mg, Phốt pho 22mg, Đồng 0.078mg, Mangan 0.27mg, Canxi 5mg, Kali 358mg, Kẽm 0.15mg.",
       "disease_prevention": [
-        "Giảm huyết áp nhờ Kali",
-        "Cải thiện sức khỏe tiêu hóa",
-        "Phòng ngừa trầm cảm (nhờ tryptophan)"
+        {
+          "disease": "Giảm huyết áp nhờ Kali",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Giảm huyết áp nhờ Kali"
+        },
+        {
+          "disease": "Cải thiện sức khỏe tiêu hóa",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Cải thiện sức khỏe tiêu hóa"
+        },
+        {
+          "disease": "Phòng ngừa trầm cảm (nhờ tryptophan)",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Phòng ngừa trầm cảm (nhờ tryptophan)"
+        }
       ],
       "benefits": [
         "Nguồn vitamin C, khoáng chất",
@@ -12023,9 +12328,24 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 288kcal, Đạm 0.72g, Tinh bột 18.1g, Béo 0.16g, Chất xơ 0.9g. Vi chất nổi bật: Canxi 10mg, Kali 191mg, Folate 2µg, Mangan 0.071mg, Vit A 3µg, Sắt 0.36mg, Magiê 7mg, Phốt pho 20mg, Đồng 0.127mg, Kẽm 0.07mg, Vit C 3.2mg, Beta-carotene 39µg.",
       "disease_prevention": [
-        "Ngăn ngừa ung thư nhờ Resveratrol (trong vỏ)",
-        "Bảo vệ tim mạch",
-        "Giảm dị ứng"
+        {
+          "disease": "Ngăn ngừa ung thư nhờ Resveratrol (trong vỏ)",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Ngăn ngừa ung thư nhờ Resveratrol (trong vỏ)"
+        },
+        {
+          "disease": "Bảo vệ tim mạch",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Bảo vệ tim mạch"
+        },
+        {
+          "disease": "Giảm dị ứng",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Giảm dị ứng"
+        }
       ],
       "benefits": [
         "Nguồn vitamin C, khoáng chất",
@@ -12075,9 +12395,24 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 141kcal, Đạm 0.84g, Tinh bột 8.16g, Béo 0.19g, Chất xơ 0.9g. Vi chất nổi bật: Kali 267mg, Vit C 36.7mg, Folate 21µg, Sắt 0.21mg, Magiê 12mg, Phốt pho 15mg, Đồng 0.041mg, Mangan 0.041mg, Vit A 169µg, Beta-carotene 2020µg, Canxi 9mg, Kẽm 0.18mg.",
       "disease_prevention": [
-        "Ngăn ngừa dị tật thai nhi (giàu folate)",
-        "Bảo vệ thị lực",
-        "Làm đẹp da"
+        {
+          "disease": "Ngăn ngừa dị tật thai nhi (giàu folate)",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Ngăn ngừa dị tật thai nhi (giàu folate)"
+        },
+        {
+          "disease": "Bảo vệ thị lực",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Bảo vệ thị lực"
+        },
+        {
+          "disease": "Làm đẹp da",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Làm đẹp da"
+        }
       ],
       "benefits": [
         "Nguồn vitamin C, khoáng chất",
@@ -12129,9 +12464,24 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 141kcal, Đạm 2.24g, Tinh bột 6.79g, Béo 0.49g, Chất xơ 2.5g. Vi chất nổi bật: Folate 13µg, Kali 304mg, Kẽm 1.03mg, Canxi 2mg, Đồng 0.142mg, Mangan 0.23mg, Sắt 0.41mg, Magiê 20mg, Phốt pho 112mg.",
       "disease_prevention": [
-        "Tăng cường hệ miễn dịch",
-        "Chống ung thư",
-        "Giảm mỡ máu"
+        {
+          "disease": "Tăng cường hệ miễn dịch",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Tăng cường hệ miễn dịch"
+        },
+        {
+          "disease": "Chống ung thư",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Chống ung thư"
+        },
+        {
+          "disease": "Giảm mỡ máu",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Giảm mỡ máu"
+        }
       ],
       "benefits": [
         "Tăng cường miễn dịch",
@@ -12182,9 +12532,24 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 111kcal, Đạm 0.99g, Tinh bột 6.03g, Béo 0.3g, Chất xơ 2.1g. Vi chất nổi bật: Folate 46µg, Beta-carotene 1620µg, Vit C 128mg, Vit A 157µg, Mangan 0.112mg, Đồng 0.017mg, Sắt 0.43mg, Magiê 12mg, Phốt pho 26mg, Canxi 7mg, Kali 211mg, Kẽm 0.25mg.",
       "disease_prevention": [
-        "Ngăn ngừa ung thư nhờ chất chống oxy hóa cao",
-        "Bảo vệ mắt",
-        "Ngăn ngừa thiếu máu"
+        {
+          "disease": "Ngăn ngừa ung thư nhờ chất chống oxy hóa cao",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Ngăn ngừa ung thư nhờ chất chống oxy hóa cao"
+        },
+        {
+          "disease": "Bảo vệ mắt",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Bảo vệ mắt"
+        },
+        {
+          "disease": "Ngăn ngừa thiếu máu",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Ngăn ngừa thiếu máu"
+        }
       ],
       "benefits": [
         "Cung cấp chất xơ, vitamin",
@@ -12236,9 +12601,24 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 86kcal, Đạm 3.27g, Tinh bột 18.7g, Béo 1.35g, Chất xơ 2g. Vi chất nổi bật: Folate 42µg, Sắt 0.52mg, Magiê 37mg, Phốt pho 89mg, Đồng 0.054mg, Mangan 0.163mg, Canxi 2mg, Kali 270mg, Kẽm 0.46mg, Vit A 9µg, Beta-carotene 47µg, Vit C 6.8mg.",
       "disease_prevention": [
-        "Bảo vệ sức khỏe ruột",
-        "Bảo vệ mắt nhờ lutein",
-        "Ngăn ngừa bệnh tim"
+        {
+          "disease": "Bảo vệ sức khỏe ruột",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Bảo vệ sức khỏe ruột"
+        },
+        {
+          "disease": "Bảo vệ mắt nhờ lutein",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Bảo vệ mắt nhờ lutein"
+        },
+        {
+          "disease": "Ngăn ngừa bệnh tim",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Ngăn ngừa bệnh tim"
+        }
       ],
       "benefits": [
         "Cung cấp chất xơ, vitamin",
@@ -12289,9 +12669,24 @@
       ],
       "nutrition": "Thành phần (100g): Năng lượng 567kcal, Đạm 25.8g, Tinh bột 16.1g, Béo 49.2g, Chất xơ 8.5g. Vi chất nổi bật: Đồng 1.14mg, Mangan 1.93mg, Folate 240µg, Sắt 4.58mg, Magiê 168mg, Phốt pho 376mg, Canxi 92mg, Kali 705mg, Kẽm 3.27mg.",
       "disease_prevention": [
-        "Bảo vệ tim mạch",
-        "Ngăn ngừa sỏi mật",
-        "Hỗ trợ kiểm soát cân nặng"
+        {
+          "disease": "Bảo vệ tim mạch",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Bảo vệ tim mạch"
+        },
+        {
+          "disease": "Ngăn ngừa sỏi mật",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Ngăn ngừa sỏi mật"
+        },
+        {
+          "disease": "Hỗ trợ kiểm soát cân nặng",
+          "effect": "Hỗ trợ cải thiện",
+          "evidence_level": "Tham khảo lâm sàng",
+          "explanation": "Hỗ trợ kiểm soát cân nặng"
+        }
       ],
       "benefits": [
         "Cung cấp đạm thực vật",

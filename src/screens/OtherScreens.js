@@ -138,8 +138,8 @@ export function FoodDetailScreen({ route, navigation }) {
   const inMeal = meal.find(f => f.id === food.id);
   const isHarmful = (food.main_category || '').includes('Nhóm 11') || (food.main_category || '').includes('Gây hại');
 
-  const cures = (food.cures || []).map(dId => diseasesData.find(d => d.id === dId)).filter(Boolean);
-  const avoids = (food.avoids || []).map(dId => diseasesData.find(d => d.id === dId)).filter(Boolean);
+  const cures = (food.cures || []).map(dId => diseasesData.find(d => d.id === dId) || (typeof dId === 'string' ? { id: 'custom_' + dId, name: dId } : null)).filter(Boolean);
+  const avoids = (food.avoids || []).map(dId => diseasesData.find(d => d.id === dId) || (typeof dId === 'string' ? { id: 'custom_' + dId, name: dId } : null)).filter(Boolean);
   const diets = (food.diets || []).map(dId => dietsData.find(d => d.id === dId)).filter(Boolean);
 
   return (
@@ -222,8 +222,8 @@ export function FoodDetailScreen({ route, navigation }) {
         <SectionCard title="Nên kết hợp" icon="✅" color="#2ecc71" theme={theme}>
           {food.good_combinations.map((c, i) => (
             <View key={i} style={styles.comboItem}>
-              <Text style={styles.comboFoodGood}>{c.food}</Text>
-              <Text style={[styles.comboReason, { color: theme.text }]}>{c.reason}</Text>
+              <Text style={styles.comboFoodGood}>{typeof c === 'string' ? c : c.food}</Text>
+              {typeof c !== 'string' && c.reason && <Text style={[styles.comboReason, { color: theme.text }]}>{c.reason}</Text>}
             </View>
           ))}
         </SectionCard>
@@ -233,8 +233,8 @@ export function FoodDetailScreen({ route, navigation }) {
         <SectionCard title="Không nên kết hợp" icon="❌" color="#e67e22" theme={theme}>
           {food.bad_combinations.map((c, i) => (
             <View key={i} style={styles.comboItem}>
-              <Text style={styles.comboFoodBad}>{c.food_name || c.food}</Text>
-              <Text style={[styles.comboReason, { color: theme.text }]}>{c.reason}</Text>
+              <Text style={styles.comboFoodBad}>{typeof c === 'string' ? c : c.food}</Text>
+              {typeof c !== 'string' && c.reason && <Text style={[styles.comboReason, { color: theme.text }]}>{c.reason}</Text>}
             </View>
           ))}
         </SectionCard>
