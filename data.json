@@ -2645,7 +2645,7 @@
         "https://www.vinmec.com/vie/bai-viet/cac-loai-hat-an-vat-cho-ba-bau-vi",
         "https://medlatec.vn/tin-tuc/diem-danh-cac-loai-hat-dinh-duong-tot-cho-suc-khoe-s51-n32907"
       ],
-      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
+      "main_category": "🟡 Nhóm 3: Đậu, Hạt & Ngũ cốc nguyên hạt",
       "cures": [
         "Người suy giảm trí nhớ",
         "Người cần tăng cường chất lượng tinh trùng"
@@ -2713,7 +2713,7 @@
         "https://www.vinmec.com/vie/bai-viet/cac-loai-hat-an-vat-cho-ba-bau-vi",
         "https://medlatec.vn/tin-tuc/diem-danh-cac-loai-hat-dinh-duong-tot-cho-suc-khoe-s51-n32907"
       ],
-      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
+      "main_category": "🟡 Nhóm 3: Đậu, Hạt & Ngũ cốc nguyên hạt",
       "cures": [
         "Bệnh nhân tiểu đường loại 2",
         "Người có Cholesterol cao"
@@ -5497,7 +5497,7 @@
         "https://www.aia.com.vn/vi/song-khoe/loi-khuyen/dinh-duong/ca-hoi-co-tac-dung-gi.html",
         "https://www.vinmec.com/vie/bai-viet/loai-ca-nao-de-gay-di-ung-nhat-vi"
       ],
-      "main_category": "Nhóm 5 - Thịt, Cá, Thủy hải sản",
+      "main_category": "🔵 Nhóm 7: Hải sản & Thủy sản giàu Omega-3, Khoáng chất",
       "cures": [
         "Người bệnh viêm khớp dạng thấp",
         "Bệnh nhân tim mạch",
@@ -10896,7 +10896,7 @@
       "id": "food_d07067ea",
       "name": "Dầu ô liu nguyên chất",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 4 - Chất béo (Dầu, Mỡ, Bơ)",
+      "main_category": "🟤 Nhóm 5: Thảo mộc, Gia vị & Dược liệu hàng ngày",
       "icon": "🫒",
       "diets": [
         "mediterranean",
@@ -10950,7 +10950,7 @@
       "id": "food_5a9655d0",
       "name": "Quả bơ",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 3 - Trái cây",
+      "main_category": "🔴 Nhóm 4: Trái cây tươi siêu dinh dưỡng",
       "icon": "🥑",
       "diets": [
         "mediterranean",
@@ -11003,7 +11003,7 @@
       "id": "food_08d0f953",
       "name": "Đậu gà",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
+      "main_category": "🟡 Nhóm 3: Đậu, Hạt & Ngũ cốc nguyên hạt",
       "icon": "🧆",
       "diets": [
         "mediterranean",
@@ -11060,7 +11060,7 @@
       "id": "food_c2edae3b",
       "name": "Đậu lăng",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
+      "main_category": "🟡 Nhóm 3: Đậu, Hạt & Ngũ cốc nguyên hạt",
       "icon": "🫘",
       "diets": [
         "mediterranean",
@@ -11111,7 +11111,7 @@
       "id": "food_7940c00d",
       "name": "Hạt diêm mạch (Quinoa)",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 1 - Lương thực (Gạo, Ngô, Khoai, Sắn)",
+      "main_category": "🟡 Nhóm 3: Đậu, Hạt & Ngũ cốc nguyên hạt",
       "icon": "🍚",
       "diets": [
         "mediterranean",
@@ -11161,7 +11161,7 @@
       "id": "food_4d1ea658",
       "name": "Quả việt quất",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 3 - Trái cây",
+      "main_category": "🔴 Nhóm 4: Trái cây tươi siêu dinh dưỡng",
       "icon": "🫐",
       "diets": [
         "mind",
@@ -11215,7 +11215,7 @@
       "id": "food_3b628259",
       "name": "Dâu tây",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 3 - Trái cây",
+      "main_category": "🔴 Nhóm 4: Trái cây tươi siêu dinh dưỡng",
       "icon": "🍓",
       "diets": [
         "mind",
@@ -11269,7 +11269,7 @@
       "id": "food_b4a7e4df",
       "name": "Rau bó xôi (Spinach)",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
+      "main_category": "🟢 Nhóm 1: Rau lá xanh & Bổ dưỡng dân dã",
       "icon": "🥬",
       "diets": [
         "mediterranean",
@@ -11328,7 +11328,7 @@
       "id": "food_38ef24c9",
       "name": "Bông cải xanh",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
+      "main_category": "🟢 Nhóm 1: Rau lá xanh & Bổ dưỡng dân dã",
       "icon": "🥦",
       "diets": [
         "mediterranean",
@@ -11387,7 +11387,7 @@
       "id": "food_304bceda",
       "name": "Cà chua bi",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
+      "main_category": "🔴 Nhóm 4: Trái cây tươi siêu dinh dưỡng",
       "icon": "🍅",
       "diets": [
         "mediterranean",
@@ -11439,7 +11439,7 @@
       "id": "food_5237cbb7",
       "name": "Sữa chua Hy Lạp",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 6 - Sữa và các chế phẩm từ sữa",
+      "main_category": "🟢 Nhóm 9: Thực phẩm lên men & Đồ uống dưỡng sinh",
       "icon": "🥣",
       "diets": [
         "mediterranean",
@@ -11492,7 +11492,7 @@
       "id": "food_d71ca5d6",
       "name": "Thịt bò ăn cỏ",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 5 - Thịt, Cá, Thủy hải sản",
+      "main_category": "🟣 Nhóm 8: Đạm lành mạnh & Thực phẩm bổ dưỡng",
       "icon": "🥩",
       "diets": [
         "keto",
@@ -11547,7 +11547,7 @@
       "id": "food_8ddec27c",
       "name": "Trứng gà",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 5 - Thịt, Cá, Thủy hải sản",
+      "main_category": "🟣 Nhóm 8: Đạm lành mạnh & Thực phẩm bổ dưỡng",
       "icon": "🥚",
       "diets": [
         "keto",
@@ -11600,7 +11600,7 @@
       "id": "food_573e7c55",
       "name": "Dừa tươi",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 3 - Trái cây",
+      "main_category": "🔴 Nhóm 4: Trái cây tươi siêu dinh dưỡng",
       "icon": "🥥",
       "diets": [
         "keto",
@@ -11651,7 +11651,7 @@
       "id": "food_c07cb81d",
       "name": "Bơ lạt (Butter)",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 4 - Chất béo (Dầu, Mỡ, Bơ)",
+      "main_category": "🟣 Nhóm 8: Đạm lành mạnh & Thực phẩm bổ dưỡng",
       "icon": "🥑",
       "diets": [
         "keto"
@@ -11701,7 +11701,7 @@
       "id": "food_848616dd",
       "name": "Thịt ba chỉ heo",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 5 - Thịt, Cá, Thủy hải sản",
+      "main_category": "🟣 Nhóm 8: Đạm lành mạnh & Thực phẩm bổ dưỡng",
       "icon": "🥓",
       "diets": [
         "keto"
@@ -11752,7 +11752,7 @@
       "id": "food_56c5160a",
       "name": "Phô mai Cheddar",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 6 - Sữa và các chế phẩm từ sữa",
+      "main_category": "🟢 Nhóm 9: Thực phẩm lên men & Đồ uống dưỡng sinh",
       "icon": "🧀",
       "diets": [
         "keto"
@@ -11803,7 +11803,7 @@
       "id": "food_84f0a24e",
       "name": "Cam",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 3 - Trái cây",
+      "main_category": "🔴 Nhóm 4: Trái cây tươi siêu dinh dưỡng",
       "icon": "🍊",
       "diets": [
         "mediterranean",
@@ -11856,7 +11856,7 @@
       "id": "food_daffec8b",
       "name": "Chanh",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 3 - Trái cây",
+      "main_category": "🔴 Nhóm 4: Trái cây tươi siêu dinh dưỡng",
       "icon": "🍋",
       "diets": [
         "mediterranean",
@@ -11910,7 +11910,7 @@
       "id": "food_6b9d0c17",
       "name": "Dưa hấu",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 3 - Trái cây",
+      "main_category": "🔴 Nhóm 4: Trái cây tươi siêu dinh dưỡng",
       "icon": "🍉",
       "diets": [
         "dash",
@@ -11962,7 +11962,7 @@
       "id": "food_638705bc",
       "name": "Chuối",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 3 - Trái cây",
+      "main_category": "🔴 Nhóm 4: Trái cây tươi siêu dinh dưỡng",
       "icon": "🍌",
       "diets": [
         "dash",
@@ -12015,7 +12015,7 @@
       "id": "food_ed7a61d8",
       "name": "Nho",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 3 - Trái cây",
+      "main_category": "🔴 Nhóm 4: Trái cây tươi siêu dinh dưỡng",
       "icon": "🍇",
       "diets": [
         "mediterranean",
@@ -12067,7 +12067,7 @@
       "id": "food_3332c802",
       "name": "Dưa lưới",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 3 - Trái cây",
+      "main_category": "🔴 Nhóm 4: Trái cây tươi siêu dinh dưỡng",
       "icon": "🍈",
       "diets": [
         "dash",
@@ -12119,7 +12119,7 @@
       "id": "food_e619646b",
       "name": "Nấm hương",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
+      "main_category": "🍄 Nhóm 6: Các loại nấm ăn & Nấm dược liệu",
       "icon": "🍄",
       "diets": [
         "mediterranean",
@@ -12172,7 +12172,7 @@
       "id": "food_947094dc",
       "name": "Ớt chuông",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
+      "main_category": "🟢 Nhóm 1: Rau lá xanh & Bổ dưỡng dân dã",
       "icon": "🌶️",
       "diets": [
         "mediterranean",
@@ -12228,7 +12228,7 @@
       "id": "food_1f715328",
       "name": "Ngô ngọt",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
+      "main_category": "🟡 Nhóm 3: Đậu, Hạt & Ngũ cốc nguyên hạt",
       "icon": "🌽",
       "diets": [
         "blue_zones",
@@ -12280,7 +12280,7 @@
       "id": "food_a4bccdc5",
       "name": "Đậu phộng (Lạc)",
       "category": "Thực phẩm bổ sung",
-      "main_category": "Nhóm 2 - Rau, Củ, Quả, Đậu, Đỗ",
+      "main_category": "🟡 Nhóm 3: Đậu, Hạt & Ngũ cốc nguyên hạt",
       "icon": "🥜",
       "diets": [
         "blue_zones",
