@@ -136,14 +136,15 @@ export function FoodDetailScreen({ route, navigation }) {
   const { food } = route.params;
   const { meal, addToMeal, removeFromMeal } = useContext(MealContext);
   const inMeal = meal.find(f => f.id === food.id);
+  const isHarmful = (food.main_category || '').includes('Nhóm 11') || (food.main_category || '').includes('Gây hại');
 
   const cures = (food.cures || []).map(dId => diseasesData.find(d => d.id === dId)).filter(Boolean);
   const avoids = (food.avoids || []).map(dId => diseasesData.find(d => d.id === dId)).filter(Boolean);
   const diets = (food.diets || []).map(dId => dietsData.find(d => d.id === dId)).filter(Boolean);
 
   return (
-    <ScrollView style={[styles.container, { backgroundColor: theme.bg }]} contentContainerStyle={styles.detailContent}>
-      <Text style={[styles.detailTitle, { color: theme.text }]}>{food.name}</Text>
+    <ScrollView style={[styles.container, { backgroundColor: isHarmful ? '#fbe9e7' : theme.bg }]} contentContainerStyle={styles.detailContent}>
+      <Text style={[styles.detailTitle, { color: isHarmful ? '#c0392b' : theme.text }]}>{food.name}</Text>
       
       {food.super_tags && food.super_tags.length > 0 && (
         <View style={{flexDirection: 'row', justifyContent: 'center', flexWrap: 'wrap', gap: 8, marginBottom: 16}}>
@@ -154,11 +155,11 @@ export function FoodDetailScreen({ route, navigation }) {
       )}
 
       <TouchableOpacity 
-        style={{ backgroundColor: inMeal ? '#e74c3c' : theme.primary, padding: 16, borderRadius: 12, alignItems: 'center', marginBottom: 16 }}
+        style={{ backgroundColor: inMeal ? '#95a5a6' : (isHarmful ? '#e74c3c' : theme.primary), padding: 16, borderRadius: 12, alignItems: 'center', marginBottom: 16 }}
         onPress={() => inMeal ? removeFromMeal(food.id) : addToMeal(food)}
       >
         <Text style={{ color: '#fff', fontWeight: 'bold', fontSize: 16 }}>
-          {inMeal ? '❌ Xóa khỏi Thực đơn' : '🛒 Thêm vào Thực đơn'}
+          {inMeal ? '❌ Xóa khỏi Thực đơn' : (isHarmful ? '⚠️ Cảnh báo: Thêm vào Thực đơn' : '🛒 Thêm vào Thực đơn')}
         </Text>
       </TouchableOpacity>
 

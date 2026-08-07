@@ -39,26 +39,30 @@ export const FoodRow = ({ item, onPress, theme }) => (
   </TouchableOpacity>
 );
 
-export const FoodGridItem = ({ item, onPress, theme }) => (
+export const FoodGridItem = ({ item, onPress, theme }) => {
+  const isHarmful = (item.main_category || '').includes('Nhóm 11') || (item.main_category || '').includes('Gây hại');
+  return (
   <TouchableOpacity 
     style={{ 
       width: 105, 
-      backgroundColor: theme.cardBg, 
+      backgroundColor: isHarmful ? '#fbe9e7' : theme.cardBg, 
       borderRadius: 12, 
       padding: 10, 
       alignItems: 'center', 
       marginBottom: 10, 
       marginRight: 6,
       borderWidth: 1, 
-      borderColor: theme.border,
+      borderColor: isHarmful ? '#ffcdd2' : theme.border,
       justifyContent: 'center'
     }} 
     onPress={onPress}
   >
-    <Text style={{ fontSize: 36, marginBottom: 8 }}>{item.icon || iconForCategory(item.main_category + ' ' + item.category)}</Text>
-    <Text style={{ fontSize: 13, fontWeight: 'bold', color: theme.text, textAlign: 'center' }} numberOfLines={2}>{item.name}</Text>
+    <Text style={{ fontSize: 40, marginBottom: 8 }}>{item.icon}</Text>
+    <Text style={{ fontSize: 13, fontWeight: 'bold', color: isHarmful ? '#c0392b' : theme.text, textAlign: 'center' }} numberOfLines={2}>
+      {item.name}
+    </Text>
   </TouchableOpacity>
-);
+)};
 
 export const SectionCard = ({ title, icon, color, children, theme }) => (
   <View style={[styles.sectionCard, { backgroundColor: theme.cardBg }]}>
