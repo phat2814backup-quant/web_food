@@ -1,7 +1,7 @@
 import React, { useState, useMemo } from 'react';
 import { SafeAreaView, View, TextInput, ScrollView, TouchableOpacity, Text, SectionList, useColorScheme } from 'react-native';
 import { getTheme, commonStyles as styles } from '../styles/theme';
-import { FoodRow, removeDiacritics } from '../components/Shared';
+import { FoodRow, FoodGridItem, removeDiacritics } from '../components/Shared';
 import db from '../../data.json';
 
 const foodData = db.foods || [];
@@ -51,7 +51,7 @@ export default function HomeScreen({ navigation }) {
             const valB = b.nutrition_data?.[topField] || 0;
             return valB - valA;
          });
-         return [{ title: `Top 10 thực phẩm chứa nhiều ${topName} nhất`, data: filteredFoods.slice(0, 10) }];
+         return [{ title: `Top 10 thực phẩm chứa nhiều ${topName} nhất`, data: [filteredFoods.slice(0, 10)] }];
       }
 
       const searchWords = searchNormalized.split(' ').filter(Boolean);
@@ -113,7 +113,7 @@ export default function HomeScreen({ navigation }) {
     // If searching or filtering, we display it as a single flat list to respect the sort order!
     if (searchText || activeFilter !== 'Tất cả') {
       const title = searchText ? 'Kết quả tìm kiếm' : `Top thực phẩm: ${activeFilter}`;
-      return [{ title, data: filteredFoods }];
+      return [{ title, data: [filteredFoods] }];
     }
 
     const grouped = filteredFoods.reduce((acc, food) => {
@@ -125,7 +125,7 @@ export default function HomeScreen({ navigation }) {
 
     return Object.keys(grouped).map(key => ({
       title: key,
-      data: grouped[key]
+      data: [grouped[key]]
     }));
   }, [searchText, activeFilter]);
 
@@ -168,8 +168,14 @@ export default function HomeScreen({ navigation }) {
       </View>
       <SectionList
         sections={sectionsData}
-        keyExtractor={(item) => item.id}
-        renderItem={({ item }) => <FoodRow item={item} theme={theme} onPress={() => navigation.navigate('FoodDetail', { food: item })} />}
+        keyExtractor={(item, index) => index.toString()}
+        renderItem={({ item }) => (
+          <View style={{ flexDirection: 'row', flexWrap: 'wrap', paddingHorizontal: 8, justifyContent: 'flex-start' }}>
+            {item.map(f => (
+              <FoodGridItem key={f.id} item={f} theme={theme} onPress={() => navigation.navigate('FoodDetail', { food: f })} />
+            ))}
+          </View>
+        )}
         renderSectionHeader={({ section: { title } }) => (
           <View style={styles.sectionListHeader}><Text style={styles.sectionListHeaderText}>{title}</Text></View>
         )}

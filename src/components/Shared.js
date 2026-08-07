@@ -24,7 +24,7 @@ export const iconForCategory = (category) => {
 
 export const FoodRow = ({ item, onPress, theme }) => (
   <TouchableOpacity style={[styles.foodRow, { backgroundColor: theme.cardBg, borderColor: theme.border }]} onPress={onPress}>
-    <Text style={styles.foodIcon}>{iconForCategory(item.main_category + ' ' + item.category)}</Text>
+    <Text style={styles.foodIcon}>{item.icon || iconForCategory(item.main_category + ' ' + item.category)}</Text>
     <View style={styles.foodInfo}>
       <Text style={[styles.foodName, { color: theme.text }]}>{item.name}</Text>
       <Text style={[styles.foodSummary, { color: theme.textMuted }]} numberOfLines={2}>{item.nutrition || item.category}</Text>
@@ -36,6 +36,27 @@ export const FoodRow = ({ item, onPress, theme }) => (
         </View>
       )}
     </View>
+  </TouchableOpacity>
+);
+
+export const FoodGridItem = ({ item, onPress, theme }) => (
+  <TouchableOpacity 
+    style={{ 
+      width: 105, 
+      backgroundColor: theme.cardBg, 
+      borderRadius: 12, 
+      padding: 10, 
+      alignItems: 'center', 
+      marginBottom: 10, 
+      marginRight: 6,
+      borderWidth: 1, 
+      borderColor: theme.border,
+      justifyContent: 'center'
+    }} 
+    onPress={onPress}
+  >
+    <Text style={{ fontSize: 36, marginBottom: 8 }}>{item.icon || iconForCategory(item.main_category + ' ' + item.category)}</Text>
+    <Text style={{ fontSize: 13, fontWeight: 'bold', color: theme.text, textAlign: 'center' }} numberOfLines={2}>{item.name}</Text>
   </TouchableOpacity>
 );
 
