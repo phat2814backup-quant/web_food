@@ -4,7 +4,7 @@
       "id": "RAUNGOT",
       "name": "Rau ngót",
       "category": "Rau lá xanh",
-      "nutrition": "Trong 100g: khoảng 35 kcal, protein 5,3g, glucid 3,4g, cellulose 2,5g, canxi 169mg, sắt 2,7mg, magie 123mg, kali 457mg và vitamin C 185mg.",
+      "nutrition": "Thành phần (100g): Năng lượng 15kcal, Đạm 1.5g, Tinh bột 2.3g, Béo 0g, Chất xơ 2.1g. Vi chất nổi bật: Canxi 84mg, Sắt 2.2mg, Mangan 1.49mg, Phốt pho 18mg, Kali 222mg, Kẽm 1.48mg, Đồng 480mg, Vit C 78mg, Beta-carotene 2325µg.",
       "benefits": [
         "Bổ sung đạm thực vật, chất xơ và nhiều vi chất.",
         "Vitamin C và beta-carotene hỗ trợ chức năng miễn dịch và chống oxy hóa.",
@@ -68,11 +68,11 @@
         "🍊 Vua Vitamin C & Tăng cường miễn dịch": 2
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 5.300000190734863,
-        "carbs": 0.0,
+        "calories": 15.0,
+        "protein": 1.5,
+        "carbs": 2.3,
         "fat": 0.0,
-        "fiber": 0.0,
+        "fiber": 2.1,
         "unit": "100g"
       }
     },
@@ -359,7 +359,7 @@
       "id": "RAUKHOAILANG",
       "name": "Rau khoai lang",
       "category": "Rau lá và ngọn củ",
-      "nutrition": "Cung cấp chất xơ, vitamin và khoáng chất; Vinmec ghi nhận rau lang có giá trị dinh dưỡng đáng kể nhưng bài nguồn trực tiếp được kiểm tra không cung cấp đầy đủ bảng định lượng trên 100g.",
+      "nutrition": "Thành phần (100g): Năng lượng 119kcal, Đạm 0.8g, Tinh bột 28.5g, Béo 0.2g, Chất xơ 1.3g. Vi chất nổi bật: Canxi 34mg, Sắt 1mg, Magiê 201mg, Mangan 0.39mg, Phốt pho 49mg, Kali 210mg, Kẽm 0.2mg, Đồng 260mg, Vit C 23mg, Folate 11µg, Beta-carotene 150µg.",
       "benefits": [
         "Chất xơ hỗ trợ nhu động ruột và có thể giúp phòng táo bón.",
         "Cung cấp vitamin và khoáng chất cho khẩu phần ăn.",
@@ -441,11 +441,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 23.0,
-        "protein": 2.5999999046325684,
-        "carbs": 2.5,
-        "fat": 0.30000001192092896,
-        "fiber": 1.399999976158142,
+        "calories": 119.0,
+        "protein": 0.8,
+        "carbs": 28.5,
+        "fat": 0.2,
+        "fiber": 1.3,
         "unit": "100g"
       }
     },
@@ -453,7 +453,7 @@
       "id": "RAUMUONG",
       "name": "Rau muống",
       "category": "Rau lá xanh",
-      "nutrition": "Cung cấp chất xơ, vitamin và khoáng chất; bài Medlatec tập trung vào thành phần, lợi ích và cách sử dụng nhưng phần thông tin được kiểm tra không hiển thị đầy đủ bảng định lượng trên 100g.",
+      "nutrition": "Thành phần (100g): Năng lượng 25kcal, Đạm 3.2g, Tinh bột 2.1g, Béo 0.4g, Chất xơ 1g. Vi chất nổi bật: Canxi 100mg, Sắt 1.4mg, Magiê 15mg, Mangan 0.6mg, Phốt pho 37mg, Kali 331mg, Kẽm 0.35mg, Đồng 100mg, Vit C 23mg, Folate 194µg, Beta-carotene 5597µg.",
       "benefits": [
         "Chất xơ hỗ trợ tiêu hóa.",
         "Bổ sung vitamin và khoáng chất trong khẩu phần.",
@@ -514,9 +514,9 @@
       "super_tags_order": {},
       "nutrition_data": {
         "calories": 25.0,
-        "protein": 3.200000047683716,
-        "carbs": 2.0999999046325684,
-        "fat": 0.4000000059604645,
+        "protein": 3.2,
+        "carbs": 2.1,
+        "fat": 0.4,
         "fiber": 1.0,
         "unit": "100g"
       }
@@ -525,7 +525,7 @@
       "id": "RAUCHANVITCAIBOXOI",
       "name": "Rau chân vịt (cải bó xôi)",
       "category": "Rau lá xanh đậm",
-      "nutrition": "Giàu chất xơ, folate, sắt và chất chống oxy hóa; Medlatec nêu rau chân vịt nấu chín cung cấp khoảng 79mg magie trên 100g.",
+      "nutrition": "Thành phần (100g): Năng lượng 38kcal, Đạm 0.6g, Tinh bột 6.8g, Béo 1g, Chất xơ 6g. Vi chất nổi bật: Canxi 10mg, Sắt 1.3mg, Magiê 22mg, Mangan 0.15mg, Phốt pho 16mg, Kali 291mg, Kẽm 2.4mg, Đồng 20mg, Vit C 62mg, Folate 49µg, Beta-carotene 374µg, Lycopene 5204µg.",
       "benefits": [
         "Folate và sắt góp phần hỗ trợ quá trình tạo máu.",
         "Magie hỗ trợ chức năng cơ và thần kinh.",
@@ -601,11 +601,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 38.0,
+        "protein": 0.6,
+        "carbs": 6.8,
+        "fat": 1.0,
+        "fiber": 6.0,
         "unit": "100g"
       }
     },
@@ -774,7 +774,7 @@
       "id": "CANTAY",
       "name": "Cần tây",
       "category": "Rau thân và rau gia vị",
-      "nutrition": "Ít năng lượng, nhiều nước và có chất xơ; cung cấp kali, folate, choline, vitamin A, vitamin K, natri và florua tự nhiên.",
+      "nutrition": "Thành phần (100g): Năng lượng 10kcal, Đạm 1g, Tinh bột 1.5g, Béo 0g, Chất xơ 1.5g. Vi chất nổi bật: Canxi 310mg, Sắt 3mg, Phốt pho 64mg, Vit C 6mg, Beta-carotene 2045µg.",
       "benefits": [
         "Chất xơ hỗ trợ tiêu hóa.",
         "Ít năng lượng, phù hợp để tăng lượng rau trong chế độ ăn kiểm soát năng lượng.",
@@ -857,11 +857,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 3.700000047683716,
-        "carbs": 0.0,
+        "calories": 10.0,
+        "protein": 1.0,
+        "carbs": 1.5,
         "fat": 0.0,
-        "fiber": 0.0,
+        "fiber": 1.5,
         "unit": "100g"
       }
     },
@@ -869,7 +869,7 @@
       "id": "KHOAILANGTIM",
       "name": "Khoai lang tím",
       "category": "Củ giàu tinh bột",
-      "nutrition": "Trong 100g khoai lang nói chung: khoảng 119 kcal, 0,8g protein, 0,2g lipid, 28,5g glucid và 1,3g chất xơ. Khoai lang tím còn chứa anthocyanin; hàm lượng thực tế thay đổi theo giống và cách chế biến.",
+      "nutrition": "Thành phần (100g): Năng lượng 119kcal, Đạm 0.8g, Tinh bột 28.5g, Béo 0.2g, Chất xơ 1.3g. Vi chất nổi bật: Canxi 34mg, Sắt 1mg, Magiê 201mg, Mangan 0.39mg, Phốt pho 49mg, Kali 210mg, Kẽm 0.2mg, Đồng 260mg, Vit C 23mg, Folate 11µg, Beta-carotene 150µg.",
       "benefits": [
         "Cung cấp tinh bột và chất xơ, giúp tạo cảm giác no.",
         "Anthocyanin có hoạt tính chống oxy hóa.",
@@ -957,7 +957,7 @@
       "id": "CAROT",
       "name": "Cà rốt",
       "category": "Củ màu cam",
-      "nutrition": "Trong 100g theo bảng Medlatec: khoảng 25 kcal, 6g carbohydrate, 3g đường, 2g chất xơ và 0,5g protein; giàu beta-carotene, vitamin A, vitamin K1, kali và chất chống oxy hóa.",
+      "nutrition": "Thành phần (100g): Năng lượng 39kcal, Đạm 1.5g, Tinh bột 7.8g, Béo 0.2g, Chất xơ 1.2g. Vi chất nổi bật: Canxi 43mg, Sắt 0.8mg, Magiê 12mg, Mangan 0.23mg, Phốt pho 39mg, Kali 266mg, Kẽm 1.11mg, Đồng 150mg, Vit C 8mg, Folate 19µg, Beta-carotene 8285µg, Lycopene 1µg.",
       "benefits": [
         "Beta-carotene được chuyển hóa thành vitamin A, hỗ trợ thị lực.",
         "Chất xơ hỗ trợ tiêu hóa và cảm giác no.",
@@ -1020,11 +1020,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 25.0,
-        "protein": 0.5,
-        "carbs": 6.0,
-        "fat": 0.0,
-        "fiber": 2.0,
+        "calories": 39.0,
+        "protein": 1.5,
+        "carbs": 7.8,
+        "fat": 0.2,
+        "fiber": 1.2,
         "unit": "100g"
       }
     },
@@ -1106,7 +1106,7 @@
       "id": "MUOPANGKHOQUA",
       "name": "Mướp đắng (khổ qua)",
       "category": "Quả rau có vị đắng",
-      "nutrition": "Giàu nước, chất xơ, vitamin và khoáng chất như protein, lipid, carbohydrate, canxi, kali và magie; các nguồn trực tiếp được kiểm tra không cung cấp đầy đủ bảng định lượng trên 100g.",
+      "nutrition": "Thành phần (100g): Năng lượng 17kcal, Đạm 0.9g, Tinh bột 2.8g, Béo 0.2g, Chất xơ 0.5g. Vi chất nổi bật: Canxi 28mg, Sắt 0.8mg, Magiê 14mg, Mangan 0.09mg, Phốt pho 45mg, Kali 139mg, Kẽm 0.07mg, Đồng 35mg, Vit C 8mg, Folate 7µg, Beta-carotene 160µg.",
       "benefits": [
         "Cung cấp chất xơ và một số vitamin, khoáng chất.",
         "Có thể hỗ trợ kiểm soát năng lượng nhờ hàm lượng calo thấp.",
@@ -1171,11 +1171,11 @@
         "🌾 Siêu Chất xơ & Hỗ trợ giảm cân/Detox cực mạnh": 3
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 17.0,
+        "protein": 0.9,
+        "carbs": 2.8,
+        "fat": 0.2,
+        "fiber": 0.5,
         "unit": "100g"
       }
     },
@@ -1183,7 +1183,7 @@
       "id": "CACHUA",
       "name": "Cà chua",
       "category": "Quả rau giàu lycopene",
-      "nutrition": "Cung cấp nước, chất xơ, vitamin C, vitamin A, kali và lycopene; bài Vinmec được kiểm tra không hiển thị đầy đủ bảng định lượng trên 100g.",
+      "nutrition": "Thành phần (100g): Năng lượng 20kcal, Đạm 0.6g, Tinh bột 4g, Béo 0.2g, Chất xơ 0.8g. Vi chất nổi bật: Canxi 12mg, Sắt 1.4mg, Magiê 15mg, Mangan 0.21mg, Phốt pho 26mg, Kali 275mg, Kẽm 0.74mg, Đồng 90mg, Vit C 40mg, Folate 15µg, Beta-carotene 393µg, Lycopene 3025µg.",
       "benefits": [
         "Lycopene có hoạt tính chống oxy hóa và được nghiên cứu về sức khỏe tim mạch.",
         "Vitamin C hỗ trợ chức năng miễn dịch và chống oxy hóa.",
@@ -1272,7 +1272,7 @@
       "id": "CUCAITRANG",
       "name": "Củ cải trắng",
       "category": "Củ họ cải",
-      "nutrition": "Trong 100g củ cải trắng tươi quy đổi từ số liệu Vinmec: khoảng 18 kcal, 4,1g carbohydrate, 0,6g protein và 1,5g chất xơ; giàu vitamin C, folate, kali, magie và đồng.",
+      "nutrition": "Thành phần (100g): Năng lượng 21kcal, Đạm 1.5g, Tinh bột 3.6g, Béo 0.1g, Chất xơ 1.5g. Vi chất nổi bật: Canxi 40mg, Sắt 1.1mg, Magiê 15mg, Mangan 0.05mg, Phốt pho 41mg, Kali 242mg, Kẽm 0.2mg, Đồng 150mg, Vit C 30mg, Folate 28µg.",
       "benefits": [
         "Hàm lượng nước và chất xơ hỗ trợ tiêu hóa.",
         "Vitamin C góp phần hỗ trợ miễn dịch và chống oxy hóa.",
@@ -1331,8 +1331,8 @@
       "nutrition_data": {
         "calories": 21.0,
         "protein": 1.5,
-        "carbs": 3.5999999046325684,
-        "fat": 0.10000000149011612,
+        "carbs": 3.6,
+        "fat": 0.1,
         "fiber": 1.5,
         "unit": "100g"
       }
@@ -1468,7 +1468,7 @@
       "id": "CUNGHE",
       "name": "Củ nghệ",
       "category": "Gia vị và thân rễ",
-      "nutrition": "Trong 100g nghệ khô theo bảng Medlatec: khoảng 354 kcal, 65g glucid, 21g chất xơ, 10g lipid và 8g protein; khi dùng làm gia vị, khẩu phần thực tế thường nhỏ hơn nhiều.",
+      "nutrition": "Thành phần (100g): Năng lượng 54kcal, Đạm 11.9g, Tinh bột 0g, Béo 0.7g, Chất xơ 0g. Vi chất nổi bật: Canxi 89mg, Sắt 0.74mg, Magiê 34mg, Mangan 0.15mg, Phốt pho 229mg, Kali 329mg, Kẽm 3.54mg, Đồng 669mg, Folate 44µg, Vit A 2mg.",
       "benefits": [
         "Curcumin là hợp chất thực vật được nghiên cứu về hoạt tính chống oxy hóa và chống viêm.",
         "Có thể làm tăng hương vị và màu sắc món ăn mà không cần dùng nhiều muối.",
@@ -1533,11 +1533,11 @@
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 4
       },
       "nutrition_data": {
-        "calories": 354.0,
-        "protein": 8.0,
-        "carbs": 65.0,
-        "fat": 10.0,
-        "fiber": 21.0,
+        "calories": 54.0,
+        "protein": 11.9,
+        "carbs": 0.0,
+        "fat": 0.7,
+        "fiber": 0.0,
         "unit": "100g"
       }
     },
@@ -1609,7 +1609,7 @@
       "id": "AUPHU",
       "name": "Đậu phụ",
       "category": "Thực phẩm từ đậu nành",
-      "nutrition": "Trong 100g: khoảng 76 kcal, 8g protein, 2g carbohydrate, 1g chất xơ và 4g chất béo; cung cấp canxi, sắt, magie, phospho và mangan.",
+      "nutrition": "Thành phần (100g): Năng lượng 95kcal, Đạm 10.9g, Tinh bột 0.7g, Béo 5.4g, Chất xơ 0.4g. Vi chất nổi bật: Canxi 24mg, Sắt 2.2mg, Magiê 30mg, Mangan 0.61mg, Phốt pho 85mg, Kali 121mg, Kẽm 0.8mg, Đồng 193mg, Folate 15µg.",
       "benefits": [
         "Cung cấp protein thực vật, phù hợp để thay thế một phần protein động vật.",
         "Canxi và phospho góp phần hỗ trợ xương.",
@@ -1701,10 +1701,10 @@
       },
       "nutrition_data": {
         "calories": 95.0,
-        "protein": 10.899999618530273,
-        "carbs": 0.699999988079071,
-        "fat": 5.400000095367432,
-        "fiber": 0.4000000059604645,
+        "protein": 10.9,
+        "carbs": 0.7,
+        "fat": 5.4,
+        "fiber": 0.4,
         "unit": "100g"
       }
     },
@@ -1712,7 +1712,7 @@
       "id": "AUENXANHLONG",
       "name": "Đậu đen xanh lòng",
       "category": "Đậu và hạt họ đậu",
-      "nutrition": "Giàu protein thực vật, carbohydrate phức hợp, chất xơ, sắt, magie, phospho, kali và các hợp chất chống oxy hóa; chưa tìm thấy bảng định lượng 100g từ nguồn được phép có bài viết trực tiếp riêng cho đậu đen xanh lòng.",
+      "nutrition": "Thành phần (100g): Năng lượng 45kcal, Đạm 0.7g, Tinh bột 10.2g, Béo 0.2g, Chất xơ 0.6g. Vi chất nổi bật: Canxi 19mg, Sắt 2.3mg, Magiê 7mg, Mangan 0.05mg, Phốt pho 16mg, Kali 88mg, Kẽm 0.13mg, Đồng 140mg, Vit C 4mg, Folate 7µg, Beta-carotene 27µg.",
       "benefits": [
         "Chất xơ hỗ trợ tiêu hóa và cảm giác no.",
         "Protein thực vật góp phần duy trì cơ bắp.",
@@ -1803,11 +1803,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 45.0,
+        "protein": 0.7,
+        "carbs": 10.2,
+        "fat": 0.2,
+        "fiber": 0.6,
         "unit": "100g"
       }
     },
@@ -1815,7 +1815,7 @@
       "id": "AUXANH",
       "name": "Đậu xanh",
       "category": "Đậu và hạt họ đậu",
-      "nutrition": "Đậu xanh khô cung cấp khoảng 328 kcal/100g, 23,4g protein, 53,1g carbohydrate, 4,7g chất xơ, 2,4g chất béo, 4,8mg sắt, 270mg magie, 64mg canxi, 377mg phospho và 1.132mg kali.",
+      "nutrition": "Thành phần (100g): Năng lượng 328kcal, Đạm 23.4g, Tinh bột 53.1g, Béo 2.4g, Chất xơ 4.7g. Vi chất nổi bật: Canxi 64mg, Sắt 4.8mg, Magiê 270mg, Phốt pho 377mg, Kali 1132mg, Kẽm 1.1mg, Đồng 880mg, Vit C 4mg, Folate 625µg, Beta-carotene 30µg.",
       "benefits": [
         "Cung cấp protein thực vật và carbohydrate.",
         "Chất xơ hỗ trợ tiêu hóa và giúp tăng cảm giác no.",
@@ -1911,10 +1911,10 @@
       },
       "nutrition_data": {
         "calories": 328.0,
-        "protein": 23.399999618530273,
-        "carbs": 53.099998474121094,
-        "fat": 2.4000000953674316,
-        "fiber": 4.699999809265137,
+        "protein": 23.4,
+        "carbs": 53.1,
+        "fat": 2.4,
+        "fiber": 4.7,
         "unit": "100g"
       }
     },
@@ -1922,7 +1922,7 @@
       "id": "AUO",
       "name": "Đậu đỏ",
       "category": "Đậu và hạt họ đậu",
-      "nutrition": "Trong 100g đậu đỏ nấu chín quy đổi từ khẩu phần Vinmec: khoảng 147 kcal, 28,5g carbohydrate, 8,7g protein, 0,1g chất béo và 8,4g chất xơ; giàu kali, magie, phospho, sắt, kẽm và mangan.",
+      "nutrition": "Thành phần (100g): Năng lượng 900kcal, Đạm 0g, Tinh bột 0g, Béo 100g, Chất xơ 0g. Vi chất nổi bật: Canxi 1mg, Sắt 0.56mg, Kali 1mg.",
       "benefits": [
         "Chất xơ hỗ trợ tiêu hóa và kiểm soát cảm giác đói.",
         "Protein thực vật góp phần duy trì cơ bắp.",
@@ -2011,11 +2011,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 147.0,
-        "protein": 8.7,
-        "carbs": 28.5,
-        "fat": 0.1,
-        "fiber": 8.4,
+        "calories": 900.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 100.0,
+        "fiber": 0.0,
         "unit": "100g"
       }
     },
@@ -2023,7 +2023,7 @@
       "id": "SUAAUNANH",
       "name": "Sữa đậu nành",
       "category": "Đồ uống từ đậu nành",
-      "nutrition": "Trong 100ml: khoảng 28 kcal, 3,1g protein, 1,6g chất béo và 0,4g glucid; cung cấp vitamin nhóm B, vitamin E, sắt, canxi, magie, kali và isoflavone.",
+      "nutrition": "Thành phần (100g): Năng lượng 28kcal, Đạm 3.1g, Tinh bột 0.4g, Béo 1.6g, Chất xơ 0.1g. Vi chất nổi bật: Canxi 18mg, Sắt 1.2mg, Magiê 25mg, Mangan 0.22mg, Phốt pho 36mg, Kali 124mg, Kẽm 0.44mg, Đồng 141mg, Folate 16µg.",
       "benefits": [
         "Cung cấp protein thực vật và một số acid amin thiết yếu.",
         "Ít chất béo bão hòa và không chứa cholesterol tự nhiên.",
@@ -2088,7 +2088,7 @@
         "protein": 3.1,
         "carbs": 0.4,
         "fat": 1.6,
-        "fiber": 0.0,
+        "fiber": 0.1,
         "unit": "100g"
       }
     },
@@ -2096,7 +2096,7 @@
       "id": "GAOLUT",
       "name": "Gạo lứt",
       "category": "Ngũ cốc nguyên hạt",
-      "nutrition": "Là ngũ cốc còn giữ lớp cám và mầm, cung cấp carbohydrate phức hợp, chất xơ, protein thực vật, vitamin nhóm B, magie, mangan, phospho và các hợp chất chống oxy hóa; hàm lượng cụ thể thay đổi theo giống và trạng thái sống hoặc chín.",
+      "nutrition": "Thành phần (100g): Năng lượng 345kcal, Đạm 7.5g, Tinh bột 72.8g, Béo 2.7g, Chất xơ 3.4g. Vi chất nổi bật: Canxi 16mg, Sắt 2.8mg, Magiê 52mg, Mangan 1.5mg, Phốt pho 246mg, Kali 202mg, Kẽm 1.9mg, Đồng 360mg, Folate 20µg.",
       "benefits": [
         "Nhiều chất xơ hơn gạo trắng, hỗ trợ tiêu hóa và cảm giác no.",
         "Vitamin nhóm B và magie hỗ trợ chuyển hóa năng lượng.",
@@ -2192,9 +2192,9 @@
       "nutrition_data": {
         "calories": 345.0,
         "protein": 7.5,
-        "carbs": 72.80000305175781,
-        "fat": 2.700000047683716,
-        "fiber": 3.4000000953674316,
+        "carbs": 72.8,
+        "fat": 2.7,
+        "fiber": 3.4,
         "unit": "100g"
       }
     },
@@ -2202,7 +2202,7 @@
       "id": "HATSEN",
       "name": "Hạt sen",
       "category": "Hạt và thực phẩm giàu tinh bột",
-      "nutrition": "Cung cấp carbohydrate, protein thực vật, chất xơ, canxi, phospho, magie, kali và một số vitamin nhóm B; hàm lượng cụ thể thay đổi đáng kể giữa hạt sen tươi, hạt sen khô và hạt đã nấu chín.",
+      "nutrition": "Thành phần (100g): Năng lượng 161kcal, Đạm 9.5g, Tinh bột 29.5g, Béo 0.5g, Chất xơ 0.8g. Vi chất nổi bật: Canxi 76mg, Sắt 1.4mg, Magiê 56mg, Mangan 0.62mg, Phốt pho 164mg, Kali 367mg, Kẽm 0.28mg, Đồng 94mg, Vit C 17mg, Folate 28µg, Beta-carotene 10µg.",
       "benefits": [
         "Cung cấp carbohydrate và protein thực vật.",
         "Phospho, magie và canxi góp phần hỗ trợ xương.",
@@ -2298,7 +2298,7 @@
         "protein": 9.5,
         "carbs": 29.5,
         "fat": 0.5,
-        "fiber": 0.800000011920929,
+        "fiber": 0.8,
         "unit": "100g"
       }
     },
@@ -2592,7 +2592,7 @@
       "id": "CHUOICHIN",
       "name": "Chuối chín",
       "category": "Trái cây giàu carbohydrate",
-      "nutrition": "Trong 100g: khoảng 89 kcal, 22,8g carbohydrate, 2,6g chất xơ, 1,1g protein, rất ít chất béo; giàu kali, vitamin B6, vitamin C và mangan.",
+      "nutrition": "Thành phần (100g): Năng lượng 38kcal, Đạm 0.6g, Tinh bột 6.8g, Béo 1g, Chất xơ 6g. Vi chất nổi bật: Canxi 10mg, Sắt 1.3mg, Magiê 22mg, Mangan 0.15mg, Phốt pho 16mg, Kali 291mg, Kẽm 2.4mg, Đồng 20mg, Vit C 62mg, Folate 49µg, Beta-carotene 374µg, Lycopene 5204µg.",
       "benefits": [
         "Cung cấp carbohydrate và năng lượng nhanh.",
         "Kali góp phần hỗ trợ hoạt động cơ và cân bằng dịch.",
@@ -2679,11 +2679,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 89.0,
-        "protein": 1.1,
-        "carbs": 22.8,
-        "fat": 0.0,
-        "fiber": 2.6,
+        "calories": 38.0,
+        "protein": 0.6,
+        "carbs": 6.8,
+        "fat": 1.0,
+        "fiber": 6.0,
         "unit": "100g"
       }
     },
@@ -2691,7 +2691,7 @@
       "id": "BUOI",
       "name": "Bưởi",
       "category": "Trái cây họ cam quýt",
-      "nutrition": "Trong 100g phần ăn được: khoảng 38–42 kcal, 9–11g carbohydrate, 1–1,6g chất xơ, khoảng 0,6–0,8g protein và giàu vitamin C, vitamin A, folate, kali cùng các chất chống oxy hóa.",
+      "nutrition": "Thành phần (100g): Năng lượng 30kcal, Đạm 0.2g, Tinh bột 7.3g, Béo 0g, Chất xơ 0.7g. Vi chất nổi bật: Canxi 23mg, Sắt 0.5mg, Magiê 6mg, Mangan 0.02mg, Phốt pho 18mg, Kali 159mg, Kẽm 0.16mg, Đồng 120mg, Vit C 95mg.",
       "benefits": [
         "Vitamin C hỗ trợ chức năng miễn dịch và chống oxy hóa.",
         "Chất xơ hỗ trợ tiêu hóa và cảm giác no.",
@@ -2780,10 +2780,10 @@
       },
       "nutrition_data": {
         "calories": 30.0,
-        "protein": 0.20000000298023224,
-        "carbs": 7.300000190734863,
+        "protein": 0.2,
+        "carbs": 7.3,
         "fat": 0.0,
-        "fiber": 0.699999988079071,
+        "fiber": 0.7,
         "unit": "100g"
       }
     },
@@ -2891,7 +2891,7 @@
       "id": "TRAIBO",
       "name": "Trái bơ",
       "category": "Trái cây giàu chất béo tốt",
-      "nutrition": "Trong 100g: khoảng 160 kcal, 15g chất béo, 8,5g carbohydrate, 6,7g chất xơ và 2g protein; giàu kali, folate, vitamin E, vitamin K, vitamin C và chất béo không bão hòa đơn.",
+      "nutrition": "Thành phần (100g): Năng lượng 756kcal, Đạm 0.5g, Tinh bột 0.5g, Béo 83.5g, Chất xơ 0g. Vi chất nổi bật: Canxi 12mg, Sắt 0.1mg, Magiê 2mg, Phốt pho 12mg, Kali 24mg, Kẽm 0.09mg, Đồng 16mg, Folate 3µg, Vit A 600mg, Beta-carotene 158µg.",
       "benefits": [
         "Chất béo không bão hòa đơn góp phần hỗ trợ sức khỏe tim mạch.",
         "Chất xơ hỗ trợ tiêu hóa và cảm giác no.",
@@ -2986,11 +2986,11 @@
         "🐟 Giàu Omega-3 & Chất béo tốt nhất": 3
       },
       "nutrition_data": {
-        "calories": 160.0,
-        "protein": 2.0,
-        "carbs": 8.5,
-        "fat": 15.0,
-        "fiber": 6.7,
+        "calories": 756.0,
+        "protein": 0.5,
+        "carbs": 0.5,
+        "fat": 83.5,
+        "fiber": 0.0,
         "unit": "100g"
       }
     },
@@ -2998,7 +2998,7 @@
       "id": "TRAILUU",
       "name": "Trái lựu",
       "category": "Trái cây giàu polyphenol",
-      "nutrition": "Trong 100g: khoảng 83 kcal, 18,7g carbohydrate, 4g chất xơ, 1,7g protein và rất ít chất béo; giàu vitamin C, vitamin K, folate, kali và polyphenol.",
+      "nutrition": "Thành phần (100g): Năng lượng 45kcal, Đạm 0.7g, Tinh bột 10.2g, Béo 0.2g, Chất xơ 0.6g. Vi chất nổi bật: Canxi 19mg, Sắt 2.3mg, Magiê 7mg, Mangan 0.05mg, Phốt pho 16mg, Kali 88mg, Kẽm 0.13mg, Đồng 140mg, Vit C 4mg, Folate 7µg, Beta-carotene 27µg.",
       "benefits": [
         "Polyphenol có hoạt tính chống oxy hóa.",
         "Chất xơ hỗ trợ tiêu hóa và nhu động ruột.",
@@ -3087,11 +3087,11 @@
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)": 1
       },
       "nutrition_data": {
-        "calories": 83.0,
-        "protein": 1.7,
-        "carbs": 18.7,
-        "fat": 0.0,
-        "fiber": 4.0,
+        "calories": 45.0,
+        "protein": 0.7,
+        "carbs": 10.2,
+        "fat": 0.2,
+        "fiber": 0.6,
         "unit": "100g"
       }
     },
@@ -3099,7 +3099,7 @@
       "id": "CAMTUOI",
       "name": "Cam tươi",
       "category": "Trái cây họ cam quýt",
-      "nutrition": "Trong 100g: khoảng 47 kcal, 12g carbohydrate, 2g chất xơ, 1g protein và gần như không có chất béo; cung cấp khoảng 50mg vitamin C cùng folate, kali và các hợp chất chống oxy hóa.",
+      "nutrition": "Thành phần (100g): Năng lượng 38kcal, Đạm 0.9g, Tinh bột 8.3g, Béo 0.1g, Chất xơ 1.4g. Vi chất nổi bật: Canxi 34mg, Sắt 0.4mg, Magiê 10mg, Mangan 0.52mg, Phốt pho 23mg, Kali 108mg, Kẽm 0.22mg, Đồng 140mg, Vit C 40mg, Folate 30µg, Beta-carotene 71µg.",
       "benefits": [
         "Vitamin C hỗ trợ miễn dịch và tổng hợp collagen.",
         "Vitamin C giúp tăng hấp thu sắt không heme từ thực phẩm thực vật.",
@@ -3187,11 +3187,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 23.0,
-        "protein": 0.699999988079071,
-        "carbs": 4.5,
-        "fat": 0.20000000298023224,
-        "fiber": 0.20000000298023224,
+        "calories": 38.0,
+        "protein": 0.9,
+        "carbs": 8.3,
+        "fat": 0.1,
+        "fiber": 1.4,
         "unit": "100g"
       }
     },
@@ -3199,7 +3199,7 @@
       "id": "THANHLONGRUOTO",
       "name": "Thanh long ruột đỏ",
       "category": "Trái cây giàu chất xơ và sắc tố betalain",
-      "nutrition": "Trong 100g: khoảng 50–60 kcal, giàu nước, carbohydrate và chất xơ; cung cấp vitamin C, một số vitamin nhóm B, kali, magie và sắc tố betalain. Hàm lượng thay đổi theo giống và độ chín.",
+      "nutrition": "Thành phần (100g): Năng lượng 45kcal, Đạm 0.7g, Tinh bột 10.2g, Béo 0.2g, Chất xơ 0.6g. Vi chất nổi bật: Canxi 19mg, Sắt 2.3mg, Magiê 7mg, Mangan 0.05mg, Phốt pho 16mg, Kali 88mg, Kẽm 0.13mg, Đồng 140mg, Vit C 4mg, Folate 7µg, Beta-carotene 27µg.",
       "benefits": [
         "Chất xơ hỗ trợ tiêu hóa và phòng táo bón.",
         "Nước và carbohydrate giúp bổ sung năng lượng nhẹ.",
@@ -3292,11 +3292,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 60.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 45.0,
+        "protein": 0.7,
+        "carbs": 10.2,
+        "fat": 0.2,
+        "fiber": 0.6,
         "unit": "100g"
       }
     },
@@ -3304,7 +3304,7 @@
       "id": "TRAIOI",
       "name": "Trái ổi",
       "category": "Trái cây giàu vitamin C và chất xơ",
-      "nutrition": "Trong 100g: khoảng 68 kcal, 5,4g chất xơ, khoảng 228mg vitamin C, vitamin A, E, K, kali, magie, sắt, lycopene và quercetin.",
+      "nutrition": "Thành phần (100g): Năng lượng 38kcal, Đạm 0.6g, Tinh bột 6.8g, Béo 1g, Chất xơ 6g. Vi chất nổi bật: Canxi 10mg, Sắt 1.3mg, Magiê 22mg, Mangan 0.15mg, Phốt pho 16mg, Kali 291mg, Kẽm 2.4mg, Đồng 20mg, Vit C 62mg, Folate 49µg, Beta-carotene 374µg, Lycopene 5204µg.",
       "benefits": [
         "Hàm lượng vitamin C cao hỗ trợ miễn dịch và chống oxy hóa.",
         "Chất xơ giúp hỗ trợ tiêu hóa và làm chậm hấp thu đường.",
@@ -3401,11 +3401,11 @@
         "🍊 Vua Vitamin C & Tăng cường miễn dịch": 0
       },
       "nutrition_data": {
-        "calories": 68.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 5.4,
+        "calories": 38.0,
+        "protein": 0.6,
+        "carbs": 6.8,
+        "fat": 1.0,
+        "fiber": 6.0,
         "unit": "100g"
       }
     },
@@ -3413,7 +3413,7 @@
       "id": "TAO",
       "name": "Táo",
       "category": "Trái cây giàu pectin",
-      "nutrition": "Trong 100g táo nguyên vỏ: khoảng 52 kcal, 13,8g carbohydrate, 2,4g chất xơ, khoảng 0,3g protein và rất ít chất béo; cung cấp vitamin C, kali, vitamin K và polyphenol.",
+      "nutrition": "Thành phần (100g): Năng lượng 337kcal, Đạm 0.2g, Tinh bột 84.1g, Béo 0g, Chất xơ 1.5g. Vi chất nổi bật: Canxi 16mg, Phốt pho 17mg.",
       "benefits": [
         "Pectin và chất xơ hỗ trợ tiêu hóa.",
         "Chất xơ có thể giúp làm chậm hấp thu đường và tăng cảm giác no.",
@@ -3480,11 +3480,11 @@
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 3
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.800000011920929,
-        "carbs": 0.0,
+        "calories": 337.0,
+        "protein": 0.2,
+        "carbs": 84.1,
         "fat": 0.0,
-        "fiber": 0.0,
+        "fiber": 1.5,
         "unit": "100g"
       }
     },
@@ -3492,7 +3492,7 @@
       "id": "TRAIDAUTAM",
       "name": "Trái dâu tằm",
       "category": "Trái cây mọng",
-      "nutrition": "Trong 100g dâu tằm tươi: khoảng 43 kcal, 9,8g carbohydrate, khoảng 1,7g chất xơ, 1,4g protein; cung cấp vitamin C, vitamin K, sắt, kali và anthocyanin.",
+      "nutrition": "Thành phần (100g): Năng lượng 38kcal, Đạm 4.6g, Tinh bột 2.5g, Béo 1.1g, Chất xơ 0g. Vi chất nổi bật: Canxi 668mg, Sắt 1.5mg, Magiê 9mg, Mangan 0.5mg, Phốt pho 107mg, Kali 314mg, Kẽm 1.37mg, Đồng 344mg, Folate 16µg, Vit A 90mg.",
       "benefits": [
         "Anthocyanin và các polyphenol có hoạt tính chống oxy hóa.",
         "Vitamin C hỗ trợ miễn dịch và tổng hợp collagen.",
@@ -3556,11 +3556,11 @@
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)": 4
       },
       "nutrition_data": {
-        "calories": 43.0,
-        "protein": 1.4,
-        "carbs": 9.8,
-        "fat": 0.0,
-        "fiber": 1.7,
+        "calories": 38.0,
+        "protein": 4.6,
+        "carbs": 2.5,
+        "fat": 1.1,
+        "fiber": 0.0,
         "unit": "100g"
       }
     },
@@ -3568,7 +3568,7 @@
       "id": "TOI",
       "name": "Tỏi",
       "category": "Gia vị và củ giàu hợp chất lưu huỳnh",
-      "nutrition": "Trong 100g tỏi tươi: khoảng 138 kcal, 6,3g protein, 29g carbohydrate, khoảng 2–3g chất xơ, cùng vitamin C, vitamin B6, mangan, selen, canxi, sắt và phospho.",
+      "nutrition": "Thành phần (100g): Năng lượng 14kcal, Đạm 2g, Tinh bột 1.4g, Béo 0g, Chất xơ 2.5g. Vi chất nổi bật: Canxi 176mg, Sắt 1.6mg, Magiê 94mg, Mangan 0.45mg, Phốt pho 34mg, Kali 391mg, Kẽm 0.54mg, Đồng 20mg, Vit C 72mg, Beta-carotene 1920µg.",
       "benefits": [
         "Các hợp chất lưu huỳnh như allicin có hoạt tính kháng khuẩn và chống oxy hóa.",
         "Có thể hỗ trợ sức khỏe tim mạch và kiểm soát một số yếu tố nguy cơ chuyển hóa.",
@@ -3629,11 +3629,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 121.0,
-        "protein": 6.0,
-        "carbs": 23.0,
-        "fat": 0.5,
-        "fiber": 1.5,
+        "calories": 14.0,
+        "protein": 2.0,
+        "carbs": 1.4,
+        "fat": 0.0,
+        "fiber": 2.5,
         "unit": "100g"
       }
     },
@@ -3641,7 +3641,7 @@
       "id": "GUNG",
       "name": "Gừng",
       "category": "Gia vị và thân rễ",
-      "nutrition": "Gừng tươi có hàm lượng calo thấp khi dùng ở khẩu phần gia vị; chứa gingerol, shogaol, carbohydrate, chất xơ, kali, magie, phospho, vitamin B6 và một lượng nhỏ vitamin C.",
+      "nutrition": "Thành phần (100g): Năng lượng 323kcal, Đạm 9.1g, Tinh bột 58.3g, Béo 5.9g, Chất xơ 12.5g. Vi chất nổi bật: Canxi 180mg, Sắt 11.52mg, Magiê 184mg, Mangan 26.5mg, Phốt pho 148mg, Kali 1343mg, Kẽm 4.72mg, Đồng 480mg, Vit C 7mg, Folate 39µg, Beta-carotene 88µg.",
       "benefits": [
         "Có thể hỗ trợ giảm buồn nôn và cảm giác khó chịu ở đường tiêu hóa.",
         "Gingerol và shogaol có hoạt tính chống oxy hóa và chống viêm.",
@@ -3722,9 +3722,9 @@
       },
       "nutrition_data": {
         "calories": 323.0,
-        "protein": 9.100000381469727,
-        "carbs": 58.29999923706055,
-        "fat": 5.900000095367432,
+        "protein": 9.1,
+        "carbs": 58.3,
+        "fat": 5.9,
         "fiber": 12.5,
         "unit": "100g"
       }
@@ -3824,7 +3824,7 @@
       "id": "SA",
       "name": "Sả",
       "category": "Gia vị và thân cây",
-      "nutrition": "Sả dùng làm gia vị với khẩu phần nhỏ; chứa tinh dầu citral, carbohydrate, chất xơ, một lượng nhỏ vitamin và khoáng chất. Chưa có bảng định lượng 100g rõ ràng từ bài viết trực tiếp thuộc các nguồn được phép đã kiểm tra.",
+      "nutrition": "Thành phần (100g): Năng lượng 152kcal, Đạm 1.1g, Tinh bột 36.4g, Béo 0.2g, Chất xơ 1.5g. Vi chất nổi bật: Canxi 25mg, Sắt 1.2mg, Magiê 4mg, Phốt pho 30mg, Kali 394mg, Vit C 34mg, Folate 27µg, Beta-carotene 8µg.",
       "benefits": [
         "Tinh dầu citral tạo mùi thơm đặc trưng và có hoạt tính chống oxy hóa.",
         "Có thể giúp tăng hương vị món ăn và đồ uống.",
@@ -3872,11 +3872,11 @@
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 2
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 152.0,
+        "protein": 1.1,
+        "carbs": 36.4,
+        "fat": 0.2,
+        "fiber": 1.5,
         "unit": "100g"
       }
     },
@@ -3884,7 +3884,7 @@
       "id": "MATONGNGUYENCHAT",
       "name": "Mật ong nguyên chất",
       "category": "Chất tạo ngọt tự nhiên",
-      "nutrition": "Trong 100g: khoảng 304 kcal, 82g carbohydrate, chủ yếu là glucose và fructose; hầu như không có protein, chất béo hoặc chất xơ đáng kể. Mật ong còn chứa một lượng nhỏ polyphenol và khoáng chất.",
+      "nutrition": "Thành phần (100g): Năng lượng 327kcal, Đạm 0.4g, Tinh bột 81.3g, Béo 0g, Chất xơ 0g. Vi chất nổi bật: Canxi 5mg, Sắt 0.9mg, Magiê 2mg, Mangan 0.08mg, Phốt pho 16mg, Kali 52mg, Kẽm 0.22mg, Đồng 36mg, Vit C 4mg, Folate 2µg.",
       "benefits": [
         "Cung cấp năng lượng nhanh từ carbohydrate.",
         "Có thể làm dịu cảm giác kích ứng và ho nhẹ ở người lớn và trẻ trên 1 tuổi.",
@@ -3970,9 +3970,9 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 304.0,
-        "protein": 0.0,
-        "carbs": 82.0,
+        "calories": 327.0,
+        "protein": 0.4,
+        "carbs": 81.3,
         "fat": 0.0,
         "fiber": 0.0,
         "unit": "100g"
@@ -3982,7 +3982,7 @@
       "id": "TRAXANHLATUOI",
       "name": "Trà xanh (lá tươi)",
       "category": "Đồ uống và lá giàu polyphenol",
-      "nutrition": "Lá trà xanh tươi chứa catechin, caffeine, L-theanine, polyphenol, vitamin và khoáng chất; không có định lượng dinh dưỡng 100g thống nhất cho lá tươi dùng để hãm trà, vì phần tiêu thụ chủ yếu là nước chiết.",
+      "nutrition": "Thành phần (100g): Năng lượng 38kcal, Đạm 0.6g, Tinh bột 6.8g, Béo 1g, Chất xơ 6g. Vi chất nổi bật: Canxi 10mg, Sắt 1.3mg, Magiê 22mg, Mangan 0.15mg, Phốt pho 16mg, Kali 291mg, Kẽm 2.4mg, Đồng 20mg, Vit C 62mg, Folate 49µg, Beta-carotene 374µg, Lycopene 5204µg.",
       "benefits": [
         "Catechin và polyphenol có hoạt tính chống oxy hóa.",
         "Caffeine có thể giúp tăng sự tỉnh táo trong thời gian ngắn.",
@@ -4070,11 +4070,11 @@
         "🍷 Chống oxy hóa cực mạnh (Anti-aging & Ngừa ung thư)": 0
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 38.0,
+        "protein": 0.6,
+        "carbs": 6.8,
+        "fat": 1.0,
+        "fiber": 6.0,
         "unit": "100g"
       }
     },
@@ -4082,7 +4082,7 @@
       "id": "ONGTRUNGHATHAO",
       "name": "Đông trùng hạ thảo",
       "category": "Dược liệu và thực phẩm bổ sung",
-      "nutrition": "Không có bảng dinh dưỡng 100g thống nhất vì sản phẩm có nhiều dạng: tươi, khô, nuôi cấy, bột hoặc viên. Thành phần thường được nhắc đến gồm protein, polysaccharide, nucleoside, acid amin và các hợp chất hoạt tính sinh học.",
+      "nutrition": "Thành phần (100g): Năng lượng 31kcal, Đạm 0.9g, Tinh bột 6.3g, Béo 0.2g, Chất xơ 1.5g. Vi chất nổi bật: Canxi 20mg, Sắt 0.45mg, Magiê 9mg, Mangan 0.06mg, Phốt pho 34mg, Kali 190mg, Kẽm 0.17mg, Đồng 68mg, Vit C 10mg, Folate 4µg, Beta-carotene 162µg.",
       "benefits": [
         "Có thể hỗ trợ bổ sung một số hợp chất sinh học và protein.",
         "Một số nghiên cứu khảo sát tác dụng chống oxy hóa và điều hòa miễn dịch.",
@@ -4168,11 +4168,11 @@
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 0
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 31.0,
+        "protein": 0.9,
+        "carbs": 6.3,
+        "fat": 0.2,
+        "fiber": 1.5,
         "unit": "100g"
       }
     },
@@ -4180,7 +4180,7 @@
       "id": "CHANHTUOI",
       "name": "Chanh tươi",
       "category": "Trái cây họ cam quýt và gia vị",
-      "nutrition": "Trong 100g phần ăn được: khoảng 29 kcal, 9–10g carbohydrate, khoảng 2,8g chất xơ, rất ít chất béo và protein; giàu vitamin C, acid citric, folate, kali và các hợp chất chống oxy hóa.",
+      "nutrition": "Thành phần (100g): Năng lượng 24kcal, Đạm 0.9g, Tinh bột 4.5g, Béo 0.3g, Chất xơ 1.3g. Vi chất nổi bật: Canxi 40mg, Sắt 0.6mg, Magiê 12mg, Phốt pho 22mg, Kali 145mg, Kẽm 0.1mg, Đồng 260mg, Vit C 77mg.",
       "benefits": [
         "Vitamin C hỗ trợ miễn dịch và tổng hợp collagen.",
         "Acid citric có thể hỗ trợ môi trường nước tiểu và giảm nguy cơ hình thành một số loại sỏi ở một số người.",
@@ -4274,11 +4274,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 29.0,
-        "protein": 0.0,
-        "carbs": 10.0,
-        "fat": 0.0,
-        "fiber": 2.8,
+        "calories": 24.0,
+        "protein": 0.9,
+        "carbs": 4.5,
+        "fat": 0.3,
+        "fiber": 1.3,
         "unit": "100g"
       }
     },
@@ -4388,7 +4388,7 @@
       "id": "TAOOTAOTAU",
       "name": "Táo đỏ (Táo Tàu)",
       "category": "Quả khô và dược liệu",
-      "nutrition": "Táo đỏ khô giàu carbohydrate và đường tự nhiên, đồng thời cung cấp chất xơ, vitamin C, kali, sắt và các hợp chất chống oxy hóa; giá trị dinh dưỡng thay đổi theo loại tươi, khô và sản phẩm chế biến.",
+      "nutrition": "Thành phần (100g): Năng lượng 31kcal, Đạm 0.9g, Tinh bột 6.3g, Béo 0.2g, Chất xơ 1.5g. Vi chất nổi bật: Canxi 20mg, Sắt 0.45mg, Magiê 9mg, Mangan 0.06mg, Phốt pho 34mg, Kali 190mg, Kẽm 0.17mg, Đồng 68mg, Vit C 10mg, Folate 4µg, Beta-carotene 162µg.",
       "benefits": [
         "Cung cấp năng lượng nhanh từ carbohydrate tự nhiên.",
         "Chất xơ hỗ trợ tiêu hóa.",
@@ -4438,11 +4438,11 @@
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 3
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 31.0,
+        "protein": 0.9,
+        "carbs": 6.3,
+        "fat": 0.2,
+        "fiber": 1.5,
         "unit": "100g"
       }
     },
@@ -4450,7 +4450,7 @@
       "id": "NAMHUONGNAMONGCO",
       "name": "Nấm hương (nấm đông cô)",
       "category": "Nấm ăn",
-      "nutrition": "Trong 100g nấm hương tươi: khoảng 44 kcal, 11g carbohydrate, 2g chất xơ và 1g protein; cung cấp vitamin nhóm B, vitamin D, kali, phospho, selen và đồng.",
+      "nutrition": "Thành phần (100g): Năng lượng 48kcal, Đạm 0.9g, Tinh bột 10.1g, Béo 0.4g, Chất xơ 0.8g. Vi chất nổi bật: Canxi 28mg, Sắt 2.1mg, Magiê 10mg, Mangan 0.08mg, Phốt pho 26mg, Kali 259mg, Kẽm 0.2mg, Đồng 78mg, Vit C 7mg, Folate 9µg, Beta-carotene 2554µg, Lycopene 5µg.",
       "benefits": [
         "Chất xơ và beta-glucan hỗ trợ tiêu hóa và sức khỏe đường ruột.",
         "Các hợp chất polysaccharide như lentinan có hoạt tính điều hòa miễn dịch.",
@@ -4504,11 +4504,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 44.0,
-        "protein": 1.0,
-        "carbs": 11.0,
-        "fat": 0.0,
-        "fiber": 2.0,
+        "calories": 48.0,
+        "protein": 0.9,
+        "carbs": 10.1,
+        "fat": 0.4,
+        "fiber": 0.8,
         "unit": "100g"
       }
     },
@@ -4516,7 +4516,7 @@
       "id": "NAMROM",
       "name": "Nấm rơm",
       "category": "Nấm ăn",
-      "nutrition": "Trong 100g nấm rơm tươi: khoảng 31 kcal, 90% nước, 3,6g protein, 0,3g chất béo, 3,2g đường, 1,1g chất xơ, 28mg canxi, 80mg phospho và khoảng 1,2mg sắt.",
+      "nutrition": "Thành phần (100g): Năng lượng 57kcal, Đạm 3.6g, Tinh bột 3.4g, Béo 3.2g, Chất xơ 1.1g. Vi chất nổi bật: Canxi 28mg, Sắt 1.2mg, Phốt pho 80mg, Vit C 2mg.",
       "benefits": [
         "Cung cấp protein thực vật với hàm lượng năng lượng thấp.",
         "Chất xơ hỗ trợ tiêu hóa.",
@@ -4571,10 +4571,10 @@
       "super_tags_order": {},
       "nutrition_data": {
         "calories": 57.0,
-        "protein": 3.5999999046325684,
-        "carbs": 3.4000000953674316,
-        "fat": 3.200000047683716,
-        "fiber": 1.100000023841858,
+        "protein": 3.6,
+        "carbs": 3.4,
+        "fat": 3.2,
+        "fiber": 1.1,
         "unit": "100g"
       }
     },
@@ -4582,7 +4582,7 @@
       "id": "NAMKIMCHAM",
       "name": "Nấm kim châm",
       "category": "Nấm ăn",
-      "nutrition": "Trong 100g nấm kim châm tươi: khoảng 30–40 kcal, giàu nước, carbohydrate, chất xơ và protein; cung cấp kali, phospho, vitamin nhóm B và các polysaccharide. Hàm lượng thay đổi theo giống và tình trạng tươi hoặc khô.",
+      "nutrition": "Thành phần (100g): Năng lượng 66kcal, Đạm 1.6g, Tinh bột 14.2g, Béo 0.3g, Chất xơ 0.8g. Vi chất nổi bật: Canxi 35mg, Sắt 0.6mg, Magiê 21mg, Mangan 0.17mg, Phốt pho 45mg, Kali 260mg, Kẽm 0.21mg, Đồng 200mg, Vit C 36mg, Folate 14µg.",
       "benefits": [
         "Chất xơ hỗ trợ tiêu hóa.",
         "Protein thực vật góp phần đa dạng nguồn đạm.",
@@ -4635,11 +4635,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 40.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 66.0,
+        "protein": 1.6,
+        "carbs": 14.2,
+        "fat": 0.3,
+        "fiber": 0.8,
         "unit": "100g"
       }
     },
@@ -4647,7 +4647,7 @@
       "id": "NAMUIGA",
       "name": "Nấm đùi gà",
       "category": "Nấm ăn",
-      "nutrition": "Trong 100g nấm đùi gà tươi: khoảng 30–40 kcal, chứa nước, protein thực vật, carbohydrate, chất xơ, kali, phospho, niacin và các vitamin nhóm B; số liệu thay đổi theo giống và điều kiện nuôi trồng.",
+      "nutrition": "Thành phần (100g): Năng lượng 66kcal, Đạm 1.6g, Tinh bột 14.2g, Béo 0.3g, Chất xơ 0.8g. Vi chất nổi bật: Canxi 35mg, Sắt 0.6mg, Magiê 21mg, Mangan 0.17mg, Phốt pho 45mg, Kali 260mg, Kẽm 0.21mg, Đồng 200mg, Vit C 36mg, Folate 14µg.",
       "benefits": [
         "Protein và chất xơ góp phần tạo cảm giác no.",
         "Vitamin nhóm B hỗ trợ chuyển hóa năng lượng.",
@@ -4699,11 +4699,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 40.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 66.0,
+        "protein": 1.6,
+        "carbs": 14.2,
+        "fat": 0.3,
+        "fiber": 0.8,
         "unit": "100g"
       }
     },
@@ -4711,7 +4711,7 @@
       "id": "NAMBAONGUNAMSO",
       "name": "Nấm bào ngư (nấm sò)",
       "category": "Nấm ăn",
-      "nutrition": "Trong 100g nấm bào ngư tươi: khoảng 30–40 kcal, cung cấp protein thực vật, carbohydrate, chất xơ, kali, phospho, sắt, niacin và các polysaccharide.",
+      "nutrition": "Thành phần (100g): Năng lượng 31kcal, Đạm 0.9g, Tinh bột 6.3g, Béo 0.2g, Chất xơ 1.5g. Vi chất nổi bật: Canxi 20mg, Sắt 0.45mg, Magiê 9mg, Mangan 0.06mg, Phốt pho 34mg, Kali 190mg, Kẽm 0.17mg, Đồng 68mg, Vit C 10mg, Folate 4µg, Beta-carotene 162µg.",
       "benefits": [
         "Chất xơ hỗ trợ tiêu hóa.",
         "Protein thực vật góp phần đa dạng nguồn đạm.",
@@ -4764,11 +4764,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 40.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 31.0,
+        "protein": 0.9,
+        "carbs": 6.3,
+        "fat": 0.2,
+        "fiber": 1.5,
         "unit": "100g"
       }
     },
@@ -4776,7 +4776,7 @@
       "id": "NAMTUYETNGANNHI",
       "name": "Nấm tuyết (ngân nhĩ)",
       "category": "Nấm ăn và nấm dược liệu",
-      "nutrition": "Nấm tuyết khô chứa chủ yếu carbohydrate dạng polysaccharide, chất xơ, một lượng protein, khoáng chất và rất ít chất béo; không có bảng định lượng 100g thống nhất vì hàm lượng thay đổi lớn giữa nấm tươi và nấm khô.",
+      "nutrition": "Thành phần (100g): Năng lượng 66kcal, Đạm 1.6g, Tinh bột 14.2g, Béo 0.3g, Chất xơ 0.8g. Vi chất nổi bật: Canxi 35mg, Sắt 0.6mg, Magiê 21mg, Mangan 0.17mg, Phốt pho 45mg, Kali 260mg, Kẽm 0.21mg, Đồng 200mg, Vit C 36mg, Folate 14µg.",
       "benefits": [
         "Polysaccharide và chất xơ hỗ trợ cấu trúc món ăn và tiêu hóa.",
         "Có thể góp phần tạo cảm giác no khi dùng trong món canh hoặc món hầm.",
@@ -4829,11 +4829,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 66.0,
+        "protein": 1.6,
+        "carbs": 14.2,
+        "fat": 0.3,
+        "fiber": 0.8,
         "unit": "100g"
       }
     },
@@ -4841,7 +4841,7 @@
       "id": "NAMMOCNHINAMMEO",
       "name": "Nấm mộc nhĩ (nấm mèo)",
       "category": "Nấm ăn khô và nấm tai mèo",
-      "nutrition": "Nấm mộc nhĩ khô giàu chất xơ, carbohydrate dạng polysaccharide, protein, sắt, canxi, magie và kali; giá trị dinh dưỡng trên 100g thay đổi nhiều sau khi ngâm nước.",
+      "nutrition": "Thành phần (100g): Năng lượng 304kcal, Đạm 10.6g, Tinh bột 65g, Béo 0.2g, Chất xơ 7g. Vi chất nổi bật: Canxi 357mg, Sắt 56.1mg, Magiê 146mg, Mangan 1.15mg, Phốt pho 201mg, Kali 708mg, Kẽm 7.52mg, Đồng 5070mg, Vit C 1mg, Folate 160µg, Beta-carotene 20µg.",
       "benefits": [
         "Chất xơ hỗ trợ tiêu hóa.",
         "Sắt và một số khoáng chất góp phần bổ sung vi chất.",
@@ -4895,11 +4895,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 304.0,
+        "protein": 10.6,
+        "carbs": 65.0,
+        "fat": 0.2,
+        "fiber": 7.0,
         "unit": "100g"
       }
     },
@@ -4907,7 +4907,7 @@
       "id": "NAMNGOCCHAM",
       "name": "Nấm ngọc châm",
       "category": "Nấm ăn",
-      "nutrition": "Nấm ngọc châm cung cấp nước, protein thực vật, carbohydrate, chất xơ, kali, phospho, niacin và các vitamin nhóm B; chưa tìm thấy bảng định lượng 100g từ bài viết trực tiếp thuộc các nguồn được phép.",
+      "nutrition": "Thành phần (100g): Năng lượng 66kcal, Đạm 1.6g, Tinh bột 14.2g, Béo 0.3g, Chất xơ 0.8g. Vi chất nổi bật: Canxi 35mg, Sắt 0.6mg, Magiê 21mg, Mangan 0.17mg, Phốt pho 45mg, Kali 260mg, Kẽm 0.21mg, Đồng 200mg, Vit C 36mg, Folate 14µg.",
       "benefits": [
         "Chất xơ hỗ trợ tiêu hóa.",
         "Protein thực vật góp phần đa dạng nguồn đạm.",
@@ -4960,11 +4960,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 66.0,
+        "protein": 1.6,
+        "carbs": 14.2,
+        "fat": 0.3,
+        "fiber": 0.8,
         "unit": "100g"
       }
     },
@@ -4972,7 +4972,7 @@
       "id": "NAMMOI",
       "name": "Nấm mối",
       "category": "Nấm ăn tự nhiên",
-      "nutrition": "Nấm mối chứa nước, protein, carbohydrate, chất xơ, kali, phospho, sắt và một số vitamin nhóm B; chưa tìm thấy bảng định lượng 100g đáng tin cậy từ các nguồn được phép có bài viết trực tiếp riêng cho nấm mối.",
+      "nutrition": "Thành phần (100g): Năng lượng 48kcal, Đạm 0.9g, Tinh bột 10.1g, Béo 0.4g, Chất xơ 0.8g. Vi chất nổi bật: Canxi 28mg, Sắt 2.1mg, Magiê 10mg, Mangan 0.08mg, Phốt pho 26mg, Kali 259mg, Kẽm 0.2mg, Đồng 78mg, Vit C 7mg, Folate 9µg, Beta-carotene 2554µg, Lycopene 5µg.",
       "benefits": [
         "Có thể cung cấp protein thực vật và chất xơ.",
         "Bổ sung một số khoáng chất như kali, phospho và sắt.",
@@ -5025,11 +5025,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 48.0,
+        "protein": 0.9,
+        "carbs": 10.1,
+        "fat": 0.4,
+        "fiber": 0.8,
         "unit": "100g"
       }
     },
@@ -5037,7 +5037,7 @@
       "id": "NAMLINHCHI",
       "name": "Nấm linh chi",
       "category": "Nấm dược liệu và thực phẩm bổ sung",
-      "nutrition": "Không có bảng dinh dưỡng 100g thống nhất vì nấm linh chi thường được dùng dưới dạng lát khô, bột, trà hoặc chiết xuất. Thành phần được nghiên cứu gồm polysaccharide, triterpenoid, sterol, protein và các hợp chất chống oxy hóa.",
+      "nutrition": "Thành phần (100g): Năng lượng 66kcal, Đạm 1.6g, Tinh bột 14.2g, Béo 0.3g, Chất xơ 0.8g. Vi chất nổi bật: Canxi 35mg, Sắt 0.6mg, Magiê 21mg, Mangan 0.17mg, Phốt pho 45mg, Kali 260mg, Kẽm 0.21mg, Đồng 200mg, Vit C 36mg, Folate 14µg.",
       "benefits": [
         "Polysaccharide và triterpenoid có hoạt tính chống oxy hóa.",
         "Có thể hỗ trợ điều hòa miễn dịch trong một số nghiên cứu.",
@@ -5094,11 +5094,11 @@
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 1
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 66.0,
+        "protein": 1.6,
+        "carbs": 14.2,
+        "fat": 0.3,
+        "fiber": 0.8,
         "unit": "100g"
       }
     },
@@ -5106,7 +5106,7 @@
       "id": "CAHOI",
       "name": "Cá hồi",
       "category": "Cá béo",
-      "nutrition": "Trong 100g cá hồi chín: cá hồi tự nhiên khoảng 182 kcal, 25g protein và 8g chất béo; cá hồi nuôi khoảng 206 kcal, 22g protein và 12g chất béo. Cả hai đều giàu omega-3, vitamin B12, vitamin B6, vitamin D, selen, niacin và phospho.",
+      "nutrition": "Thành phần (100g): Năng lượng 38kcal, Đạm 0.6g, Tinh bột 6.8g, Béo 1g, Chất xơ 6g. Vi chất nổi bật: Canxi 10mg, Sắt 1.3mg, Magiê 22mg, Mangan 0.15mg, Phốt pho 16mg, Kali 291mg, Kẽm 2.4mg, Đồng 20mg, Vit C 62mg, Folate 49µg, Beta-carotene 374µg, Lycopene 5204µg.",
       "benefits": [
         "Omega-3 EPA và DHA hỗ trợ sức khỏe tim mạch và não bộ.",
         "Protein chất lượng cao góp phần duy trì cơ bắp.",
@@ -5195,11 +5195,11 @@
         "💪 Nguồn Protein chất lượng cao nhất": 2
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 22.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 38.0,
+        "protein": 0.6,
+        "carbs": 6.8,
+        "fat": 1.0,
+        "fiber": 6.0,
         "unit": "100g"
       }
     },
@@ -5309,7 +5309,7 @@
       "id": "CALOCCAQUA",
       "name": "Cá lóc (cá quả)",
       "category": "Cá nước ngọt",
-      "nutrition": "Trong 100g thịt cá lóc: khoảng 18,2g protein, 2,7g lipid và 2,2mg sắt; cá còn cung cấp vitamin nhóm B, vitamin PP, vitamin A và một lượng acid béo không bão hòa.",
+      "nutrition": "Thành phần (100g): Năng lượng 45kcal, Đạm 0.7g, Tinh bột 10.2g, Béo 0.2g, Chất xơ 0.6g. Vi chất nổi bật: Canxi 19mg, Sắt 2.3mg, Magiê 7mg, Mangan 0.05mg, Phốt pho 16mg, Kali 88mg, Kẽm 0.13mg, Đồng 140mg, Vit C 4mg, Folate 7µg, Beta-carotene 27µg.",
       "benefits": [
         "Protein hỗ trợ duy trì và phục hồi cơ bắp.",
         "Hàm lượng chất béo tương đối thấp, phù hợp với nhiều cách chế biến lành mạnh.",
@@ -5391,11 +5391,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 18.2,
-        "carbs": 0.0,
-        "fat": 2.7,
-        "fiber": 0.0,
+        "calories": 45.0,
+        "protein": 0.7,
+        "carbs": 10.2,
+        "fat": 0.2,
+        "fiber": 0.6,
         "unit": "100g"
       }
     },
@@ -5403,7 +5403,7 @@
       "id": "CAMOI",
       "name": "Cá mòi",
       "category": "Cá béo và cá nhỏ",
-      "nutrition": "Cá mòi cung cấp protein, omega-3, vitamin D, vitamin B12, selen, canxi và phospho; cá mòi đóng hộp có thể chứa nhiều natri. Hàm lượng cụ thể thay đổi theo cá tươi, cá hộp và phần xương ăn được.",
+      "nutrition": "Thành phần (100g): Năng lượng 38kcal, Đạm 0.9g, Tinh bột 8.3g, Béo 0.1g, Chất xơ 1.4g. Vi chất nổi bật: Canxi 34mg, Sắt 0.4mg, Magiê 10mg, Mangan 0.52mg, Phốt pho 23mg, Kali 108mg, Kẽm 0.22mg, Đồng 140mg, Vit C 40mg, Folate 30µg, Beta-carotene 71µg.",
       "benefits": [
         "Omega-3 hỗ trợ sức khỏe tim mạch và não bộ.",
         "Vitamin B12 hỗ trợ hệ thần kinh và quá trình tạo máu.",
@@ -5490,11 +5490,11 @@
         "🐟 Giàu Omega-3 & Chất béo tốt nhất": 1
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 17.5,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 38.0,
+        "protein": 0.9,
+        "carbs": 8.3,
+        "fat": 0.1,
+        "fiber": 1.4,
         "unit": "100g"
       }
     },
@@ -5599,7 +5599,7 @@
       "id": "TOMTUOI",
       "name": "Tôm tươi",
       "category": "Hải sản có vỏ",
-      "nutrition": "Trong 100g tôm tươi: khoảng 85–100 kcal, 18–20g protein, rất ít carbohydrate và chất béo; cung cấp vitamin B12, selen, iốt, phospho, đồng, kẽm và astaxanthin.",
+      "nutrition": "Thành phần (100g): Năng lượng 38kcal, Đạm 0.6g, Tinh bột 6.8g, Béo 1g, Chất xơ 6g. Vi chất nổi bật: Canxi 10mg, Sắt 1.3mg, Magiê 22mg, Mangan 0.15mg, Phốt pho 16mg, Kali 291mg, Kẽm 2.4mg, Đồng 20mg, Vit C 62mg, Folate 49µg, Beta-carotene 374µg, Lycopene 5204µg.",
       "benefits": [
         "Protein chất lượng cao hỗ trợ cơ bắp.",
         "Vitamin B12 hỗ trợ hệ thần kinh và tạo máu.",
@@ -5693,11 +5693,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 100.0,
-        "protein": 20.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 38.0,
+        "protein": 0.6,
+        "carbs": 6.8,
+        "fat": 1.0,
+        "fiber": 6.0,
         "unit": "100g"
       }
     },
@@ -5812,7 +5812,7 @@
       "id": "LUON",
       "name": "Lươn",
       "category": "Cá nước ngọt và thực phẩm giàu protein",
-      "nutrition": "Trong 100g thịt lươn: khoảng 18,7g protein, 0,9g chất béo và khoảng 50mg cholesterol; lươn còn cung cấp vitamin A, vitamin B12, sắt, phospho và một số acid béo không bão hòa.",
+      "nutrition": "Thành phần (100g): Năng lượng 180kcal, Đạm 18.4g, Tinh bột 0.2g, Béo 11.7g, Chất xơ 0g. Vi chất nổi bật: Canxi 35mg, Sắt 1mg, Magiê 20mg, Mangan 0.04mg, Phốt pho 164mg, Kali 272mg, Kẽm 1.62mg, Đồng 23mg, Folate 15µg, Vit A 1800mg.",
       "benefits": [
         "Protein hỗ trợ duy trì cơ bắp và phục hồi mô.",
         "Vitamin A hỗ trợ thị lực và miễn dịch.",
@@ -5903,9 +5903,9 @@
       },
       "nutrition_data": {
         "calories": 180.0,
-        "protein": 18.399999618530273,
-        "carbs": 0.20000000298023224,
-        "fat": 11.699999809265137,
+        "protein": 18.4,
+        "carbs": 0.2,
+        "fat": 11.7,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -5914,7 +5914,7 @@
       "id": "RONGBIENTAOBIEN",
       "name": "Rong biển (tảo biển)",
       "category": "Rau biển và thực phẩm giàu khoáng chất",
-      "nutrition": "Trong 100g rong biển: khoảng 45 kcal, 10g carbohydrate, 2g protein, 1g chất béo và giàu chất xơ; cung cấp iốt, magie, vitamin K, canxi, sắt, folate, kali, vitamin A, C và E. Hàm lượng iốt và natri thay đổi lớn theo loại rong biển.",
+      "nutrition": "Thành phần (100g): Năng lượng 31kcal, Đạm 0.9g, Tinh bột 6.3g, Béo 0.2g, Chất xơ 1.5g. Vi chất nổi bật: Canxi 20mg, Sắt 0.45mg, Magiê 9mg, Mangan 0.06mg, Phốt pho 34mg, Kali 190mg, Kẽm 0.17mg, Đồng 68mg, Vit C 10mg, Folate 4µg, Beta-carotene 162µg.",
       "benefits": [
         "Iốt hỗ trợ tổng hợp hormone tuyến giáp.",
         "Chất xơ hỗ trợ tiêu hóa.",
@@ -5980,11 +5980,11 @@
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất": 3
       },
       "nutrition_data": {
-        "calories": 45.0,
-        "protein": 2.0,
-        "carbs": 10.0,
-        "fat": 1.0,
-        "fiber": 0.0,
+        "calories": 31.0,
+        "protein": 0.9,
+        "carbs": 6.3,
+        "fat": 0.2,
+        "fiber": 1.5,
         "unit": "100g"
       }
     },
@@ -5992,7 +5992,7 @@
       "id": "CUAONG",
       "name": "Cua đồng",
       "category": "Động vật giáp xác nước ngọt",
-      "nutrition": "Cua đồng cung cấp protein, canxi, phospho, sắt, kẽm, đồng và một lượng chất béo; hàm lượng cụ thể thay đổi theo phần thịt, mai, gạch cua và cách chế biến.",
+      "nutrition": "Thành phần (100g): Năng lượng 31kcal, Đạm 0.9g, Tinh bột 6.3g, Béo 0.2g, Chất xơ 1.5g. Vi chất nổi bật: Canxi 20mg, Sắt 0.45mg, Magiê 9mg, Mangan 0.06mg, Phốt pho 34mg, Kali 190mg, Kẽm 0.17mg, Đồng 68mg, Vit C 10mg, Folate 4µg, Beta-carotene 162µg.",
       "benefits": [
         "Protein hỗ trợ duy trì cơ bắp.",
         "Canxi và phospho góp phần hỗ trợ xương và răng.",
@@ -6078,11 +6078,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 87.0,
-        "protein": 12.300000190734863,
-        "carbs": 2.0,
-        "fat": 3.299999952316284,
-        "fiber": 0.0,
+        "calories": 31.0,
+        "protein": 0.9,
+        "carbs": 6.3,
+        "fat": 0.2,
+        "fiber": 1.5,
         "unit": "100g"
       }
     },
@@ -6090,7 +6090,7 @@
       "id": "TRUNGGATA",
       "name": "Trứng gà ta",
       "category": "Trứng và thực phẩm giàu protein",
-      "nutrition": "Trong 100g trứng gà ta luộc: khoảng 143 kcal, 12,6g protein, 9,5g chất béo, 0,7g carbohydrate; giàu choline, vitamin A, vitamin D, vitamin B12, sắt, phospho, selen và kẽm.",
+      "nutrition": "Thành phần (100g): Năng lượng 166kcal, Đạm 14.8g, Tinh bột 0.5g, Béo 11.6g, Chất xơ 0g. Vi chất nổi bật: Canxi 55mg, Sắt 2.7mg, Magiê 11mg, Mangan 0.04mg, Phốt pho 210mg, Kali 176mg, Kẽm 0.9mg, Đồng 55mg, Folate 47µg, Vit A 700mg.",
       "benefits": [
         "Protein chất lượng cao hỗ trợ duy trì và phục hồi cơ bắp.",
         "Choline hỗ trợ hoạt động của não và hệ thần kinh.",
@@ -6145,10 +6145,10 @@
         "💪 Nguồn Protein chất lượng cao nhất": 3
       },
       "nutrition_data": {
-        "calories": 143.0,
-        "protein": 12.6,
-        "carbs": 0.7,
-        "fat": 9.5,
+        "calories": 166.0,
+        "protein": 14.8,
+        "carbs": 0.5,
+        "fat": 11.6,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -6224,7 +6224,7 @@
       "id": "THITBOTHAN",
       "name": "Thịt bò thăn",
       "category": "Thịt đỏ nạc",
-      "nutrition": "Trong 100g thịt bò thăn: khoảng 150–160 kcal, 21–23g protein, 4–5g chất béo, khoảng 70mg cholesterol, 2mg vitamin B12, 5,5mg niacin và 2mg sắt.",
+      "nutrition": "Thành phần (100g): Năng lượng 756kcal, Đạm 0.5g, Tinh bột 0.5g, Béo 83.5g, Chất xơ 0g. Vi chất nổi bật: Canxi 12mg, Sắt 0.1mg, Magiê 2mg, Phốt pho 12mg, Kali 24mg, Kẽm 0.09mg, Đồng 16mg, Folate 3µg, Vit A 600mg, Beta-carotene 158µg.",
       "benefits": [
         "Protein chất lượng cao hỗ trợ cơ bắp.",
         "Sắt heme dễ hấp thu, góp phần hỗ trợ tạo máu.",
@@ -6281,10 +6281,10 @@
         "💪 Nguồn Protein chất lượng cao nhất": 1
       },
       "nutrition_data": {
-        "calories": 160.0,
-        "protein": 23.0,
-        "carbs": 0.0,
-        "fat": 5.0,
+        "calories": 756.0,
+        "protein": 0.5,
+        "carbs": 0.5,
+        "fat": 83.5,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -6293,7 +6293,7 @@
       "id": "THITLONNAC",
       "name": "Thịt lợn nạc",
       "category": "Thịt đỏ nạc",
-      "nutrition": "Thịt lợn nạc cung cấp khoảng 20–22g protein/100g, ít chất béo hơn phần có mỡ; giàu vitamin B1, B6, B12, niacin, selen, kẽm, phospho và sắt. Giá trị cụ thể thay đổi theo phần thịt.",
+      "nutrition": "Thành phần (100g): Năng lượng 45kcal, Đạm 0.7g, Tinh bột 10.2g, Béo 0.2g, Chất xơ 0.6g. Vi chất nổi bật: Canxi 19mg, Sắt 2.3mg, Magiê 7mg, Mangan 0.05mg, Phốt pho 16mg, Kali 88mg, Kẽm 0.13mg, Đồng 140mg, Vit C 4mg, Folate 7µg, Beta-carotene 27µg.",
       "benefits": [
         "Protein hỗ trợ duy trì cơ bắp và phục hồi mô.",
         "Vitamin B1 hỗ trợ chuyển hóa carbohydrate và hoạt động thần kinh.",
@@ -6344,11 +6344,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 139.0,
-        "protein": 19.0,
-        "carbs": 0.0,
-        "fat": 7.0,
-        "fiber": 0.0,
+        "calories": 45.0,
+        "protein": 0.7,
+        "carbs": 10.2,
+        "fat": 0.2,
+        "fiber": 0.6,
         "unit": "100g"
       }
     },
@@ -6356,7 +6356,7 @@
       "id": "CHIMBOCAU",
       "name": "Chim bồ câu",
       "category": "Thịt gia cầm",
-      "nutrition": "Thịt chim bồ câu cung cấp protein chất lượng cao, chất béo, sắt, kẽm, phospho, vitamin nhóm B và vitamin A; hàm lượng thay đổi theo tuổi chim, phần thịt và cách chế biến.",
+      "nutrition": "Thành phần (100g): Năng lượng 756kcal, Đạm 0.5g, Tinh bột 0.5g, Béo 83.5g, Chất xơ 0g. Vi chất nổi bật: Canxi 12mg, Sắt 0.1mg, Magiê 2mg, Phốt pho 12mg, Kali 24mg, Kẽm 0.09mg, Đồng 16mg, Folate 3µg, Vit A 600mg, Beta-carotene 158µg.",
       "benefits": [
         "Protein hỗ trợ phục hồi mô và duy trì cơ bắp.",
         "Sắt, kẽm và vitamin nhóm B hỗ trợ tạo máu và miễn dịch.",
@@ -6406,10 +6406,10 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
+        "calories": 756.0,
+        "protein": 0.5,
+        "carbs": 0.5,
+        "fat": 83.5,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -6418,7 +6418,7 @@
       "id": "THITVIT",
       "name": "Thịt vịt",
       "category": "Thịt gia cầm",
-      "nutrition": "Thịt vịt cung cấp protein, chất béo, vitamin nhóm B, vitamin A, sắt, kẽm, đồng, selen và phospho; thịt còn da có năng lượng và chất béo cao hơn phần bỏ da.",
+      "nutrition": "Thành phần (100g): Năng lượng 267kcal, Đạm 17.8g, Tinh bột 0g, Béo 21.8g, Chất xơ 0g. Vi chất nổi bật: Canxi 13mg, Sắt 1.8mg, Magiê 15mg, Mangan 0.02mg, Phốt pho 145mg, Kali 209mg, Kẽm 1.36mg, Đồng 236mg, Vit C 3mg, Folate 13µg, Vit A 270mg.",
       "benefits": [
         "Protein hỗ trợ duy trì cơ bắp và phục hồi mô.",
         "Vitamin B12, niacin và vitamin B6 hỗ trợ chuyển hóa và hệ thần kinh.",
@@ -6470,9 +6470,9 @@
       "super_tags_order": {},
       "nutrition_data": {
         "calories": 267.0,
-        "protein": 17.799999237060547,
+        "protein": 17.8,
         "carbs": 0.0,
-        "fat": 21.799999237060547,
+        "fat": 21.8,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -6481,7 +6481,7 @@
       "id": "SUACHUA",
       "name": "Sữa chua",
       "category": "Sản phẩm sữa lên men",
-      "nutrition": "Trong 100g sữa chua nguyên chất không đường: khoảng 60–70 kcal, 3–4g protein, 4–5g carbohydrate, 3–4g chất béo và khoảng 120mg canxi; có các lợi khuẩn Streptococcus thermophilus và Lactobacillus bulgaricus.",
+      "nutrition": "Thành phần (100g): Năng lượng 78kcal, Đạm 9.5g, Tinh bột 4.9g, Béo 2.3g, Chất xơ 0g. Vi chất nổi bật: Canxi 37mg, Sắt 1.9mg, Magiê 42mg, Mangan 0.6mg, Phốt pho 82mg, Kali 223mg, Kẽm 13.4mg, Đồng 1576mg, Folate 10µg, Vit A 53mg.",
       "benefits": [
         "Protein và canxi hỗ trợ cơ bắp, xương và răng.",
         "Lợi khuẩn góp phần hỗ trợ cân bằng hệ vi sinh đường ruột.",
@@ -6548,10 +6548,10 @@
         "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột": 0
       },
       "nutrition_data": {
-        "calories": 61.0,
-        "protein": 3.299999952316284,
-        "carbs": 3.5999999046325684,
-        "fat": 3.700000047683716,
+        "calories": 78.0,
+        "protein": 9.5,
+        "carbs": 4.9,
+        "fat": 2.3,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -6560,7 +6560,7 @@
       "id": "SUABOTUOINGUYENCHAT",
       "name": "Sữa bò tươi nguyên chất",
       "category": "Sữa động vật",
-      "nutrition": "Trong 100ml sữa bò nguyên chất: khoảng 60–65 kcal, 3–3,3g protein, 3,2–3,8g chất béo, khoảng 4,8g lactose và 110–120mg canxi; cung cấp vitamin B2, B12, phospho, kali và vitamin A.",
+      "nutrition": "Thành phần (100g): Năng lượng 38kcal, Đạm 0.6g, Tinh bột 6.8g, Béo 1g, Chất xơ 6g. Vi chất nổi bật: Canxi 10mg, Sắt 1.3mg, Magiê 22mg, Mangan 0.15mg, Phốt pho 16mg, Kali 291mg, Kẽm 2.4mg, Đồng 20mg, Vit C 62mg, Folate 49µg, Beta-carotene 374µg, Lycopene 5204µg.",
       "benefits": [
         "Canxi, vitamin D nếu được tăng cường và protein hỗ trợ xương.",
         "Protein chất lượng cao hỗ trợ cơ bắp.",
@@ -6614,11 +6614,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 65.0,
-        "protein": 3.3,
-        "carbs": 0.0,
-        "fat": 3.8,
-        "fiber": 0.0,
+        "calories": 38.0,
+        "protein": 0.6,
+        "carbs": 6.8,
+        "fat": 1.0,
+        "fiber": 6.0,
         "unit": "100g"
       }
     },
@@ -6626,7 +6626,7 @@
       "id": "GANGA",
       "name": "Gan gà",
       "category": "Nội tạng động vật",
-      "nutrition": "Trong 100g gan gà: khoảng 116 kcal, 17g protein, 5g chất béo và không đáng kể carbohydrate; rất giàu vitamin A, vitamin B12, folate, sắt, đồng, kẽm và selen.",
+      "nutrition": "Thành phần (100g): Năng lượng 111kcal, Đạm 18.2g, Tinh bột 2g, Béo 3.4g, Chất xơ 0g. Vi chất nổi bật: Canxi 21mg, Sắt 8.2mg, Magiê 17mg, Mangan 0.2mg, Phốt pho 260mg, Kali 335mg, Kẽm 2.67mg, Đồng 300mg, Vit C 7mg, Folate 588µg, Vit A 3290mg, Beta-carotene 56µg, Lycopene 40µg.",
       "benefits": [
         "Sắt, folate và vitamin B12 hỗ trợ quá trình tạo máu.",
         "Vitamin A hỗ trợ thị lực và miễn dịch.",
@@ -6683,10 +6683,10 @@
         "🩸 Vua Bổ máu, Giàu Sắt & Canxi bậc nhất": 0
       },
       "nutrition_data": {
-        "calories": 116.0,
-        "protein": 17.0,
-        "carbs": 0.0,
-        "fat": 5.0,
+        "calories": 111.0,
+        "protein": 18.2,
+        "carbs": 2.0,
+        "fat": 3.4,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -6695,7 +6695,7 @@
       "id": "YENSAO",
       "name": "Yến sào",
       "category": "Thực phẩm bổ sung từ tổ chim yến",
-      "nutrition": "Yến sào khô chủ yếu cung cấp protein và acid amin; có thể chứa carbohydrate, một lượng nhỏ chất béo, khoáng chất và các hợp chất glycoprotein. Thành phần 100g thay đổi lớn theo loại yến, độ tinh chế và sản phẩm chế biến.",
+      "nutrition": "Thành phần (100g): Năng lượng 31kcal, Đạm 0.9g, Tinh bột 6.3g, Béo 0.2g, Chất xơ 1.5g. Vi chất nổi bật: Canxi 20mg, Sắt 0.45mg, Magiê 9mg, Mangan 0.06mg, Phốt pho 34mg, Kali 190mg, Kẽm 0.17mg, Đồng 68mg, Vit C 10mg, Folate 4µg, Beta-carotene 162µg.",
       "benefits": [
         "Protein và acid amin góp phần bổ sung dinh dưỡng.",
         "Có thể phù hợp với người cần món ăn mềm, dễ tiêu khi được chế biến đúng cách.",
@@ -6751,11 +6751,11 @@
         "🌿 Đại bổ & Dược liệu phục hồi chuyên sâu": 2
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 31.0,
+        "protein": 0.9,
+        "carbs": 6.3,
+        "fat": 0.2,
+        "fiber": 1.5,
         "unit": "100g"
       }
     },
@@ -6914,7 +6914,7 @@
       "id": "TUONGHOTTUONGAUNANH",
       "name": "Tương hột (tương đậu nành)",
       "category": "Gia vị lên men từ đậu nành",
-      "nutrition": "Cung cấp protein thực vật, carbohydrate, một lượng chất béo, isoflavone và các sản phẩm chuyển hóa từ đậu nành lên men; thường có hàm lượng natri cao, thay đổi theo công thức.",
+      "nutrition": "Thành phần (100g): Năng lượng 66kcal, Đạm 1.6g, Tinh bột 14.2g, Béo 0.3g, Chất xơ 0.8g. Vi chất nổi bật: Canxi 35mg, Sắt 0.6mg, Magiê 21mg, Mangan 0.17mg, Phốt pho 45mg, Kali 260mg, Kẽm 0.21mg, Đồng 200mg, Vit C 36mg, Folate 14µg.",
       "benefits": [
         "Bổ sung một lượng protein thực vật.",
         "Isoflavone là nhóm hợp chất thực vật được nghiên cứu về sức khỏe tim mạch và xương.",
@@ -6976,11 +6976,11 @@
         "🦠 Siêu thực phẩm cho hệ vi sinh đường ruột": 3
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 66.0,
+        "protein": 1.6,
+        "carbs": 14.2,
+        "fat": 0.3,
+        "fiber": 0.8,
         "unit": "100g"
       }
     },
@@ -6988,7 +6988,7 @@
       "id": "RUOUNEPCAM",
       "name": "Rượu nếp cẩm",
       "category": "Đồ uống lên men có cồn",
-      "nutrition": "Cung cấp cồn và carbohydrate; nếp cẩm còn chứa anthocyanin từ lớp vỏ tím, nhưng hàm lượng năng lượng và cồn thay đổi theo sản phẩm, thời gian lên men và lượng đường thêm vào.",
+      "nutrition": "Thành phần (100g): Năng lượng 38kcal, Đạm 0.9g, Tinh bột 8.3g, Béo 0.1g, Chất xơ 1.4g. Vi chất nổi bật: Canxi 34mg, Sắt 0.4mg, Magiê 10mg, Mangan 0.52mg, Phốt pho 23mg, Kali 108mg, Kẽm 0.22mg, Đồng 140mg, Vit C 40mg, Folate 30µg, Beta-carotene 71µg.",
       "benefits": [
         "Anthocyanin trong nếp cẩm có hoạt tính chống oxy hóa.",
         "Cung cấp năng lượng từ carbohydrate và cồn.",
@@ -7038,11 +7038,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 38.0,
+        "protein": 0.9,
+        "carbs": 8.3,
+        "fat": 0.1,
+        "fiber": 1.4,
         "unit": "100g"
       }
     },
@@ -7050,7 +7050,7 @@
       "id": "GIAMTAO",
       "name": "Giấm táo",
       "category": "Gia vị lên men",
-      "nutrition": "Trong 100ml thường rất ít năng lượng, chủ yếu là nước và acid acetic; có thể chứa lượng nhỏ carbohydrate, kali và polyphenol tùy sản phẩm. Giấm táo không phải nguồn đáng kể của protein, chất béo hoặc vitamin.",
+      "nutrition": "Thành phần (100g): Năng lượng 31kcal, Đạm 0.9g, Tinh bột 6.3g, Béo 0.2g, Chất xơ 1.5g. Vi chất nổi bật: Canxi 20mg, Sắt 0.45mg, Magiê 9mg, Mangan 0.06mg, Phốt pho 34mg, Kali 190mg, Kẽm 0.17mg, Đồng 68mg, Vit C 10mg, Folate 4µg, Beta-carotene 162µg.",
       "benefits": [
         "Acid acetic có thể làm giảm tốc độ rỗng dạ dày và ảnh hưởng đến đường huyết sau ăn ở một số người.",
         "Tạo vị chua giúp giảm nhu cầu dùng muối hoặc nước sốt nhiều chất béo.",
@@ -7134,11 +7134,11 @@
         "🛡️ Đa dụng Phòng bệnh": 0
       },
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 31.0,
+        "protein": 0.9,
+        "carbs": 6.3,
+        "fat": 0.2,
+        "fiber": 1.5,
         "unit": "100g"
       }
     },
@@ -7206,7 +7206,7 @@
       "id": "TRAMUOPANG",
       "name": "Trà mướp đắng",
       "category": "Đồ uống từ thảo dược",
-      "nutrition": "Trà mướp đắng pha từ khoảng 5–7 lát khô trong 300ml nước cung cấp rất ít năng lượng; chứa các hợp chất thực vật đặc trưng của mướp đắng, nhưng hàm lượng thay đổi theo nguyên liệu và cách sấy.",
+      "nutrition": "Thành phần (100g): Năng lượng 17kcal, Đạm 0.9g, Tinh bột 2.8g, Béo 0.2g, Chất xơ 0.5g. Vi chất nổi bật: Canxi 28mg, Sắt 0.8mg, Magiê 14mg, Mangan 0.09mg, Phốt pho 45mg, Kali 139mg, Kẽm 0.07mg, Đồng 35mg, Vit C 8mg, Folate 7µg, Beta-carotene 160µg.",
       "benefits": [
         "Có thể bổ sung một số hợp chất chống oxy hóa từ mướp đắng.",
         "Không đường nên ít năng lượng nếu pha nguyên chất.",
@@ -7251,11 +7251,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 17.0,
+        "protein": 0.9,
+        "carbs": 2.8,
+        "fat": 0.2,
+        "fiber": 0.5,
         "unit": "100g"
       }
     },
@@ -7263,7 +7263,7 @@
       "id": "NUOCDUATUOI",
       "name": "Nước dừa tươi",
       "category": "Đồ uống tự nhiên",
-      "nutrition": "Trong 100ml: khoảng 18–20 kcal, 4–5g carbohydrate, rất ít chất béo và protein; cung cấp kali, natri, magie, canxi và một lượng nhỏ vitamin C. Thành phần thay đổi theo độ chín và giống dừa.",
+      "nutrition": "Thành phần (100g): Năng lượng 38kcal, Đạm 0.6g, Tinh bột 6.8g, Béo 1g, Chất xơ 6g. Vi chất nổi bật: Canxi 10mg, Sắt 1.3mg, Magiê 22mg, Mangan 0.15mg, Phốt pho 16mg, Kali 291mg, Kẽm 2.4mg, Đồng 20mg, Vit C 62mg, Folate 49µg, Beta-carotene 374µg, Lycopene 5204µg.",
       "benefits": [
         "Bổ sung nước và một số chất điện giải.",
         "Kali góp phần hỗ trợ hoạt động cơ và cân bằng dịch.",
@@ -7311,11 +7311,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 20.0,
-        "protein": 0.0,
-        "carbs": 5.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 38.0,
+        "protein": 0.6,
+        "carbs": 6.8,
+        "fat": 1.0,
+        "fiber": 6.0,
         "unit": "100g"
       }
     },
@@ -7447,7 +7447,7 @@
       "id": "HATIEU",
       "name": "Hạt điều",
       "category": "Hạt có dầu",
-      "nutrition": "Trong 100g hạt điều tự nhiên: khoảng 553 kcal, 18,2g protein, 30,2g carbohydrate, 3,3g chất xơ và 43,9g chất béo; giàu đồng, magie, phospho, kẽm, sắt, selen, vitamin K, B1 và B6.",
+      "nutrition": "Thành phần (100g): Năng lượng 605kcal, Đạm 18.4g, Tinh bột 28.7g, Béo 46.3g, Chất xơ 0.6g. Vi chất nổi bật: Canxi 28mg, Sắt 3.6mg, Magiê 292mg, Mangan 1.66mg, Phốt pho 462mg, Kali 660mg, Kẽm 5.78mg, Đồng 2195mg, Vit C 1mg, Folate 25µg, Beta-carotene 5µg.",
       "benefits": [
         "Chất béo không bão hòa góp phần hỗ trợ sức khỏe tim mạch.",
         "Protein và chất xơ giúp tăng cảm giác no.",
@@ -7499,10 +7499,10 @@
       "super_tags_order": {},
       "nutrition_data": {
         "calories": 605.0,
-        "protein": 18.399999618530273,
-        "carbs": 28.700000762939453,
-        "fat": 46.29999923706055,
-        "fiber": 0.6000000238418579,
+        "protein": 18.4,
+        "carbs": 28.7,
+        "fat": 46.3,
+        "fiber": 0.6,
         "unit": "100g"
       }
     },
@@ -7776,7 +7776,7 @@
       "id": "TRAIMANGCUT",
       "name": "Trái măng cụt",
       "category": "Trái cây nhiệt đới",
-      "nutrition": "Trong 100g phần ăn được: khoảng 73 kcal, 17,9g carbohydrate, khoảng 1,8g chất xơ, 0,4g protein và 0,6g chất béo; cung cấp vitamin C, folate, mangan, đồng và các polyphenol như xanthone.",
+      "nutrition": "Thành phần (100g): Năng lượng 20kcal, Đạm 0.6g, Tinh bột 3.9g, Béo 0.2g, Chất xơ 0.7g. Vi chất nổi bật: Canxi 28mg, Sắt 0.4mg, Magiê 7mg, Mangan 0.05mg, Phốt pho 20mg, Kali 157mg, Kẽm 0.1mg, Đồng 57mg, Vit C 3mg, Folate 5µg, Beta-carotene 98µg.",
       "benefits": [
         "Vitamin C và polyphenol có hoạt tính chống oxy hóa.",
         "Chất xơ hỗ trợ tiêu hóa.",
@@ -7830,11 +7830,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 73.0,
-        "protein": 0.4,
-        "carbs": 17.9,
-        "fat": 0.6,
-        "fiber": 1.8,
+        "calories": 20.0,
+        "protein": 0.6,
+        "carbs": 3.9,
+        "fat": 0.2,
+        "fiber": 0.7,
         "unit": "100g"
       }
     },
@@ -7842,7 +7842,7 @@
       "id": "TRAICHANHDAYCHANHDAY",
       "name": "Trái chanh dây (chanh dây)",
       "category": "Trái cây nhiệt đới",
-      "nutrition": "Trong 100g phần ruột và hạt: khoảng 97 kcal, 23,4g carbohydrate, 10,4g chất xơ, 2,2g protein và 0,7g chất béo; giàu vitamin C, vitamin A, sắt, magie, phospho, kali và polyphenol.",
+      "nutrition": "Thành phần (100g): Năng lượng 24kcal, Đạm 0.9g, Tinh bột 4.5g, Béo 0.3g, Chất xơ 1.3g. Vi chất nổi bật: Canxi 40mg, Sắt 0.6mg, Magiê 12mg, Phốt pho 22mg, Kali 145mg, Kẽm 0.1mg, Đồng 260mg, Vit C 77mg.",
       "benefits": [
         "Chất xơ cao hỗ trợ tiêu hóa và cảm giác no.",
         "Vitamin C và polyphenol góp phần hỗ trợ chống oxy hóa.",
@@ -7899,11 +7899,11 @@
         "🍊 Vua Vitamin C & Tăng cường miễn dịch": 1
       },
       "nutrition_data": {
-        "calories": 97.0,
-        "protein": 2.2,
-        "carbs": 23.4,
-        "fat": 0.7,
-        "fiber": 10.4,
+        "calories": 24.0,
+        "protein": 0.9,
+        "carbs": 4.5,
+        "fat": 0.3,
+        "fiber": 1.3,
         "unit": "100g"
       }
     },
@@ -7911,7 +7911,7 @@
       "id": "TRAIHONGGION",
       "name": "Trái hồng giòn",
       "category": "Trái cây giàu carbohydrate và chất xơ",
-      "nutrition": "Trong 100g: khoảng 70 kcal, 18,6g carbohydrate, 3,6g chất xơ, 0,6g protein và 0,2g chất béo; cung cấp vitamin A, vitamin C, vitamin E, vitamin K, mangan, đồng và kali.",
+      "nutrition": "Thành phần (100g): Năng lượng 38kcal, Đạm 4.6g, Tinh bột 2.5g, Béo 1.1g, Chất xơ 0g. Vi chất nổi bật: Canxi 668mg, Sắt 1.5mg, Magiê 9mg, Mangan 0.5mg, Phốt pho 107mg, Kali 314mg, Kẽm 1.37mg, Đồng 344mg, Folate 16µg, Vit A 90mg.",
       "benefits": [
         "Chất xơ hỗ trợ tiêu hóa và cảm giác no.",
         "Vitamin A và carotenoid hỗ trợ thị lực.",
@@ -7970,11 +7970,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 70.0,
-        "protein": 0.6,
-        "carbs": 18.6,
-        "fat": 0.2,
-        "fiber": 3.6,
+        "calories": 38.0,
+        "protein": 4.6,
+        "carbs": 2.5,
+        "fat": 1.1,
+        "fiber": 0.0,
         "unit": "100g"
       }
     },
@@ -7982,7 +7982,7 @@
       "id": "TRAINHAN",
       "name": "Trái nhãn",
       "category": "Trái cây nhiệt đới giàu đường tự nhiên",
-      "nutrition": "Trong 100g phần ăn được: khoảng 60 kcal, 15–16g carbohydrate, khoảng 1,1g chất xơ, 1,3g protein và rất ít chất béo; cung cấp vitamin C, riboflavin, kali, đồng và các hợp chất chống oxy hóa.",
+      "nutrition": "Thành phần (100g): Năng lượng 38kcal, Đạm 4.6g, Tinh bột 2.5g, Béo 1.1g, Chất xơ 0g. Vi chất nổi bật: Canxi 668mg, Sắt 1.5mg, Magiê 9mg, Mangan 0.5mg, Phốt pho 107mg, Kali 314mg, Kẽm 1.37mg, Đồng 344mg, Folate 16µg, Vit A 90mg.",
       "benefits": [
         "Vitamin C góp phần hỗ trợ miễn dịch và chống oxy hóa.",
         "Carbohydrate tự nhiên cung cấp năng lượng nhanh.",
@@ -8030,11 +8030,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 60.0,
-        "protein": 1.3,
-        "carbs": 16.0,
-        "fat": 0.0,
-        "fiber": 1.1,
+        "calories": 38.0,
+        "protein": 4.6,
+        "carbs": 2.5,
+        "fat": 1.1,
+        "fiber": 0.0,
         "unit": "100g"
       }
     },
@@ -8042,7 +8042,7 @@
       "id": "TRAIVAI",
       "name": "Trái vải",
       "category": "Trái cây nhiệt đới giàu đường tự nhiên",
-      "nutrition": "Trong 100g phần ăn được: khoảng 66 kcal, 16,5g carbohydrate, 1,3g chất xơ, 0,8g protein và 0,4g chất béo; giàu vitamin C, đồng, kali, vitamin B6 và các polyphenol.",
+      "nutrition": "Thành phần (100g): Năng lượng 45kcal, Đạm 0.7g, Tinh bột 9.6g, Béo 0.4g, Chất xơ 1.1g. Vi chất nổi bật: Canxi 6mg, Sắt 0.5mg, Magiê 10mg, Mangan 0.06mg, Phốt pho 34mg, Kali 171mg, Kẽm 0.07mg, Đồng 148mg, Vit C 36mg, Folate 14µg.",
       "benefits": [
         "Vitamin C hỗ trợ miễn dịch và chống oxy hóa.",
         "Carbohydrate tự nhiên cung cấp năng lượng.",
@@ -8097,11 +8097,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 66.0,
-        "protein": 0.8,
-        "carbs": 16.5,
+        "calories": 45.0,
+        "protein": 0.7,
+        "carbs": 9.6,
         "fat": 0.4,
-        "fiber": 1.3,
+        "fiber": 1.1,
         "unit": "100g"
       }
     },
@@ -8109,7 +8109,7 @@
       "id": "TRASUATRANCHAU",
       "name": "Trà sữa trân châu",
       "category": "Đồ uống nhiều đường và năng lượng",
-      "nutrition": "Một ly khoảng 448g có thể cung cấp khoảng 300 kcal và 38g đường; thành phần thay đổi theo loại sữa, syrup, topping và kích thước ly. Thường ít chất xơ và vi chất so với năng lượng cung cấp.",
+      "nutrition": "Thành phần (100g): Năng lượng 78kcal, Đạm 9.5g, Tinh bột 4.9g, Béo 2.3g, Chất xơ 0g. Vi chất nổi bật: Canxi 37mg, Sắt 1.9mg, Magiê 42mg, Mangan 0.6mg, Phốt pho 82mg, Kali 223mg, Kẽm 13.4mg, Đồng 1576mg, Folate 10µg, Vit A 53mg.",
       "benefits": [
         "Cung cấp năng lượng nhanh từ đường và tinh bột trong trân châu.",
         "Nếu dùng sữa thật, có thể cung cấp một lượng nhỏ protein và canxi.",
@@ -8156,10 +8156,10 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 300.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
+        "calories": 78.0,
+        "protein": 9.5,
+        "carbs": 4.9,
+        "fat": 2.3,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -8228,7 +8228,7 @@
       "id": "NUOCTANGLUC",
       "name": "Nước tăng lực",
       "category": "Đồ uống chứa caffeine và đường",
-      "nutrition": "Một lon 250ml thường cung cấp khoảng 80–120 kcal và khoảng 25–30g đường; có thể chứa caffeine, taurine, vitamin nhóm B và các chất kích thích khác. Hàm lượng thay đổi theo thương hiệu và dung tích.",
+      "nutrition": "Thành phần (100g): Năng lượng 45kcal, Đạm 0.7g, Tinh bột 10.2g, Béo 0.2g, Chất xơ 0.6g. Vi chất nổi bật: Canxi 19mg, Sắt 2.3mg, Magiê 7mg, Mangan 0.05mg, Phốt pho 16mg, Kali 88mg, Kẽm 0.13mg, Đồng 140mg, Vit C 4mg, Folate 7µg, Beta-carotene 27µg.",
       "benefits": [
         "Caffeine có thể làm tăng tỉnh táo trong thời gian ngắn.",
         "Đường cung cấp năng lượng nhanh.",
@@ -8281,11 +8281,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 120.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 45.0,
+        "protein": 0.7,
+        "carbs": 10.2,
+        "fat": 0.2,
+        "fiber": 0.6,
         "unit": "100g"
       }
     },
@@ -8293,7 +8293,7 @@
       "id": "TRACHANHONGCHAI",
       "name": "Trà chanh đóng chai",
       "category": "Đồ uống đóng chai có đường",
-      "nutrition": "Thường cung cấp khoảng 20–45 kcal và 5–11g đường trong 100ml, tương đương khoảng 50–110 kcal và 12–28g đường mỗi chai 500ml; có thể chứa chiết xuất trà, acid citric, hương liệu và chất bảo quản.",
+      "nutrition": "Thành phần (100g): Năng lượng 24kcal, Đạm 0.9g, Tinh bột 4.5g, Béo 0.3g, Chất xơ 1.3g. Vi chất nổi bật: Canxi 40mg, Sắt 0.6mg, Magiê 12mg, Phốt pho 22mg, Kali 145mg, Kẽm 0.1mg, Đồng 260mg, Vit C 77mg.",
       "benefits": [
         "Cung cấp nước và năng lượng nhanh từ đường.",
         "Chiết xuất trà có thể cung cấp một lượng nhỏ polyphenol.",
@@ -8334,11 +8334,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 45.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 24.0,
+        "protein": 0.9,
+        "carbs": 4.5,
+        "fat": 0.3,
+        "fiber": 1.3,
         "unit": "100g"
       }
     },
@@ -8346,7 +8346,7 @@
       "id": "SUAACCOUONG",
       "name": "Sữa đặc có đường",
       "category": "Sản phẩm sữa cô đặc nhiều đường",
-      "nutrition": "Trong 100g: khoảng 320–330 kcal, khoảng 55–56g carbohydrate, chủ yếu là đường, khoảng 7–8g protein và 8–9g chất béo; cung cấp một lượng canxi và vitamin A tùy sản phẩm.",
+      "nutrition": "Thành phần (100g): Năng lượng 78kcal, Đạm 9.5g, Tinh bột 4.9g, Béo 2.3g, Chất xơ 0g. Vi chất nổi bật: Canxi 37mg, Sắt 1.9mg, Magiê 42mg, Mangan 0.6mg, Phốt pho 82mg, Kali 223mg, Kẽm 13.4mg, Đồng 1576mg, Folate 10µg, Vit A 53mg.",
       "benefits": [
         "Cung cấp năng lượng nhanh từ carbohydrate và chất béo.",
         "Có thể cung cấp một lượng nhỏ protein và canxi từ sữa.",
@@ -8401,10 +8401,10 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 8.100000381469727,
-        "carbs": 0.0,
-        "fat": 0.0,
+        "calories": 78.0,
+        "protein": 9.5,
+        "carbs": 4.9,
+        "fat": 2.3,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -8413,7 +8413,7 @@
       "id": "NUOCEPTRAICAYONGHOPONGCHAI",
       "name": "Nước ép trái cây đóng hộp (đóng chai)",
       "category": "Đồ uống trái cây chế biến sẵn",
-      "nutrition": "Thành phần thay đổi theo sản phẩm; thường cung cấp khoảng 40–60 kcal và 9–14g đường trong 100ml, tương đương khoảng 120–180 kcal và 27–42g đường trong chai 300ml. Có thể chứa nước ép cô đặc, đường thêm, acid, hương liệu và chất bảo quản.",
+      "nutrition": "Thành phần (100g): Năng lượng 38kcal, Đạm 4.6g, Tinh bột 2.5g, Béo 1.1g, Chất xơ 0g. Vi chất nổi bật: Canxi 668mg, Sắt 1.5mg, Magiê 9mg, Mangan 0.5mg, Phốt pho 107mg, Kali 314mg, Kẽm 1.37mg, Đồng 344mg, Folate 16µg, Vit A 90mg.",
       "benefits": [
         "Cung cấp nước và carbohydrate.",
         "Một số sản phẩm có thể cung cấp vitamin C hoặc vitamin A nếu còn được bảo toàn hoặc tăng cường.",
@@ -8460,10 +8460,10 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 60.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
+        "calories": 38.0,
+        "protein": 4.6,
+        "carbs": 2.5,
+        "fat": 1.1,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -8472,7 +8472,7 @@
       "id": "NUOCKHOANGVITRAICAYCOUONG",
       "name": "Nước khoáng vị trái cây (có đường)",
       "category": "Đồ uống đóng chai có đường",
-      "nutrition": "Thường chứa nước, khoáng chất, đường hoặc chất tạo ngọt, acid thực phẩm và hương liệu; sản phẩm có đường có thể cung cấp khoảng 20–45 kcal và 5–11g đường trong 100ml. Hàm lượng cụ thể cần xem trên nhãn.",
+      "nutrition": "Thành phần (100g): Năng lượng 38kcal, Đạm 4.6g, Tinh bột 2.5g, Béo 1.1g, Chất xơ 0g. Vi chất nổi bật: Canxi 668mg, Sắt 1.5mg, Magiê 9mg, Mangan 0.5mg, Phốt pho 107mg, Kali 314mg, Kẽm 1.37mg, Đồng 344mg, Folate 16µg, Vit A 90mg.",
       "benefits": [
         "Cung cấp nước và một lượng khoáng chất tùy nguồn nước.",
         "Đường cung cấp năng lượng nhanh.",
@@ -8519,10 +8519,10 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 45.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
+        "calories": 38.0,
+        "protein": 4.6,
+        "carbs": 2.5,
+        "fat": 1.1,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -8775,7 +8775,7 @@
       "id": "XIENBANCAVIENBOVIENCHIEN",
       "name": "Xiên bẩn (cá viên/bò viên chiên)",
       "category": "Thức ăn vặt chiên rán chế biến sẵn",
-      "nutrition": "Trong 100g sản phẩm chiên: cá viên thường chứa khoảng 15–21% chất béo, bò viên khoảng 11–14% chất béo; năng lượng và natri thay đổi theo tỷ lệ bột, thịt, dầu chiên và nước sốt.",
+      "nutrition": "Thành phần (100g): Năng lượng 756kcal, Đạm 0.5g, Tinh bột 0.5g, Béo 83.5g, Chất xơ 0g. Vi chất nổi bật: Canxi 12mg, Sắt 0.1mg, Magiê 2mg, Phốt pho 12mg, Kali 24mg, Kẽm 0.09mg, Đồng 16mg, Folate 3µg, Vit A 600mg, Beta-carotene 158µg.",
       "benefits": [
         "Cá viên và bò viên có thể cung cấp một lượng protein.",
         "Cung cấp năng lượng nhanh từ tinh bột và chất béo.",
@@ -8826,10 +8826,10 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
+        "calories": 756.0,
+        "protein": 0.5,
+        "carbs": 0.5,
+        "fat": 83.5,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -8896,7 +8896,7 @@
       "id": "NEMCHUARAN",
       "name": "Nem chua rán",
       "category": "Thức ăn vặt chiên rán từ thịt chế biến",
-      "nutrition": "Trong 100g: thường khoảng 250–350 kcal, giàu chất béo, carbohydrate từ lớp bột và protein thay đổi theo tỷ lệ thịt; thường có nhiều natri và phụ gia, nhưng không có bảng dinh dưỡng thống nhất cho mọi sản phẩm.",
+      "nutrition": "Thành phần (100g): Năng lượng 137kcal, Đạm 21.7g, Tinh bột 4.3g, Béo 3.7g, Chất xơ 0g. Vi chất nổi bật: Canxi 24mg, Phốt pho 78mg.",
       "benefits": [
         "Cung cấp một lượng protein từ thịt.",
         "Lớp bột cung cấp carbohydrate và năng lượng.",
@@ -8947,10 +8947,10 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 350.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
+        "calories": 137.0,
+        "protein": 21.7,
+        "carbs": 4.3,
+        "fat": 3.7,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -9022,7 +9022,7 @@
       "id": "THITXONGKHOIBACON",
       "name": "Thịt xông khói (bacon)",
       "category": "Thịt chế biến sẵn",
-      "nutrition": "Trong 100g: khoảng 400–550 kcal, 12–15g protein và 35–45g chất béo; thường rất giàu natri, chất béo bão hòa, cholesterol và có thể chứa nitrit/nitrat dùng trong bảo quản.",
+      "nutrition": "Thành phần (100g): Năng lượng 38kcal, Đạm 0.6g, Tinh bột 6.8g, Béo 1g, Chất xơ 6g. Vi chất nổi bật: Canxi 10mg, Sắt 1.3mg, Magiê 22mg, Mangan 0.15mg, Phốt pho 16mg, Kali 291mg, Kẽm 2.4mg, Đồng 20mg, Vit C 62mg, Folate 49µg, Beta-carotene 374µg, Lycopene 5204µg.",
       "benefits": [
         "Cung cấp protein từ thịt.",
         "Có thể cung cấp vitamin B1, B3, B6 và B12.",
@@ -9072,11 +9072,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 550.0,
-        "protein": 15.0,
-        "carbs": 0.0,
-        "fat": 45.0,
-        "fiber": 0.0,
+        "calories": 38.0,
+        "protein": 0.6,
+        "carbs": 6.8,
+        "fat": 1.0,
+        "fiber": 6.0,
         "unit": "100g"
       }
     },
@@ -9084,7 +9084,7 @@
       "id": "DAMBONGJAMBON",
       "name": "Dăm bông (jambon)",
       "category": "Thịt nguội chế biến sẵn",
-      "nutrition": "Trong 100g: khoảng 120–250 kcal, 15–20g protein, 3–15g chất béo và thường chứa nhiều natri; giá trị thay đổi theo loại jambon, tỷ lệ mỡ, đường và phương pháp chế biến.",
+      "nutrition": "Thành phần (100g): Năng lượng 756kcal, Đạm 0.5g, Tinh bột 0.5g, Béo 83.5g, Chất xơ 0g. Vi chất nổi bật: Canxi 12mg, Sắt 0.1mg, Magiê 2mg, Phốt pho 12mg, Kali 24mg, Kẽm 0.09mg, Đồng 16mg, Folate 3µg, Vit A 600mg, Beta-carotene 158µg.",
       "benefits": [
         "Cung cấp protein từ thịt.",
         "Có thể cung cấp vitamin B12, niacin, sắt và kẽm.",
@@ -9133,10 +9133,10 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 250.0,
-        "protein": 20.0,
-        "carbs": 0.0,
-        "fat": 15.0,
+        "calories": 756.0,
+        "protein": 0.5,
+        "carbs": 0.5,
+        "fat": 83.5,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -9145,7 +9145,7 @@
       "id": "LAPXUONG",
       "name": "Lạp xưởng",
       "category": "Thịt chế biến sẵn nhiều chất béo",
-      "nutrition": "Trong 100g: khoảng 400–500 kcal, 15–20g protein, 35–45g chất béo và 8–15g carbohydrate; thường chứa nhiều natri, đường, mỡ động vật và chất bảo quản.",
+      "nutrition": "Thành phần (100g): Năng lượng 585kcal, Đạm 20.8g, Tinh bột 1.7g, Béo 55g, Chất xơ 0g. Vi chất nổi bật: Canxi 52mg, Sắt 3mg, Phốt pho 175mg.",
       "benefits": [
         "Cung cấp protein từ thịt.",
         "Cung cấp năng lượng cao từ chất béo và carbohydrate.",
@@ -9195,10 +9195,10 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 500.0,
-        "protein": 20.0,
-        "carbs": 15.0,
-        "fat": 45.0,
+        "calories": 585.0,
+        "protein": 20.8,
+        "carbs": 1.7,
+        "fat": 55.0,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -9421,7 +9421,7 @@
       "id": "BIMBIMSNACK",
       "name": "Bim bim (snack)",
       "category": "Đồ ăn vặt chế biến sẵn",
-      "nutrition": "Thành phần thường gồm bột bắp, bột mì, bột gạo hoặc khoai tây, dầu thực vật, muối, đường, chất điều vị, hương liệu và chất tạo màu; năng lượng, chất béo và natri thay đổi theo sản phẩm.",
+      "nutrition": "Thành phần (100g): Năng lượng 66kcal, Đạm 1.6g, Tinh bột 14.2g, Béo 0.3g, Chất xơ 0.8g. Vi chất nổi bật: Canxi 35mg, Sắt 0.6mg, Magiê 21mg, Mangan 0.17mg, Phốt pho 45mg, Kali 260mg, Kẽm 0.21mg, Đồng 200mg, Vit C 36mg, Folate 14µg.",
       "benefits": [
         "Cung cấp năng lượng nhanh từ tinh bột và chất béo.",
         "Có thể cung cấp một lượng nhỏ protein tùy nguyên liệu.",
@@ -9475,11 +9475,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 66.0,
+        "protein": 1.6,
+        "carbs": 14.2,
+        "fat": 0.3,
+        "fiber": 0.8,
         "unit": "100g"
       }
     },
@@ -9548,7 +9548,7 @@
       "id": "BANHNGOTONGGOI",
       "name": "Bánh ngọt đóng gói",
       "category": "Bánh chế biến sẵn nhiều đường và chất béo",
-      "nutrition": "Trong 100g: thường khoảng 350–500 kcal, 45–65g carbohydrate, 4–8g protein và 12–25g chất béo; có thể chứa nhiều đường, chất béo bão hòa, dầu thực vật, chất tạo xốp và chất bảo quản.",
+      "nutrition": "Thành phần (100g): Năng lượng 38kcal, Đạm 0.6g, Tinh bột 6.8g, Béo 1g, Chất xơ 6g. Vi chất nổi bật: Canxi 10mg, Sắt 1.3mg, Magiê 22mg, Mangan 0.15mg, Phốt pho 16mg, Kali 291mg, Kẽm 2.4mg, Đồng 20mg, Vit C 62mg, Folate 49µg, Beta-carotene 374µg, Lycopene 5204µg.",
       "benefits": [
         "Cung cấp năng lượng nhanh.",
         "Có thể cung cấp một lượng nhỏ protein nếu làm từ trứng hoặc sữa.",
@@ -9603,11 +9603,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 500.0,
-        "protein": 8.0,
-        "carbs": 65.0,
-        "fat": 25.0,
-        "fiber": 0.0,
+        "calories": 38.0,
+        "protein": 0.6,
+        "carbs": 6.8,
+        "fat": 1.0,
+        "fiber": 6.0,
         "unit": "100g"
       }
     },
@@ -9673,7 +9673,7 @@
       "id": "SOCOLASUACONGNGHIEP",
       "name": "Socola sữa công nghiệp",
       "category": "Bánh kẹo nhiều đường và chất béo",
-      "nutrition": "Trong 100g: khoảng 535–550 kcal, 55–60g carbohydrate, 7–9g protein và 29–32g chất béo; cung cấp một lượng nhỏ canxi, magie và sắt nhưng thường nhiều đường và chất béo bão hòa.",
+      "nutrition": "Thành phần (100g): Năng lượng 63kcal, Đạm 11.2g, Tinh bột 3.9g, Béo 0.3g, Chất xơ 0g. Vi chất nổi bật: Canxi 1660mg, Phốt pho 83mg.",
       "benefits": [
         "Cung cấp năng lượng nhanh.",
         "Ca cao có thể cung cấp một lượng nhỏ polyphenol và magie.",
@@ -9727,10 +9727,10 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 550.0,
-        "protein": 9.0,
-        "carbs": 60.0,
-        "fat": 32.0,
+        "calories": 63.0,
+        "protein": 11.2,
+        "carbs": 3.9,
+        "fat": 0.3,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -9739,7 +9739,7 @@
       "id": "TRAICAYSAYTAMUONG",
       "name": "Trái cây sấy tẩm đường",
       "category": "Trái cây chế biến nhiều đường",
-      "nutrition": "Trong 100g: thường khoảng 250–350 kcal, 60–80g carbohydrate, 3–8g chất xơ và ít protein; đường và năng lượng cao hơn nhiều so với trái cây tươi do mất nước và được tẩm thêm đường.",
+      "nutrition": "Thành phần (100g): Năng lượng 38kcal, Đạm 4.6g, Tinh bột 2.5g, Béo 1.1g, Chất xơ 0g. Vi chất nổi bật: Canxi 668mg, Sắt 1.5mg, Magiê 9mg, Mangan 0.5mg, Phốt pho 107mg, Kali 314mg, Kẽm 1.37mg, Đồng 344mg, Folate 16µg, Vit A 90mg.",
       "benefits": [
         "Cung cấp năng lượng nhanh.",
         "Có thể giữ lại một phần chất xơ và khoáng chất từ trái cây.",
@@ -9788,11 +9788,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 350.0,
-        "protein": 0.0,
-        "carbs": 80.0,
-        "fat": 0.0,
-        "fiber": 8.0,
+        "calories": 38.0,
+        "protein": 4.6,
+        "carbs": 2.5,
+        "fat": 1.1,
+        "fiber": 0.0,
         "unit": "100g"
       }
     },
@@ -9800,7 +9800,7 @@
       "id": "BOTHUCVATMARGARINE",
       "name": "Bơ thực vật (margarine)",
       "category": "Chất béo phết và chất béo chế biến",
-      "nutrition": "Trong 100g: khoảng 600–720 kcal, 65–80g chất béo, rất ít protein và carbohydrate; thành phần phụ thuộc loại dầu, mức độ hydro hóa và có thể chứa chất béo bão hòa hoặc chất béo chuyển hóa.",
+      "nutrition": "Thành phần (100g): Năng lượng 756kcal, Đạm 0.5g, Tinh bột 0.5g, Béo 83.5g, Chất xơ 0g. Vi chất nổi bật: Canxi 12mg, Sắt 0.1mg, Magiê 2mg, Phốt pho 12mg, Kali 24mg, Kẽm 0.09mg, Đồng 16mg, Folate 3µg, Vit A 600mg, Beta-carotene 158µg.",
       "benefits": [
         "Cung cấp năng lượng và chất béo.",
         "Một số loại chứa chất béo không bão hòa thay cho bơ động vật.",
@@ -9849,10 +9849,10 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 720.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 80.0,
+        "calories": 756.0,
+        "protein": 0.5,
+        "carbs": 0.5,
+        "fat": 83.5,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -9923,7 +9923,7 @@
       "id": "TRANCHAUENBOBA",
       "name": "Trân châu đen (boba)",
       "category": "Topping từ tinh bột và đường",
-      "nutrition": "Trong 100g trân châu đã nấu: khoảng 150–250 kcal, chủ yếu là carbohydrate từ tinh bột sắn và đường; thường rất ít protein, chất xơ, vitamin và khoáng chất. Hàm lượng thay đổi theo lượng đường và cách ngâm syrup.",
+      "nutrition": "Thành phần (100g): Năng lượng 756kcal, Đạm 0.5g, Tinh bột 0.5g, Béo 83.5g, Chất xơ 0g. Vi chất nổi bật: Canxi 12mg, Sắt 0.1mg, Magiê 2mg, Phốt pho 12mg, Kali 24mg, Kẽm 0.09mg, Đồng 16mg, Folate 3µg, Vit A 600mg, Beta-carotene 158µg.",
       "benefits": [
         "Cung cấp năng lượng nhanh từ tinh bột và đường.",
         "Tạo cảm giác no tạm thời nhờ tinh bột.",
@@ -9972,10 +9972,10 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 250.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
+        "calories": 756.0,
+        "protein": 0.5,
+        "carbs": 0.5,
+        "fat": 83.5,
         "fiber": 0.0,
         "unit": "100g"
       }
@@ -9984,7 +9984,7 @@
       "id": "TRA_SUA",
       "name": "Trà sữa trân châu",
       "category": "Đồ uống công nghiệp",
-      "nutrition": "Chứa rất nhiều đường tinh luyện, kem béo thực vật (trans fat) và tinh bột từ trân châu.",
+      "nutrition": "Thành phần (100g): Năng lượng 78kcal, Đạm 9.5g, Tinh bột 4.9g, Béo 2.3g, Chất xơ 0g. Vi chất nổi bật: Canxi 37mg, Sắt 1.9mg, Magiê 42mg, Mangan 0.6mg, Phốt pho 82mg, Kali 223mg, Kẽm 13.4mg, Đồng 1576mg, Folate 10µg, Vit A 53mg.",
       "benefits": [
         "Cung cấp năng lượng tức thời."
       ],
@@ -10016,10 +10016,10 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
+        "calories": 78.0,
+        "protein": 9.5,
+        "carbs": 4.9,
+        "fat": 2.3,
         "fiber": 0.0,
         "unit": "100g"
       },
@@ -10074,7 +10074,7 @@
       "id": "NUOC_TANG_LUC",
       "name": "Nước tăng lực",
       "category": "Đồ uống công nghiệp",
-      "nutrition": "Nhiều đường, caffeine hàm lượng cao và các chất kích thích nhân tạo.",
+      "nutrition": "Thành phần (100g): Năng lượng 45kcal, Đạm 0.7g, Tinh bột 10.2g, Béo 0.2g, Chất xơ 0.6g. Vi chất nổi bật: Canxi 19mg, Sắt 2.3mg, Magiê 7mg, Mangan 0.05mg, Phốt pho 16mg, Kali 88mg, Kẽm 0.13mg, Đồng 140mg, Vit C 4mg, Folate 7µg, Beta-carotene 27µg.",
       "benefits": [
         "Giúp tỉnh táo tạm thời."
       ],
@@ -10106,11 +10106,11 @@
       "super_tags": [],
       "super_tags_order": {},
       "nutrition_data": {
-        "calories": 0.0,
-        "protein": 0.0,
-        "carbs": 0.0,
-        "fat": 0.0,
-        "fiber": 0.0,
+        "calories": 45.0,
+        "protein": 0.7,
+        "carbs": 10.2,
+        "fat": 0.2,
+        "fiber": 0.6,
         "unit": "100g"
       },
       "good_combinations": []
